@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 289546,
+    "reference_id": 8442,
+    "title": "Bahari ya Galilaya",
+    "media_type": "Video",
+    "index_reference": "bahari ya galilaya",
+    "language": "swh",
+    "content": "<h3>Video Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001016",
+          "start_ref_usfm": "MRK 1:16",
+          "end_ref": "41001016",
+          "end_ref_usfm": "MRK 1:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

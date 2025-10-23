@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 9272,
+    "reference_id": 8440,
+    "title": "Wilderness",
+    "media_type": "Video",
+    "index_reference": "wilderness",
+    "language": "eng",
+    "content": "<h3>Video Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001003",
+          "start_ref_usfm": "MRK 1:3",
+          "end_ref": "41001003",
+          "end_ref_usfm": "MRK 1:3"
+        },
+        {
+          "start_ref": "41001004",
+          "start_ref_usfm": "MRK 1:4",
+          "end_ref": "41001004",
+          "end_ref_usfm": "MRK 1:4"
+        },
+        {
+          "start_ref": "41001012",
+          "start_ref_usfm": "MRK 1:12",
+          "end_ref": "41001012",
+          "end_ref_usfm": "MRK 1:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
