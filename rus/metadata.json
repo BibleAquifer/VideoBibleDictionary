@@ -58,7 +58,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-23T13:27:59.528828"
+      "dateCreated": "2025-10-23T13:35:48.366497"
     },
     "idAuthorities": {
       "aquifer": {
@@ -72,7 +72,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-23T13:27:59.528828"
+            "timestamp": "2025-10-23T13:35:48.366497"
           }
         }
       },
@@ -104,35 +104,35 @@
     "ingredients": {
       "json/000001.content.json": {
         "mimeType": "text/json",
-        "size": 525
+        "size": 768
       },
       "json/000002.content.json": {
         "mimeType": "text/json",
-        "size": 853
+        "size": 1091
       },
       "json/000003.content.json": {
         "mimeType": "text/json",
-        "size": 689
+        "size": 929
       },
       "json/000004.content.json": {
         "mimeType": "text/json",
-        "size": 521
+        "size": 759
       },
       "md/000001.content.md": {
         "mimeType": "text/markdown",
-        "size": 535
+        "size": 755
       },
       "md/000002.content.md": {
         "mimeType": "text/markdown",
-        "size": 547
+        "size": 762
       },
       "md/000003.content.md": {
         "mimeType": "text/markdown",
-        "size": 541
+        "size": 758
       },
       "md/000004.content.md": {
         "mimeType": "text/markdown",
-        "size": 533
+        "size": 748
       }
     },
     "copyright": {
