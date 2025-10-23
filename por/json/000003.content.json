@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 286744,
+    "reference_id": 8439,
+    "title": "Rio Jordão",
+    "media_type": "Video",
+    "index_reference": "rio jordão",
+    "language": "por",
+    "content": "<h3>Video Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001005",
+          "start_ref_usfm": "MRK 1:5",
+          "end_ref": "41001005",
+          "end_ref_usfm": "MRK 1:5"
+        },
+        {
+          "start_ref": "41001009",
+          "start_ref_usfm": "MRK 1:9",
+          "end_ref": "41001009",
+          "end_ref_usfm": "MRK 1:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

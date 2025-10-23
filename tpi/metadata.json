@@ -1,0 +1,523 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Videos",
+    "resource_type": "Images, Maps, Videos",
+    "title": "Videos (Video Bible Dictionary)",
+    "aquifer_name": "Vidio (Bibel Dikshonè Vidyo)",
+    "collection_title": "Videos (Video Bible Dictionary)",
+    "short_name": "VBD",
+    "license_info": {
+      "title": "Video Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "SRV Partners",
+          "url": "https://srvpartners.org/home/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "VideoBibleDictionary",
+    "date_created": "2025-10-23",
+    "language": "tpi",
+    "localizations": [
+      "eng",
+      "arb",
+      "fra",
+      "hin",
+      "ind",
+      "zlm",
+      "por",
+      "rus",
+      "spa",
+      "swh",
+      "hau",
+      "ibo",
+      "bis",
+      "vie",
+      "apd",
+      "zhs",
+      "zht"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-23T13:27:59.648742"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "VideoBibleDictionary": {
+            "timestamp": "2025-10-23T13:27:59.648742"
+          }
+        }
+      },
+      "name": {
+        "png": "Video Bible Dictionary"
+      },
+      "abbreviation": {
+        "png": "VBD"
+      }
+    },
+    "languages": [
+      {
+        "tag": "png",
+        "name": {
+          "png": "Tok Pisin"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 857
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 653
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 497
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 505
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 549
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 523
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 521
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 525
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Video Bible Dictionary © 2023 SRV Partners.</p>",
+          "mimetype": "text/html",
+          "lang": "png"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "281147": {
+      "content_id": 281147,
+      "reference_id": 8440,
+      "index_reference": "bus bilong ol man i no stap",
+      "localizations": {
+        "eng": {
+          "content_id": 9272,
+          "language": "eng",
+          "title": "Wilderness"
+        },
+        "arb": {
+          "content_id": 282080,
+          "language": "arb",
+          "title": "البرية"
+        },
+        "fra": {
+          "content_id": 283013,
+          "language": "fra",
+          "title": "Désert"
+        },
+        "hin": {
+          "content_id": 283946,
+          "language": "hin",
+          "title": "जंगल"
+        },
+        "ind": {
+          "content_id": 284879,
+          "language": "ind",
+          "title": "Alam liar"
+        },
+        "zlm": {
+          "content_id": 285812,
+          "language": "zlm",
+          "title": "Hutan belantara"
+        },
+        "por": {
+          "content_id": 286745,
+          "language": "por",
+          "title": "Selvagem"
+        },
+        "rus": {
+          "content_id": 287678,
+          "language": "rus",
+          "title": "Дикая природа"
+        },
+        "spa": {
+          "content_id": 288611,
+          "language": "spa",
+          "title": "Desierto"
+        },
+        "swh": {
+          "content_id": 289544,
+          "language": "swh",
+          "title": "Porini"
+        },
+        "hau": {
+          "content_id": 290477,
+          "language": "hau",
+          "title": "Daji"
+        },
+        "ibo": {
+          "content_id": 291411,
+          "language": "ibo",
+          "title": "Ọhịa"
+        },
+        "bis": {
+          "content_id": 292344,
+          "language": "bis",
+          "title": "Bus."
+        },
+        "vie": {
+          "content_id": 293277,
+          "language": "vie",
+          "title": "Vùng hoang dã"
+        },
+        "apd": {
+          "content_id": 294210,
+          "language": "apd",
+          "title": "البرية"
+        },
+        "zhs": {
+          "content_id": 295143,
+          "language": "zhs",
+          "title": "荒野"
+        },
+        "zht": {
+          "content_id": 296076,
+          "language": "zht",
+          "title": "荒野"
+        }
+      }
+    },
+    "281146": {
+      "content_id": 281146,
+      "reference_id": 8439,
+      "index_reference": "jordan riva",
+      "localizations": {
+        "eng": {
+          "content_id": 9271,
+          "language": "eng",
+          "title": "Jordan River"
+        },
+        "arb": {
+          "content_id": 282079,
+          "language": "arb",
+          "title": "نهر الأردن"
+        },
+        "fra": {
+          "content_id": 283012,
+          "language": "fra",
+          "title": "Rivière Jordan"
+        },
+        "hin": {
+          "content_id": 283945,
+          "language": "hin",
+          "title": "जॉर्डन नदी"
+        },
+        "ind": {
+          "content_id": 284878,
+          "language": "ind",
+          "title": "Sungai Yordan"
+        },
+        "zlm": {
+          "content_id": 285811,
+          "language": "zlm",
+          "title": "Sungai Jordan"
+        },
+        "por": {
+          "content_id": 286744,
+          "language": "por",
+          "title": "Rio Jordão"
+        },
+        "rus": {
+          "content_id": 287677,
+          "language": "rus",
+          "title": "Иорданская река"
+        },
+        "spa": {
+          "content_id": 288610,
+          "language": "spa",
+          "title": "Río Jordán"
+        },
+        "swh": {
+          "content_id": 289543,
+          "language": "swh",
+          "title": "Mto Yordani"
+        },
+        "hau": {
+          "content_id": 290476,
+          "language": "hau",
+          "title": "Kogin Jordan"
+        },
+        "ibo": {
+          "content_id": 291410,
+          "language": "ibo",
+          "title": "Osimiri Jordan"
+        },
+        "bis": {
+          "content_id": 292343,
+          "language": "bis",
+          "title": "Reva blong Jordan"
+        },
+        "vie": {
+          "content_id": 293276,
+          "language": "vie",
+          "title": "Sông Jordan"
+        },
+        "apd": {
+          "content_id": 294209,
+          "language": "apd",
+          "title": "نهر الأردن"
+        },
+        "zhs": {
+          "content_id": 295142,
+          "language": "zhs",
+          "title": "约旦河"
+        },
+        "zht": {
+          "content_id": 296075,
+          "language": "zht",
+          "title": "約旦河"
+        }
+      }
+    },
+    "281148": {
+      "content_id": 281148,
+      "reference_id": 8441,
+      "index_reference": "nets bilong pisin",
+      "localizations": {
+        "eng": {
+          "content_id": 9273,
+          "language": "eng",
+          "title": "Fishing Net"
+        },
+        "arb": {
+          "content_id": 282081,
+          "language": "arb",
+          "title": "شبكة صيد"
+        },
+        "fra": {
+          "content_id": 283014,
+          "language": "fra",
+          "title": "Filet de pêche"
+        },
+        "hin": {
+          "content_id": 283947,
+          "language": "hin",
+          "title": "मछली पकड़ने का जाल"
+        },
+        "ind": {
+          "content_id": 284880,
+          "language": "ind",
+          "title": "Jaring Ikan"
+        },
+        "zlm": {
+          "content_id": 285813,
+          "language": "zlm",
+          "title": "Jaring Ikan"
+        },
+        "por": {
+          "content_id": 286746,
+          "language": "por",
+          "title": "Rede de Pesca"
+        },
+        "rus": {
+          "content_id": 287679,
+          "language": "rus",
+          "title": "Рыболовная сеть"
+        },
+        "spa": {
+          "content_id": 288612,
+          "language": "spa",
+          "title": "Red de pesca"
+        },
+        "swh": {
+          "content_id": 289545,
+          "language": "swh",
+          "title": "Wavu wa Uvuvi"
+        },
+        "hau": {
+          "content_id": 290478,
+          "language": "hau",
+          "title": "Kayan Kamun Kifi"
+        },
+        "ibo": {
+          "content_id": 291412,
+          "language": "ibo",
+          "title": "Ụdọ Azụ"
+        },
+        "bis": {
+          "content_id": 292345,
+          "language": "bis",
+          "title": "Net blong fisman"
+        },
+        "vie": {
+          "content_id": 293278,
+          "language": "vie",
+          "title": "Lưới đánh cá"
+        },
+        "apd": {
+          "content_id": 294211,
+          "language": "apd",
+          "title": "شبكة صيد"
+        },
+        "zhs": {
+          "content_id": 295144,
+          "language": "zhs",
+          "title": "渔网"
+        },
+        "zht": {
+          "content_id": 296077,
+          "language": "zht",
+          "title": "漁網"
+        }
+      }
+    },
+    "281149": {
+      "content_id": 281149,
+      "reference_id": 8442,
+      "index_reference": "solwara bilong galili",
+      "localizations": {
+        "eng": {
+          "content_id": 9274,
+          "language": "eng",
+          "title": "Sea of Galilee"
+        },
+        "arb": {
+          "content_id": 282082,
+          "language": "arb",
+          "title": "بحيرة طبريا"
+        },
+        "fra": {
+          "content_id": 283015,
+          "language": "fra",
+          "title": "Mer de Galilée"
+        },
+        "hin": {
+          "content_id": 283948,
+          "language": "hin",
+          "title": "गलील सागर"
+        },
+        "ind": {
+          "content_id": 284881,
+          "language": "ind",
+          "title": "Laut Galilea"
+        },
+        "zlm": {
+          "content_id": 285814,
+          "language": "zlm",
+          "title": "Laut Galilea"
+        },
+        "por": {
+          "content_id": 286747,
+          "language": "por",
+          "title": "Mar da Galileia"
+        },
+        "rus": {
+          "content_id": 287680,
+          "language": "rus",
+          "title": "Галилейское море"
+        },
+        "spa": {
+          "content_id": 288613,
+          "language": "spa",
+          "title": "Mar de Galilea"
+        },
+        "swh": {
+          "content_id": 289546,
+          "language": "swh",
+          "title": "Bahari ya Galilaya"
+        },
+        "hau": {
+          "content_id": 290479,
+          "language": "hau",
+          "title": "Tekun Galili"
+        },
+        "ibo": {
+          "content_id": 291413,
+          "language": "ibo",
+          "title": "Oké Osimiri Galili"
+        },
+        "bis": {
+          "content_id": 292346,
+          "language": "bis",
+          "title": "Solwota blong Galili"
+        },
+        "vie": {
+          "content_id": 293279,
+          "language": "vie",
+          "title": "Biển hồ Galilee"
+        },
+        "apd": {
+          "content_id": 294212,
+          "language": "apd",
+          "title": "بحيرة طبريا"
+        },
+        "zhs": {
+          "content_id": 295145,
+          "language": "zhs",
+          "title": "加利利海"
+        },
+        "zht": {
+          "content_id": 296078,
+          "language": "zht",
+          "title": "加利利海"
+        }
+      }
+    }
+  }
+}
