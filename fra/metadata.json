@@ -4,6 +4,7 @@
     "resource_type": "Images, Maps, Videos",
     "title": "Videos (Video Bible Dictionary)",
     "aquifer_name": "Vidéos (Dictionnaire biblique vidéo)",
+    "version": "1.0.0",
     "collection_title": "Videos (Video Bible Dictionary)",
     "short_name": "VBD",
     "license_info": {
@@ -28,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-23",
+    "date_created": "2025-10-27",
     "language": "fra",
     "localizations": [
       "eng",
@@ -58,7 +59,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-23T13:35:48.323467"
+      "dateCreated": "2025-10-27T17:27:06.164502"
     },
     "idAuthorities": {
       "aquifer": {
@@ -72,7 +73,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-23T13:35:48.323467"
+            "timestamp": "2025-10-27T17:27:06.164502"
           }
         }
       },
@@ -104,35 +105,19 @@
     "ingredients": {
       "json/000001.content.json": {
         "mimeType": "text/json",
-        "size": 1055
+        "size": 1080
       },
       "json/000002.content.json": {
         "mimeType": "text/json",
-        "size": 731
+        "size": 756
       },
       "json/000003.content.json": {
         "mimeType": "text/json",
-        "size": 736
+        "size": 761
       },
       "json/000004.content.json": {
         "mimeType": "text/json",
-        "size": 901
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 744
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 734
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 739
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 744
+        "size": 926
       }
     },
     "copyright": {
