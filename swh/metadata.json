@@ -4,6 +4,7 @@
     "resource_type": "Images, Maps, Videos",
     "title": "Videos (Video Bible Dictionary)",
     "aquifer_name": "Video (Kamusi ya Biblia ya Video)",
+    "version": "1.0.0",
     "collection_title": "Videos (Video Bible Dictionary)",
     "short_name": "VBD",
     "license_info": {
@@ -28,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-23",
+    "date_created": "2025-10-27",
     "language": "swh",
     "localizations": [
       "eng",
@@ -58,7 +59,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-23T13:35:48.379498"
+      "dateCreated": "2025-10-27T17:27:06.296892"
     },
     "idAuthorities": {
       "aquifer": {
@@ -72,7 +73,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-23T13:35:48.379498"
+            "timestamp": "2025-10-27T17:27:06.296892"
           }
         }
       },
@@ -104,35 +105,19 @@
     "ingredients": {
       "json/000001.content.json": {
         "mimeType": "text/json",
-        "size": 742
+        "size": 767
       },
       "json/000002.content.json": {
         "mimeType": "text/json",
-        "size": 893
+        "size": 918
       },
       "json/000003.content.json": {
         "mimeType": "text/json",
-        "size": 1053
+        "size": 1078
       },
       "json/000004.content.json": {
         "mimeType": "text/json",
-        "size": 727
-      },
-      "md/000001.content.md": {
-        "mimeType": "text/markdown",
-        "size": 742
-      },
-      "md/000002.content.md": {
-        "mimeType": "text/markdown",
-        "size": 740
-      },
-      "md/000003.content.md": {
-        "mimeType": "text/markdown",
-        "size": 743
-      },
-      "md/000004.content.md": {
-        "mimeType": "text/markdown",
-        "size": 732
+        "size": 752
       }
     },
     "copyright": {
