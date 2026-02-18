@@ -1,0 +1,376 @@
+[
+  {
+    "content_id": "871001",
+    "reference_id": 222580,
+    "version": "1.0.1",
+    "title": "Tambourine",
+    "media_type": "Video",
+    "index_reference": "tambourine",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a17-tambourine.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a17-tambourine.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a17-tambourine.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031022",
+          "start_ref_usfm": "GEN 31:22",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "10006001",
+          "start_ref_usfm": "2SA 6:1",
+          "end_ref": "10006015",
+          "end_ref_usfm": "2SA 6:15"
+        },
+        {
+          "start_ref": "13013001",
+          "start_ref_usfm": "1CH 13:1",
+          "end_ref": "13013014",
+          "end_ref_usfm": "1CH 13:14"
+        },
+        {
+          "start_ref": "10007018",
+          "start_ref_usfm": "2SA 7:18",
+          "end_ref": "10007029",
+          "end_ref_usfm": "2SA 7:29"
+        },
+        {
+          "start_ref": "02015019",
+          "start_ref_usfm": "EXO 15:19",
+          "end_ref": "02015027",
+          "end_ref_usfm": "EXO 15:27"
+        },
+        {
+          "start_ref": "07011034",
+          "start_ref_usfm": "JDG 11:34",
+          "end_ref": "07011040",
+          "end_ref_usfm": "JDG 11:40"
+        },
+        {
+          "start_ref": "09010001",
+          "start_ref_usfm": "1SA 10:1",
+          "end_ref": "09010016",
+          "end_ref_usfm": "1SA 10:16"
+        },
+        {
+          "start_ref": "09018006",
+          "start_ref_usfm": "1SA 18:6",
+          "end_ref": "09018016",
+          "end_ref_usfm": "1SA 18:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870951",
+    "reference_id": 222530,
+    "version": "1.0.1",
+    "title": "Tombs",
+    "media_type": "Video",
+    "index_reference": "tombs",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a8-tombs.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a8-tombs.jpg' /></a> (93 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a8-tombs.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023020",
+          "end_ref_usfm": "GEN 23:20"
+        },
+        {
+          "start_ref": "40027057",
+          "start_ref_usfm": "MAT 27:57",
+          "end_ref": "40027066",
+          "end_ref_usfm": "MAT 27:66"
+        },
+        {
+          "start_ref": "40028001",
+          "start_ref_usfm": "MAT 28:1",
+          "end_ref": "40028015",
+          "end_ref_usfm": "MAT 28:15"
+        },
+        {
+          "start_ref": "40023023",
+          "start_ref_usfm": "MAT 23:23",
+          "end_ref": "40023028",
+          "end_ref_usfm": "MAT 23:28"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
+        },
+        {
+          "start_ref": "41015040",
+          "start_ref_usfm": "MRK 15:40",
+          "end_ref": "41015047",
+          "end_ref_usfm": "MRK 15:47"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003039",
+          "end_ref_usfm": "2SA 3:39"
+        },
+        {
+          "start_ref": "40008028",
+          "start_ref_usfm": "MAT 8:28",
+          "end_ref": "40008034",
+          "end_ref_usfm": "MAT 8:34"
+        },
+        {
+          "start_ref": "44005001",
+          "start_ref_usfm": "ACT 5:1",
+          "end_ref": "44005011",
+          "end_ref_usfm": "ACT 5:11"
+        },
+        {
+          "start_ref": "42024001",
+          "start_ref_usfm": "LUK 24:1",
+          "end_ref": "42024012",
+          "end_ref_usfm": "LUK 24:12"
+        },
+        {
+          "start_ref": "42008026",
+          "start_ref_usfm": "LUK 8:26",
+          "end_ref": "42008039",
+          "end_ref_usfm": "LUK 8:39"
+        },
+        {
+          "start_ref": "43020001",
+          "start_ref_usfm": "JHN 20:1",
+          "end_ref": "43020018",
+          "end_ref_usfm": "JHN 20:18"
+        },
+        {
+          "start_ref": "43019031",
+          "start_ref_usfm": "JHN 19:31",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
+        },
+        {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        },
+        {
+          "start_ref": "43011017",
+          "start_ref_usfm": "JHN 11:17",
+          "end_ref": "43011027",
+          "end_ref_usfm": "JHN 11:27"
+        },
+        {
+          "start_ref": "42011033",
+          "start_ref_usfm": "LUK 11:33",
+          "end_ref": "42011054",
+          "end_ref_usfm": "LUK 11:54"
+        },
+        {
+          "start_ref": "43011028",
+          "start_ref_usfm": "JHN 11:28",
+          "end_ref": "43011044",
+          "end_ref_usfm": "JHN 11:44"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023056",
+          "end_ref_usfm": "LUK 23:56"
+        },
+        {
+          "start_ref": "07008022",
+          "start_ref_usfm": "JDG 8:22",
+          "end_ref": "07008035",
+          "end_ref_usfm": "JDG 8:35"
+        },
+        {
+          "start_ref": "07016023",
+          "start_ref_usfm": "JDG 16:23",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        },
+        {
+          "start_ref": "11013011",
+          "start_ref_usfm": "1KI 13:11",
+          "end_ref": "11013022",
+          "end_ref_usfm": "1KI 13:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870982",
+    "reference_id": 222561,
+    "version": "1.0.1",
+    "title": "Town Gate",
+    "media_type": "Video",
+    "index_reference": "town gate",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a125-gate-town.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a125-gate-town.jpg' /></a> (118 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a125-gate-town.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034031",
+          "end_ref_usfm": "GEN 34:31"
+        },
+        {
+          "start_ref": "42007011",
+          "start_ref_usfm": "LUK 7:11",
+          "end_ref": "42007017",
+          "end_ref_usfm": "LUK 7:17"
+        },
+        {
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019029",
+          "end_ref_usfm": "GEN 19:29"
+        },
+        {
+          "start_ref": "11004001",
+          "start_ref_usfm": "1KI 4:1",
+          "end_ref": "11004019",
+          "end_ref_usfm": "1KI 4:19"
+        },
+        {
+          "start_ref": "07001018",
+          "start_ref_usfm": "JDG 1:18",
+          "end_ref": "07001026",
+          "end_ref_usfm": "JDG 1:26"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11016034",
+          "end_ref_usfm": "1KI 16:34"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022012",
+          "end_ref_usfm": "1KI 22:12"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870952",
+    "reference_id": 222531,
+    "version": "1.0.1",
+    "title": "Traveler's Bag",
+    "media_type": "Video",
+    "index_reference": "traveler's bag",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a23-bag-traveler.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a23-bag-traveler.jpg' /></a> (47 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a23-bag-traveler.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41006006",
+          "start_ref_usfm": "MRK 6:6",
+          "end_ref": "41006013",
+          "end_ref_usfm": "MRK 6:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870953",
+    "reference_id": 222532,
+    "version": "1.0.1",
+    "title": "Tunic",
+    "media_type": "Video",
+    "index_reference": "tunic",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a4-tunic.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a4-tunic.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a4-tunic.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009036",
+          "start_ref_usfm": "ACT 9:36",
+          "end_ref": "44009043",
+          "end_ref_usfm": "ACT 9:43"
+        },
+        {
+          "start_ref": "42006027",
+          "start_ref_usfm": "LUK 6:27",
+          "end_ref": "42006036",
+          "end_ref_usfm": "LUK 6:36"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003014",
+          "end_ref_usfm": "LUK 3:14"
+        },
+        {
+          "start_ref": "40005033",
+          "start_ref_usfm": "MAT 5:33",
+          "end_ref": "40005042",
+          "end_ref_usfm": "MAT 5:42"
+        },
+        {
+          "start_ref": "41006006",
+          "start_ref_usfm": "MRK 6:6",
+          "end_ref": "41006013",
+          "end_ref_usfm": "MRK 6:13"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013011",
+          "end_ref_usfm": "JHN 13:11"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019030",
+          "end_ref_usfm": "JHN 19:30"
+        },
+        {
+          "start_ref": "42009001",
+          "start_ref_usfm": "LUK 9:1",
+          "end_ref": "42009017",
+          "end_ref_usfm": "LUK 9:17"
+        },
+        {
+          "start_ref": "07014010",
+          "start_ref_usfm": "JDG 14:10",
+          "end_ref": "07014020",
+          "end_ref_usfm": "JDG 14:20"
+        },
+        {
+          "start_ref": "10015024",
+          "start_ref_usfm": "2SA 15:24",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

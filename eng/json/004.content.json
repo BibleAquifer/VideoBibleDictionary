@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": "870935",
+    "reference_id": 222514,
+    "version": "1.0.1",
+    "title": "Egyptian Cloak",
+    "media_type": "Video",
+    "index_reference": "egyptian cloak",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a133-cloak-egyptian.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a133-cloak-egyptian.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a133-cloak-egyptian.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "871007",
+    "reference_id": 222586,
+    "version": "1.0.1",
+    "title": "Entrance to Jewish House",
+    "media_type": "Video",
+    "index_reference": "entrance to jewish house",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a148-house-entrance.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a148-house-entrance.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a148-house-entrance.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42013022",
+          "start_ref_usfm": "LUK 13:22",
+          "end_ref": "42013030",
+          "end_ref_usfm": "LUK 13:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

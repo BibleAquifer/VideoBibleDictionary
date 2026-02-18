@@ -4,7 +4,7 @@
     "resource_type": "Images, Maps, Videos",
     "title": "Videos (Video Bible Dictionary)",
     "aquifer_name": "Labarin bidiyo (Kamus na Hausa na bidiyo)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Videos (Video Bible Dictionary)",
     "short_name": "VBD",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-27",
+    "date_created": "2025-11-17",
     "language": "hau",
     "localizations": [
       "eng",
@@ -59,7 +59,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-27T17:27:06.183066"
+      "dateCreated": "2025-11-17T09:38:11.461533"
     },
     "idAuthorities": {
       "aquifer": {
@@ -73,7 +73,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-27T17:27:06.183066"
+            "timestamp": "2025-11-17T09:38:11.461533"
           }
         }
       },
@@ -103,21 +103,45 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
+      "json/001.content.json": {
         "mimeType": "text/json",
-        "size": 1074
+        "size": 1103,
+        "scope": {
+          "d": [
+            "Daji"
+          ]
+        }
       },
-      "json/000002.content.json": {
+      "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 758
+        "size": 1733,
+        "scope": {
+          "k": [
+            "Kayan Kamun Kifi",
+            "Kogin Jordan"
+          ]
+        }
       },
-      "json/000003.content.json": {
+      "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 920
+        "size": 784,
+        "scope": {
+          "t": [
+            "Tekun Galili"
+          ]
+        }
       },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 755
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 761
+      },
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1073
+      },
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 756
       }
     },
     "copyright": {

@@ -1,0 +1,146 @@
+[
+  {
+    "content_id": "870988",
+    "reference_id": 222567,
+    "version": "1.0.1",
+    "title": "Reed Plant",
+    "media_type": "Video",
+    "index_reference": "reed plant",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a187-plant-reed.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a187-plant-reed.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a187-plant-reed.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42007018",
+          "start_ref_usfm": "LUK 7:18",
+          "end_ref": "42007035",
+          "end_ref_usfm": "LUK 7:35"
+        },
+        {
+          "start_ref": "40012015",
+          "start_ref_usfm": "MAT 12:15",
+          "end_ref": "40012021",
+          "end_ref_usfm": "MAT 12:21"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011019",
+          "end_ref_usfm": "MAT 11:19"
+        },
+        {
+          "start_ref": "11014012",
+          "start_ref_usfm": "1KI 14:12",
+          "end_ref": "11014020",
+          "end_ref_usfm": "1KI 14:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870977",
+    "reference_id": 222556,
+    "version": "1.0.1",
+    "title": "Roasted Lamb",
+    "media_type": "Video",
+    "index_reference": "roasted lamb",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a137-lamb-roasted.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a137-lamb-roasted.jpg' /></a> (94 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a137-lamb-roasted.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "04009001",
+          "start_ref_usfm": "NUM 9:1",
+          "end_ref": "04009014",
+          "end_ref_usfm": "NUM 9:14"
+        },
+        {
+          "start_ref": "40026017",
+          "start_ref_usfm": "MAT 26:17",
+          "end_ref": "40026025",
+          "end_ref_usfm": "MAT 26:25"
+        },
+        {
+          "start_ref": "42022007",
+          "start_ref_usfm": "LUK 22:7",
+          "end_ref": "42022023",
+          "end_ref_usfm": "LUK 22:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870968",
+    "reference_id": 222547,
+    "version": "1.0.1",
+    "title": "Rooster",
+    "media_type": "Video",
+    "index_reference": "rooster",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1388-rooster.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1388-rooster.jpg' /></a> (5 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1388-rooster.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014031",
+          "end_ref_usfm": "MRK 14:31"
+        },
+        {
+          "start_ref": "41014066",
+          "start_ref_usfm": "MRK 14:66",
+          "end_ref": "41014072",
+          "end_ref_usfm": "MRK 14:72"
+        },
+        {
+          "start_ref": "40026069",
+          "start_ref_usfm": "MAT 26:69",
+          "end_ref": "40026075",
+          "end_ref_usfm": "MAT 26:75"
+        },
+        {
+          "start_ref": "43018015",
+          "start_ref_usfm": "JHN 18:15",
+          "end_ref": "43018027",
+          "end_ref_usfm": "JHN 18:27"
+        },
+        {
+          "start_ref": "40026026",
+          "start_ref_usfm": "MAT 26:26",
+          "end_ref": "40026035",
+          "end_ref_usfm": "MAT 26:35"
+        },
+        {
+          "start_ref": "43013031",
+          "start_ref_usfm": "JHN 13:31",
+          "end_ref": "43013038",
+          "end_ref_usfm": "JHN 13:38"
+        },
+        {
+          "start_ref": "42022047",
+          "start_ref_usfm": "LUK 22:47",
+          "end_ref": "42022062",
+          "end_ref_usfm": "LUK 22:62"
+        },
+        {
+          "start_ref": "42022024",
+          "start_ref_usfm": "LUK 22:24",
+          "end_ref": "42022038",
+          "end_ref_usfm": "LUK 22:38"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

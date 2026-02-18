@@ -1,0 +1,86 @@
+[
+  {
+    "content_id": 291413,
+    "reference_id": 8442,
+    "version": "1.0.1",
+    "title": "Oké Osimiri Galili",
+    "media_type": "Video",
+    "index_reference": "oké osimiri galili",
+    "language": "ibo",
+    "review_level": "None",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/SeaOfGalilee.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/SeaOfGalilee.jpg' /></a> (114 seconds)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001016",
+          "start_ref_usfm": "MRK 1:16",
+          "end_ref": "41001016",
+          "end_ref_usfm": "MRK 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 291410,
+    "reference_id": 8439,
+    "version": "1.0.1",
+    "title": "Osimiri Jordan",
+    "media_type": "Video",
+    "index_reference": "osimiri jordan",
+    "language": "ibo",
+    "review_level": "None",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/JordanRiver.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/JordanRiver.jpg' /></a> (79 seconds)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001005",
+          "start_ref_usfm": "MRK 1:5",
+          "end_ref": "41001005",
+          "end_ref_usfm": "MRK 1:5"
+        },
+        {
+          "start_ref": "41001009",
+          "start_ref_usfm": "MRK 1:9",
+          "end_ref": "41001009",
+          "end_ref_usfm": "MRK 1:9"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 291411,
+    "reference_id": 8440,
+    "version": "1.0.1",
+    "title": "Ọhịa",
+    "media_type": "Video",
+    "index_reference": "ọhịa",
+    "language": "ibo",
+    "review_level": "None",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/Wilderness.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/Wilderness.jpg' /></a> (56 seconds)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001003",
+          "start_ref_usfm": "MRK 1:3",
+          "end_ref": "41001003",
+          "end_ref_usfm": "MRK 1:3"
+        },
+        {
+          "start_ref": "41001004",
+          "start_ref_usfm": "MRK 1:4",
+          "end_ref": "41001004",
+          "end_ref_usfm": "MRK 1:4"
+        },
+        {
+          "start_ref": "41001012",
+          "start_ref_usfm": "MRK 1:12",
+          "end_ref": "41001012",
+          "end_ref_usfm": "MRK 1:12"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

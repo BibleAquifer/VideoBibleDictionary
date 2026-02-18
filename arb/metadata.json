@@ -4,7 +4,7 @@
     "resource_type": "Images, Maps, Videos",
     "title": "Videos (Video Bible Dictionary)",
     "aquifer_name": "أشرطة فيديو (قاموس الكتاب المقدس المصور)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Videos (Video Bible Dictionary)",
     "short_name": "VBD",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-27",
+    "date_created": "2025-11-17",
     "language": "arb",
     "localizations": [
       "eng",
@@ -59,7 +59,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-27T17:27:06.117021"
+      "dateCreated": "2025-11-17T09:38:11.399008"
     },
     "idAuthorities": {
       "aquifer": {
@@ -73,7 +73,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-27T17:27:06.117021"
+            "timestamp": "2025-11-17T09:38:11.399008"
           }
         }
       },
@@ -103,21 +103,45 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
+      "json/001.content.json": {
         "mimeType": "text/json",
-        "size": 1090
+        "size": 1918,
+        "scope": {
+          "ب": [
+            "البرية",
+            "بحيرة طبريا"
+          ]
+        }
       },
-      "json/000002.content.json": {
+      "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 773
+        "size": 785,
+        "scope": {
+          "ش": [
+            "شبكة صيد"
+          ]
+        }
       },
-      "json/000003.content.json": {
+      "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 756
+        "size": 963,
+        "scope": {
+          "ن": [
+            "نهر الأردن"
+          ]
+        }
       },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 934
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1155
+      },
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 818
+      },
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 832
       }
     },
     "copyright": {
