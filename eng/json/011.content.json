@@ -1,0 +1,238 @@
+[
+  {
+    "content_id": "870998",
+    "reference_id": 222577,
+    "version": "1.0.1",
+    "title": "Man Who Is Girded Up",
+    "media_type": "Video",
+    "index_reference": "man who is girded up",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1355-man-girded.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1355-man-girded.jpg' /></a> (67 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1355-man-girded.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012006",
+          "start_ref_usfm": "ACT 12:6",
+          "end_ref": "44012019",
+          "end_ref_usfm": "ACT 12:19"
+        },
+        {
+          "start_ref": "42012035",
+          "start_ref_usfm": "LUK 12:35",
+          "end_ref": "42012048",
+          "end_ref_usfm": "LUK 12:48"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870941",
+    "reference_id": 222520,
+    "version": "1.0.1",
+    "title": "Manger",
+    "media_type": "Video",
+    "index_reference": "manger",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a33-manger.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a33-manger.jpg' /></a> (70 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a33-manger.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002021",
+          "end_ref_usfm": "LUK 2:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870942",
+    "reference_id": 222521,
+    "version": "1.0.1",
+    "title": "Millstone",
+    "media_type": "Video",
+    "index_reference": "millstone",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a32-millstone.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a32-millstone.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a32-millstone.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42017001",
+          "start_ref_usfm": "LUK 17:1",
+          "end_ref": "42017010",
+          "end_ref_usfm": "LUK 17:10"
+        },
+        {
+          "start_ref": "40024037",
+          "start_ref_usfm": "MAT 24:37",
+          "end_ref": "40024044",
+          "end_ref_usfm": "MAT 24:44"
+        },
+        {
+          "start_ref": "41009030",
+          "start_ref_usfm": "MRK 9:30",
+          "end_ref": "41009050",
+          "end_ref_usfm": "MRK 9:50"
+        },
+        {
+          "start_ref": "10011014",
+          "start_ref_usfm": "2SA 11:14",
+          "end_ref": "10011027",
+          "end_ref_usfm": "2SA 11:27"
+        },
+        {
+          "start_ref": "07009050",
+          "start_ref_usfm": "JDG 9:50",
+          "end_ref": "07009057",
+          "end_ref_usfm": "JDG 9:57"
+        },
+        {
+          "start_ref": "07016015",
+          "start_ref_usfm": "JDG 16:15",
+          "end_ref": "07016022",
+          "end_ref_usfm": "JDG 16:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870943",
+    "reference_id": 222522,
+    "version": "1.0.1",
+    "title": "Mount of Olives",
+    "media_type": "Video",
+    "index_reference": "mount of olives",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a40-mount-olives.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a40-mount-olives.jpg' /></a> (90 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a40-mount-olives.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024014",
+          "end_ref_usfm": "MAT 24:14"
+        },
+        {
+          "start_ref": "40024029",
+          "start_ref_usfm": "MAT 24:29",
+          "end_ref": "40024036",
+          "end_ref_usfm": "MAT 24:36"
+        },
+        {
+          "start_ref": "40024037",
+          "start_ref_usfm": "MAT 24:37",
+          "end_ref": "40024044",
+          "end_ref_usfm": "MAT 24:44"
+        },
+        {
+          "start_ref": "40024045",
+          "start_ref_usfm": "MAT 24:45",
+          "end_ref": "40024051",
+          "end_ref_usfm": "MAT 24:51"
+        },
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011011",
+          "end_ref_usfm": "MRK 11:11"
+        },
+        {
+          "start_ref": "41013001",
+          "start_ref_usfm": "MRK 13:1",
+          "end_ref": "41013008",
+          "end_ref_usfm": "MRK 13:8"
+        },
+        {
+          "start_ref": "41013024",
+          "start_ref_usfm": "MRK 13:24",
+          "end_ref": "41013031",
+          "end_ref_usfm": "MRK 13:31"
+        },
+        {
+          "start_ref": "41013032",
+          "start_ref_usfm": "MRK 13:32",
+          "end_ref": "41013037",
+          "end_ref_usfm": "MRK 13:37"
+        },
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022046",
+          "end_ref_usfm": "LUK 22:46"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "42019028",
+          "start_ref_usfm": "LUK 19:28",
+          "end_ref": "42019044",
+          "end_ref_usfm": "LUK 19:44"
+        },
+        {
+          "start_ref": "10016001",
+          "start_ref_usfm": "2SA 16:1",
+          "end_ref": "10016004",
+          "end_ref_usfm": "2SA 16:4"
+        },
+        {
+          "start_ref": "40026026",
+          "start_ref_usfm": "MAT 26:26",
+          "end_ref": "40026035",
+          "end_ref_usfm": "MAT 26:35"
+        },
+        {
+          "start_ref": "43008001",
+          "start_ref_usfm": "JHN 8:1",
+          "end_ref": "43008011",
+          "end_ref_usfm": "JHN 8:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870981",
+    "reference_id": 222560,
+    "version": "1.0.1",
+    "title": "Mount Precipice",
+    "media_type": "Video",
+    "index_reference": "mount precipice",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a143-mount-precipice.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a143-mount-precipice.jpg' /></a> (101 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a143-mount-precipice.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004014",
+          "start_ref_usfm": "LUK 4:14",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

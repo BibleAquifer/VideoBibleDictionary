@@ -4,7 +4,7 @@
     "resource_type": "Images, Maps, Videos",
     "title": "Videos (Video Bible Dictionary)",
     "aquifer_name": "影片 (視頻聖經詞典)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Videos (Video Bible Dictionary)",
     "short_name": "VBD",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-27",
+    "date_created": "2025-11-17",
     "language": "zht",
     "localizations": [
       "eng",
@@ -59,7 +59,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-27T17:27:06.373102"
+      "dateCreated": "2025-11-17T09:38:11.624429"
     },
     "idAuthorities": {
       "aquifer": {
@@ -73,7 +73,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-27T17:27:06.373102"
+            "timestamp": "2025-11-17T09:38:11.624429"
           }
         }
       },
@@ -103,21 +103,57 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
+      "json/001.content.json": {
         "mimeType": "text/json",
-        "size": 755
+        "size": 1107,
+        "scope": {
+          "huang": [
+            "荒野"
+          ]
+        }
       },
-      "json/000002.content.json": {
+      "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 914
+        "size": 784,
+        "scope": {
+          "jia": [
+            "加利利海"
+          ]
+        }
       },
-      "json/000003.content.json": {
+      "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 1078
+        "size": 767,
+        "scope": {
+          "yu": [
+            "漁網"
+          ]
+        }
       },
-      "json/000004.content.json": {
+      "json/004.content.json": {
         "mimeType": "text/json",
-        "size": 738
+        "size": 943,
+        "scope": {
+          "yue": [
+            "約旦河"
+          ]
+        }
+      },
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 735
+      },
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 728
+      },
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 717
+      },
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 730
       }
     },
     "copyright": {
@@ -136,190 +172,6 @@
     }
   },
   "article_metadata": {
-    "296078": {
-      "content_id": 296078,
-      "reference_id": 8442,
-      "index_reference": "加利利海",
-      "localizations": {
-        "eng": {
-          "content_id": 9274,
-          "language": "eng",
-          "title": "Sea of Galilee"
-        },
-        "tpi": {
-          "content_id": 281149,
-          "language": "tpi",
-          "title": "Solwara bilong Galili"
-        },
-        "arb": {
-          "content_id": 282082,
-          "language": "arb",
-          "title": "بحيرة طبريا"
-        },
-        "fra": {
-          "content_id": 283015,
-          "language": "fra",
-          "title": "Mer de Galilée"
-        },
-        "hin": {
-          "content_id": 283948,
-          "language": "hin",
-          "title": "गलील सागर"
-        },
-        "ind": {
-          "content_id": 284881,
-          "language": "ind",
-          "title": "Laut Galilea"
-        },
-        "zlm": {
-          "content_id": 285814,
-          "language": "zlm",
-          "title": "Laut Galilea"
-        },
-        "por": {
-          "content_id": 286747,
-          "language": "por",
-          "title": "Mar da Galileia"
-        },
-        "rus": {
-          "content_id": 287680,
-          "language": "rus",
-          "title": "Галилейское море"
-        },
-        "spa": {
-          "content_id": 288613,
-          "language": "spa",
-          "title": "Mar de Galilea"
-        },
-        "swh": {
-          "content_id": 289546,
-          "language": "swh",
-          "title": "Bahari ya Galilaya"
-        },
-        "hau": {
-          "content_id": 290479,
-          "language": "hau",
-          "title": "Tekun Galili"
-        },
-        "ibo": {
-          "content_id": 291413,
-          "language": "ibo",
-          "title": "Oké Osimiri Galili"
-        },
-        "bis": {
-          "content_id": 292346,
-          "language": "bis",
-          "title": "Solwota blong Galili"
-        },
-        "vie": {
-          "content_id": 293279,
-          "language": "vie",
-          "title": "Biển hồ Galilee"
-        },
-        "apd": {
-          "content_id": 294212,
-          "language": "apd",
-          "title": "بحيرة طبريا"
-        },
-        "zhs": {
-          "content_id": 295145,
-          "language": "zhs",
-          "title": "加利利海"
-        }
-      }
-    },
-    "296075": {
-      "content_id": 296075,
-      "reference_id": 8439,
-      "index_reference": "約旦河",
-      "localizations": {
-        "eng": {
-          "content_id": 9271,
-          "language": "eng",
-          "title": "Jordan River"
-        },
-        "tpi": {
-          "content_id": 281146,
-          "language": "tpi",
-          "title": "Jordan Riva"
-        },
-        "arb": {
-          "content_id": 282079,
-          "language": "arb",
-          "title": "نهر الأردن"
-        },
-        "fra": {
-          "content_id": 283012,
-          "language": "fra",
-          "title": "Rivière Jordan"
-        },
-        "hin": {
-          "content_id": 283945,
-          "language": "hin",
-          "title": "जॉर्डन नदी"
-        },
-        "ind": {
-          "content_id": 284878,
-          "language": "ind",
-          "title": "Sungai Yordan"
-        },
-        "zlm": {
-          "content_id": 285811,
-          "language": "zlm",
-          "title": "Sungai Jordan"
-        },
-        "por": {
-          "content_id": 286744,
-          "language": "por",
-          "title": "Rio Jordão"
-        },
-        "rus": {
-          "content_id": 287677,
-          "language": "rus",
-          "title": "Иорданская река"
-        },
-        "spa": {
-          "content_id": 288610,
-          "language": "spa",
-          "title": "Río Jordán"
-        },
-        "swh": {
-          "content_id": 289543,
-          "language": "swh",
-          "title": "Mto Yordani"
-        },
-        "hau": {
-          "content_id": 290476,
-          "language": "hau",
-          "title": "Kogin Jordan"
-        },
-        "ibo": {
-          "content_id": 291410,
-          "language": "ibo",
-          "title": "Osimiri Jordan"
-        },
-        "bis": {
-          "content_id": 292343,
-          "language": "bis",
-          "title": "Reva blong Jordan"
-        },
-        "vie": {
-          "content_id": 293276,
-          "language": "vie",
-          "title": "Sông Jordan"
-        },
-        "apd": {
-          "content_id": 294209,
-          "language": "apd",
-          "title": "نهر الأردن"
-        },
-        "zhs": {
-          "content_id": 295142,
-          "language": "zhs",
-          "title": "约旦河"
-        }
-      }
-    },
     "296076": {
       "content_id": 296076,
       "reference_id": 8440,
@@ -412,6 +264,98 @@
         }
       }
     },
+    "296078": {
+      "content_id": 296078,
+      "reference_id": 8442,
+      "index_reference": "加利利海",
+      "localizations": {
+        "eng": {
+          "content_id": 9274,
+          "language": "eng",
+          "title": "Sea of Galilee"
+        },
+        "tpi": {
+          "content_id": 281149,
+          "language": "tpi",
+          "title": "Solwara bilong Galili"
+        },
+        "arb": {
+          "content_id": 282082,
+          "language": "arb",
+          "title": "بحيرة طبريا"
+        },
+        "fra": {
+          "content_id": 283015,
+          "language": "fra",
+          "title": "Mer de Galilée"
+        },
+        "hin": {
+          "content_id": 283948,
+          "language": "hin",
+          "title": "गलील सागर"
+        },
+        "ind": {
+          "content_id": 284881,
+          "language": "ind",
+          "title": "Laut Galilea"
+        },
+        "zlm": {
+          "content_id": 285814,
+          "language": "zlm",
+          "title": "Laut Galilea"
+        },
+        "por": {
+          "content_id": 286747,
+          "language": "por",
+          "title": "Mar da Galileia"
+        },
+        "rus": {
+          "content_id": 287680,
+          "language": "rus",
+          "title": "Галилейское море"
+        },
+        "spa": {
+          "content_id": 288613,
+          "language": "spa",
+          "title": "Mar de Galilea"
+        },
+        "swh": {
+          "content_id": 289546,
+          "language": "swh",
+          "title": "Bahari ya Galilaya"
+        },
+        "hau": {
+          "content_id": 290479,
+          "language": "hau",
+          "title": "Tekun Galili"
+        },
+        "ibo": {
+          "content_id": 291413,
+          "language": "ibo",
+          "title": "Oké Osimiri Galili"
+        },
+        "bis": {
+          "content_id": 292346,
+          "language": "bis",
+          "title": "Solwota blong Galili"
+        },
+        "vie": {
+          "content_id": 293279,
+          "language": "vie",
+          "title": "Biển hồ Galilee"
+        },
+        "apd": {
+          "content_id": 294212,
+          "language": "apd",
+          "title": "بحيرة طبريا"
+        },
+        "zhs": {
+          "content_id": 295145,
+          "language": "zhs",
+          "title": "加利利海"
+        }
+      }
+    },
     "296077": {
       "content_id": 296077,
       "reference_id": 8441,
@@ -501,6 +445,98 @@
           "content_id": 295144,
           "language": "zhs",
           "title": "渔网"
+        }
+      }
+    },
+    "296075": {
+      "content_id": 296075,
+      "reference_id": 8439,
+      "index_reference": "約旦河",
+      "localizations": {
+        "eng": {
+          "content_id": 9271,
+          "language": "eng",
+          "title": "Jordan River"
+        },
+        "tpi": {
+          "content_id": 281146,
+          "language": "tpi",
+          "title": "Jordan Riva"
+        },
+        "arb": {
+          "content_id": 282079,
+          "language": "arb",
+          "title": "نهر الأردن"
+        },
+        "fra": {
+          "content_id": 283012,
+          "language": "fra",
+          "title": "Rivière Jordan"
+        },
+        "hin": {
+          "content_id": 283945,
+          "language": "hin",
+          "title": "जॉर्डन नदी"
+        },
+        "ind": {
+          "content_id": 284878,
+          "language": "ind",
+          "title": "Sungai Yordan"
+        },
+        "zlm": {
+          "content_id": 285811,
+          "language": "zlm",
+          "title": "Sungai Jordan"
+        },
+        "por": {
+          "content_id": 286744,
+          "language": "por",
+          "title": "Rio Jordão"
+        },
+        "rus": {
+          "content_id": 287677,
+          "language": "rus",
+          "title": "Иорданская река"
+        },
+        "spa": {
+          "content_id": 288610,
+          "language": "spa",
+          "title": "Río Jordán"
+        },
+        "swh": {
+          "content_id": 289543,
+          "language": "swh",
+          "title": "Mto Yordani"
+        },
+        "hau": {
+          "content_id": 290476,
+          "language": "hau",
+          "title": "Kogin Jordan"
+        },
+        "ibo": {
+          "content_id": 291410,
+          "language": "ibo",
+          "title": "Osimiri Jordan"
+        },
+        "bis": {
+          "content_id": 292343,
+          "language": "bis",
+          "title": "Reva blong Jordan"
+        },
+        "vie": {
+          "content_id": 293276,
+          "language": "vie",
+          "title": "Sông Jordan"
+        },
+        "apd": {
+          "content_id": 294209,
+          "language": "apd",
+          "title": "نهر الأردن"
+        },
+        "zhs": {
+          "content_id": 295142,
+          "language": "zhs",
+          "title": "约旦河"
         }
       }
     }

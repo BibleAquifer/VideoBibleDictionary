@@ -1,508 +1,1464 @@
 {
-  "resource_metadata": {
-    "aquifer_type": "Videos",
-    "resource_type": "Images, Maps, Videos",
-    "title": "Videos (Video Bible Dictionary)",
-    "aquifer_name": "Videos (Video Bible Dictionary)",
-    "version": "1.0.0",
-    "collection_title": "Videos (Video Bible Dictionary)",
-    "short_name": "VBD",
-    "license_info": {
-      "title": "Video Bible Dictionary",
-      "copyright": {
-        "dates": "2023",
-        "holder": {
-          "name": "SRV Partners",
-          "url": "https://srvpartners.org/home/"
-        }
-      },
-      "licenses": [
-        {
-          "eng": {
-            "name": "CC BY-SA 4.0 license",
-            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-          }
-        }
-      ],
-      "showAdaptationNoticeForEnglish": false,
-      "showAdaptationNoticeForNonEnglish": false
-    },
-    "adaptation_notice": "",
-    "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-27",
-    "language": "eng",
-    "localizations": [
-      "tpi",
-      "arb",
-      "fra",
-      "hin",
-      "ind",
-      "zlm",
-      "por",
-      "rus",
-      "spa",
-      "swh",
-      "hau",
-      "ibo",
-      "bis",
-      "vie",
-      "apd",
-      "zhs",
-      "zht"
-    ],
-    "order": "alphabetical",
-    "content_type": "Html"
-  },
-  "scripture_burrito": {
-    "format": "scripture burrito",
-    "meta": {
-      "version": "1.0.0",
-      "category": "source",
-      "defaultLocale": "en",
-      "dateCreated": "2025-10-27T17:27:06.147625"
-    },
-    "idAuthorities": {
-      "aquifer": {
-        "id": "https://aquifer.bible",
-        "name": {
-          "en": "Bible Aquifer"
-        }
-      }
-    },
-    "identification": {
-      "primary": {
-        "aquifer": {
-          "VideoBibleDictionary": {
-            "timestamp": "2025-10-27T17:27:06.147625"
-          }
-        }
-      },
-      "name": {
-        "en": "Video Bible Dictionary"
-      },
-      "abbreviation": {
-        "en": "VBD"
-      }
-    },
-    "languages": [
-      {
-        "tag": "en",
-        "name": {
-          "en": "English"
-        }
-      }
-    ],
-    "type": {
-      "flavorType": {
-        "name": "peripheral",
-        "flavor": {
-          "name": "textAquiferAlphabetical",
-          "audience": "common"
-        },
-        "currentScope": {}
-      }
-    },
-    "ingredients": {
-      "json/000001.content.json": {
-        "mimeType": "text/json",
-        "size": 746
-      },
-      "json/000002.content.json": {
-        "mimeType": "text/json",
-        "size": 918
-      },
-      "json/000003.content.json": {
-        "mimeType": "text/json",
-        "size": 757
-      },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 1084
-      }
-    },
-    "copyright": {
-      "licenses": [
-        {
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-        }
-      ],
-      "shortStatements": [
-        {
-          "statement": "<p>Video Bible Dictionary © 2023 SRV Partners.</p>",
-          "mimetype": "text/html",
-          "lang": "en"
-        }
-      ]
-    }
-  },
-  "article_metadata": {
-    "9273": {
-      "content_id": 9273,
-      "reference_id": 8441,
-      "index_reference": "fishing net",
-      "localizations": {
-        "tpi": {
-          "content_id": 281148,
-          "language": "tpi",
-          "title": "Nets bilong pisin"
-        },
-        "arb": {
-          "content_id": 282081,
-          "language": "arb",
-          "title": "شبكة صيد"
-        },
-        "fra": {
-          "content_id": 283014,
-          "language": "fra",
-          "title": "Filet de pêche"
-        },
-        "hin": {
-          "content_id": 283947,
-          "language": "hin",
-          "title": "मछली पकड़ने का जाल"
-        },
-        "ind": {
-          "content_id": 284880,
-          "language": "ind",
-          "title": "Jaring Ikan"
-        },
-        "zlm": {
-          "content_id": 285813,
-          "language": "zlm",
-          "title": "Jaring Ikan"
-        },
-        "por": {
-          "content_id": 286746,
-          "language": "por",
-          "title": "Rede de Pesca"
-        },
-        "rus": {
-          "content_id": 287679,
-          "language": "rus",
-          "title": "Рыболовная сеть"
-        },
-        "spa": {
-          "content_id": 288612,
-          "language": "spa",
-          "title": "Red de pesca"
-        },
-        "swh": {
-          "content_id": 289545,
-          "language": "swh",
-          "title": "Wavu wa Uvuvi"
-        },
-        "hau": {
-          "content_id": 290478,
-          "language": "hau",
-          "title": "Kayan Kamun Kifi"
-        },
-        "ibo": {
-          "content_id": 291412,
-          "language": "ibo",
-          "title": "Ụdọ Azụ"
-        },
-        "bis": {
-          "content_id": 292345,
-          "language": "bis",
-          "title": "Net blong fisman"
-        },
-        "vie": {
-          "content_id": 293278,
-          "language": "vie",
-          "title": "Lưới đánh cá"
-        },
-        "apd": {
-          "content_id": 294211,
-          "language": "apd",
-          "title": "شبكة صيد"
-        },
-        "zhs": {
-          "content_id": 295144,
-          "language": "zhs",
-          "title": "渔网"
-        },
-        "zht": {
-          "content_id": 296077,
-          "language": "zht",
-          "title": "漁網"
-        }
-      }
-    },
-    "9271": {
-      "content_id": 9271,
-      "reference_id": 8439,
-      "index_reference": "jordan river",
-      "localizations": {
-        "tpi": {
-          "content_id": 281146,
-          "language": "tpi",
-          "title": "Jordan Riva"
-        },
-        "arb": {
-          "content_id": 282079,
-          "language": "arb",
-          "title": "نهر الأردن"
-        },
-        "fra": {
-          "content_id": 283012,
-          "language": "fra",
-          "title": "Rivière Jordan"
-        },
-        "hin": {
-          "content_id": 283945,
-          "language": "hin",
-          "title": "जॉर्डन नदी"
-        },
-        "ind": {
-          "content_id": 284878,
-          "language": "ind",
-          "title": "Sungai Yordan"
-        },
-        "zlm": {
-          "content_id": 285811,
-          "language": "zlm",
-          "title": "Sungai Jordan"
-        },
-        "por": {
-          "content_id": 286744,
-          "language": "por",
-          "title": "Rio Jordão"
-        },
-        "rus": {
-          "content_id": 287677,
-          "language": "rus",
-          "title": "Иорданская река"
-        },
-        "spa": {
-          "content_id": 288610,
-          "language": "spa",
-          "title": "Río Jordán"
-        },
-        "swh": {
-          "content_id": 289543,
-          "language": "swh",
-          "title": "Mto Yordani"
-        },
-        "hau": {
-          "content_id": 290476,
-          "language": "hau",
-          "title": "Kogin Jordan"
-        },
-        "ibo": {
-          "content_id": 291410,
-          "language": "ibo",
-          "title": "Osimiri Jordan"
-        },
-        "bis": {
-          "content_id": 292343,
-          "language": "bis",
-          "title": "Reva blong Jordan"
-        },
-        "vie": {
-          "content_id": 293276,
-          "language": "vie",
-          "title": "Sông Jordan"
-        },
-        "apd": {
-          "content_id": 294209,
-          "language": "apd",
-          "title": "نهر الأردن"
-        },
-        "zhs": {
-          "content_id": 295142,
-          "language": "zhs",
-          "title": "约旦河"
-        },
-        "zht": {
-          "content_id": 296075,
-          "language": "zht",
-          "title": "約旦河"
-        }
-      }
-    },
-    "9274": {
-      "content_id": 9274,
-      "reference_id": 8442,
-      "index_reference": "sea of galilee",
-      "localizations": {
-        "tpi": {
-          "content_id": 281149,
-          "language": "tpi",
-          "title": "Solwara bilong Galili"
-        },
-        "arb": {
-          "content_id": 282082,
-          "language": "arb",
-          "title": "بحيرة طبريا"
-        },
-        "fra": {
-          "content_id": 283015,
-          "language": "fra",
-          "title": "Mer de Galilée"
-        },
-        "hin": {
-          "content_id": 283948,
-          "language": "hin",
-          "title": "गलील सागर"
-        },
-        "ind": {
-          "content_id": 284881,
-          "language": "ind",
-          "title": "Laut Galilea"
-        },
-        "zlm": {
-          "content_id": 285814,
-          "language": "zlm",
-          "title": "Laut Galilea"
-        },
-        "por": {
-          "content_id": 286747,
-          "language": "por",
-          "title": "Mar da Galileia"
-        },
-        "rus": {
-          "content_id": 287680,
-          "language": "rus",
-          "title": "Галилейское море"
-        },
-        "spa": {
-          "content_id": 288613,
-          "language": "spa",
-          "title": "Mar de Galilea"
-        },
-        "swh": {
-          "content_id": 289546,
-          "language": "swh",
-          "title": "Bahari ya Galilaya"
-        },
-        "hau": {
-          "content_id": 290479,
-          "language": "hau",
-          "title": "Tekun Galili"
-        },
-        "ibo": {
-          "content_id": 291413,
-          "language": "ibo",
-          "title": "Oké Osimiri Galili"
-        },
-        "bis": {
-          "content_id": 292346,
-          "language": "bis",
-          "title": "Solwota blong Galili"
-        },
-        "vie": {
-          "content_id": 293279,
-          "language": "vie",
-          "title": "Biển hồ Galilee"
-        },
-        "apd": {
-          "content_id": 294212,
-          "language": "apd",
-          "title": "بحيرة طبريا"
-        },
-        "zhs": {
-          "content_id": 295145,
-          "language": "zhs",
-          "title": "加利利海"
-        },
-        "zht": {
-          "content_id": 296078,
-          "language": "zht",
-          "title": "加利利海"
-        }
-      }
-    },
-    "9272": {
-      "content_id": 9272,
-      "reference_id": 8440,
-      "index_reference": "wilderness",
-      "localizations": {
-        "tpi": {
-          "content_id": 281147,
-          "language": "tpi",
-          "title": "Bus bilong ol man i no stap"
-        },
-        "arb": {
-          "content_id": 282080,
-          "language": "arb",
-          "title": "البرية"
-        },
-        "fra": {
-          "content_id": 283013,
-          "language": "fra",
-          "title": "Désert"
-        },
-        "hin": {
-          "content_id": 283946,
-          "language": "hin",
-          "title": "जंगल"
-        },
-        "ind": {
-          "content_id": 284879,
-          "language": "ind",
-          "title": "Alam liar"
-        },
-        "zlm": {
-          "content_id": 285812,
-          "language": "zlm",
-          "title": "Hutan belantara"
-        },
-        "por": {
-          "content_id": 286745,
-          "language": "por",
-          "title": "Selvagem"
-        },
-        "rus": {
-          "content_id": 287678,
-          "language": "rus",
-          "title": "Дикая природа"
-        },
-        "spa": {
-          "content_id": 288611,
-          "language": "spa",
-          "title": "Desierto"
-        },
-        "swh": {
-          "content_id": 289544,
-          "language": "swh",
-          "title": "Porini"
-        },
-        "hau": {
-          "content_id": 290477,
-          "language": "hau",
-          "title": "Daji"
-        },
-        "ibo": {
-          "content_id": 291411,
-          "language": "ibo",
-          "title": "Ọhịa"
-        },
-        "bis": {
-          "content_id": 292344,
-          "language": "bis",
-          "title": "Bus."
-        },
-        "vie": {
-          "content_id": 293277,
-          "language": "vie",
-          "title": "Vùng hoang dã"
-        },
-        "apd": {
-          "content_id": 294210,
-          "language": "apd",
-          "title": "البرية"
-        },
-        "zhs": {
-          "content_id": 295143,
-          "language": "zhs",
-          "title": "荒野"
-        },
-        "zht": {
-          "content_id": 296076,
-          "language": "zht",
-          "title": "荒野"
-        }
-      }
-    }
-  }
+"resource_metadata": {
+"aquifer_type": "Videos",
+"resource_type": "Images, Maps, Videos",
+"title": "Familiarization, Internalization, Articulation (FIA) Videos",
+"aquifer_name": "Videos (Video Bible Dictionary)",
+"version": "1.0.1",
+"collection_title": "Videos (Video Bible Dictionary)",
+"short_name": "VBD",
+"license_info": {
+"title": "Video Bible Dictionary",
+"copyright": {
+"dates": "2023",
+"holder": {
+"name": "SRV Partners",
+"url": "https://srvpartners.org/home/"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": false
+},
+"adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+"resource_code": "VideoBibleDictionary",
+"date_created": "2026-02-18",
+"language": "eng",
+"localizations": [
+"tpi",
+"arb",
+"fra",
+"hin",
+"ind",
+"zlm",
+"por",
+"rus",
+"spa",
+"swh",
+"hau",
+"ibo",
+"bis",
+"vie",
+"apd",
+"zhs",
+"zht"
+],
+"order": "alphabetical",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-02-18T09:09:07.160435"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"VideoBibleDictionary": {
+"timestamp": "2026-02-18T09:09:07.160435"
+}
+}
+},
+"name": {
+"en": "Video Bible Dictionary"
+},
+"abbreviation": {
+"en": "VBD"
+}
+},
+"languages": [
+{
+"tag": "en",
+"name": {
+"en": "English"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferAlphabetical",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/001.content.json": {
+"mimeType": "text/json",
+"size": 10870,
+"scope": {
+"a": [
+"Adult and Kid Goat",
+"Adult Donkey",
+"Alabaster Jar",
+"Ashes",
+"Axe"
+]
+}
+},
+"json/002.content.json": {
+"mimeType": "text/json",
+"size": 9556,
+"scope": {
+"b": [
+"Basket as a Bushel",
+"Basket for Provisions",
+"Belt",
+"Bitter Herbs",
+"Bow and Arrows"
+]
+}
+},
+"json/003.content.json": {
+"mimeType": "text/json",
+"size": 15303,
+"scope": {
+"c": [
+"Camel",
+"Cave",
+"Chains",
+"Cliffs",
+"Cloak of Camel Hair",
+"Club",
+"Coins",
+"Cooked Fish",
+"Copper Coins",
+"Cornerstone with a Wall"
+]
+}
+},
+"json/004.content.json": {
+"mimeType": "text/json",
+"size": 1926,
+"scope": {
+"e": [
+"Egyptian Cloak",
+"Entrance to Jewish House"
+]
+}
+},
+"json/005.content.json": {
+"mimeType": "text/json",
+"size": 8613,
+"scope": {
+"f": [
+"Fine Linen Cloth",
+"Fish",
+"Fish Scales",
+"Fishing Net",
+"Four Soils"
+]
+}
+},
+"json/006.content.json": {
+"mimeType": "text/json",
+"size": 3533,
+"scope": {
+"g": [
+"Garden of Gethsemane",
+"Garden Tomb",
+"Goat Skin"
+]
+}
+},
+"json/007.content.json": {
+"mimeType": "text/json",
+"size": 3665,
+"scope": {
+"h": [
+"Hail Falling",
+"House in the Time of Jesus"
+]
+}
+},
+"json/008.content.json": {
+"mimeType": "text/json",
+"size": 927,
+"scope": {
+"i": [
+"Iron Gate"
+]
+}
+},
+"json/009.content.json": {
+"mimeType": "text/json",
+"size": 4031,
+"scope": {
+"j": [
+"Jar of Sour Wine",
+"Jordan River",
+"Joseph's Coat"
+]
+}
+},
+"json/010.content.json": {
+"mimeType": "text/json",
+"size": 6339,
+"scope": {
+"l": [
+"Lampstand",
+"Large Basket",
+"Long Sheet of Linen Cloth",
+"Lots"
+]
+}
+},
+"json/011.content.json": {
+"mimeType": "text/json",
+"size": 8330,
+"scope": {
+"m": [
+"Man Who Is Girded Up",
+"Manger",
+"Millstone",
+"Mount of Olives",
+"Mount Precipice"
+]
+}
+},
+"json/012.content.json": {
+"mimeType": "text/json",
+"size": 1130,
+"scope": {
+"n": [
+"Nests Inside Noah's Ark"
+]
+}
+},
+"json/013.content.json": {
+"mimeType": "text/json",
+"size": 7495,
+"scope": {
+"o": [
+"Oil Lamp",
+"Olive and Palm Branches",
+"Olive Tree"
+]
+}
+},
+"json/014.content.json": {
+"mimeType": "text/json",
+"size": 7122,
+"scope": {
+"p": [
+"Pearls",
+"Pine Trees",
+"Platter",
+"Plowing a Field",
+"Purple Robe",
+"Purse"
+]
+}
+},
+"json/015.content.json": {
+"mimeType": "text/json",
+"size": 5054,
+"scope": {
+"r": [
+"Reed Plant",
+"Roasted Lamb",
+"Rooster"
+]
+}
+},
+"json/016.content.json": {
+"mimeType": "text/json",
+"size": 30344,
+"scope": {
+"s": [
+"Sackcloth",
+"Sacrificial Animals",
+"Sandals",
+"Sea of Galilee",
+"Seeds",
+"Sickle",
+"Sleeping Mat",
+"Snake",
+"Snow",
+"Sponge with Wine on a Stick",
+"Staff",
+"Stew",
+"Stick",
+"Stone Wall Around a Vineyard",
+"Synagogue"
+]
+}
+},
+"json/017.content.json": {
+"mimeType": "text/json",
+"size": 12209,
+"scope": {
+"t": [
+"Tambourine",
+"Tombs",
+"Town Gate",
+"Traveler's Bag",
+"Tunic"
+]
+}
+},
+"json/018.content.json": {
+"mimeType": "text/json",
+"size": 4082,
+"scope": {
+"u": [
+"Unleavened Bread"
+]
+}
+},
+"json/019.content.json": {
+"mimeType": "text/json",
+"size": 20475,
+"scope": {
+"w": [
+"Watchtower for a Vineyard",
+"Water Jar",
+"Wheat Ready For Harvest",
+"Wheat with Heads of Grain",
+"White Robe",
+"Wilderness or Desert",
+"Wineskins",
+"Winnowing Fork",
+"Writing Tablet"
+]
+}
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 3420
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 3296
+},
+"md/003.content.md": {
+"mimeType": "text/markdown",
+"size": 5525
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 1386
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 3116
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 1900
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 1615
+},
+"md/008.content.md": {
+"mimeType": "text/markdown",
+"size": 903
+},
+"md/009.content.md": {
+"mimeType": "text/markdown",
+"size": 1926
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 2548
+},
+"md/011.content.md": {
+"mimeType": "text/markdown",
+"size": 3131
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 941
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 2388
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 3259
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 2073
+},
+"md/016.content.md": {
+"mimeType": "text/markdown",
+"size": 8998
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 3559
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 1333
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 5967
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 892483
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1027197
+},
+"docx/002.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 947733
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1089976
+},
+"docx/003.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 1470868
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1629613
+},
+"docx/004.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 352506
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 478335
+},
+"docx/005.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 569175
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 709704
+},
+"docx/006.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 703230
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 830201
+},
+"docx/007.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 441253
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 567907
+},
+"docx/008.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 83758
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 200099
+},
+"docx/009.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 495506
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 624468
+},
+"docx/010.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 764320
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 903346
+},
+"docx/011.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 1049071
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1188557
+},
+"docx/012.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 137125
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 257093
+},
+"docx/013.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 509392
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 639771
+},
+"docx/014.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 906511
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1048209
+},
+"docx/015.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 569537
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 693148
+},
+"docx/016.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 2862447
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 3036230
+},
+"docx/017.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 905205
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1045290
+},
+"docx/018.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 267228
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 381013
+},
+"docx/019.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 1452079
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1614102
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Video Bible Dictionary © 2023 SRV Partners.</p>",
+"mimetype": "text/html",
+"lang": "en"
+}
+]
+}
+},
+"article_metadata": {
+"9271": {
+"content_id": "9271",
+"reference_id": 8439,
+"index_reference": "jordan river",
+"localizations": {
+"tpi": {
+"content_id": 281146,
+"language": "tpi",
+"title": "Jordan Riva"
+},
+"arb": {
+"content_id": 282079,
+"language": "arb",
+"title": "نهر الأردن"
+},
+"fra": {
+"content_id": 283012,
+"language": "fra",
+"title": "Rivière Jordan"
+},
+"hin": {
+"content_id": 283945,
+"language": "hin",
+"title": "जॉर्डन नदी"
+},
+"ind": {
+"content_id": 284878,
+"language": "ind",
+"title": "Sungai Yordan"
+},
+"zlm": {
+"content_id": 285811,
+"language": "zlm",
+"title": "Sungai Jordan"
+},
+"por": {
+"content_id": 286744,
+"language": "por",
+"title": "Rio Jordão"
+},
+"rus": {
+"content_id": 287677,
+"language": "rus",
+"title": "Иорданская река"
+},
+"spa": {
+"content_id": 288610,
+"language": "spa",
+"title": "Río Jordán"
+},
+"swh": {
+"content_id": 289543,
+"language": "swh",
+"title": "Mto Yordani"
+},
+"hau": {
+"content_id": 290476,
+"language": "hau",
+"title": "Kogin Jordan"
+},
+"ibo": {
+"content_id": 291410,
+"language": "ibo",
+"title": "Osimiri Jordan"
+},
+"bis": {
+"content_id": 292343,
+"language": "bis",
+"title": "Reva blong Jordan"
+},
+"vie": {
+"content_id": 293276,
+"language": "vie",
+"title": "Sông Jordan"
+},
+"apd": {
+"content_id": 294209,
+"language": "apd",
+"title": "نهر الأردن"
+},
+"zhs": {
+"content_id": 295142,
+"language": "zhs",
+"title": "约旦河"
+},
+"zht": {
+"content_id": 296075,
+"language": "zht",
+"title": "約旦河"
+}
+}
+},
+"9272": {
+"content_id": "9272",
+"reference_id": 8440,
+"index_reference": "wilderness or desert",
+"localizations": {
+"tpi": {
+"content_id": 281147,
+"language": "tpi",
+"title": "Bus bilong ol man i no stap"
+},
+"arb": {
+"content_id": 282080,
+"language": "arb",
+"title": "البرية"
+},
+"fra": {
+"content_id": 283013,
+"language": "fra",
+"title": "Désert"
+},
+"hin": {
+"content_id": 283946,
+"language": "hin",
+"title": "जंगल"
+},
+"ind": {
+"content_id": 284879,
+"language": "ind",
+"title": "Alam liar"
+},
+"zlm": {
+"content_id": 285812,
+"language": "zlm",
+"title": "Hutan belantara"
+},
+"por": {
+"content_id": 286745,
+"language": "por",
+"title": "Selvagem"
+},
+"rus": {
+"content_id": 287678,
+"language": "rus",
+"title": "Дикая природа"
+},
+"spa": {
+"content_id": 288611,
+"language": "spa",
+"title": "Desierto"
+},
+"swh": {
+"content_id": 289544,
+"language": "swh",
+"title": "Porini"
+},
+"hau": {
+"content_id": 290477,
+"language": "hau",
+"title": "Daji"
+},
+"ibo": {
+"content_id": 291411,
+"language": "ibo",
+"title": "Ọhịa"
+},
+"bis": {
+"content_id": 292344,
+"language": "bis",
+"title": "Bus."
+},
+"vie": {
+"content_id": 293277,
+"language": "vie",
+"title": "Vùng hoang dã"
+},
+"apd": {
+"content_id": 294210,
+"language": "apd",
+"title": "البرية"
+},
+"zhs": {
+"content_id": 295143,
+"language": "zhs",
+"title": "荒野"
+},
+"zht": {
+"content_id": 296076,
+"language": "zht",
+"title": "荒野"
+}
+}
+},
+"9273": {
+"content_id": "9273",
+"reference_id": 8441,
+"index_reference": "fishing net",
+"localizations": {
+"tpi": {
+"content_id": 281148,
+"language": "tpi",
+"title": "Nets bilong pisin"
+},
+"arb": {
+"content_id": 282081,
+"language": "arb",
+"title": "شبكة صيد"
+},
+"fra": {
+"content_id": 283014,
+"language": "fra",
+"title": "Filet de pêche"
+},
+"hin": {
+"content_id": 283947,
+"language": "hin",
+"title": "मछली पकड़ने का जाल"
+},
+"ind": {
+"content_id": 284880,
+"language": "ind",
+"title": "Jaring Ikan"
+},
+"zlm": {
+"content_id": 285813,
+"language": "zlm",
+"title": "Jaring Ikan"
+},
+"por": {
+"content_id": 286746,
+"language": "por",
+"title": "Rede de Pesca"
+},
+"rus": {
+"content_id": 287679,
+"language": "rus",
+"title": "Рыболовная сеть"
+},
+"spa": {
+"content_id": 288612,
+"language": "spa",
+"title": "Red de pesca"
+},
+"swh": {
+"content_id": 289545,
+"language": "swh",
+"title": "Wavu wa Uvuvi"
+},
+"hau": {
+"content_id": 290478,
+"language": "hau",
+"title": "Kayan Kamun Kifi"
+},
+"ibo": {
+"content_id": 291412,
+"language": "ibo",
+"title": "Ụdọ Azụ"
+},
+"bis": {
+"content_id": 292345,
+"language": "bis",
+"title": "Net blong fisman"
+},
+"vie": {
+"content_id": 293278,
+"language": "vie",
+"title": "Lưới đánh cá"
+},
+"apd": {
+"content_id": 294211,
+"language": "apd",
+"title": "شبكة صيد"
+},
+"zhs": {
+"content_id": 295144,
+"language": "zhs",
+"title": "渔网"
+},
+"zht": {
+"content_id": 296077,
+"language": "zht",
+"title": "漁網"
+}
+}
+},
+"9274": {
+"content_id": "9274",
+"reference_id": 8442,
+"index_reference": "sea of galilee",
+"localizations": {
+"tpi": {
+"content_id": 281149,
+"language": "tpi",
+"title": "Solwara bilong Galili"
+},
+"arb": {
+"content_id": 282082,
+"language": "arb",
+"title": "بحيرة طبريا"
+},
+"fra": {
+"content_id": 283015,
+"language": "fra",
+"title": "Mer de Galilée"
+},
+"hin": {
+"content_id": 283948,
+"language": "hin",
+"title": "गलील सागर"
+},
+"ind": {
+"content_id": 284881,
+"language": "ind",
+"title": "Laut Galilea"
+},
+"zlm": {
+"content_id": 285814,
+"language": "zlm",
+"title": "Laut Galilea"
+},
+"por": {
+"content_id": 286747,
+"language": "por",
+"title": "Mar da Galileia"
+},
+"rus": {
+"content_id": 287680,
+"language": "rus",
+"title": "Галилейское море"
+},
+"spa": {
+"content_id": 288613,
+"language": "spa",
+"title": "Mar de Galilea"
+},
+"swh": {
+"content_id": 289546,
+"language": "swh",
+"title": "Bahari ya Galilaya"
+},
+"hau": {
+"content_id": 290479,
+"language": "hau",
+"title": "Tekun Galili"
+},
+"ibo": {
+"content_id": 291413,
+"language": "ibo",
+"title": "Oké Osimiri Galili"
+},
+"bis": {
+"content_id": 292346,
+"language": "bis",
+"title": "Solwota blong Galili"
+},
+"vie": {
+"content_id": 293279,
+"language": "vie",
+"title": "Biển hồ Galilee"
+},
+"apd": {
+"content_id": 294212,
+"language": "apd",
+"title": "بحيرة طبريا"
+},
+"zhs": {
+"content_id": 295145,
+"language": "zhs",
+"title": "加利利海"
+},
+"zht": {
+"content_id": 296078,
+"language": "zht",
+"title": "加利利海"
+}
+}
+},
+"870931": {
+"content_id": "870931",
+"reference_id": 222510,
+"index_reference": "basket as a bushel",
+"localizations": {}
+},
+"870932": {
+"content_id": "870932",
+"reference_id": 222511,
+"index_reference": "basket for provisions",
+"localizations": {}
+},
+"870933": {
+"content_id": "870933",
+"reference_id": 222512,
+"index_reference": "camel",
+"localizations": {}
+},
+"870934": {
+"content_id": "870934",
+"reference_id": 222513,
+"index_reference": "cliffs",
+"localizations": {}
+},
+"870935": {
+"content_id": "870935",
+"reference_id": 222514,
+"index_reference": "egyptian cloak",
+"localizations": {}
+},
+"870936": {
+"content_id": "870936",
+"reference_id": 222515,
+"index_reference": "coins",
+"localizations": {}
+},
+"870937": {
+"content_id": "870937",
+"reference_id": 222516,
+"index_reference": "cornerstone with a wall",
+"localizations": {}
+},
+"870938": {
+"content_id": "870938",
+"reference_id": 222517,
+"index_reference": "cooked fish",
+"localizations": {}
+},
+"870939": {
+"content_id": "870939",
+"reference_id": 222518,
+"index_reference": "house in the time of jesus",
+"localizations": {}
+},
+"870940": {
+"content_id": "870940",
+"reference_id": 222519,
+"index_reference": "lampstand",
+"localizations": {}
+},
+"870941": {
+"content_id": "870941",
+"reference_id": 222520,
+"index_reference": "manger",
+"localizations": {}
+},
+"870942": {
+"content_id": "870942",
+"reference_id": 222521,
+"index_reference": "millstone",
+"localizations": {}
+},
+"870943": {
+"content_id": "870943",
+"reference_id": 222522,
+"index_reference": "mount of olives",
+"localizations": {}
+},
+"870944": {
+"content_id": "870944",
+"reference_id": 222523,
+"index_reference": "oil lamp",
+"localizations": {}
+},
+"870945": {
+"content_id": "870945",
+"reference_id": 222524,
+"index_reference": "olive and palm branches",
+"localizations": {}
+},
+"870946": {
+"content_id": "870946",
+"reference_id": 222525,
+"index_reference": "sleeping mat",
+"localizations": {}
+},
+"870947": {
+"content_id": "870947",
+"reference_id": 222526,
+"index_reference": "plowing a field",
+"localizations": {}
+},
+"870948": {
+"content_id": "870948",
+"reference_id": 222527,
+"index_reference": "four soils",
+"localizations": {}
+},
+"870949": {
+"content_id": "870949",
+"reference_id": 222528,
+"index_reference": "stone wall around a vineyard",
+"localizations": {}
+},
+"870950": {
+"content_id": "870950",
+"reference_id": 222529,
+"index_reference": "synagogue",
+"localizations": {}
+},
+"870951": {
+"content_id": "870951",
+"reference_id": 222530,
+"index_reference": "tombs",
+"localizations": {}
+},
+"870952": {
+"content_id": "870952",
+"reference_id": 222531,
+"index_reference": "traveler's bag",
+"localizations": {}
+},
+"870953": {
+"content_id": "870953",
+"reference_id": 222532,
+"index_reference": "tunic",
+"localizations": {}
+},
+"870954": {
+"content_id": "870954",
+"reference_id": 222533,
+"index_reference": "watchtower for a vineyard",
+"localizations": {}
+},
+"870955": {
+"content_id": "870955",
+"reference_id": 222534,
+"index_reference": "wheat ready for harvest",
+"localizations": {}
+},
+"870956": {
+"content_id": "870956",
+"reference_id": 222535,
+"index_reference": "wheat with heads of grain",
+"localizations": {}
+},
+"870957": {
+"content_id": "870957",
+"reference_id": 222536,
+"index_reference": "wineskins",
+"localizations": {}
+},
+"870958": {
+"content_id": "870958",
+"reference_id": 222537,
+"index_reference": "writing tablet",
+"localizations": {}
+},
+"870959": {
+"content_id": "870959",
+"reference_id": 222538,
+"index_reference": "sandals",
+"localizations": {}
+},
+"870960": {
+"content_id": "870960",
+"reference_id": 222539,
+"index_reference": "olive tree",
+"localizations": {}
+},
+"870961": {
+"content_id": "870961",
+"reference_id": 222540,
+"index_reference": "sickle",
+"localizations": {}
+},
+"870962": {
+"content_id": "870962",
+"reference_id": 222541,
+"index_reference": "platter",
+"localizations": {}
+},
+"870963": {
+"content_id": "870963",
+"reference_id": 222542,
+"index_reference": "staff",
+"localizations": {}
+},
+"870964": {
+"content_id": "870964",
+"reference_id": 222543,
+"index_reference": "winnowing fork",
+"localizations": {}
+},
+"870965": {
+"content_id": "870965",
+"reference_id": 222544,
+"index_reference": "garden of gethsemane",
+"localizations": {}
+},
+"870966": {
+"content_id": "870966",
+"reference_id": 222545,
+"index_reference": "alabaster jar",
+"localizations": {}
+},
+"870967": {
+"content_id": "870967",
+"reference_id": 222546,
+"index_reference": "club",
+"localizations": {}
+},
+"870968": {
+"content_id": "870968",
+"reference_id": 222547,
+"index_reference": "rooster",
+"localizations": {}
+},
+"870969": {
+"content_id": "870969",
+"reference_id": 222548,
+"index_reference": "sponge with wine on a stick",
+"localizations": {}
+},
+"870970": {
+"content_id": "870970",
+"reference_id": 222549,
+"index_reference": "water jar",
+"localizations": {}
+},
+"870971": {
+"content_id": "870971",
+"reference_id": 222550,
+"index_reference": "jar of sour wine",
+"localizations": {}
+},
+"870972": {
+"content_id": "870972",
+"reference_id": 222551,
+"index_reference": "long sheet of linen cloth",
+"localizations": {}
+},
+"870973": {
+"content_id": "870973",
+"reference_id": 222552,
+"index_reference": "copper coins",
+"localizations": {}
+},
+"870974": {
+"content_id": "870974",
+"reference_id": 222553,
+"index_reference": "garden tomb",
+"localizations": {}
+},
+"870975": {
+"content_id": "870975",
+"reference_id": 222554,
+"index_reference": "sacrificial animals",
+"localizations": {}
+},
+"870976": {
+"content_id": "870976",
+"reference_id": 222555,
+"index_reference": "bitter herbs",
+"localizations": {}
+},
+"870977": {
+"content_id": "870977",
+"reference_id": 222556,
+"index_reference": "roasted lamb",
+"localizations": {}
+},
+"870978": {
+"content_id": "870978",
+"reference_id": 222557,
+"index_reference": "purple robe",
+"localizations": {}
+},
+"870979": {
+"content_id": "870979",
+"reference_id": 222558,
+"index_reference": "stick",
+"localizations": {}
+},
+"870980": {
+"content_id": "870980",
+"reference_id": 222559,
+"index_reference": "lots",
+"localizations": {}
+},
+"870981": {
+"content_id": "870981",
+"reference_id": 222560,
+"index_reference": "mount precipice",
+"localizations": {}
+},
+"870982": {
+"content_id": "870982",
+"reference_id": 222561,
+"index_reference": "town gate",
+"localizations": {}
+},
+"870983": {
+"content_id": "870983",
+"reference_id": 222562,
+"index_reference": "chains",
+"localizations": {}
+},
+"870984": {
+"content_id": "870984",
+"reference_id": 222563,
+"index_reference": "unleavened bread",
+"localizations": {}
+},
+"870985": {
+"content_id": "870985",
+"reference_id": 222564,
+"index_reference": "large basket",
+"localizations": {}
+},
+"870986": {
+"content_id": "870986",
+"reference_id": 222565,
+"index_reference": "axe",
+"localizations": {}
+},
+"870987": {
+"content_id": "870987",
+"reference_id": 222566,
+"index_reference": "white robe",
+"localizations": {}
+},
+"870988": {
+"content_id": "870988",
+"reference_id": 222567,
+"index_reference": "reed plant",
+"localizations": {}
+},
+"870989": {
+"content_id": "870989",
+"reference_id": 222568,
+"index_reference": "belt",
+"localizations": {}
+},
+"870990": {
+"content_id": "870990",
+"reference_id": 222569,
+"index_reference": "iron gate",
+"localizations": {}
+},
+"870991": {
+"content_id": "870991",
+"reference_id": 222570,
+"index_reference": "fish scales",
+"localizations": {}
+},
+"870992": {
+"content_id": "870992",
+"reference_id": 222571,
+"index_reference": "stew",
+"localizations": {}
+},
+"870993": {
+"content_id": "870993",
+"reference_id": 222572,
+"index_reference": "bow and arrows",
+"localizations": {}
+},
+"870994": {
+"content_id": "870994",
+"reference_id": 222573,
+"index_reference": "sackcloth",
+"localizations": {}
+},
+"870995": {
+"content_id": "870995",
+"reference_id": 222574,
+"index_reference": "cloak of camel hair",
+"localizations": {}
+},
+"870996": {
+"content_id": "870996",
+"reference_id": 222575,
+"index_reference": "pine trees",
+"localizations": {}
+},
+"870997": {
+"content_id": "870997",
+"reference_id": 222576,
+"index_reference": "nests inside noah's ark",
+"localizations": {}
+},
+"870998": {
+"content_id": "870998",
+"reference_id": 222577,
+"index_reference": "man who is girded up",
+"localizations": {}
+},
+"870999": {
+"content_id": "870999",
+"reference_id": 222578,
+"index_reference": "pearls",
+"localizations": {}
+},
+"871000": {
+"content_id": "871000",
+"reference_id": 222579,
+"index_reference": "adult and kid goat",
+"localizations": {}
+},
+"871001": {
+"content_id": "871001",
+"reference_id": 222580,
+"index_reference": "tambourine",
+"localizations": {}
+},
+"871002": {
+"content_id": "871002",
+"reference_id": 222581,
+"index_reference": "purse",
+"localizations": {}
+},
+"871003": {
+"content_id": "871003",
+"reference_id": 222582,
+"index_reference": "fish",
+"localizations": {}
+},
+"871004": {
+"content_id": "871004",
+"reference_id": 222583,
+"index_reference": "goat skin",
+"localizations": {}
+},
+"871005": {
+"content_id": "871005",
+"reference_id": 222584,
+"index_reference": "adult donkey",
+"localizations": {}
+},
+"871006": {
+"content_id": "871006",
+"reference_id": 222585,
+"index_reference": "ashes",
+"localizations": {}
+},
+"871007": {
+"content_id": "871007",
+"reference_id": 222586,
+"index_reference": "entrance to jewish house",
+"localizations": {}
+},
+"871008": {
+"content_id": "871008",
+"reference_id": 222587,
+"index_reference": "cave",
+"localizations": {}
+},
+"871009": {
+"content_id": "871009",
+"reference_id": 222588,
+"index_reference": "joseph's coat",
+"localizations": {}
+},
+"871010": {
+"content_id": "871010",
+"reference_id": 222589,
+"index_reference": "fine linen cloth",
+"localizations": {}
+},
+"871011": {
+"content_id": "871011",
+"reference_id": 222590,
+"index_reference": "snow",
+"localizations": {}
+},
+"871012": {
+"content_id": "871012",
+"reference_id": 222591,
+"index_reference": "snake",
+"localizations": {}
+},
+"871013": {
+"content_id": "871013",
+"reference_id": 222592,
+"index_reference": "seeds",
+"localizations": {}
+},
+"871014": {
+"content_id": "871014",
+"reference_id": 222593,
+"index_reference": "hail falling",
+"localizations": {}
+}
+}
 }

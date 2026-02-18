@@ -4,7 +4,7 @@
     "resource_type": "Images, Maps, Videos",
     "title": "Videos (Video Bible Dictionary)",
     "aquifer_name": "Video (Kamus Igbo Video)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Videos (Video Bible Dictionary)",
     "short_name": "VBD",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2025-10-27",
+    "date_created": "2025-11-17",
     "language": "ibo",
     "localizations": [
       "eng",
@@ -59,7 +59,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-27T17:27:06.215629"
+      "dateCreated": "2025-11-17T09:38:11.491006"
     },
     "idAuthorities": {
       "aquifer": {
@@ -73,7 +73,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2025-10-27T17:27:06.215629"
+            "timestamp": "2025-11-17T09:38:11.491006"
           }
         }
       },
@@ -103,21 +103,33 @@
       }
     },
     "ingredients": {
-      "json/000001.content.json": {
+      "json/001.content.json": {
         "mimeType": "text/json",
-        "size": 1082
+        "size": 2856,
+        "scope": {
+          "o": [
+            "Oké Osimiri Galili",
+            "Osimiri Jordan",
+            "Ọhịa"
+          ]
+        }
       },
-      "json/000002.content.json": {
+      "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 769
+        "size": 781,
+        "scope": {
+          "u": [
+            "Ụdọ Azụ"
+          ]
+        }
       },
-      "json/000003.content.json": {
-        "mimeType": "text/json",
-        "size": 924
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1371
       },
-      "json/000004.content.json": {
-        "mimeType": "text/json",
-        "size": 752
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 718
       }
     },
     "copyright": {
@@ -136,98 +148,6 @@
     }
   },
   "article_metadata": {
-    "291411": {
-      "content_id": 291411,
-      "reference_id": 8440,
-      "index_reference": "ọhịa",
-      "localizations": {
-        "eng": {
-          "content_id": 9272,
-          "language": "eng",
-          "title": "Wilderness"
-        },
-        "tpi": {
-          "content_id": 281147,
-          "language": "tpi",
-          "title": "Bus bilong ol man i no stap"
-        },
-        "arb": {
-          "content_id": 282080,
-          "language": "arb",
-          "title": "البرية"
-        },
-        "fra": {
-          "content_id": 283013,
-          "language": "fra",
-          "title": "Désert"
-        },
-        "hin": {
-          "content_id": 283946,
-          "language": "hin",
-          "title": "जंगल"
-        },
-        "ind": {
-          "content_id": 284879,
-          "language": "ind",
-          "title": "Alam liar"
-        },
-        "zlm": {
-          "content_id": 285812,
-          "language": "zlm",
-          "title": "Hutan belantara"
-        },
-        "por": {
-          "content_id": 286745,
-          "language": "por",
-          "title": "Selvagem"
-        },
-        "rus": {
-          "content_id": 287678,
-          "language": "rus",
-          "title": "Дикая природа"
-        },
-        "spa": {
-          "content_id": 288611,
-          "language": "spa",
-          "title": "Desierto"
-        },
-        "swh": {
-          "content_id": 289544,
-          "language": "swh",
-          "title": "Porini"
-        },
-        "hau": {
-          "content_id": 290477,
-          "language": "hau",
-          "title": "Daji"
-        },
-        "bis": {
-          "content_id": 292344,
-          "language": "bis",
-          "title": "Bus."
-        },
-        "vie": {
-          "content_id": 293277,
-          "language": "vie",
-          "title": "Vùng hoang dã"
-        },
-        "apd": {
-          "content_id": 294210,
-          "language": "apd",
-          "title": "البرية"
-        },
-        "zhs": {
-          "content_id": 295143,
-          "language": "zhs",
-          "title": "荒野"
-        },
-        "zht": {
-          "content_id": 296076,
-          "language": "zht",
-          "title": "荒野"
-        }
-      }
-    },
     "291413": {
       "content_id": 291413,
       "reference_id": 8442,
@@ -409,6 +329,98 @@
           "content_id": 296075,
           "language": "zht",
           "title": "約旦河"
+        }
+      }
+    },
+    "291411": {
+      "content_id": 291411,
+      "reference_id": 8440,
+      "index_reference": "ọhịa",
+      "localizations": {
+        "eng": {
+          "content_id": 9272,
+          "language": "eng",
+          "title": "Wilderness"
+        },
+        "tpi": {
+          "content_id": 281147,
+          "language": "tpi",
+          "title": "Bus bilong ol man i no stap"
+        },
+        "arb": {
+          "content_id": 282080,
+          "language": "arb",
+          "title": "البرية"
+        },
+        "fra": {
+          "content_id": 283013,
+          "language": "fra",
+          "title": "Désert"
+        },
+        "hin": {
+          "content_id": 283946,
+          "language": "hin",
+          "title": "जंगल"
+        },
+        "ind": {
+          "content_id": 284879,
+          "language": "ind",
+          "title": "Alam liar"
+        },
+        "zlm": {
+          "content_id": 285812,
+          "language": "zlm",
+          "title": "Hutan belantara"
+        },
+        "por": {
+          "content_id": 286745,
+          "language": "por",
+          "title": "Selvagem"
+        },
+        "rus": {
+          "content_id": 287678,
+          "language": "rus",
+          "title": "Дикая природа"
+        },
+        "spa": {
+          "content_id": 288611,
+          "language": "spa",
+          "title": "Desierto"
+        },
+        "swh": {
+          "content_id": 289544,
+          "language": "swh",
+          "title": "Porini"
+        },
+        "hau": {
+          "content_id": 290477,
+          "language": "hau",
+          "title": "Daji"
+        },
+        "bis": {
+          "content_id": 292344,
+          "language": "bis",
+          "title": "Bus."
+        },
+        "vie": {
+          "content_id": 293277,
+          "language": "vie",
+          "title": "Vùng hoang dã"
+        },
+        "apd": {
+          "content_id": 294210,
+          "language": "apd",
+          "title": "البرية"
+        },
+        "zhs": {
+          "content_id": 295143,
+          "language": "zhs",
+          "title": "荒野"
+        },
+        "zht": {
+          "content_id": 296076,
+          "language": "zht",
+          "title": "荒野"
         }
       }
     },

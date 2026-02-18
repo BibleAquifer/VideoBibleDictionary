@@ -1,4 +1,4 @@
-# _Videos (Video Bible Dictionary)_ Aquifer Resource
+# _Familiarization, Internalization, Articulation (FIA) Videos_ Aquifer Resource
 
 This repository (`VideoBibleDictionary`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 

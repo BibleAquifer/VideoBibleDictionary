@@ -1,0 +1,432 @@
+[
+  {
+    "content_id": "870933",
+    "reference_id": 222512,
+    "version": "1.0.1",
+    "title": "Camel",
+    "media_type": "Video",
+    "index_reference": "camel",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a9-camel.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a9-camel.jpg' /></a> (58 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a9-camel.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01024001",
+          "start_ref_usfm": "GEN 24:1",
+          "end_ref": "01024014",
+          "end_ref_usfm": "GEN 24:14"
+        },
+        {
+          "start_ref": "01032001",
+          "start_ref_usfm": "GEN 32:1",
+          "end_ref": "01032021",
+          "end_ref_usfm": "GEN 32:21"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018030",
+          "end_ref_usfm": "LUK 18:30"
+        },
+        {
+          "start_ref": "40019013",
+          "start_ref_usfm": "MAT 19:13",
+          "end_ref": "40019030",
+          "end_ref_usfm": "MAT 19:30"
+        },
+        {
+          "start_ref": "40023023",
+          "start_ref_usfm": "MAT 23:23",
+          "end_ref": "40023028",
+          "end_ref_usfm": "MAT 23:28"
+        },
+        {
+          "start_ref": "41010013",
+          "start_ref_usfm": "MRK 10:13",
+          "end_ref": "41010031",
+          "end_ref_usfm": "MRK 10:31"
+        },
+        {
+          "start_ref": "13012023",
+          "start_ref_usfm": "1CH 12:23",
+          "end_ref": "13012040",
+          "end_ref_usfm": "1CH 12:40"
+        },
+        {
+          "start_ref": "13027025",
+          "start_ref_usfm": "1CH 27:25",
+          "end_ref": "13027031",
+          "end_ref_usfm": "1CH 27:31"
+        },
+        {
+          "start_ref": "07007009",
+          "start_ref_usfm": "JDG 7:9",
+          "end_ref": "07007015",
+          "end_ref_usfm": "JDG 7:15"
+        },
+        {
+          "start_ref": "14009001",
+          "start_ref_usfm": "2CH 9:1",
+          "end_ref": "14009012",
+          "end_ref_usfm": "2CH 9:12"
+        },
+        {
+          "start_ref": "01024029",
+          "start_ref_usfm": "GEN 24:29",
+          "end_ref": "01024049",
+          "end_ref_usfm": "GEN 24:49"
+        },
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "01024015",
+          "start_ref_usfm": "GEN 24:15",
+          "end_ref": "01024028",
+          "end_ref_usfm": "GEN 24:28"
+        },
+        {
+          "start_ref": "03011001",
+          "start_ref_usfm": "LEV 11:1",
+          "end_ref": "03011008",
+          "end_ref_usfm": "LEV 11:8"
+        },
+        {
+          "start_ref": "07006001",
+          "start_ref_usfm": "JDG 6:1",
+          "end_ref": "07006010",
+          "end_ref_usfm": "JDG 6:10"
+        },
+        {
+          "start_ref": "07008004",
+          "start_ref_usfm": "JDG 8:4",
+          "end_ref": "07008021",
+          "end_ref_usfm": "JDG 8:21"
+        },
+        {
+          "start_ref": "09015001",
+          "start_ref_usfm": "1SA 15:1",
+          "end_ref": "09015009",
+          "end_ref_usfm": "1SA 15:9"
+        },
+        {
+          "start_ref": "11009026",
+          "start_ref_usfm": "1KI 9:26",
+          "end_ref": "11010013",
+          "end_ref_usfm": "1KI 10:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "871008",
+    "reference_id": 222587,
+    "version": "1.0.1",
+    "title": "Cave",
+    "media_type": "Video",
+    "index_reference": "cave",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a141-cave.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a141-cave.jpg' /></a> (94 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a141-cave.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019030",
+          "start_ref_usfm": "GEN 19:30",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "07015001",
+          "start_ref_usfm": "JDG 15:1",
+          "end_ref": "07015008",
+          "end_ref_usfm": "JDG 15:8"
+        },
+        {
+          "start_ref": "07015009",
+          "start_ref_usfm": "JDG 15:9",
+          "end_ref": "07015020",
+          "end_ref_usfm": "JDG 15:20"
+        },
+        {
+          "start_ref": "42019045",
+          "start_ref_usfm": "LUK 19:45",
+          "end_ref": "42020008",
+          "end_ref_usfm": "LUK 20:8"
+        },
+        {
+          "start_ref": "07006001",
+          "start_ref_usfm": "JDG 6:1",
+          "end_ref": "07006010",
+          "end_ref_usfm": "JDG 6:10"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017029",
+          "end_ref_usfm": "2SA 17:29"
+        },
+        {
+          "start_ref": "06010016",
+          "start_ref_usfm": "JOS 10:16",
+          "end_ref": "06010028",
+          "end_ref_usfm": "JOS 10:28"
+        },
+        {
+          "start_ref": "09024001",
+          "start_ref_usfm": "1SA 24:1",
+          "end_ref": "09024007",
+          "end_ref_usfm": "1SA 24:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870983",
+    "reference_id": 222562,
+    "version": "1.0.1",
+    "title": "Chains",
+    "media_type": "Video",
+    "index_reference": "chains",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a26-chains.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a26-chains.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a26-chains.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "42008026",
+          "start_ref_usfm": "LUK 8:26",
+          "end_ref": "42008039",
+          "end_ref_usfm": "LUK 8:39"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870934",
+    "reference_id": 222513,
+    "version": "1.0.1",
+    "title": "Cliffs",
+    "media_type": "Video",
+    "index_reference": "cliffs",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a12-cliffs.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a12-cliffs.jpg' /></a> (49 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a12-cliffs.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "40008028",
+          "start_ref_usfm": "MAT 8:28",
+          "end_ref": "40008034",
+          "end_ref_usfm": "MAT 8:34"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870995",
+    "reference_id": 222574,
+    "version": "1.0.1",
+    "title": "Cloak of Camel Hair",
+    "media_type": "Video",
+    "index_reference": "cloak of camel hair",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1353-cloak-camel-hair.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1353-cloak-camel-hair.jpg' /></a> (86 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1353-cloak-camel-hair.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870967",
+    "reference_id": 222546,
+    "version": "1.0.1",
+    "title": "Club",
+    "media_type": "Video",
+    "index_reference": "club",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a25-club.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a25-club.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a25-club.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41014043",
+          "start_ref_usfm": "MRK 14:43",
+          "end_ref": "41014052",
+          "end_ref_usfm": "MRK 14:52"
+        },
+        {
+          "start_ref": "40026047",
+          "start_ref_usfm": "MAT 26:47",
+          "end_ref": "40026056",
+          "end_ref_usfm": "MAT 26:56"
+        },
+        {
+          "start_ref": "02021018",
+          "start_ref_usfm": "EXO 21:18",
+          "end_ref": "02021027",
+          "end_ref_usfm": "EXO 21:27"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870936",
+    "reference_id": 222515,
+    "version": "1.0.1",
+    "title": "Coins",
+    "media_type": "Video",
+    "index_reference": "coins",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a28-coins.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a28-coins.jpg' /></a> (65 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a28-coins.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41006006",
+          "start_ref_usfm": "MRK 6:6",
+          "end_ref": "41006013",
+          "end_ref_usfm": "MRK 6:13"
+        },
+        {
+          "start_ref": "40025014",
+          "start_ref_usfm": "MAT 25:14",
+          "end_ref": "40025030",
+          "end_ref_usfm": "MAT 25:30"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870938",
+    "reference_id": 222517,
+    "version": "1.0.1",
+    "title": "Cooked Fish",
+    "media_type": "Video",
+    "index_reference": "cooked fish",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a43-fish-cooked.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a43-fish-cooked.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a43-fish-cooked.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40015029",
+          "start_ref_usfm": "MAT 15:29",
+          "end_ref": "40015039",
+          "end_ref_usfm": "MAT 15:39"
+        },
+        {
+          "start_ref": "41006030",
+          "start_ref_usfm": "MRK 6:30",
+          "end_ref": "41006044",
+          "end_ref_usfm": "MRK 6:44"
+        },
+        {
+          "start_ref": "41008001",
+          "start_ref_usfm": "MRK 8:1",
+          "end_ref": "41008010",
+          "end_ref_usfm": "MRK 8:10"
+        },
+        {
+          "start_ref": "42009001",
+          "start_ref_usfm": "LUK 9:1",
+          "end_ref": "42009017",
+          "end_ref_usfm": "LUK 9:17"
+        },
+        {
+          "start_ref": "04011001",
+          "start_ref_usfm": "NUM 11:1",
+          "end_ref": "04011015",
+          "end_ref_usfm": "NUM 11:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870973",
+    "reference_id": 222552,
+    "version": "1.0.1",
+    "title": "Copper Coins",
+    "media_type": "Video",
+    "index_reference": "copper coins",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a29-coins-copper.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a29-coins-copper.jpg' /></a> (69 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a29-coins-copper.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41012038",
+          "start_ref_usfm": "MRK 12:38",
+          "end_ref": "41012044",
+          "end_ref_usfm": "MRK 12:44"
+        },
+        {
+          "start_ref": "40010026",
+          "start_ref_usfm": "MAT 10:26",
+          "end_ref": "40010033",
+          "end_ref_usfm": "MAT 10:33"
+        },
+        {
+          "start_ref": "42020045",
+          "start_ref_usfm": "LUK 20:45",
+          "end_ref": "42021004",
+          "end_ref_usfm": "LUK 21:4"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": "870937",
+    "reference_id": 222516,
+    "version": "1.0.1",
+    "title": "Cornerstone with a Wall",
+    "media_type": "Video",
+    "index_reference": "cornerstone with a wall",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a181-cornerstone-with-wall.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a181-cornerstone-with-wall.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a181-cornerstone-with-wall.mp4'>link</a></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "49002019",
+          "start_ref_usfm": "EPH 2:19",
+          "end_ref": "49002022",
+          "end_ref_usfm": "EPH 2:22"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
