@@ -1,0 +1,54 @@
+[
+{
+"content_id": "a19",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "渔网",
+"media_type": "Video",
+"index_reference": "渔网",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a19/720p.mp4'><img src='thumbnails/a19_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a19/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011009",
+"start_ref_usfm": "LEV 11:9",
+"end_ref": "03011012",
+"end_ref_usfm": "LEV 11:12"
+},
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40013044",
+"start_ref_usfm": "MAT 13:44",
+"end_ref": "40013053",
+"end_ref_usfm": "MAT 13:53"
+},
+{
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021014",
+"end_ref_usfm": "JHN 21:14"
+}
+],
+"resource": []
+}
+}
+]

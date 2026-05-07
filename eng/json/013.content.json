@@ -1,230 +1,248 @@
 [
-  {
-    "content_id": "870944",
-    "reference_id": 222523,
-    "version": "1.0.1",
-    "title": "Oil Lamp",
-    "media_type": "Video",
-    "index_reference": "oil lamp",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a22-lamp-oil.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a22-lamp-oil.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a22-lamp-oil.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44020007",
-          "start_ref_usfm": "ACT 20:7",
-          "end_ref": "44020012",
-          "end_ref_usfm": "ACT 20:12"
-        },
-        {
-          "start_ref": "42008016",
-          "start_ref_usfm": "LUK 8:16",
-          "end_ref": "42008018",
-          "end_ref_usfm": "LUK 8:18"
-        },
-        {
-          "start_ref": "40006019",
-          "start_ref_usfm": "MAT 6:19",
-          "end_ref": "40006034",
-          "end_ref_usfm": "MAT 6:34"
-        },
-        {
-          "start_ref": "40005013",
-          "start_ref_usfm": "MAT 5:13",
-          "end_ref": "40005016",
-          "end_ref_usfm": "MAT 5:16"
-        },
-        {
-          "start_ref": "41004021",
-          "start_ref_usfm": "MRK 4:21",
-          "end_ref": "41004025",
-          "end_ref_usfm": "MRK 4:25"
-        },
-        {
-          "start_ref": "11015001",
-          "start_ref_usfm": "1KI 15:1",
-          "end_ref": "11015008",
-          "end_ref_usfm": "1KI 15:8"
-        },
-        {
-          "start_ref": "40012015",
-          "start_ref_usfm": "MAT 12:15",
-          "end_ref": "40012021",
-          "end_ref_usfm": "MAT 12:21"
-        },
-        {
-          "start_ref": "40025001",
-          "start_ref_usfm": "MAT 25:1",
-          "end_ref": "40025013",
-          "end_ref_usfm": "MAT 25:13"
-        },
-        {
-          "start_ref": "10021015",
-          "start_ref_usfm": "2SA 21:15",
-          "end_ref": "10021022",
-          "end_ref_usfm": "2SA 21:22"
-        },
-        {
-          "start_ref": "42012035",
-          "start_ref_usfm": "LUK 12:35",
-          "end_ref": "42012048",
-          "end_ref_usfm": "LUK 12:48"
-        },
-        {
-          "start_ref": "43005031",
-          "start_ref_usfm": "JHN 5:31",
-          "end_ref": "43005047",
-          "end_ref_usfm": "JHN 5:47"
-        },
-        {
-          "start_ref": "44016025",
-          "start_ref_usfm": "ACT 16:25",
-          "end_ref": "44016040",
-          "end_ref_usfm": "ACT 16:40"
-        },
-        {
-          "start_ref": "42015001",
-          "start_ref_usfm": "LUK 15:1",
-          "end_ref": "42015010",
-          "end_ref_usfm": "LUK 15:10"
-        },
-        {
-          "start_ref": "43018001",
-          "start_ref_usfm": "JHN 18:1",
-          "end_ref": "43018014",
-          "end_ref_usfm": "JHN 18:14"
-        },
-        {
-          "start_ref": "42011033",
-          "start_ref_usfm": "LUK 11:33",
-          "end_ref": "42011054",
-          "end_ref_usfm": "LUK 11:54"
-        },
-        {
-          "start_ref": "10022021",
-          "start_ref_usfm": "2SA 22:21",
-          "end_ref": "10022029",
-          "end_ref_usfm": "2SA 22:29"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870945",
-    "reference_id": 222524,
-    "version": "1.0.1",
-    "title": "Olive and Palm Branches",
-    "media_type": "Video",
-    "index_reference": "olive and palm branches",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a5-branches-olive-palm.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a5-branches-olive-palm.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a5-branches-olive-palm.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41011001",
-          "start_ref_usfm": "MRK 11:1",
-          "end_ref": "41011011",
-          "end_ref_usfm": "MRK 11:11"
-        },
-        {
-          "start_ref": "43012012",
-          "start_ref_usfm": "JHN 12:12",
-          "end_ref": "43012019",
-          "end_ref_usfm": "JHN 12:19"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870960",
-    "reference_id": 222539,
-    "version": "1.0.1",
-    "title": "Olive Tree",
-    "media_type": "Video",
-    "index_reference": "olive tree",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a44-tree-olive.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a44-tree-olive.jpg' /></a> (92 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a44-tree-olive.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01008001",
-          "start_ref_usfm": "GEN 8:1",
-          "end_ref": "01008019",
-          "end_ref_usfm": "GEN 8:19"
-        },
-        {
-          "start_ref": "41011001",
-          "start_ref_usfm": "MRK 11:1",
-          "end_ref": "41011011",
-          "end_ref_usfm": "MRK 11:11"
-        },
-        {
-          "start_ref": "41013001",
-          "start_ref_usfm": "MRK 13:1",
-          "end_ref": "41013008",
-          "end_ref_usfm": "MRK 13:8"
-        },
-        {
-          "start_ref": "41014032",
-          "start_ref_usfm": "MRK 14:32",
-          "end_ref": "41014042",
-          "end_ref_usfm": "MRK 14:42"
-        },
-        {
-          "start_ref": "44001012",
-          "start_ref_usfm": "ACT 1:12",
-          "end_ref": "44001014",
-          "end_ref_usfm": "ACT 1:14"
-        },
-        {
-          "start_ref": "07009007",
-          "start_ref_usfm": "JDG 9:7",
-          "end_ref": "07009021",
-          "end_ref_usfm": "JDG 9:21"
-        },
-        {
-          "start_ref": "42022039",
-          "start_ref_usfm": "LUK 22:39",
-          "end_ref": "42022046",
-          "end_ref_usfm": "LUK 22:46"
-        },
-        {
-          "start_ref": "44001006",
-          "start_ref_usfm": "ACT 1:6",
-          "end_ref": "44001011",
-          "end_ref_usfm": "ACT 1:11"
-        },
-        {
-          "start_ref": "59003001",
-          "start_ref_usfm": "JAS 3:1",
-          "end_ref": "59003012",
-          "end_ref_usfm": "JAS 3:12"
-        },
-        {
-          "start_ref": "42019028",
-          "start_ref_usfm": "LUK 19:28",
-          "end_ref": "42019044",
-          "end_ref_usfm": "LUK 19:44"
-        },
-        {
-          "start_ref": "02030022",
-          "start_ref_usfm": "EXO 30:22",
-          "end_ref": "02030033",
-          "end_ref_usfm": "EXO 30:33"
-        },
-        {
-          "start_ref": "02025001",
-          "start_ref_usfm": "EXO 25:1",
-          "end_ref": "02025009",
-          "end_ref_usfm": "EXO 25:9"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a22",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Oil Lamp",
+"media_type": "Video",
+"index_reference": "oil lamp",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a22/720p.mp4'><img src='thumbnails/a22_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a22/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021022",
+"end_ref_usfm": "2SA 21:22"
+},
+{
+"start_ref": "10022021",
+"start_ref_usfm": "2SA 22:21",
+"end_ref": "10022029",
+"end_ref_usfm": "2SA 22:29"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "11015001",
+"start_ref_usfm": "1KI 15:1",
+"end_ref": "11015008",
+"end_ref_usfm": "1KI 15:8"
+},
+{
+"start_ref": "14021001",
+"start_ref_usfm": "2CH 21:1",
+"end_ref": "14021010",
+"end_ref_usfm": "2CH 21:10"
+},
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "40006019",
+"start_ref_usfm": "MAT 6:19",
+"end_ref": "40006034",
+"end_ref_usfm": "MAT 6:34"
+},
+{
+"start_ref": "40012015",
+"start_ref_usfm": "MAT 12:15",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025013",
+"end_ref_usfm": "MAT 25:13"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "42012035",
+"start_ref_usfm": "LUK 12:35",
+"end_ref": "42012048",
+"end_ref_usfm": "LUK 12:48"
+},
+{
+"start_ref": "42015001",
+"start_ref_usfm": "LUK 15:1",
+"end_ref": "42015010",
+"end_ref_usfm": "LUK 15:10"
+},
+{
+"start_ref": "43005031",
+"start_ref_usfm": "JHN 5:31",
+"end_ref": "43005047",
+"end_ref_usfm": "JHN 5:47"
+},
+{
+"start_ref": "43018001",
+"start_ref_usfm": "JHN 18:1",
+"end_ref": "43018014",
+"end_ref_usfm": "JHN 18:14"
+},
+{
+"start_ref": "44016025",
+"start_ref_usfm": "ACT 16:25",
+"end_ref": "44016040",
+"end_ref_usfm": "ACT 16:40"
+},
+{
+"start_ref": "44020007",
+"start_ref_usfm": "ACT 20:7",
+"end_ref": "44020012",
+"end_ref_usfm": "ACT 20:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a5",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Olive and Palm Branches",
+"media_type": "Video",
+"index_reference": "olive and palm branches",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a5/720p.mp4'><img src='thumbnails/a5_720p_thumbnail.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a5/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "43012012",
+"start_ref_usfm": "JHN 12:12",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a44",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Olive Tree",
+"media_type": "Video",
+"index_reference": "olive tree",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a44/720p.mp4'><img src='thumbnails/a44_720p_thumbnail.jpg' /></a> (92 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a44/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01008001",
+"start_ref_usfm": "GEN 8:1",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "02025001",
+"start_ref_usfm": "EXO 25:1",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+},
+{
+"start_ref": "02030022",
+"start_ref_usfm": "EXO 30:22",
+"end_ref": "02030033",
+"end_ref_usfm": "EXO 30:33"
+},
+{
+"start_ref": "05024017",
+"start_ref_usfm": "DEU 24:17",
+"end_ref": "05024022",
+"end_ref_usfm": "DEU 24:22"
+},
+{
+"start_ref": "07009007",
+"start_ref_usfm": "JDG 9:7",
+"end_ref": "07009021",
+"end_ref_usfm": "JDG 9:21"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "41013001",
+"start_ref_usfm": "MRK 13:1",
+"end_ref": "41013008",
+"end_ref_usfm": "MRK 13:8"
+},
+{
+"start_ref": "41014032",
+"start_ref_usfm": "MRK 14:32",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "42022039",
+"start_ref_usfm": "LUK 22:39",
+"end_ref": "42022046",
+"end_ref_usfm": "LUK 22:46"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+},
+{
+"start_ref": "44001012",
+"start_ref_usfm": "ACT 1:12",
+"end_ref": "44001014",
+"end_ref_usfm": "ACT 1:14"
+},
+{
+"start_ref": "59003001",
+"start_ref_usfm": "JAS 3:1",
+"end_ref": "59003012",
+"end_ref_usfm": "JAS 3:12"
+}
+],
+"resource": []
+}
+}
 ]

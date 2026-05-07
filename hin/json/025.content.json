@@ -1,0 +1,244 @@
+[
+{
+"content_id": "a1269",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "वयस्क गधा",
+"media_type": "Video",
+"index_reference": "वयस्क गधा",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1269/720p.mp4'><img src='thumbnails/a1269_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1269/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01022001",
+"start_ref_usfm": "GEN 22:1",
+"end_ref": "01022019",
+"end_ref_usfm": "GEN 22:19"
+},
+{
+"start_ref": "01024029",
+"start_ref_usfm": "GEN 24:29",
+"end_ref": "01024049",
+"end_ref_usfm": "GEN 24:49"
+},
+{
+"start_ref": "01032001",
+"start_ref_usfm": "GEN 32:1",
+"end_ref": "01032021",
+"end_ref_usfm": "GEN 32:21"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02009001",
+"start_ref_usfm": "EXO 9:1",
+"end_ref": "02009007",
+"end_ref_usfm": "EXO 9:7"
+},
+{
+"start_ref": "02013001",
+"start_ref_usfm": "EXO 13:1",
+"end_ref": "02013016",
+"end_ref_usfm": "EXO 13:16"
+},
+{
+"start_ref": "02020008",
+"start_ref_usfm": "EXO 20:8",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023009",
+"end_ref_usfm": "EXO 23:9"
+},
+{
+"start_ref": "04031025",
+"start_ref_usfm": "NUM 31:25",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
+},
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06015013",
+"start_ref_usfm": "JOS 15:13",
+"end_ref": "06015019",
+"end_ref_usfm": "JOS 15:19"
+},
+{
+"start_ref": "07001009",
+"start_ref_usfm": "JDG 1:9",
+"end_ref": "07001017",
+"end_ref_usfm": "JDG 1:17"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+},
+{
+"start_ref": "07010001",
+"start_ref_usfm": "JDG 10:1",
+"end_ref": "07010005",
+"end_ref_usfm": "JDG 10:5"
+},
+{
+"start_ref": "07012008",
+"start_ref_usfm": "JDG 12:8",
+"end_ref": "07012015",
+"end_ref_usfm": "JDG 12:15"
+},
+{
+"start_ref": "07015009",
+"start_ref_usfm": "JDG 15:9",
+"end_ref": "07015020",
+"end_ref_usfm": "JDG 15:20"
+},
+{
+"start_ref": "09008010",
+"start_ref_usfm": "1SA 8:10",
+"end_ref": "09008022",
+"end_ref_usfm": "1SA 8:22"
+},
+{
+"start_ref": "09009001",
+"start_ref_usfm": "1SA 9:1",
+"end_ref": "09009014",
+"end_ref_usfm": "1SA 9:14"
+},
+{
+"start_ref": "09012001",
+"start_ref_usfm": "1SA 12:1",
+"end_ref": "09012017",
+"end_ref_usfm": "1SA 12:17"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09028002",
+"end_ref_usfm": "1SA 28:2"
+},
+{
+"start_ref": "11013011",
+"start_ref_usfm": "1KI 13:11",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "11013023",
+"start_ref_usfm": "1KI 13:23",
+"end_ref": "11013034",
+"end_ref_usfm": "1KI 13:34"
+},
+{
+"start_ref": "13012023",
+"start_ref_usfm": "1CH 12:23",
+"end_ref": "13012040",
+"end_ref_usfm": "1CH 12:40"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "15002064",
+"start_ref_usfm": "EZR 2:64",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "18001013",
+"start_ref_usfm": "JOB 1:13",
+"end_ref": "18001022",
+"end_ref_usfm": "JOB 1:22"
+},
+{
+"start_ref": "42013010",
+"start_ref_usfm": "LUK 13:10",
+"end_ref": "42013017",
+"end_ref_usfm": "LUK 13:17"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "43012012",
+"start_ref_usfm": "JHN 12:12",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a183",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "वयस्क बकरी और मेम्ना",
+"media_type": "Video",
+"index_reference": "वयस्क बकरी और मेम्ना",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a183/720p.mp4'><img src='thumbnails/a183_720p_thumbnail.jpg' /></a> (67 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a183/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "09016014",
+"start_ref_usfm": "1SA 16:14",
+"end_ref": "09016023",
+"end_ref_usfm": "1SA 16:23"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+}
+],
+"resource": []
+}
+}
+]

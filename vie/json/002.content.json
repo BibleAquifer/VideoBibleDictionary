@@ -1,24 +1,24 @@
 [
-  {
-    "content_id": 293278,
-    "reference_id": 8441,
-    "version": "1.0.1",
-    "title": "Lưới đánh cá",
-    "media_type": "Video",
-    "index_reference": "lưới đánh cá",
-    "language": "vie",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/FishingNet.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/FishingNet.jpg' /></a> (83 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "293278",
+"reference_id": 8441,
+"version": "1.0.4",
+"title": "Lưới đánh cá",
+"media_type": "Video",
+"index_reference": "lưới đánh cá",
+"language": "vie",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/FishingNet.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/FishingNet.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/FishingNet.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001016",
+"start_ref_usfm": "MRK 1:16",
+"end_ref": "41001016",
+"end_ref_usfm": "MRK 1:16"
+}
+],
+"resource": []
+}
+}
 ]

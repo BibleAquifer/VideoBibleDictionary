@@ -1,0 +1,94 @@
+[
+{
+"content_id": "a139",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "टाट",
+"media_type": "Video",
+"index_reference": "टाट",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a139/720p.mp4'><img src='thumbnails/a139_720p_thumbnail.jpg' /></a> (70 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a139/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037012",
+"start_ref_usfm": "GEN 37:12",
+"end_ref": "01037036",
+"end_ref_usfm": "GEN 37:36"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "10021001",
+"start_ref_usfm": "2SA 21:1",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "11020023",
+"start_ref_usfm": "1KI 20:23",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "11021017",
+"start_ref_usfm": "1KI 21:17",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "13021007",
+"start_ref_usfm": "1CH 21:7",
+"end_ref": "13021017",
+"end_ref_usfm": "1CH 21:17"
+},
+{
+"start_ref": "40011020",
+"start_ref_usfm": "MAT 11:20",
+"end_ref": "40011024",
+"end_ref_usfm": "MAT 11:24"
+},
+{
+"start_ref": "42010001",
+"start_ref_usfm": "LUK 10:1",
+"end_ref": "42010016",
+"end_ref_usfm": "LUK 10:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a30",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "टोकरी पैमाने के रूप में",
+"media_type": "Video",
+"index_reference": "टोकरी पैमाने के रूप में",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'><img src='thumbnails/a30_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+}
+],
+"resource": []
+}
+}
+]

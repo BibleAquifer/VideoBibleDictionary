@@ -1,36 +1,176 @@
 [
-  {
-    "content_id": 288611,
-    "reference_id": 8440,
-    "version": "1.0.1",
-    "title": "Desierto",
-    "media_type": "Video",
-    "index_reference": "desierto",
-    "language": "spa",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/Wilderness.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/Wilderness.jpg' /></a> (56 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001003",
-          "start_ref_usfm": "MRK 1:3",
-          "end_ref": "41001003",
-          "end_ref_usfm": "MRK 1:3"
-        },
-        {
-          "start_ref": "41001004",
-          "start_ref_usfm": "MRK 1:4",
-          "end_ref": "41001004",
-          "end_ref_usfm": "MRK 1:4"
-        },
-        {
-          "start_ref": "41001012",
-          "start_ref_usfm": "MRK 1:12",
-          "end_ref": "41001012",
-          "end_ref_usfm": "MRK 1:12"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a12",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Acantilados",
+"media_type": "Video",
+"index_reference": "acantilados",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a12/720p.mp4'><img src='thumbnails/a12_720p_thumbnail.jpg' /></a> (49 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a12/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1404",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Arando un campo",
+"media_type": "Video",
+"index_reference": "arando un campo",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'><img src='thumbnails/a1404_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01045001",
+"start_ref_usfm": "GEN 45:1",
+"end_ref": "01045028",
+"end_ref_usfm": "GEN 45:28"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "09013015",
+"start_ref_usfm": "1SA 13:15",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a44",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Árbol de olivo",
+"media_type": "Video",
+"index_reference": "árbol de olivo",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a44/720p.mp4'><img src='thumbnails/a44_720p_thumbnail.jpg' /></a> (92 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a44/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01008001",
+"start_ref_usfm": "GEN 8:1",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "02025001",
+"start_ref_usfm": "EXO 25:1",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+},
+{
+"start_ref": "02030022",
+"start_ref_usfm": "EXO 30:22",
+"end_ref": "02030033",
+"end_ref_usfm": "EXO 30:33"
+},
+{
+"start_ref": "05024017",
+"start_ref_usfm": "DEU 24:17",
+"end_ref": "05024022",
+"end_ref_usfm": "DEU 24:22"
+},
+{
+"start_ref": "07009007",
+"start_ref_usfm": "JDG 9:7",
+"end_ref": "07009021",
+"end_ref_usfm": "JDG 9:21"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "41013001",
+"start_ref_usfm": "MRK 13:1",
+"end_ref": "41013008",
+"end_ref_usfm": "MRK 13:8"
+},
+{
+"start_ref": "41014032",
+"start_ref_usfm": "MRK 14:32",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "42022039",
+"start_ref_usfm": "LUK 22:39",
+"end_ref": "42022046",
+"end_ref_usfm": "LUK 22:46"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+},
+{
+"start_ref": "44001012",
+"start_ref_usfm": "ACT 1:12",
+"end_ref": "44001014",
+"end_ref_usfm": "ACT 1:14"
+},
+{
+"start_ref": "59003001",
+"start_ref_usfm": "JAS 3:1",
+"end_ref": "59003012",
+"end_ref_usfm": "JAS 3:12"
+}
+],
+"resource": []
+}
+}
 ]

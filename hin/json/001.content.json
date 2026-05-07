@@ -1,24 +1,76 @@
 [
-  {
-    "content_id": 283948,
-    "reference_id": 8442,
-    "version": "1.0.1",
-    "title": "गलील सागर",
-    "media_type": "Video",
-    "index_reference": "गलील सागर",
-    "language": "hin",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/SeaOfGalilee.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/SeaOfGalilee.jpg' /></a> (114 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a36",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "अंगूर के बाग की चौकी मीनार",
+"media_type": "Video",
+"index_reference": "अंगूर के बाग की चौकी मीनार",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a36/720p.mp4'><img src='thumbnails/a36_720p_thumbnail.jpg' /></a> (97 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a36/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01035021",
+"start_ref_usfm": "GEN 35:21",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "42014025",
+"start_ref_usfm": "LUK 14:25",
+"end_ref": "42014035",
+"end_ref_usfm": "LUK 14:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a34",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "अंगूर के बाग के चारों ओर बनी पत्थर की दीवार",
+"media_type": "Video",
+"index_reference": "अंगूर के बाग के चारों ओर बनी पत्थर की दीवार",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a34/720p.mp4'><img src='thumbnails/a34_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a34/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+}
+],
+"resource": []
+}
+}
 ]

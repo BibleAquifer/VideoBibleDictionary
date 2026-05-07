@@ -1,0 +1,24 @@
+[
+{
+"content_id": "a113",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "शोरबा",
+"media_type": "Video",
+"index_reference": "शोरबा",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a113/720p.mp4'><img src='thumbnails/a113_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a113/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025019",
+"start_ref_usfm": "GEN 25:19",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,250 +1,244 @@
 [
-  {
-    "content_id": "871010",
-    "reference_id": 222589,
-    "version": "1.0.1",
-    "title": "Fine Linen Cloth",
-    "media_type": "Video",
-    "index_reference": "fine linen cloth",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1350-linen-cloth.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1350-linen-cloth.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1350-linen-cloth.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01041037",
-          "start_ref_usfm": "GEN 41:37",
-          "end_ref": "01041057",
-          "end_ref_usfm": "GEN 41:57"
-        },
-        {
-          "start_ref": "13004021",
-          "start_ref_usfm": "1CH 4:21",
-          "end_ref": "13004023",
-          "end_ref_usfm": "1CH 4:23"
-        },
-        {
-          "start_ref": "02025001",
-          "start_ref_usfm": "EXO 25:1",
-          "end_ref": "02025009",
-          "end_ref_usfm": "EXO 25:9"
-        },
-        {
-          "start_ref": "02028001",
-          "start_ref_usfm": "EXO 28:1",
-          "end_ref": "02028014",
-          "end_ref_usfm": "EXO 28:14"
-        },
-        {
-          "start_ref": "02035001",
-          "start_ref_usfm": "EXO 35:1",
-          "end_ref": "02035019",
-          "end_ref_usfm": "EXO 35:19"
-        },
-        {
-          "start_ref": "02026001",
-          "start_ref_usfm": "EXO 26:1",
-          "end_ref": "02026014",
-          "end_ref_usfm": "EXO 26:14"
-        },
-        {
-          "start_ref": "02039001",
-          "start_ref_usfm": "EXO 39:1",
-          "end_ref": "02039007",
-          "end_ref_usfm": "EXO 39:7"
-        },
-        {
-          "start_ref": "02027009",
-          "start_ref_usfm": "EXO 27:9",
-          "end_ref": "02027021",
-          "end_ref_usfm": "EXO 27:21"
-        },
-        {
-          "start_ref": "02038009",
-          "start_ref_usfm": "EXO 38:9",
-          "end_ref": "02038020",
-          "end_ref_usfm": "EXO 38:20"
-        },
-        {
-          "start_ref": "03019019",
-          "start_ref_usfm": "LEV 19:19",
-          "end_ref": "03019025",
-          "end_ref_usfm": "LEV 19:25"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "871003",
-    "reference_id": 222582,
-    "version": "1.0.1",
-    "title": "Fish",
-    "media_type": "Video",
-    "index_reference": "fish",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a127-fish.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a127-fish.jpg' /></a> (85 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a127-fish.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40007001",
-          "start_ref_usfm": "MAT 7:1",
-          "end_ref": "40007012",
-          "end_ref_usfm": "MAT 7:12"
-        },
-        {
-          "start_ref": "40004012",
-          "start_ref_usfm": "MAT 4:12",
-          "end_ref": "40004025",
-          "end_ref_usfm": "MAT 4:25"
-        },
-        {
-          "start_ref": "41006030",
-          "start_ref_usfm": "MRK 6:30",
-          "end_ref": "41006044",
-          "end_ref_usfm": "MRK 6:44"
-        },
-        {
-          "start_ref": "43021001",
-          "start_ref_usfm": "JHN 21:1",
-          "end_ref": "43021014",
-          "end_ref_usfm": "JHN 21:14"
-        },
-        {
-          "start_ref": "04011016",
-          "start_ref_usfm": "NUM 11:16",
-          "end_ref": "04011030",
-          "end_ref_usfm": "NUM 11:30"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870991",
-    "reference_id": 222570,
-    "version": "1.0.1",
-    "title": "Fish Scales",
-    "media_type": "Video",
-    "index_reference": "fish scales",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a129-fish-scales.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a129-fish-scales.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a129-fish-scales.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44009001",
-          "start_ref_usfm": "ACT 9:1",
-          "end_ref": "44009019",
-          "end_ref_usfm": "ACT 9:19"
-        },
-        {
-          "start_ref": "03011009",
-          "start_ref_usfm": "LEV 11:9",
-          "end_ref": "03011012",
-          "end_ref_usfm": "LEV 11:12"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "9273",
-    "reference_id": 8441,
-    "version": "1.0.1",
-    "title": "Fishing Net",
-    "media_type": "Video",
-    "index_reference": "fishing net",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a19-net-fishing.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a19-net-fishing.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a19-net-fishing.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        },
-        {
-          "start_ref": "42005001",
-          "start_ref_usfm": "LUK 5:1",
-          "end_ref": "42005011",
-          "end_ref_usfm": "LUK 5:11"
-        },
-        {
-          "start_ref": "40013044",
-          "start_ref_usfm": "MAT 13:44",
-          "end_ref": "40013053",
-          "end_ref_usfm": "MAT 13:53"
-        },
-        {
-          "start_ref": "40004012",
-          "start_ref_usfm": "MAT 4:12",
-          "end_ref": "40004025",
-          "end_ref_usfm": "MAT 4:25"
-        },
-        {
-          "start_ref": "41001014",
-          "start_ref_usfm": "MRK 1:14",
-          "end_ref": "41001020",
-          "end_ref_usfm": "MRK 1:20"
-        },
-        {
-          "start_ref": "03011009",
-          "start_ref_usfm": "LEV 11:9",
-          "end_ref": "03011012",
-          "end_ref_usfm": "LEV 11:12"
-        },
-        {
-          "start_ref": "43021001",
-          "start_ref_usfm": "JHN 21:1",
-          "end_ref": "43021014",
-          "end_ref_usfm": "JHN 21:14"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870948",
-    "reference_id": 222527,
-    "version": "1.0.1",
-    "title": "Four Soils",
-    "media_type": "Video",
-    "index_reference": "four soils",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a3-four-soils.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a3-four-soils.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a3-four-soils.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42008004",
-          "start_ref_usfm": "LUK 8:4",
-          "end_ref": "42008015",
-          "end_ref_usfm": "LUK 8:15"
-        },
-        {
-          "start_ref": "40013001",
-          "start_ref_usfm": "MAT 13:1",
-          "end_ref": "40013009",
-          "end_ref_usfm": "MAT 13:9"
-        },
-        {
-          "start_ref": "40013018",
-          "start_ref_usfm": "MAT 13:18",
-          "end_ref": "40013023",
-          "end_ref_usfm": "MAT 13:23"
-        },
-        {
-          "start_ref": "41004001",
-          "start_ref_usfm": "MRK 4:1",
-          "end_ref": "41004020",
-          "end_ref_usfm": "MRK 4:20"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a1350",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Fine Linen Cloth",
+"media_type": "Video",
+"index_reference": "fine linen cloth",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1350/720p.mp4'><img src='thumbnails/a1350_720p_thumbnail.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1350/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041037",
+"start_ref_usfm": "GEN 41:37",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+},
+{
+"start_ref": "02025001",
+"start_ref_usfm": "EXO 25:1",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+},
+{
+"start_ref": "02026001",
+"start_ref_usfm": "EXO 26:1",
+"end_ref": "02026014",
+"end_ref_usfm": "EXO 26:14"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027021",
+"end_ref_usfm": "EXO 27:21"
+},
+{
+"start_ref": "02028001",
+"start_ref_usfm": "EXO 28:1",
+"end_ref": "02028014",
+"end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "02035001",
+"start_ref_usfm": "EXO 35:1",
+"end_ref": "02035019",
+"end_ref_usfm": "EXO 35:19"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038020",
+"end_ref_usfm": "EXO 38:20"
+},
+{
+"start_ref": "02039001",
+"start_ref_usfm": "EXO 39:1",
+"end_ref": "02039007",
+"end_ref_usfm": "EXO 39:7"
+},
+{
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "13004021",
+"start_ref_usfm": "1CH 4:21",
+"end_ref": "13004023",
+"end_ref_usfm": "1CH 4:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a127",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Fish",
+"media_type": "Video",
+"index_reference": "fish",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a127/720p.mp4'><img src='thumbnails/a127_720p_thumbnail.jpg' /></a> (85 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a127/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011030",
+"end_ref_usfm": "NUM 11:30"
+},
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021014",
+"end_ref_usfm": "JHN 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a129",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Fish Scales",
+"media_type": "Video",
+"index_reference": "fish scales",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a129/720p.mp4'><img src='thumbnails/a129_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a129/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011009",
+"start_ref_usfm": "LEV 11:9",
+"end_ref": "03011012",
+"end_ref_usfm": "LEV 11:12"
+},
+{
+"start_ref": "44009001",
+"start_ref_usfm": "ACT 9:1",
+"end_ref": "44009019",
+"end_ref_usfm": "ACT 9:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a19",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Fishing Net",
+"media_type": "Video",
+"index_reference": "fishing net",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a19/720p.mp4'><img src='thumbnails/a19_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a19/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03011009",
+"start_ref_usfm": "LEV 11:9",
+"end_ref": "03011012",
+"end_ref_usfm": "LEV 11:12"
+},
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40013044",
+"start_ref_usfm": "MAT 13:44",
+"end_ref": "40013053",
+"end_ref_usfm": "MAT 13:53"
+},
+{
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021014",
+"end_ref_usfm": "JHN 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a3",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Four Soils",
+"media_type": "Video",
+"index_reference": "four soils",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'><img src='thumbnails/a3_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "40013018",
+"start_ref_usfm": "MAT 13:18",
+"end_ref": "40013023",
+"end_ref_usfm": "MAT 13:23"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42008004",
+"start_ref_usfm": "LUK 8:4",
+"end_ref": "42008015",
+"end_ref_usfm": "LUK 8:15"
+}
+],
+"resource": []
+}
+}
 ]

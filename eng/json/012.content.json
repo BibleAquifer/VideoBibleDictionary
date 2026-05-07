@@ -1,30 +1,30 @@
 [
-  {
-    "content_id": "870997",
-    "reference_id": 222576,
-    "version": "1.0.1",
-    "title": "Nests Inside Noah's Ark",
-    "media_type": "Video",
-    "index_reference": "nests inside noah's ark",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1268-ark-nests.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1268-ark-nests.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1268-ark-nests.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01006009",
-          "start_ref_usfm": "GEN 6:9",
-          "end_ref": "01006022",
-          "end_ref_usfm": "GEN 6:22"
-        },
-        {
-          "start_ref": "01007001",
-          "start_ref_usfm": "GEN 7:1",
-          "end_ref": "01007024",
-          "end_ref_usfm": "GEN 7:24"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a1268",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Nests Inside Noah's Ark",
+"media_type": "Video",
+"index_reference": "nests inside noahs ark",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1268/720p.mp4'><img src='thumbnails/a1268_720p_thumbnail.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1268/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01007001",
+"start_ref_usfm": "GEN 7:1",
+"end_ref": "01007024",
+"end_ref_usfm": "GEN 7:24"
+}
+],
+"resource": []
+}
+}
 ]

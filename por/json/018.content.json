@@ -1,0 +1,70 @@
+[
+{
+"content_id": "a25",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Vara",
+"media_type": "Video",
+"index_reference": "vara",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'><img src='thumbnails/a25_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a170",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Vara",
+"media_type": "Video",
+"index_reference": "vara",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a170/720p.mp4'><img src='thumbnails/a170_720p_thumbnail.jpg' /></a> (70 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a170/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "40027027",
+"start_ref_usfm": "MAT 27:27",
+"end_ref": "40027031",
+"end_ref_usfm": "MAT 27:31"
+},
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+}
+],
+"resource": []
+}
+}
+]

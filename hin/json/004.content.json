@@ -1,0 +1,30 @@
+[
+{
+"content_id": "a1381",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता।",
+"media_type": "Video",
+"index_reference": "एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1381/720p.mp4'><img src='thumbnails/a1381_720p_thumbnail.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1381/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015039",
+"end_ref_usfm": "MRK 15:39"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+}
+],
+"resource": []
+}
+}
+]

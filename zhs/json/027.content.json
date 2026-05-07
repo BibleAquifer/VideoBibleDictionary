@@ -1,0 +1,36 @@
+[
+{
+"content_id": "a29",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "铜币",
+"media_type": "Video",
+"index_reference": "铜币",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a29/720p.mp4'><img src='thumbnails/a29_720p_thumbnail.jpg' /></a> (69 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a29/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40010026",
+"start_ref_usfm": "MAT 10:26",
+"end_ref": "40010033",
+"end_ref_usfm": "MAT 10:33"
+},
+{
+"start_ref": "41012038",
+"start_ref_usfm": "MRK 12:38",
+"end_ref": "41012044",
+"end_ref_usfm": "MRK 12:44"
+},
+{
+"start_ref": "42020045",
+"start_ref_usfm": "LUK 20:45",
+"end_ref": "42021004",
+"end_ref_usfm": "LUK 21:4"
+}
+],
+"resource": []
+}
+}
+]

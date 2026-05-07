@@ -1,188 +1,188 @@
 [
-  {
-    "content_id": "870999",
-    "reference_id": 222578,
-    "version": "1.0.1",
-    "title": "Pearls",
-    "media_type": "Video",
-    "index_reference": "pearls",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a175-pearls.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a175-pearls.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a175-pearls.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40007001",
-          "start_ref_usfm": "MAT 7:1",
-          "end_ref": "40007012",
-          "end_ref_usfm": "MAT 7:12"
-        },
-        {
-          "start_ref": "40013044",
-          "start_ref_usfm": "MAT 13:44",
-          "end_ref": "40013053",
-          "end_ref_usfm": "MAT 13:53"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870996",
-    "reference_id": 222575,
-    "version": "1.0.1",
-    "title": "Pine Trees",
-    "media_type": "Video",
-    "index_reference": "pine trees",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1264-tree-pine.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1264-tree-pine.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1264-tree-pine.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01006009",
-          "start_ref_usfm": "GEN 6:9",
-          "end_ref": "01006022",
-          "end_ref_usfm": "GEN 6:22"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870962",
-    "reference_id": 222541,
-    "version": "1.0.1",
-    "title": "Platter",
-    "media_type": "Video",
-    "index_reference": "platter",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a180-platter.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a180-platter.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a180-platter.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41006014",
-          "start_ref_usfm": "MRK 6:14",
-          "end_ref": "41006029",
-          "end_ref_usfm": "MRK 6:29"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870947",
-    "reference_id": 222526,
-    "version": "1.0.1",
-    "title": "Plowing a Field",
-    "media_type": "Video",
-    "index_reference": "plowing a field",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1404-field-plowing.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1404-field-plowing.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1404-field-plowing.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01045001",
-          "start_ref_usfm": "GEN 45:1",
-          "end_ref": "01045028",
-          "end_ref_usfm": "GEN 45:28"
-        },
-        {
-          "start_ref": "40013001",
-          "start_ref_usfm": "MAT 13:1",
-          "end_ref": "40013009",
-          "end_ref_usfm": "MAT 13:9"
-        },
-        {
-          "start_ref": "41004001",
-          "start_ref_usfm": "MRK 4:1",
-          "end_ref": "41004020",
-          "end_ref_usfm": "MRK 4:20"
-        },
-        {
-          "start_ref": "42009046",
-          "start_ref_usfm": "LUK 9:46",
-          "end_ref": "42009062",
-          "end_ref_usfm": "LUK 9:62"
-        },
-        {
-          "start_ref": "07014010",
-          "start_ref_usfm": "JDG 14:10",
-          "end_ref": "07014020",
-          "end_ref_usfm": "JDG 14:20"
-        },
-        {
-          "start_ref": "09013015",
-          "start_ref_usfm": "1SA 13:15",
-          "end_ref": "09013023",
-          "end_ref_usfm": "1SA 13:23"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870978",
-    "reference_id": 222557,
-    "version": "1.0.1",
-    "title": "Purple Robe",
-    "media_type": "Video",
-    "index_reference": "purple robe",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1356-robe-purple.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1356-robe-purple.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1356-robe-purple.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42016019",
-          "start_ref_usfm": "LUK 16:19",
-          "end_ref": "42016031",
-          "end_ref_usfm": "LUK 16:31"
-        },
-        {
-          "start_ref": "41015016",
-          "start_ref_usfm": "MRK 15:16",
-          "end_ref": "41015032",
-          "end_ref_usfm": "MRK 15:32"
-        },
-        {
-          "start_ref": "43019001",
-          "start_ref_usfm": "JHN 19:1",
-          "end_ref": "43019016",
-          "end_ref_usfm": "JHN 19:16"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "871002",
-    "reference_id": 222581,
-    "version": "1.0.1",
-    "title": "Purse",
-    "media_type": "Video",
-    "index_reference": "purse",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1351-purse.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1351-purse.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1351-purse.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42012022",
-          "start_ref_usfm": "LUK 12:22",
-          "end_ref": "42012034",
-          "end_ref_usfm": "LUK 12:34"
-        },
-        {
-          "start_ref": "09025023",
-          "start_ref_usfm": "1SA 25:23",
-          "end_ref": "09025038",
-          "end_ref_usfm": "1SA 25:38"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a175",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pearls",
+"media_type": "Video",
+"index_reference": "pearls",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'><img src='thumbnails/a175_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "40013044",
+"start_ref_usfm": "MAT 13:44",
+"end_ref": "40013053",
+"end_ref_usfm": "MAT 13:53"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1264",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pine Trees",
+"media_type": "Video",
+"index_reference": "pine trees",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1264/720p.mp4'><img src='thumbnails/a1264_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1264/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a180",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Platter",
+"media_type": "Video",
+"index_reference": "platter",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'><img src='thumbnails/a180_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1404",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Plowing a Field",
+"media_type": "Video",
+"index_reference": "plowing a field",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'><img src='thumbnails/a1404_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01045001",
+"start_ref_usfm": "GEN 45:1",
+"end_ref": "01045028",
+"end_ref_usfm": "GEN 45:28"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "09013015",
+"start_ref_usfm": "1SA 13:15",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1356",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Purple Robe",
+"media_type": "Video",
+"index_reference": "purple robe",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1356/720p.mp4'><img src='thumbnails/a1356_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1356/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "42016019",
+"start_ref_usfm": "LUK 16:19",
+"end_ref": "42016031",
+"end_ref_usfm": "LUK 16:31"
+},
+{
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019016",
+"end_ref_usfm": "JHN 19:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1351",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Purse",
+"media_type": "Video",
+"index_reference": "purse",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'><img src='thumbnails/a1351_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09025023",
+"start_ref_usfm": "1SA 25:23",
+"end_ref": "09025038",
+"end_ref_usfm": "1SA 25:38"
+},
+{
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
+}
+],
+"resource": []
+}
+}
 ]

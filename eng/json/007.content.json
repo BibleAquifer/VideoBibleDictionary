@@ -1,106 +1,106 @@
 [
-  {
-    "content_id": "871014",
-    "reference_id": 222593,
-    "version": "1.0.1",
-    "title": "Hail Falling",
-    "media_type": "Video",
-    "index_reference": "hail falling",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1444-hail-falling.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1444-hail-falling.jpg' /></a> (12 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1444-hail-falling.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "02009013",
-          "start_ref_usfm": "EXO 9:13",
-          "end_ref": "02009021",
-          "end_ref_usfm": "EXO 9:21"
-        },
-        {
-          "start_ref": "02009022",
-          "start_ref_usfm": "EXO 9:22",
-          "end_ref": "02009035",
-          "end_ref_usfm": "EXO 9:35"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870939",
-    "reference_id": 222518,
-    "version": "1.0.1",
-    "title": "House in the Time of Jesus",
-    "media_type": "Video",
-    "index_reference": "house in the time of jesus",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a145-house-galilee-jesus.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a145-house-galilee-jesus.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a145-house-galilee-jesus.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44009036",
-          "start_ref_usfm": "ACT 9:36",
-          "end_ref": "44009043",
-          "end_ref_usfm": "ACT 9:43"
-        },
-        {
-          "start_ref": "44010009",
-          "start_ref_usfm": "ACT 10:9",
-          "end_ref": "44010023",
-          "end_ref_usfm": "ACT 10:23"
-        },
-        {
-          "start_ref": "42005017",
-          "start_ref_usfm": "LUK 5:17",
-          "end_ref": "42005026",
-          "end_ref_usfm": "LUK 5:26"
-        },
-        {
-          "start_ref": "40024015",
-          "start_ref_usfm": "MAT 24:15",
-          "end_ref": "40024028",
-          "end_ref_usfm": "MAT 24:28"
-        },
-        {
-          "start_ref": "40024037",
-          "start_ref_usfm": "MAT 24:37",
-          "end_ref": "40024044",
-          "end_ref_usfm": "MAT 24:44"
-        },
-        {
-          "start_ref": "41013009",
-          "start_ref_usfm": "MRK 13:9",
-          "end_ref": "41013023",
-          "end_ref_usfm": "MRK 13:23"
-        },
-        {
-          "start_ref": "41002001",
-          "start_ref_usfm": "MRK 2:1",
-          "end_ref": "41002012",
-          "end_ref_usfm": "MRK 2:12"
-        },
-        {
-          "start_ref": "40010026",
-          "start_ref_usfm": "MAT 10:26",
-          "end_ref": "40010033",
-          "end_ref_usfm": "MAT 10:33"
-        },
-        {
-          "start_ref": "42012001",
-          "start_ref_usfm": "LUK 12:1",
-          "end_ref": "42012012",
-          "end_ref_usfm": "LUK 12:12"
-        },
-        {
-          "start_ref": "09009015",
-          "start_ref_usfm": "1SA 9:15",
-          "end_ref": "09009027",
-          "end_ref_usfm": "1SA 9:27"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a1444",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hail Falling",
+"media_type": "Video",
+"index_reference": "hail falling",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1444/720p.mp4'><img src='thumbnails/a1444_720p_thumbnail.jpg' /></a> (12 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1444/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02009013",
+"start_ref_usfm": "EXO 9:13",
+"end_ref": "02009021",
+"end_ref_usfm": "EXO 9:21"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a145",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "House in the Time of Jesus",
+"media_type": "Video",
+"index_reference": "house in the time of jesus",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'><img src='thumbnails/a145_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09009015",
+"start_ref_usfm": "1SA 9:15",
+"end_ref": "09009027",
+"end_ref_usfm": "1SA 9:27"
+},
+{
+"start_ref": "40010026",
+"start_ref_usfm": "MAT 10:26",
+"end_ref": "40010033",
+"end_ref_usfm": "MAT 10:33"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024044",
+"end_ref_usfm": "MAT 24:44"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44010009",
+"start_ref_usfm": "ACT 10:9",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+}
+],
+"resource": []
+}
+}
 ]

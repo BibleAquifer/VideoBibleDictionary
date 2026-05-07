@@ -1,0 +1,274 @@
+[
+{
+"content_id": "a186",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "犹太会堂",
+"media_type": "Video",
+"index_reference": "犹太会堂",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a186/720p.mp4'><img src='thumbnails/a186_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a186/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05017014",
+"start_ref_usfm": "DEU 17:14",
+"end_ref": "05017020",
+"end_ref_usfm": "DEU 17:20"
+},
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40006001",
+"start_ref_usfm": "MAT 6:1",
+"end_ref": "40006008",
+"end_ref_usfm": "MAT 6:8"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010025",
+"end_ref_usfm": "MAT 10:25"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012014",
+"end_ref_usfm": "MAT 12:14"
+},
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
+"start_ref": "42004014",
+"start_ref_usfm": "LUK 4:14",
+"end_ref": "42004030",
+"end_ref_usfm": "LUK 4:30"
+},
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+},
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006011",
+"end_ref_usfm": "LUK 6:11"
+},
+{
+"start_ref": "42007001",
+"start_ref_usfm": "LUK 7:1",
+"end_ref": "42007010",
+"end_ref_usfm": "LUK 7:10"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "42013010",
+"start_ref_usfm": "LUK 13:10",
+"end_ref": "42013017",
+"end_ref_usfm": "LUK 13:17"
+},
+{
+"start_ref": "42021012",
+"start_ref_usfm": "LUK 21:12",
+"end_ref": "42021019",
+"end_ref_usfm": "LUK 21:19"
+},
+{
+"start_ref": "43006052",
+"start_ref_usfm": "JHN 6:52",
+"end_ref": "43006059",
+"end_ref_usfm": "JHN 6:59"
+},
+{
+"start_ref": "43009024",
+"start_ref_usfm": "JHN 9:24",
+"end_ref": "43009034",
+"end_ref_usfm": "JHN 9:34"
+},
+{
+"start_ref": "44013013",
+"start_ref_usfm": "ACT 13:13",
+"end_ref": "44013022",
+"end_ref_usfm": "ACT 13:22"
+},
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014007",
+"end_ref_usfm": "ACT 14:7"
+},
+{
+"start_ref": "44017001",
+"start_ref_usfm": "ACT 17:1",
+"end_ref": "44017009",
+"end_ref_usfm": "ACT 17:9"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019010",
+"end_ref_usfm": "ACT 19:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a22",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "油灯",
+"media_type": "Video",
+"index_reference": "油灯",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a22/720p.mp4'><img src='thumbnails/a22_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a22/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10021015",
+"start_ref_usfm": "2SA 21:15",
+"end_ref": "10021022",
+"end_ref_usfm": "2SA 21:22"
+},
+{
+"start_ref": "10022021",
+"start_ref_usfm": "2SA 22:21",
+"end_ref": "10022029",
+"end_ref_usfm": "2SA 22:29"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "11015001",
+"start_ref_usfm": "1KI 15:1",
+"end_ref": "11015008",
+"end_ref_usfm": "1KI 15:8"
+},
+{
+"start_ref": "14021001",
+"start_ref_usfm": "2CH 21:1",
+"end_ref": "14021010",
+"end_ref_usfm": "2CH 21:10"
+},
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "40006019",
+"start_ref_usfm": "MAT 6:19",
+"end_ref": "40006034",
+"end_ref_usfm": "MAT 6:34"
+},
+{
+"start_ref": "40012015",
+"start_ref_usfm": "MAT 12:15",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025013",
+"end_ref_usfm": "MAT 25:13"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "42012035",
+"start_ref_usfm": "LUK 12:35",
+"end_ref": "42012048",
+"end_ref_usfm": "LUK 12:48"
+},
+{
+"start_ref": "42015001",
+"start_ref_usfm": "LUK 15:1",
+"end_ref": "42015010",
+"end_ref_usfm": "LUK 15:10"
+},
+{
+"start_ref": "43005031",
+"start_ref_usfm": "JHN 5:31",
+"end_ref": "43005047",
+"end_ref_usfm": "JHN 5:47"
+},
+{
+"start_ref": "43018001",
+"start_ref_usfm": "JHN 18:1",
+"end_ref": "43018014",
+"end_ref_usfm": "JHN 18:14"
+},
+{
+"start_ref": "44016025",
+"start_ref_usfm": "ACT 16:25",
+"end_ref": "44016040",
+"end_ref_usfm": "ACT 16:40"
+},
+{
+"start_ref": "44020007",
+"start_ref_usfm": "ACT 20:7",
+"end_ref": "44020012",
+"end_ref_usfm": "ACT 20:12"
+}
+],
+"resource": []
+}
+}
+]

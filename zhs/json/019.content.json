@@ -1,0 +1,154 @@
+[
+{
+"content_id": "a184",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "凉鞋",
+"media_type": "Video",
+"index_reference": "凉鞋",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a184/720p.mp4'><img src='thumbnails/a184_720p_thumbnail.jpg' /></a> (56 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a184/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01014017",
+"start_ref_usfm": "GEN 14:17",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+},
+{
+"start_ref": "02003001",
+"start_ref_usfm": "EXO 3:1",
+"end_ref": "02003010",
+"end_ref_usfm": "EXO 3:10"
+},
+{
+"start_ref": "05025001",
+"start_ref_usfm": "DEU 25:1",
+"end_ref": "05025010",
+"end_ref_usfm": "DEU 25:10"
+},
+{
+"start_ref": "06005010",
+"start_ref_usfm": "JOS 5:10",
+"end_ref": "06005015",
+"end_ref_usfm": "JOS 5:15"
+},
+{
+"start_ref": "11002001",
+"start_ref_usfm": "1KI 2:1",
+"end_ref": "11002012",
+"end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "41001001",
+"start_ref_usfm": "MRK 1:1",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+},
+{
+"start_ref": "42003015",
+"start_ref_usfm": "LUK 3:15",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "42015011",
+"start_ref_usfm": "LUK 15:11",
+"end_ref": "42015032",
+"end_ref_usfm": "LUK 15:32"
+},
+{
+"start_ref": "43001019",
+"start_ref_usfm": "JHN 1:19",
+"end_ref": "43001028",
+"end_ref_usfm": "JHN 1:28"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "44007020",
+"start_ref_usfm": "ACT 7:20",
+"end_ref": "44007034",
+"end_ref_usfm": "ACT 7:34"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1253",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "粮篮",
+"media_type": "Video",
+"index_reference": "粮篮",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'><img src='thumbnails/a1253_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+},
+{
+"start_ref": "43006001",
+"start_ref_usfm": "JHN 6:1",
+"end_ref": "43006015",
+"end_ref_usfm": "JHN 6:15"
+}
+],
+"resource": []
+}
+}
+]

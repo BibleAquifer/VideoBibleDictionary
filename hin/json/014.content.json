@@ -1,0 +1,24 @@
+[
+{
+"content_id": "a180",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "थाल",
+"media_type": "Video",
+"index_reference": "थाल",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'><img src='thumbnails/a180_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": []
+}
+}
+]

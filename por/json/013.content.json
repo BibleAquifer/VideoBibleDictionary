@@ -1,0 +1,568 @@
+[
+{
+"content_id": "a24",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pá de joeirar",
+"media_type": "Video",
+"index_reference": "pá de joeirar",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a24/720p.mp4'><img src='thumbnails/a24_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a24/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "13013001",
+"start_ref_usfm": "1CH 13:1",
+"end_ref": "13013014",
+"end_ref_usfm": "1CH 13:14"
+},
+{
+"start_ref": "19001001",
+"start_ref_usfm": "PSA 1:1",
+"end_ref": "19001006",
+"end_ref_usfm": "PSA 1:6"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "42003015",
+"start_ref_usfm": "LUK 3:15",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a139",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pano de saco",
+"media_type": "Video",
+"index_reference": "pano de saco",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a139/720p.mp4'><img src='thumbnails/a139_720p_thumbnail.jpg' /></a> (70 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a139/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037012",
+"start_ref_usfm": "GEN 37:12",
+"end_ref": "01037036",
+"end_ref_usfm": "GEN 37:36"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "10021001",
+"start_ref_usfm": "2SA 21:1",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "11020023",
+"start_ref_usfm": "1KI 20:23",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "11021017",
+"start_ref_usfm": "1KI 21:17",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "13021007",
+"start_ref_usfm": "1CH 21:7",
+"end_ref": "13021017",
+"end_ref_usfm": "1CH 21:17"
+},
+{
+"start_ref": "40011020",
+"start_ref_usfm": "MAT 11:20",
+"end_ref": "40011024",
+"end_ref_usfm": "MAT 11:24"
+},
+{
+"start_ref": "42010001",
+"start_ref_usfm": "LUK 10:1",
+"end_ref": "42010016",
+"end_ref_usfm": "LUK 10:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a38",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pão sem fermento",
+"media_type": "Video",
+"index_reference": "pão sem fermento",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a38/720p.mp4'><img src='thumbnails/a38_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a38/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01018001",
+"start_ref_usfm": "GEN 18:1",
+"end_ref": "01018015",
+"end_ref_usfm": "GEN 18:15"
+},
+{
+"start_ref": "01025019",
+"start_ref_usfm": "GEN 25:19",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "02012014",
+"start_ref_usfm": "EXO 12:14",
+"end_ref": "02012028",
+"end_ref_usfm": "EXO 12:28"
+},
+{
+"start_ref": "02029001",
+"start_ref_usfm": "EXO 29:1",
+"end_ref": "02029009",
+"end_ref_usfm": "EXO 29:9"
+},
+{
+"start_ref": "02029019",
+"start_ref_usfm": "EXO 29:19",
+"end_ref": "02029028",
+"end_ref_usfm": "EXO 29:28"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "04011001",
+"start_ref_usfm": "NUM 11:1",
+"end_ref": "04011015",
+"end_ref_usfm": "NUM 11:15"
+},
+{
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028025",
+"end_ref_usfm": "NUM 28:25"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006027",
+"end_ref_usfm": "JDG 6:27"
+},
+{
+"start_ref": "09028015",
+"start_ref_usfm": "1SA 28:15",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026025",
+"end_ref_usfm": "MAT 26:25"
+},
+{
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
+},
+{
+"start_ref": "41014001",
+"start_ref_usfm": "MRK 14:1",
+"end_ref": "41014011",
+"end_ref_usfm": "MRK 14:11"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012005",
+"end_ref_usfm": "ACT 12:5"
+},
+{
+"start_ref": "44020007",
+"start_ref_usfm": "ACT 20:7",
+"end_ref": "44020012",
+"end_ref_usfm": "ACT 20:12"
+},
+{
+"start_ref": "44022022",
+"start_ref_usfm": "ACT 22:22",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "46010014",
+"start_ref_usfm": "1CO 10:14",
+"end_ref": "46010022",
+"end_ref_usfm": "1CO 10:22"
+},
+{
+"start_ref": "46011017",
+"start_ref_usfm": "1CO 11:17",
+"end_ref": "46011026",
+"end_ref_usfm": "1CO 11:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a181",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pedra angular",
+"media_type": "Video",
+"index_reference": "pedra angular",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'><img src='thumbnails/a181_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a127",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Peixe",
+"media_type": "Video",
+"index_reference": "peixe",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a127/720p.mp4'><img src='thumbnails/a127_720p_thumbnail.jpg' /></a> (85 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a127/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011030",
+"end_ref_usfm": "NUM 11:30"
+},
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021014",
+"end_ref_usfm": "JHN 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a43",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Peixe cozido",
+"media_type": "Video",
+"index_reference": "peixe cozido",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a43/720p.mp4'><img src='thumbnails/a43_720p_thumbnail.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a43/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011001",
+"start_ref_usfm": "NUM 11:1",
+"end_ref": "04011015",
+"end_ref_usfm": "NUM 11:15"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a12",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Penhascos",
+"media_type": "Video",
+"index_reference": "penhascos",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a12/720p.mp4'><img src='thumbnails/a12_720p_thumbnail.jpg' /></a> (49 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a12/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a175",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pérolas",
+"media_type": "Video",
+"index_reference": "pérolas",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'><img src='thumbnails/a175_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "40013044",
+"start_ref_usfm": "MAT 13:44",
+"end_ref": "40013053",
+"end_ref_usfm": "MAT 13:53"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a187",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Planta de junco",
+"media_type": "Video",
+"index_reference": "planta de junco",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a187/720p.mp4'><img src='thumbnails/a187_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a187/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11014012",
+"start_ref_usfm": "1KI 14:12",
+"end_ref": "11014020",
+"end_ref_usfm": "1KI 14:20"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011019",
+"end_ref_usfm": "MAT 11:19"
+},
+{
+"start_ref": "40012015",
+"start_ref_usfm": "MAT 12:15",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "42007018",
+"start_ref_usfm": "LUK 7:18",
+"end_ref": "42007035",
+"end_ref_usfm": "LUK 7:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a125",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Portão da cidade",
+"media_type": "Video",
+"index_reference": "portão da cidade",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a125/720p.mp4'><img src='thumbnails/a125_720p_thumbnail.jpg' /></a> (118 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a125/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01019001",
+"start_ref_usfm": "GEN 19:1",
+"end_ref": "01019029",
+"end_ref_usfm": "GEN 19:29"
+},
+{
+"start_ref": "01034018",
+"start_ref_usfm": "GEN 34:18",
+"end_ref": "01034031",
+"end_ref_usfm": "GEN 34:31"
+},
+{
+"start_ref": "05005012",
+"start_ref_usfm": "DEU 5:12",
+"end_ref": "05005021",
+"end_ref_usfm": "DEU 5:21"
+},
+{
+"start_ref": "07001018",
+"start_ref_usfm": "JDG 1:18",
+"end_ref": "07001026",
+"end_ref_usfm": "JDG 1:26"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10015012",
+"end_ref_usfm": "2SA 15:12"
+},
+{
+"start_ref": "11004001",
+"start_ref_usfm": "1KI 4:1",
+"end_ref": "11004019",
+"end_ref_usfm": "1KI 4:19"
+},
+{
+"start_ref": "11016029",
+"start_ref_usfm": "1KI 16:29",
+"end_ref": "11016034",
+"end_ref_usfm": "1KI 16:34"
+},
+{
+"start_ref": "11022001",
+"start_ref_usfm": "1KI 22:1",
+"end_ref": "11022012",
+"end_ref_usfm": "1KI 22:12"
+},
+{
+"start_ref": "42007011",
+"start_ref_usfm": "LUK 7:11",
+"end_ref": "42007017",
+"end_ref_usfm": "LUK 7:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a14",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Portão de ferro",
+"media_type": "Video",
+"index_reference": "portão de ferro",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a14/720p.mp4'><img src='thumbnails/a14_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a14/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05006001",
+"start_ref_usfm": "DEU 6:1",
+"end_ref": "05006009",
+"end_ref_usfm": "DEU 6:9"
+},
+{
+"start_ref": "05025001",
+"start_ref_usfm": "DEU 25:1",
+"end_ref": "05025010",
+"end_ref_usfm": "DEU 25:10"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+}
+],
+"resource": []
+}
+}
+]

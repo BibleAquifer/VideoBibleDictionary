@@ -1,0 +1,78 @@
+[
+{
+"content_id": "a4",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "长袍/里衣",
+"media_type": "Video",
+"index_reference": "长袍里衣",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'><img src='thumbnails/a4_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015037",
+"end_ref_usfm": "2SA 15:37"
+},
+{
+"start_ref": "40005033",
+"start_ref_usfm": "MAT 5:33",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+}
+],
+"resource": []
+}
+}
+]

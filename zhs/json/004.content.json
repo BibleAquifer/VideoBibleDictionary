@@ -1,30 +1,36 @@
 [
-  {
-    "content_id": 295142,
-    "reference_id": 8439,
-    "version": "1.0.1",
-    "title": "约旦河",
-    "media_type": "Video",
-    "index_reference": "约旦河",
-    "language": "zhs",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/JordanRiver.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/JordanRiver.jpg' /></a> (79 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001005",
-          "start_ref_usfm": "MRK 1:5",
-          "end_ref": "41001005",
-          "end_ref_usfm": "MRK 1:5"
-        },
-        {
-          "start_ref": "41001009",
-          "start_ref_usfm": "MRK 1:9",
-          "end_ref": "41001009",
-          "end_ref_usfm": "MRK 1:9"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a21",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "灯台",
+"media_type": "Video",
+"index_reference": "灯台",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'><img src='thumbnails/a21_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+}
+],
+"resource": []
+}
+}
 ]

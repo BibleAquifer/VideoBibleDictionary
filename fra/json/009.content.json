@@ -1,0 +1,472 @@
+[
+{
+"content_id": "a145",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Maison à l'époque de Jésus",
+"media_type": "Video",
+"index_reference": "maison à lépoque de jésus",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'><img src='thumbnails/a145_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09009015",
+"start_ref_usfm": "1SA 9:15",
+"end_ref": "09009027",
+"end_ref_usfm": "1SA 9:27"
+},
+{
+"start_ref": "40010026",
+"start_ref_usfm": "MAT 10:26",
+"end_ref": "40010033",
+"end_ref_usfm": "MAT 10:33"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024044",
+"end_ref_usfm": "MAT 24:44"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44010009",
+"start_ref_usfm": "ACT 10:9",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a133",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Manteau",
+"media_type": "Video",
+"index_reference": "manteau",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a133/720p.mp4'><img src='thumbnails/a133_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a133/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003011",
+"start_ref_usfm": "EXO 3:11",
+"end_ref": "02003022",
+"end_ref_usfm": "EXO 3:22"
+},
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "05024010",
+"start_ref_usfm": "DEU 24:10",
+"end_ref": "05024016",
+"end_ref_usfm": "DEU 24:16"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "11018041",
+"start_ref_usfm": "1KI 18:41",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "40005033",
+"start_ref_usfm": "MAT 5:33",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "41010046",
+"start_ref_usfm": "MRK 10:46",
+"end_ref": "41010052",
+"end_ref_usfm": "MRK 10:52"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022038",
+"end_ref_usfm": "LUK 22:38"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44022022",
+"start_ref_usfm": "ACT 22:22",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "55004009",
+"start_ref_usfm": "2TI 4:9",
+"end_ref": "55004022",
+"end_ref_usfm": "2TI 4:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a11",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mer de Galilée",
+"media_type": "Video",
+"index_reference": "mer de galilée",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a11/720p.mp4'><img src='thumbnails/a11_720p_thumbnail.jpg' /></a> (114 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a11/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40008023",
+"start_ref_usfm": "MAT 8:23",
+"end_ref": "40008027",
+"end_ref_usfm": "MAT 8:27"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "40014022",
+"start_ref_usfm": "MAT 14:22",
+"end_ref": "40014036",
+"end_ref_usfm": "MAT 14:36"
+},
+{
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "41004026",
+"start_ref_usfm": "MRK 4:26",
+"end_ref": "41004034",
+"end_ref_usfm": "MRK 4:34"
+},
+{
+"start_ref": "41004035",
+"start_ref_usfm": "MRK 4:35",
+"end_ref": "41004041",
+"end_ref_usfm": "MRK 4:41"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "42008022",
+"start_ref_usfm": "LUK 8:22",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
+},
+{
+"start_ref": "43006016",
+"start_ref_usfm": "JHN 6:16",
+"end_ref": "43006021",
+"end_ref_usfm": "JHN 6:21"
+},
+{
+"start_ref": "43006028",
+"start_ref_usfm": "JHN 6:28",
+"end_ref": "43006040",
+"end_ref_usfm": "JHN 6:40"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a40",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mont des Oliviers",
+"media_type": "Video",
+"index_reference": "mont des oliviers",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a40/720p.mp4'><img src='thumbnails/a40_720p_thumbnail.jpg' /></a> (90 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a40/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10016001",
+"start_ref_usfm": "2SA 16:1",
+"end_ref": "10016004",
+"end_ref_usfm": "2SA 16:4"
+},
+{
+"start_ref": "40021001",
+"start_ref_usfm": "MAT 21:1",
+"end_ref": "40021011",
+"end_ref_usfm": "MAT 21:11"
+},
+{
+"start_ref": "40024003",
+"start_ref_usfm": "MAT 24:3",
+"end_ref": "40024014",
+"end_ref_usfm": "MAT 24:14"
+},
+{
+"start_ref": "40024029",
+"start_ref_usfm": "MAT 24:29",
+"end_ref": "40024036",
+"end_ref_usfm": "MAT 24:36"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024044",
+"end_ref_usfm": "MAT 24:44"
+},
+{
+"start_ref": "40024045",
+"start_ref_usfm": "MAT 24:45",
+"end_ref": "40024051",
+"end_ref_usfm": "MAT 24:51"
+},
+{
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "41013001",
+"start_ref_usfm": "MRK 13:1",
+"end_ref": "41013008",
+"end_ref_usfm": "MRK 13:8"
+},
+{
+"start_ref": "41013024",
+"start_ref_usfm": "MRK 13:24",
+"end_ref": "41013031",
+"end_ref_usfm": "MRK 13:31"
+},
+{
+"start_ref": "41013032",
+"start_ref_usfm": "MRK 13:32",
+"end_ref": "41013037",
+"end_ref_usfm": "MRK 13:37"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "42022039",
+"start_ref_usfm": "LUK 22:39",
+"end_ref": "42022046",
+"end_ref_usfm": "LUK 22:46"
+},
+{
+"start_ref": "43008001",
+"start_ref_usfm": "JHN 8:1",
+"end_ref": "43008011",
+"end_ref_usfm": "JHN 8:11"
+},
+{
+"start_ref": "44001012",
+"start_ref_usfm": "ACT 1:12",
+"end_ref": "44001014",
+"end_ref_usfm": "ACT 1:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a34",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Mur de pierre autour d'une vigne",
+"media_type": "Video",
+"index_reference": "mur de pierre autour dune vigne",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a34/720p.mp4'><img src='thumbnails/a34_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a34/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+}
+],
+"resource": []
+}
+}
+]

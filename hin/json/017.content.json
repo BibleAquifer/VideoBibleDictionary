@@ -1,0 +1,118 @@
+[
+{
+"content_id": "a43",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "पकाई हुई मछली",
+"media_type": "Video",
+"index_reference": "पकाई हुई मछली",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a43/720p.mp4'><img src='thumbnails/a43_720p_thumbnail.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a43/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011001",
+"start_ref_usfm": "NUM 11:1",
+"end_ref": "04011015",
+"end_ref_usfm": "NUM 11:15"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a20",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "पानी का घड़ा",
+"media_type": "Video",
+"index_reference": "पानी का घड़ा",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a20/720p.mp4'><img src='thumbnails/a20_720p_thumbnail.jpg' /></a> (63 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a20/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024028",
+"end_ref_usfm": "GEN 24:28"
+},
+{
+"start_ref": "11017008",
+"start_ref_usfm": "1KI 17:8",
+"end_ref": "11017016",
+"end_ref_usfm": "1KI 17:16"
+},
+{
+"start_ref": "11018030",
+"start_ref_usfm": "1KI 18:30",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019008",
+"end_ref_usfm": "1KI 19:8"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43002012",
+"end_ref_usfm": "JHN 2:12"
+},
+{
+"start_ref": "43004027",
+"start_ref_usfm": "JHN 4:27",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "47004007",
+"start_ref_usfm": "2CO 4:7",
+"end_ref": "47004012",
+"end_ref_usfm": "2CO 4:12"
+}
+],
+"resource": []
+}
+}
+]

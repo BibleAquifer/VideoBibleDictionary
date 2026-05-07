@@ -1,36 +1,312 @@
 [
-  {
-    "content_id": 283013,
-    "reference_id": 8440,
-    "version": "1.0.1",
-    "title": "Désert",
-    "media_type": "Video",
-    "index_reference": "désert",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/Wilderness.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/Wilderness.jpg' /></a> (56 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001003",
-          "start_ref_usfm": "MRK 1:3",
-          "end_ref": "41001003",
-          "end_ref_usfm": "MRK 1:3"
-        },
-        {
-          "start_ref": "41001004",
-          "start_ref_usfm": "MRK 1:4",
-          "end_ref": "41001004",
-          "end_ref_usfm": "MRK 1:4"
-        },
-        {
-          "start_ref": "41001012",
-          "start_ref_usfm": "MRK 1:12",
-          "end_ref": "41001012",
-          "end_ref_usfm": "MRK 1:12"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a166",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "bâton",
+"media_type": "Video",
+"index_reference": "bâton",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'><img src='thumbnails/a166_720p_thumbnail.jpg' /></a> (53 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02008016",
+"start_ref_usfm": "EXO 8:16",
+"end_ref": "02008019",
+"end_ref_usfm": "EXO 8:19"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
+},
+{
+"start_ref": "02010001",
+"start_ref_usfm": "EXO 10:1",
+"end_ref": "02010020",
+"end_ref_usfm": "EXO 10:20"
+},
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017007",
+"end_ref_usfm": "EXO 17:7"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "04017001",
+"start_ref_usfm": "NUM 17:1",
+"end_ref": "04017013",
+"end_ref_usfm": "NUM 17:13"
+},
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022040",
+"end_ref_usfm": "NUM 22:40"
+},
+{
+"start_ref": "09017031",
+"start_ref_usfm": "1SA 17:31",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017041",
+"start_ref_usfm": "1SA 17:41",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Blé avec des têtes de grain",
+"media_type": "Video",
+"index_reference": "blé avec des têtes de grain",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2/720p.mp4'><img src='thumbnails/a2_720p_thumbnail.jpg' /></a> (131 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "11005001",
+"start_ref_usfm": "1KI 5:1",
+"end_ref": "11005012",
+"end_ref_usfm": "1KI 5:12"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012014",
+"end_ref_usfm": "MAT 12:14"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006011",
+"end_ref_usfm": "LUK 6:11"
+},
+{
+"start_ref": "46015035",
+"start_ref_usfm": "1CO 15:35",
+"end_ref": "46015041",
+"end_ref_usfm": "1CO 15:41"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Blé Prêt Pour La Récolte",
+"media_type": "Video",
+"index_reference": "blé prêt pour la récolte",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1/720p.mp4'><img src='thumbnails/a1_720p_thumbnail.jpg' /></a> (79 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041001",
+"start_ref_usfm": "GEN 41:1",
+"end_ref": "01041036",
+"end_ref_usfm": "GEN 41:36"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "04015001",
+"start_ref_usfm": "NUM 15:1",
+"end_ref": "04015016",
+"end_ref_usfm": "NUM 15:16"
+},
+{
+"start_ref": "04020001",
+"start_ref_usfm": "NUM 20:1",
+"end_ref": "04020013",
+"end_ref_usfm": "NUM 20:13"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006027",
+"end_ref_usfm": "JDG 6:27"
+},
+{
+"start_ref": "07015001",
+"start_ref_usfm": "JDG 15:1",
+"end_ref": "07015008",
+"end_ref_usfm": "JDG 15:8"
+},
+{
+"start_ref": "09012001",
+"start_ref_usfm": "1SA 12:1",
+"end_ref": "09012017",
+"end_ref_usfm": "1SA 12:17"
+},
+{
+"start_ref": "10004001",
+"start_ref_usfm": "2SA 4:1",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+},
+{
+"start_ref": "10017015",
+"start_ref_usfm": "2SA 17:15",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "11005001",
+"start_ref_usfm": "1KI 5:1",
+"end_ref": "11005012",
+"end_ref_usfm": "1KI 5:12"
+},
+{
+"start_ref": "13021018",
+"start_ref_usfm": "1CH 21:18",
+"end_ref": "13022001",
+"end_ref_usfm": "1CH 22:1"
+},
+{
+"start_ref": "14027001",
+"start_ref_usfm": "2CH 27:1",
+"end_ref": "14027009",
+"end_ref_usfm": "2CH 27:9"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "40013018",
+"start_ref_usfm": "MAT 13:18",
+"end_ref": "40013023",
+"end_ref_usfm": "MAT 13:23"
+},
+{
+"start_ref": "41001040",
+"start_ref_usfm": "MRK 1:40",
+"end_ref": "41001045",
+"end_ref_usfm": "MRK 1:45"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42003015",
+"start_ref_usfm": "LUK 3:15",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "42008004",
+"start_ref_usfm": "LUK 8:4",
+"end_ref": "42008015",
+"end_ref_usfm": "LUK 8:15"
+},
+{
+"start_ref": "43012020",
+"start_ref_usfm": "JHN 12:20",
+"end_ref": "43012036",
+"end_ref_usfm": "JHN 12:36"
+},
+{
+"start_ref": "46015035",
+"start_ref_usfm": "1CO 15:35",
+"end_ref": "46015041",
+"end_ref_usfm": "1CO 15:41"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a5",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Branches d'olivier et de palmier",
+"media_type": "Video",
+"index_reference": "branches dolivier et de palmier",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a5/720p.mp4'><img src='thumbnails/a5_720p_thumbnail.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a5/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "43012012",
+"start_ref_usfm": "JHN 12:12",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+}
+],
+"resource": []
+}
+}
 ]

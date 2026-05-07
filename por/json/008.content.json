@@ -1,0 +1,308 @@
+[
+{
+"content_id": "a37",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jardim do Getsêmani",
+"media_type": "Video",
+"index_reference": "jardim do getsêmani",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'><img src='thumbnails/a37_720p_thumbnail.jpg' /></a> (108 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026036",
+"start_ref_usfm": "MAT 26:36",
+"end_ref": "40026046",
+"end_ref_usfm": "MAT 26:46"
+},
+{
+"start_ref": "41014032",
+"start_ref_usfm": "MRK 14:32",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a20",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jarro de água",
+"media_type": "Video",
+"index_reference": "jarro de água",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a20/720p.mp4'><img src='thumbnails/a20_720p_thumbnail.jpg' /></a> (63 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a20/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024028",
+"end_ref_usfm": "GEN 24:28"
+},
+{
+"start_ref": "11017008",
+"start_ref_usfm": "1KI 17:8",
+"end_ref": "11017016",
+"end_ref_usfm": "1KI 17:16"
+},
+{
+"start_ref": "11018030",
+"start_ref_usfm": "1KI 18:30",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019008",
+"end_ref_usfm": "1KI 19:8"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43002012",
+"end_ref_usfm": "JHN 2:12"
+},
+{
+"start_ref": "43004027",
+"start_ref_usfm": "JHN 4:27",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "47004007",
+"start_ref_usfm": "2CO 4:7",
+"end_ref": "47004012",
+"end_ref_usfm": "2CO 4:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1269",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Jumento adulto",
+"media_type": "Video",
+"index_reference": "jumento adulto",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1269/720p.mp4'><img src='thumbnails/a1269_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1269/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01022001",
+"start_ref_usfm": "GEN 22:1",
+"end_ref": "01022019",
+"end_ref_usfm": "GEN 22:19"
+},
+{
+"start_ref": "01024029",
+"start_ref_usfm": "GEN 24:29",
+"end_ref": "01024049",
+"end_ref_usfm": "GEN 24:49"
+},
+{
+"start_ref": "01032001",
+"start_ref_usfm": "GEN 32:1",
+"end_ref": "01032021",
+"end_ref_usfm": "GEN 32:21"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02009001",
+"start_ref_usfm": "EXO 9:1",
+"end_ref": "02009007",
+"end_ref_usfm": "EXO 9:7"
+},
+{
+"start_ref": "02013001",
+"start_ref_usfm": "EXO 13:1",
+"end_ref": "02013016",
+"end_ref_usfm": "EXO 13:16"
+},
+{
+"start_ref": "02020008",
+"start_ref_usfm": "EXO 20:8",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023009",
+"end_ref_usfm": "EXO 23:9"
+},
+{
+"start_ref": "04031025",
+"start_ref_usfm": "NUM 31:25",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
+},
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06015013",
+"start_ref_usfm": "JOS 15:13",
+"end_ref": "06015019",
+"end_ref_usfm": "JOS 15:19"
+},
+{
+"start_ref": "07001009",
+"start_ref_usfm": "JDG 1:9",
+"end_ref": "07001017",
+"end_ref_usfm": "JDG 1:17"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+},
+{
+"start_ref": "07010001",
+"start_ref_usfm": "JDG 10:1",
+"end_ref": "07010005",
+"end_ref_usfm": "JDG 10:5"
+},
+{
+"start_ref": "07012008",
+"start_ref_usfm": "JDG 12:8",
+"end_ref": "07012015",
+"end_ref_usfm": "JDG 12:15"
+},
+{
+"start_ref": "07015009",
+"start_ref_usfm": "JDG 15:9",
+"end_ref": "07015020",
+"end_ref_usfm": "JDG 15:20"
+},
+{
+"start_ref": "09008010",
+"start_ref_usfm": "1SA 8:10",
+"end_ref": "09008022",
+"end_ref_usfm": "1SA 8:22"
+},
+{
+"start_ref": "09009001",
+"start_ref_usfm": "1SA 9:1",
+"end_ref": "09009014",
+"end_ref_usfm": "1SA 9:14"
+},
+{
+"start_ref": "09012001",
+"start_ref_usfm": "1SA 12:1",
+"end_ref": "09012017",
+"end_ref_usfm": "1SA 12:17"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09028002",
+"end_ref_usfm": "1SA 28:2"
+},
+{
+"start_ref": "11013011",
+"start_ref_usfm": "1KI 13:11",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "11013023",
+"start_ref_usfm": "1KI 13:23",
+"end_ref": "11013034",
+"end_ref_usfm": "1KI 13:34"
+},
+{
+"start_ref": "13012023",
+"start_ref_usfm": "1CH 12:23",
+"end_ref": "13012040",
+"end_ref_usfm": "1CH 12:40"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "15002064",
+"start_ref_usfm": "EZR 2:64",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "18001013",
+"start_ref_usfm": "JOB 1:13",
+"end_ref": "18001022",
+"end_ref_usfm": "JOB 1:22"
+},
+{
+"start_ref": "42013010",
+"start_ref_usfm": "LUK 13:10",
+"end_ref": "42013017",
+"end_ref_usfm": "LUK 13:17"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "43012012",
+"start_ref_usfm": "JHN 12:12",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+}
+],
+"resource": []
+}
+}
+]

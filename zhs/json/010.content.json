@@ -1,0 +1,36 @@
+[
+{
+"content_id": "a25",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "棍棒",
+"media_type": "Video",
+"index_reference": "棍棒",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'><img src='thumbnails/a25_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+}
+],
+"resource": []
+}
+}
+]

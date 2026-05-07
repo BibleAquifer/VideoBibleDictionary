@@ -1,0 +1,54 @@
+[
+{
+"content_id": "a2",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "结穗的麦子",
+"media_type": "Video",
+"index_reference": "结穗的麦子",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2/720p.mp4'><img src='thumbnails/a2_720p_thumbnail.jpg' /></a> (131 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "11005001",
+"start_ref_usfm": "1KI 5:1",
+"end_ref": "11005012",
+"end_ref_usfm": "1KI 5:12"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012014",
+"end_ref_usfm": "MAT 12:14"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006011",
+"end_ref_usfm": "LUK 6:11"
+},
+{
+"start_ref": "46015035",
+"start_ref_usfm": "1CO 15:35",
+"end_ref": "46015041",
+"end_ref_usfm": "1CO 15:41"
+}
+],
+"resource": []
+}
+}
+]

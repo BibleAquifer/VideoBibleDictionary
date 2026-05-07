@@ -1,0 +1,448 @@
+[
+{
+"content_id": "a184",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sandálias",
+"media_type": "Video",
+"index_reference": "sandálias",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a184/720p.mp4'><img src='thumbnails/a184_720p_thumbnail.jpg' /></a> (56 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a184/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01014017",
+"start_ref_usfm": "GEN 14:17",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+},
+{
+"start_ref": "02003001",
+"start_ref_usfm": "EXO 3:1",
+"end_ref": "02003010",
+"end_ref_usfm": "EXO 3:10"
+},
+{
+"start_ref": "05025001",
+"start_ref_usfm": "DEU 25:1",
+"end_ref": "05025010",
+"end_ref_usfm": "DEU 25:10"
+},
+{
+"start_ref": "06005010",
+"start_ref_usfm": "JOS 5:10",
+"end_ref": "06005015",
+"end_ref_usfm": "JOS 5:15"
+},
+{
+"start_ref": "11002001",
+"start_ref_usfm": "1KI 2:1",
+"end_ref": "11002012",
+"end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "41001001",
+"start_ref_usfm": "MRK 1:1",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+},
+{
+"start_ref": "42003015",
+"start_ref_usfm": "LUK 3:15",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "42015011",
+"start_ref_usfm": "LUK 15:11",
+"end_ref": "42015032",
+"end_ref_usfm": "LUK 15:32"
+},
+{
+"start_ref": "43001019",
+"start_ref_usfm": "JHN 1:19",
+"end_ref": "43001028",
+"end_ref_usfm": "JHN 1:28"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "44007020",
+"start_ref_usfm": "ACT 7:20",
+"end_ref": "44007034",
+"end_ref_usfm": "ACT 7:34"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a168",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Serpente",
+"media_type": "Video",
+"index_reference": "serpente",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a168/720p.mp4'><img src='thumbnails/a168_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a168/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003024",
+"end_ref_usfm": "GEN 3:24"
+},
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "04021001",
+"start_ref_usfm": "NUM 21:1",
+"end_ref": "04021009",
+"end_ref_usfm": "NUM 21:9"
+},
+{
+"start_ref": "11004029",
+"start_ref_usfm": "1KI 4:29",
+"end_ref": "11004034",
+"end_ref_usfm": "1KI 4:34"
+},
+{
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010025",
+"end_ref_usfm": "MAT 10:25"
+},
+{
+"start_ref": "40012033",
+"start_ref_usfm": "MAT 12:33",
+"end_ref": "40012037",
+"end_ref_usfm": "MAT 12:37"
+},
+{
+"start_ref": "41016009",
+"start_ref_usfm": "MRK 16:9",
+"end_ref": "41016020",
+"end_ref_usfm": "MRK 16:20"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
+"start_ref": "42010017",
+"start_ref_usfm": "LUK 10:17",
+"end_ref": "42010024",
+"end_ref_usfm": "LUK 10:24"
+},
+{
+"start_ref": "42011001",
+"start_ref_usfm": "LUK 11:1",
+"end_ref": "42011013",
+"end_ref_usfm": "LUK 11:13"
+},
+{
+"start_ref": "43003009",
+"start_ref_usfm": "JHN 3:9",
+"end_ref": "43003021",
+"end_ref_usfm": "JHN 3:21"
+},
+{
+"start_ref": "46010001",
+"start_ref_usfm": "1CO 10:1",
+"end_ref": "46010013",
+"end_ref_usfm": "1CO 10:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a186",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sinagoga",
+"media_type": "Video",
+"index_reference": "sinagoga",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a186/720p.mp4'><img src='thumbnails/a186_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a186/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05017014",
+"start_ref_usfm": "DEU 17:14",
+"end_ref": "05017020",
+"end_ref_usfm": "DEU 17:20"
+},
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40006001",
+"start_ref_usfm": "MAT 6:1",
+"end_ref": "40006008",
+"end_ref_usfm": "MAT 6:8"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010025",
+"end_ref_usfm": "MAT 10:25"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012014",
+"end_ref_usfm": "MAT 12:14"
+},
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41003006",
+"end_ref_usfm": "MRK 3:6"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
+"start_ref": "42004014",
+"start_ref_usfm": "LUK 4:14",
+"end_ref": "42004030",
+"end_ref_usfm": "LUK 4:30"
+},
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+},
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006011",
+"end_ref_usfm": "LUK 6:11"
+},
+{
+"start_ref": "42007001",
+"start_ref_usfm": "LUK 7:1",
+"end_ref": "42007010",
+"end_ref_usfm": "LUK 7:10"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "42013010",
+"start_ref_usfm": "LUK 13:10",
+"end_ref": "42013017",
+"end_ref_usfm": "LUK 13:17"
+},
+{
+"start_ref": "42021012",
+"start_ref_usfm": "LUK 21:12",
+"end_ref": "42021019",
+"end_ref_usfm": "LUK 21:19"
+},
+{
+"start_ref": "43006052",
+"start_ref_usfm": "JHN 6:52",
+"end_ref": "43006059",
+"end_ref_usfm": "JHN 6:59"
+},
+{
+"start_ref": "43009024",
+"start_ref_usfm": "JHN 9:24",
+"end_ref": "43009034",
+"end_ref_usfm": "JHN 9:34"
+},
+{
+"start_ref": "44013013",
+"start_ref_usfm": "ACT 13:13",
+"end_ref": "44013022",
+"end_ref_usfm": "ACT 13:22"
+},
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014007",
+"end_ref_usfm": "ACT 14:7"
+},
+{
+"start_ref": "44017001",
+"start_ref_usfm": "ACT 17:1",
+"end_ref": "44017009",
+"end_ref_usfm": "ACT 17:9"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019010",
+"end_ref_usfm": "ACT 19:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a18",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Sortes",
+"media_type": "Video",
+"index_reference": "sortes",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a18/720p.mp4'><img src='thumbnails/a18_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a18/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04033050",
+"start_ref_usfm": "NUM 33:50",
+"end_ref": "04033056",
+"end_ref_usfm": "NUM 33:56"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014015",
+"end_ref_usfm": "JOS 14:15"
+},
+{
+"start_ref": "06018001",
+"start_ref_usfm": "JOS 18:1",
+"end_ref": "06018010",
+"end_ref_usfm": "JOS 18:10"
+},
+{
+"start_ref": "09010017",
+"start_ref_usfm": "1SA 10:17",
+"end_ref": "09010027",
+"end_ref_usfm": "1SA 10:27"
+},
+{
+"start_ref": "13006054",
+"start_ref_usfm": "1CH 6:54",
+"end_ref": "13006081",
+"end_ref_usfm": "1CH 6:81"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "44001015",
+"start_ref_usfm": "ACT 1:15",
+"end_ref": "44001026",
+"end_ref_usfm": "ACT 1:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a21",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Suporte de candeeiro",
+"media_type": "Video",
+"index_reference": "suporte de candeeiro",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'><img src='thumbnails/a21_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+}
+],
+"resource": []
+}
+}
+]

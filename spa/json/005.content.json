@@ -1,0 +1,88 @@
+[
+{
+"content_id": "a1381",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Esponja con vino en un palo",
+"media_type": "Video",
+"index_reference": "esponja con vino en un palo",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1381/720p.mp4'><img src='thumbnails/a1381_720p_thumbnail.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1381/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015039",
+"end_ref_usfm": "MRK 15:39"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a31",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Esterilla para dormir",
+"media_type": "Video",
+"index_reference": "esterilla para dormir",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'><img src='thumbnails/a31_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40009001",
+"start_ref_usfm": "MAT 9:1",
+"end_ref": "40009008",
+"end_ref_usfm": "MAT 9:8"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41006045",
+"start_ref_usfm": "MRK 6:45",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "43005001",
+"start_ref_usfm": "JHN 5:1",
+"end_ref": "43005015",
+"end_ref_usfm": "JHN 5:15"
+},
+{
+"start_ref": "44005012",
+"start_ref_usfm": "ACT 5:12",
+"end_ref": "44005016",
+"end_ref_usfm": "ACT 5:16"
+},
+{
+"start_ref": "44009032",
+"start_ref_usfm": "ACT 9:32",
+"end_ref": "44009035",
+"end_ref_usfm": "ACT 9:35"
+}
+],
+"resource": []
+}
+}
+]

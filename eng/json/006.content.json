@@ -1,92 +1,92 @@
 [
-  {
-    "content_id": "870965",
-    "reference_id": 222544,
-    "version": "1.0.1",
-    "title": "Garden of Gethsemane",
-    "media_type": "Video",
-    "index_reference": "garden of gethsemane",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a37-gethsemane-garden.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a37-gethsemane-garden.jpg' /></a> (108 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a37-gethsemane-garden.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41014032",
-          "start_ref_usfm": "MRK 14:32",
-          "end_ref": "41014042",
-          "end_ref_usfm": "MRK 14:42"
-        },
-        {
-          "start_ref": "40026036",
-          "start_ref_usfm": "MAT 26:36",
-          "end_ref": "40026046",
-          "end_ref_usfm": "MAT 26:46"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870974",
-    "reference_id": 222553,
-    "version": "1.0.1",
-    "title": "Garden Tomb",
-    "media_type": "Video",
-    "index_reference": "garden tomb",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a35-tomb-garden.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a35-tomb-garden.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a35-tomb-garden.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41015040",
-          "start_ref_usfm": "MRK 15:40",
-          "end_ref": "41015047",
-          "end_ref_usfm": "MRK 15:47"
-        },
-        {
-          "start_ref": "41016001",
-          "start_ref_usfm": "MRK 16:1",
-          "end_ref": "41016008",
-          "end_ref_usfm": "MRK 16:8"
-        },
-        {
-          "start_ref": "07008022",
-          "start_ref_usfm": "JDG 8:22",
-          "end_ref": "07008035",
-          "end_ref_usfm": "JDG 8:35"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "871004",
-    "reference_id": 222583,
-    "version": "1.0.1",
-    "title": "Goat Skin",
-    "media_type": "Video",
-    "index_reference": "goat skin",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1352-goat-skin.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a1352-goat-skin.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a1352-goat-skin.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "01026034",
-          "start_ref_usfm": "GEN 26:34",
-          "end_ref": "01027017",
-          "end_ref_usfm": "GEN 27:17"
-        },
-        {
-          "start_ref": "09019011",
-          "start_ref_usfm": "1SA 19:11",
-          "end_ref": "09019024",
-          "end_ref_usfm": "1SA 19:24"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a37",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Garden of Gethsemane",
+"media_type": "Video",
+"index_reference": "garden of gethsemane",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'><img src='thumbnails/a37_720p_thumbnail.jpg' /></a> (108 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026036",
+"start_ref_usfm": "MAT 26:36",
+"end_ref": "40026046",
+"end_ref_usfm": "MAT 26:46"
+},
+{
+"start_ref": "41014032",
+"start_ref_usfm": "MRK 14:32",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a35",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Garden Tomb",
+"media_type": "Video",
+"index_reference": "garden tomb",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'><img src='thumbnails/a35_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1352",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Goat Skin",
+"media_type": "Video",
+"index_reference": "goat skin",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1352/720p.mp4'><img src='thumbnails/a1352_720p_thumbnail.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1352/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01027017",
+"end_ref_usfm": "GEN 27:17"
+},
+{
+"start_ref": "09019011",
+"start_ref_usfm": "1SA 19:11",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
+}
+],
+"resource": []
+}
+}
 ]

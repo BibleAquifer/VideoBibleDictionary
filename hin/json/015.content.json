@@ -1,0 +1,58 @@
+[
+{
+"content_id": "a21",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दीवट",
+"media_type": "Video",
+"index_reference": "दीवट",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'><img src='thumbnails/a21_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a181",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दीवार के साथ कोने का पत्थर",
+"media_type": "Video",
+"index_reference": "दीवार के साथ कोने का पत्थर",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'><img src='thumbnails/a181_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+}
+],
+"resource": []
+}
+}
+]

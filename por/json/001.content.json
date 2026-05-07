@@ -1,24 +1,110 @@
 [
-  {
-    "content_id": 286747,
-    "reference_id": 8442,
-    "version": "1.0.1",
-    "title": "Mar da Galileia",
-    "media_type": "Video",
-    "index_reference": "mar da galileia",
-    "language": "por",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/SeaOfGalilee.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/SeaOfGalilee.jpg' /></a> (114 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a169",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Animais sacrificiais",
+"media_type": "Video",
+"index_reference": "animais sacrificiais",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'><img src='thumbnails/a169_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04007084",
+"start_ref_usfm": "NUM 7:84",
+"end_ref": "04007089",
+"end_ref_usfm": "NUM 7:89"
+},
+{
+"start_ref": "40021012",
+"start_ref_usfm": "MAT 21:12",
+"end_ref": "40021022",
+"end_ref_usfm": "MAT 21:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a183",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Animais sacrificiais",
+"media_type": "Video",
+"index_reference": "animais sacrificiais",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a183/720p.mp4'><img src='thumbnails/a183_720p_thumbnail.jpg' /></a> (67 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a183/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04007084",
+"start_ref_usfm": "NUM 7:84",
+"end_ref": "04007089",
+"end_ref_usfm": "NUM 7:89"
+},
+{
+"start_ref": "40021012",
+"start_ref_usfm": "MAT 21:12",
+"end_ref": "40021022",
+"end_ref_usfm": "MAT 21:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1404",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Arando um campo",
+"media_type": "Video",
+"index_reference": "arando um campo",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'><img src='thumbnails/a1404_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01045001",
+"start_ref_usfm": "GEN 45:1",
+"end_ref": "01045028",
+"end_ref_usfm": "GEN 45:28"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "09013015",
+"start_ref_usfm": "1SA 13:15",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+}
+],
+"resource": []
+}
+}
 ]

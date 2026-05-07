@@ -1,0 +1,72 @@
+[
+{
+"content_id": "a125",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "नगर फाटक",
+"media_type": "Video",
+"index_reference": "नगर फाटक",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a125/720p.mp4'><img src='thumbnails/a125_720p_thumbnail.jpg' /></a> (118 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a125/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01019001",
+"start_ref_usfm": "GEN 19:1",
+"end_ref": "01019029",
+"end_ref_usfm": "GEN 19:29"
+},
+{
+"start_ref": "01034018",
+"start_ref_usfm": "GEN 34:18",
+"end_ref": "01034031",
+"end_ref_usfm": "GEN 34:31"
+},
+{
+"start_ref": "05005012",
+"start_ref_usfm": "DEU 5:12",
+"end_ref": "05005021",
+"end_ref_usfm": "DEU 5:21"
+},
+{
+"start_ref": "07001018",
+"start_ref_usfm": "JDG 1:18",
+"end_ref": "07001026",
+"end_ref_usfm": "JDG 1:26"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10015012",
+"end_ref_usfm": "2SA 15:12"
+},
+{
+"start_ref": "11004001",
+"start_ref_usfm": "1KI 4:1",
+"end_ref": "11004019",
+"end_ref_usfm": "1KI 4:19"
+},
+{
+"start_ref": "11016029",
+"start_ref_usfm": "1KI 16:29",
+"end_ref": "11016034",
+"end_ref_usfm": "1KI 16:34"
+},
+{
+"start_ref": "11022001",
+"start_ref_usfm": "1KI 22:1",
+"end_ref": "11022012",
+"end_ref_usfm": "1KI 22:12"
+},
+{
+"start_ref": "42007011",
+"start_ref_usfm": "LUK 7:11",
+"end_ref": "42007017",
+"end_ref_usfm": "LUK 7:17"
+}
+],
+"resource": []
+}
+}
+]

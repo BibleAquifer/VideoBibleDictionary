@@ -1,36 +1,690 @@
 [
-  {
-    "content_id": 286745,
-    "reference_id": 8440,
-    "version": "1.0.1",
-    "title": "Selvagem",
-    "media_type": "Video",
-    "index_reference": "selvagem",
-    "language": "por",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/Wilderness.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/Wilderness.jpg' /></a> (56 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001003",
-          "start_ref_usfm": "MRK 1:3",
-          "end_ref": "41001003",
-          "end_ref_usfm": "MRK 1:3"
-        },
-        {
-          "start_ref": "41001004",
-          "start_ref_usfm": "MRK 1:4",
-          "end_ref": "41001004",
-          "end_ref_usfm": "MRK 1:4"
-        },
-        {
-          "start_ref": "41001012",
-          "start_ref_usfm": "MRK 1:12",
-          "end_ref": "41001012",
-          "end_ref_usfm": "MRK 1:12"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a166",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cajado",
+"media_type": "Video",
+"index_reference": "cajado",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'><img src='thumbnails/a166_720p_thumbnail.jpg' /></a> (53 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02008016",
+"start_ref_usfm": "EXO 8:16",
+"end_ref": "02008019",
+"end_ref_usfm": "EXO 8:19"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
+},
+{
+"start_ref": "02010001",
+"start_ref_usfm": "EXO 10:1",
+"end_ref": "02010020",
+"end_ref_usfm": "EXO 10:20"
+},
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017007",
+"end_ref_usfm": "EXO 17:7"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "04017001",
+"start_ref_usfm": "NUM 17:1",
+"end_ref": "04017013",
+"end_ref_usfm": "NUM 17:13"
+},
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022040",
+"end_ref_usfm": "NUM 22:40"
+},
+{
+"start_ref": "09017031",
+"start_ref_usfm": "1SA 17:31",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017041",
+"start_ref_usfm": "1SA 17:41",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a9",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Camelo",
+"media_type": "Video",
+"index_reference": "camelo",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a9/720p.mp4'><img src='thumbnails/a9_720p_thumbnail.jpg' /></a> (58 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a9/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024028",
+"end_ref_usfm": "GEN 24:28"
+},
+{
+"start_ref": "01024029",
+"start_ref_usfm": "GEN 24:29",
+"end_ref": "01024049",
+"end_ref_usfm": "GEN 24:49"
+},
+{
+"start_ref": "01032001",
+"start_ref_usfm": "GEN 32:1",
+"end_ref": "01032021",
+"end_ref_usfm": "GEN 32:21"
+},
+{
+"start_ref": "03011001",
+"start_ref_usfm": "LEV 11:1",
+"end_ref": "03011008",
+"end_ref_usfm": "LEV 11:8"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+},
+{
+"start_ref": "07007009",
+"start_ref_usfm": "JDG 7:9",
+"end_ref": "07007015",
+"end_ref_usfm": "JDG 7:15"
+},
+{
+"start_ref": "07008004",
+"start_ref_usfm": "JDG 8:4",
+"end_ref": "07008021",
+"end_ref_usfm": "JDG 8:21"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09028002",
+"end_ref_usfm": "1SA 28:2"
+},
+{
+"start_ref": "11009026",
+"start_ref_usfm": "1KI 9:26",
+"end_ref": "11010013",
+"end_ref_usfm": "1KI 10:13"
+},
+{
+"start_ref": "13012023",
+"start_ref_usfm": "1CH 12:23",
+"end_ref": "13012040",
+"end_ref_usfm": "1CH 12:40"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "14009001",
+"start_ref_usfm": "2CH 9:1",
+"end_ref": "14009012",
+"end_ref_usfm": "2CH 9:12"
+},
+{
+"start_ref": "15002064",
+"start_ref_usfm": "EZR 2:64",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "40019013",
+"start_ref_usfm": "MAT 19:13",
+"end_ref": "40019030",
+"end_ref_usfm": "MAT 19:30"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023028",
+"end_ref_usfm": "MAT 23:28"
+},
+{
+"start_ref": "41010013",
+"start_ref_usfm": "MRK 10:13",
+"end_ref": "41010031",
+"end_ref_usfm": "MRK 10:31"
+},
+{
+"start_ref": "42018018",
+"start_ref_usfm": "LUK 18:18",
+"end_ref": "42018030",
+"end_ref_usfm": "LUK 18:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a133",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Capa",
+"media_type": "Video",
+"index_reference": "capa",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a133/720p.mp4'><img src='thumbnails/a133_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a133/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003011",
+"start_ref_usfm": "EXO 3:11",
+"end_ref": "02003022",
+"end_ref_usfm": "EXO 3:22"
+},
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "05024010",
+"start_ref_usfm": "DEU 24:10",
+"end_ref": "05024016",
+"end_ref_usfm": "DEU 24:16"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "11018041",
+"start_ref_usfm": "1KI 18:41",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "40005033",
+"start_ref_usfm": "MAT 5:33",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "41010046",
+"start_ref_usfm": "MRK 10:46",
+"end_ref": "41010052",
+"end_ref_usfm": "MRK 10:52"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022038",
+"end_ref_usfm": "LUK 22:38"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44022022",
+"start_ref_usfm": "ACT 22:22",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "55004009",
+"start_ref_usfm": "2TI 4:9",
+"end_ref": "55004022",
+"end_ref_usfm": "2TI 4:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a145",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Casa no tempo de Jesus",
+"media_type": "Video",
+"index_reference": "casa no tempo de jesus",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'><img src='thumbnails/a145_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09009015",
+"start_ref_usfm": "1SA 9:15",
+"end_ref": "09009027",
+"end_ref_usfm": "1SA 9:27"
+},
+{
+"start_ref": "40010026",
+"start_ref_usfm": "MAT 10:26",
+"end_ref": "40010033",
+"end_ref_usfm": "MAT 10:33"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024044",
+"end_ref_usfm": "MAT 24:44"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44010009",
+"start_ref_usfm": "ACT 10:9",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a141",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Caverna",
+"media_type": "Video",
+"index_reference": "caverna",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a141/720p.mp4'><img src='thumbnails/a141_720p_thumbnail.jpg' /></a> (94 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a141/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01019030",
+"start_ref_usfm": "GEN 19:30",
+"end_ref": "01019038",
+"end_ref_usfm": "GEN 19:38"
+},
+{
+"start_ref": "06010016",
+"start_ref_usfm": "JOS 10:16",
+"end_ref": "06010028",
+"end_ref_usfm": "JOS 10:28"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+},
+{
+"start_ref": "07015001",
+"start_ref_usfm": "JDG 15:1",
+"end_ref": "07015008",
+"end_ref_usfm": "JDG 15:8"
+},
+{
+"start_ref": "07015009",
+"start_ref_usfm": "JDG 15:9",
+"end_ref": "07015020",
+"end_ref_usfm": "JDG 15:20"
+},
+{
+"start_ref": "09024001",
+"start_ref_usfm": "1SA 24:1",
+"end_ref": "09024007",
+"end_ref_usfm": "1SA 24:7"
+},
+{
+"start_ref": "10017015",
+"start_ref_usfm": "2SA 17:15",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "11018001",
+"start_ref_usfm": "1KI 18:1",
+"end_ref": "11018015",
+"end_ref_usfm": "1KI 18:15"
+},
+{
+"start_ref": "11019009",
+"start_ref_usfm": "1KI 19:9",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "42019045",
+"start_ref_usfm": "LUK 19:45",
+"end_ref": "42020008",
+"end_ref_usfm": "LUK 20:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a30",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cesta como alqueire",
+"media_type": "Video",
+"index_reference": "cesta como alqueire",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'><img src='thumbnails/a30_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1253",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cesta de mantimentos",
+"media_type": "Video",
+"index_reference": "cesta de mantimentos",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'><img src='thumbnails/a1253_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+},
+{
+"start_ref": "43006001",
+"start_ref_usfm": "JHN 6:1",
+"end_ref": "43006015",
+"end_ref_usfm": "JHN 6:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a27",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cesta grande",
+"media_type": "Video",
+"index_reference": "cesta grande",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a27/720p.mp4'><img src='thumbnails/a27_720p_thumbnail.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a27/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+},
+{
+"start_ref": "44009019",
+"start_ref_usfm": "ACT 9:19",
+"end_ref": "44009031",
+"end_ref_usfm": "ACT 9:31"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a135",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cinto",
+"media_type": "Video",
+"index_reference": "cinto",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a135/720p.mp4'><img src='thumbnails/a135_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a135/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+},
+{
+"start_ref": "44021010",
+"start_ref_usfm": "ACT 21:10",
+"end_ref": "44021014",
+"end_ref_usfm": "ACT 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a26",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Correntes",
+"media_type": "Video",
+"index_reference": "correntes",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a26/720p.mp4'><img src='thumbnails/a26_720p_thumbnail.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a26/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
+}
+],
+"resource": []
+}
+}
 ]

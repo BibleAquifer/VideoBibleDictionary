@@ -1,24 +1,30 @@
 [
-  {
-    "content_id": 295144,
-    "reference_id": 8441,
-    "version": "1.0.1",
-    "title": "渔网",
-    "media_type": "Video",
-    "index_reference": "渔网",
-    "language": "zhs",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/FishingNet.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/FishingNet.jpg' /></a> (83 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a30",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "当作量斗的篮子。",
+"media_type": "Video",
+"index_reference": "当作量斗的篮子",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'><img src='thumbnails/a30_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+}
+],
+"resource": []
+}
+}
 ]

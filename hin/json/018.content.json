@@ -1,0 +1,24 @@
+[
+{
+"content_id": "a143",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "प्रेसिपिस पर्वत",
+"media_type": "Video",
+"index_reference": "प्रेसिपिस पर्वत",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a143/720p.mp4'><img src='thumbnails/a143_720p_thumbnail.jpg' /></a> (101 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a143/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42004014",
+"start_ref_usfm": "LUK 4:14",
+"end_ref": "42004030",
+"end_ref_usfm": "LUK 4:30"
+}
+],
+"resource": []
+}
+}
+]
