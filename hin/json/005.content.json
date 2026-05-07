@@ -1,0 +1,30 @@
+[
+{
+"content_id": "a1444",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "ओले पड़ना",
+"media_type": "Video",
+"index_reference": "ओले पड़ना",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1444/720p.mp4'><img src='thumbnails/a1444_720p_thumbnail.jpg' /></a> (12 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1444/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02009013",
+"start_ref_usfm": "EXO 9:13",
+"end_ref": "02009021",
+"end_ref_usfm": "EXO 9:21"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,114 @@
+[
+{
+"content_id": "a11",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "加利利海",
+"media_type": "Video",
+"index_reference": "加利利海",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a11/720p.mp4'><img src='thumbnails/a11_720p_thumbnail.jpg' /></a> (114 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a11/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40004012",
+"start_ref_usfm": "MAT 4:12",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+},
+{
+"start_ref": "40008023",
+"start_ref_usfm": "MAT 8:23",
+"end_ref": "40008027",
+"end_ref_usfm": "MAT 8:27"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "40014022",
+"start_ref_usfm": "MAT 14:22",
+"end_ref": "40014036",
+"end_ref_usfm": "MAT 14:36"
+},
+{
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "41004026",
+"start_ref_usfm": "MRK 4:26",
+"end_ref": "41004034",
+"end_ref_usfm": "MRK 4:34"
+},
+{
+"start_ref": "41004035",
+"start_ref_usfm": "MRK 4:35",
+"end_ref": "41004041",
+"end_ref_usfm": "MRK 4:41"
+},
+{
+"start_ref": "41005021",
+"start_ref_usfm": "MRK 5:21",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "42008022",
+"start_ref_usfm": "LUK 8:22",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
+},
+{
+"start_ref": "43006016",
+"start_ref_usfm": "JHN 6:16",
+"end_ref": "43006021",
+"end_ref_usfm": "JHN 6:21"
+},
+{
+"start_ref": "43006028",
+"start_ref_usfm": "JHN 6:28",
+"end_ref": "43006040",
+"end_ref_usfm": "JHN 6:40"
+}
+],
+"resource": []
+}
+}
+]

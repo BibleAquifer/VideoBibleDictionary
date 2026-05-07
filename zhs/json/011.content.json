@@ -1,0 +1,36 @@
+[
+{
+"content_id": "a35",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "花园墓穴",
+"media_type": "Video",
+"index_reference": "花园墓穴",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'><img src='thumbnails/a35_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+}
+],
+"resource": []
+}
+}
+]

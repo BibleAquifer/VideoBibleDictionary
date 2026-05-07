@@ -1,0 +1,36 @@
+[
+{
+"content_id": "a1355",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Homem cingido",
+"media_type": "Video",
+"index_reference": "homem cingido",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1355/720p.mp4'><img src='thumbnails/a1355_720p_thumbnail.jpg' /></a> (67 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1355/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11018041",
+"start_ref_usfm": "1KI 18:41",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "42012035",
+"start_ref_usfm": "LUK 12:35",
+"end_ref": "42012048",
+"end_ref_usfm": "LUK 12:48"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,76 @@
+[
+{
+"content_id": "a39",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hierbas amargas",
+"media_type": "Video",
+"index_reference": "hierbas amargas",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'><img src='thumbnails/a39_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026025",
+"end_ref_usfm": "MAT 26:25"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a185",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hoz",
+"media_type": "Video",
+"index_reference": "hoz",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a185/720p.mp4'><img src='thumbnails/a185_720p_thumbnail.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a185/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "09006001",
+"start_ref_usfm": "1SA 6:1",
+"end_ref": "09006018",
+"end_ref_usfm": "1SA 6:18"
+},
+{
+"start_ref": "41004026",
+"start_ref_usfm": "MRK 4:26",
+"end_ref": "41004034",
+"end_ref_usfm": "MRK 4:34"
+}
+],
+"resource": []
+}
+}
+]

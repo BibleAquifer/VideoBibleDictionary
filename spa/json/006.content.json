@@ -1,0 +1,100 @@
+[
+{
+"content_id": "a1388",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Gallo",
+"media_type": "Video",
+"index_reference": "gallo",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1388/720p.mp4'><img src='thumbnails/a1388_720p_thumbnail.jpg' /></a> (5 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1388/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
+},
+{
+"start_ref": "40026069",
+"start_ref_usfm": "MAT 26:69",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+},
+{
+"start_ref": "41014027",
+"start_ref_usfm": "MRK 14:27",
+"end_ref": "41014031",
+"end_ref_usfm": "MRK 14:31"
+},
+{
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022038",
+"end_ref_usfm": "LUK 22:38"
+},
+{
+"start_ref": "42022047",
+"start_ref_usfm": "LUK 22:47",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
+},
+{
+"start_ref": "43013031",
+"start_ref_usfm": "JHN 13:31",
+"end_ref": "43013038",
+"end_ref_usfm": "JHN 13:38"
+},
+{
+"start_ref": "43018015",
+"start_ref_usfm": "JHN 18:15",
+"end_ref": "43018027",
+"end_ref_usfm": "JHN 18:27"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a25",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Garrote",
+"media_type": "Video",
+"index_reference": "garrote",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'><img src='thumbnails/a25_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+}
+],
+"resource": []
+}
+}
+]

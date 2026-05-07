@@ -1,0 +1,374 @@
+[
+{
+"content_id": "a39",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "कड़वे सागपात",
+"media_type": "Video",
+"index_reference": "कड़वे सागपात",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'><img src='thumbnails/a39_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026025",
+"end_ref_usfm": "MAT 26:25"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a8",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "कब्रें",
+"media_type": "Video",
+"index_reference": "कब्रें",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a8/720p.mp4'><img src='thumbnails/a8_720p_thumbnail.jpg' /></a> (93 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a8/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "07016023",
+"start_ref_usfm": "JDG 16:23",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "11013011",
+"start_ref_usfm": "1KI 13:11",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "14021011",
+"start_ref_usfm": "2CH 21:11",
+"end_ref": "14021020",
+"end_ref_usfm": "2CH 21:20"
+},
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002010",
+"end_ref_usfm": "NEH 2:10"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023028",
+"end_ref_usfm": "MAT 23:28"
+},
+{
+"start_ref": "40027057",
+"start_ref_usfm": "MAT 27:57",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "42023050",
+"start_ref_usfm": "LUK 23:50",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "43011017",
+"start_ref_usfm": "JHN 11:17",
+"end_ref": "43011027",
+"end_ref_usfm": "JHN 11:27"
+},
+{
+"start_ref": "43011028",
+"start_ref_usfm": "JHN 11:28",
+"end_ref": "43011044",
+"end_ref_usfm": "JHN 11:44"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020018",
+"end_ref_usfm": "JHN 20:18"
+},
+{
+"start_ref": "44005001",
+"start_ref_usfm": "ACT 5:1",
+"end_ref": "44005011",
+"end_ref_usfm": "ACT 5:11"
+},
+{
+"start_ref": "44013023",
+"start_ref_usfm": "ACT 13:23",
+"end_ref": "44013041",
+"end_ref_usfm": "ACT 13:41"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1355",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "कमर बाँधे हुआ मनुष्य",
+"media_type": "Video",
+"index_reference": "कमर बाँधे हुआ मनुष्य",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1355/720p.mp4'><img src='thumbnails/a1355_720p_thumbnail.jpg' /></a> (67 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1355/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11018041",
+"start_ref_usfm": "1KI 18:41",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "42012035",
+"start_ref_usfm": "LUK 12:35",
+"end_ref": "42012048",
+"end_ref_usfm": "LUK 12:48"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a135",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "कमरबन्द",
+"media_type": "Video",
+"index_reference": "कमरबन्द",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a135/720p.mp4'><img src='thumbnails/a135_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a135/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+},
+{
+"start_ref": "44021010",
+"start_ref_usfm": "ACT 21:10",
+"end_ref": "44021014",
+"end_ref_usfm": "ACT 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a4",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "कुर्ता",
+"media_type": "Video",
+"index_reference": "कुर्ता",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'><img src='thumbnails/a4_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015037",
+"end_ref_usfm": "2SA 15:37"
+},
+{
+"start_ref": "40005033",
+"start_ref_usfm": "MAT 5:33",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a182",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "कुल्हाड़ी",
+"media_type": "Video",
+"index_reference": "कुल्हाड़ी",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a182/720p.mp4'><img src='thumbnails/a182_720p_thumbnail.jpg' /></a> (69 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a182/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07009042",
+"start_ref_usfm": "JDG 9:42",
+"end_ref": "07009049",
+"end_ref_usfm": "JDG 9:49"
+},
+{
+"start_ref": "09013015",
+"start_ref_usfm": "1SA 13:15",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+}
+],
+"resource": []
+}
+}
+]

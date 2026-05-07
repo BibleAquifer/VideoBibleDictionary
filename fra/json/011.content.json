@@ -1,0 +1,454 @@
+[
+{
+"content_id": "a1253",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Panier de provisions",
+"media_type": "Video",
+"index_reference": "panier de provisions",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'><img src='thumbnails/a1253_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+},
+{
+"start_ref": "43006001",
+"start_ref_usfm": "JHN 6:1",
+"end_ref": "43006015",
+"end_ref_usfm": "JHN 6:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a30",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Panier en tant boisseau",
+"media_type": "Video",
+"index_reference": "panier en tant boisseau",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'><img src='thumbnails/a30_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a28",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pièces",
+"media_type": "Video",
+"index_reference": "pièces",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a28/720p.mp4'><img src='thumbnails/a28_720p_thumbnail.jpg' /></a> (65 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a28/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40025014",
+"start_ref_usfm": "MAT 25:14",
+"end_ref": "40025030",
+"end_ref_usfm": "MAT 25:30"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a29",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pièces de cuivre",
+"media_type": "Video",
+"index_reference": "pièces de cuivre",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a29/720p.mp4'><img src='thumbnails/a29_720p_thumbnail.jpg' /></a> (69 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a29/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40010026",
+"start_ref_usfm": "MAT 10:26",
+"end_ref": "40010033",
+"end_ref_usfm": "MAT 10:33"
+},
+{
+"start_ref": "41012038",
+"start_ref_usfm": "MRK 12:38",
+"end_ref": "41012044",
+"end_ref_usfm": "MRK 12:44"
+},
+{
+"start_ref": "42020045",
+"start_ref_usfm": "LUK 20:45",
+"end_ref": "42021004",
+"end_ref_usfm": "LUK 21:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a32",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pierre à moudre",
+"media_type": "Video",
+"index_reference": "pierre à moudre",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a32/720p.mp4'><img src='thumbnails/a32_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a32/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07009050",
+"start_ref_usfm": "JDG 9:50",
+"end_ref": "07009057",
+"end_ref_usfm": "JDG 9:57"
+},
+{
+"start_ref": "07016015",
+"start_ref_usfm": "JDG 16:15",
+"end_ref": "07016022",
+"end_ref_usfm": "JDG 16:22"
+},
+{
+"start_ref": "10011014",
+"start_ref_usfm": "2SA 11:14",
+"end_ref": "10011027",
+"end_ref_usfm": "2SA 11:27"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024044",
+"end_ref_usfm": "MAT 24:44"
+},
+{
+"start_ref": "41009030",
+"start_ref_usfm": "MRK 9:30",
+"end_ref": "41009050",
+"end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "42017001",
+"start_ref_usfm": "LUK 17:1",
+"end_ref": "42017010",
+"end_ref_usfm": "LUK 17:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a181",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pierre d'angle",
+"media_type": "Video",
+"index_reference": "pierre dangle",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'><img src='thumbnails/a181_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a169",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pigeon",
+"media_type": "Video",
+"index_reference": "pigeon",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'><img src='thumbnails/a169_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "03015013",
+"start_ref_usfm": "LEV 15:13",
+"end_ref": "03015018",
+"end_ref_usfm": "LEV 15:18"
+},
+{
+"start_ref": "41011012",
+"start_ref_usfm": "MRK 11:12",
+"end_ref": "41011026",
+"end_ref_usfm": "MRK 11:26"
+},
+{
+"start_ref": "42002022",
+"start_ref_usfm": "LUK 2:22",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a180",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Plat",
+"media_type": "Video",
+"index_reference": "plat",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'><img src='thumbnails/a180_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a43",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Poisson cuit",
+"media_type": "Video",
+"index_reference": "poisson cuit",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a43/720p.mp4'><img src='thumbnails/a43_720p_thumbnail.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a43/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011001",
+"start_ref_usfm": "NUM 11:1",
+"end_ref": "04011015",
+"end_ref_usfm": "NUM 11:15"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a20",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pot d'eau",
+"media_type": "Video",
+"index_reference": "pot deau",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a20/720p.mp4'><img src='thumbnails/a20_720p_thumbnail.jpg' /></a> (63 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a20/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024028",
+"end_ref_usfm": "GEN 24:28"
+},
+{
+"start_ref": "11017008",
+"start_ref_usfm": "1KI 17:8",
+"end_ref": "11017016",
+"end_ref_usfm": "1KI 17:16"
+},
+{
+"start_ref": "11018030",
+"start_ref_usfm": "1KI 18:30",
+"end_ref": "11018040",
+"end_ref_usfm": "1KI 18:40"
+},
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019008",
+"end_ref_usfm": "1KI 19:8"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43002012",
+"end_ref_usfm": "JHN 2:12"
+},
+{
+"start_ref": "43004027",
+"start_ref_usfm": "JHN 4:27",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "47004007",
+"start_ref_usfm": "2CO 4:7",
+"end_ref": "47004012",
+"end_ref_usfm": "2CO 4:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a41",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pot en albâtre",
+"media_type": "Video",
+"index_reference": "pot en albâtre",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a41/720p.mp4'><img src='thumbnails/a41_720p_thumbnail.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a41/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026001",
+"start_ref_usfm": "MAT 26:1",
+"end_ref": "40026016",
+"end_ref_usfm": "MAT 26:16"
+},
+{
+"start_ref": "41014001",
+"start_ref_usfm": "MRK 14:1",
+"end_ref": "41014011",
+"end_ref_usfm": "MRK 14:11"
+},
+{
+"start_ref": "42007036",
+"start_ref_usfm": "LUK 7:36",
+"end_ref": "42008003",
+"end_ref_usfm": "LUK 8:3"
+}
+],
+"resource": []
+}
+}
+]

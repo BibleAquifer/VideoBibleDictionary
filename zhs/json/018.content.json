@@ -1,0 +1,36 @@
+[
+{
+"content_id": "a185",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "镰刀",
+"media_type": "Video",
+"index_reference": "镰刀",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a185/720p.mp4'><img src='thumbnails/a185_720p_thumbnail.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a185/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "09006001",
+"start_ref_usfm": "1SA 6:1",
+"end_ref": "09006018",
+"end_ref_usfm": "1SA 6:18"
+},
+{
+"start_ref": "41004026",
+"start_ref_usfm": "MRK 4:26",
+"end_ref": "41004034",
+"end_ref_usfm": "MRK 4:34"
+}
+],
+"resource": []
+}
+}
+]

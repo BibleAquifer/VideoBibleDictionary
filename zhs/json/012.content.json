@@ -1,0 +1,42 @@
+[
+{
+"content_id": "a181",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "基石",
+"media_type": "Video",
+"index_reference": "基石",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'><img src='thumbnails/a181_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+}
+],
+"resource": []
+}
+}
+]

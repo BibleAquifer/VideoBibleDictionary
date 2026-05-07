@@ -1,0 +1,208 @@
+[
+{
+"content_id": "a41",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "संगमरमर का पात्र",
+"media_type": "Video",
+"index_reference": "संगमरमर का पात्र",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a41/720p.mp4'><img src='thumbnails/a41_720p_thumbnail.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a41/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026001",
+"start_ref_usfm": "MAT 26:1",
+"end_ref": "40026016",
+"end_ref_usfm": "MAT 26:16"
+},
+{
+"start_ref": "41014001",
+"start_ref_usfm": "MRK 14:1",
+"end_ref": "41014011",
+"end_ref_usfm": "MRK 14:11"
+},
+{
+"start_ref": "42007036",
+"start_ref_usfm": "LUK 7:36",
+"end_ref": "42008003",
+"end_ref_usfm": "LUK 8:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a187",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "सरकंडे का पौधा",
+"media_type": "Video",
+"index_reference": "सरकंडे का पौधा",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a187/720p.mp4'><img src='thumbnails/a187_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a187/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11014012",
+"start_ref_usfm": "1KI 14:12",
+"end_ref": "11014020",
+"end_ref_usfm": "1KI 14:20"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011019",
+"end_ref_usfm": "MAT 11:19"
+},
+{
+"start_ref": "40012015",
+"start_ref_usfm": "MAT 12:15",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "42007018",
+"start_ref_usfm": "LUK 7:18",
+"end_ref": "42007035",
+"end_ref_usfm": "LUK 7:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1253",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "सामान रखने की टोकरी",
+"media_type": "Video",
+"index_reference": "सामान रखने की टोकरी",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'><img src='thumbnails/a1253_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1253/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41006030",
+"start_ref_usfm": "MRK 6:30",
+"end_ref": "41006044",
+"end_ref_usfm": "MRK 6:44"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+},
+{
+"start_ref": "43006001",
+"start_ref_usfm": "JHN 6:1",
+"end_ref": "43006015",
+"end_ref_usfm": "JHN 6:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a28",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "सिक्के",
+"media_type": "Video",
+"index_reference": "सिक्के",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a28/720p.mp4'><img src='thumbnails/a28_720p_thumbnail.jpg' /></a> (65 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a28/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40025014",
+"start_ref_usfm": "MAT 25:14",
+"end_ref": "40025030",
+"end_ref_usfm": "MAT 25:30"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a31",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "सोने के लिए चटाई",
+"media_type": "Video",
+"index_reference": "सोने के लिए चटाई",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'><img src='thumbnails/a31_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40009001",
+"start_ref_usfm": "MAT 9:1",
+"end_ref": "40009008",
+"end_ref_usfm": "MAT 9:8"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41006045",
+"start_ref_usfm": "MRK 6:45",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "43005001",
+"start_ref_usfm": "JHN 5:1",
+"end_ref": "43005015",
+"end_ref_usfm": "JHN 5:15"
+},
+{
+"start_ref": "44005012",
+"start_ref_usfm": "ACT 5:12",
+"end_ref": "44005016",
+"end_ref_usfm": "ACT 5:16"
+},
+{
+"start_ref": "44009032",
+"start_ref_usfm": "ACT 9:32",
+"end_ref": "44009035",
+"end_ref_usfm": "ACT 9:35"
+}
+],
+"resource": []
+}
+}
+]

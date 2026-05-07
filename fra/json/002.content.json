@@ -1,24 +1,322 @@
 [
-  {
-    "content_id": 283014,
-    "reference_id": 8441,
-    "version": "1.0.1",
-    "title": "Filet de pêche",
-    "media_type": "Video",
-    "index_reference": "filet de pêche",
-    "language": "fra",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/FishingNet.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/FishingNet.jpg' /></a> (83 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a9",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Chameau",
+"media_type": "Video",
+"index_reference": "chameau",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a9/720p.mp4'><img src='thumbnails/a9_720p_thumbnail.jpg' /></a> (58 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a9/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024028",
+"end_ref_usfm": "GEN 24:28"
+},
+{
+"start_ref": "01024029",
+"start_ref_usfm": "GEN 24:29",
+"end_ref": "01024049",
+"end_ref_usfm": "GEN 24:49"
+},
+{
+"start_ref": "01032001",
+"start_ref_usfm": "GEN 32:1",
+"end_ref": "01032021",
+"end_ref_usfm": "GEN 32:21"
+},
+{
+"start_ref": "03011001",
+"start_ref_usfm": "LEV 11:1",
+"end_ref": "03011008",
+"end_ref_usfm": "LEV 11:8"
+},
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+},
+{
+"start_ref": "07007009",
+"start_ref_usfm": "JDG 7:9",
+"end_ref": "07007015",
+"end_ref_usfm": "JDG 7:15"
+},
+{
+"start_ref": "07008004",
+"start_ref_usfm": "JDG 8:4",
+"end_ref": "07008021",
+"end_ref_usfm": "JDG 8:21"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09028002",
+"end_ref_usfm": "1SA 28:2"
+},
+{
+"start_ref": "11009026",
+"start_ref_usfm": "1KI 9:26",
+"end_ref": "11010013",
+"end_ref_usfm": "1KI 10:13"
+},
+{
+"start_ref": "13012023",
+"start_ref_usfm": "1CH 12:23",
+"end_ref": "13012040",
+"end_ref_usfm": "1CH 12:40"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "14009001",
+"start_ref_usfm": "2CH 9:1",
+"end_ref": "14009012",
+"end_ref_usfm": "2CH 9:12"
+},
+{
+"start_ref": "15002064",
+"start_ref_usfm": "EZR 2:64",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "40019013",
+"start_ref_usfm": "MAT 19:13",
+"end_ref": "40019030",
+"end_ref_usfm": "MAT 19:30"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023028",
+"end_ref_usfm": "MAT 23:28"
+},
+{
+"start_ref": "41010013",
+"start_ref_usfm": "MRK 10:13",
+"end_ref": "41010031",
+"end_ref_usfm": "MRK 10:31"
+},
+{
+"start_ref": "42018018",
+"start_ref_usfm": "LUK 18:18",
+"end_ref": "42018030",
+"end_ref_usfm": "LUK 18:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a21",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "chandelier",
+"media_type": "Video",
+"index_reference": "chandelier",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'><img src='thumbnails/a21_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a25",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Club",
+"media_type": "Video",
+"index_reference": "club",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'><img src='thumbnails/a25_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1388",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Coq",
+"media_type": "Video",
+"index_reference": "coq",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1388/720p.mp4'><img src='thumbnails/a1388_720p_thumbnail.jpg' /></a> (5 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1388/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
+},
+{
+"start_ref": "40026069",
+"start_ref_usfm": "MAT 26:69",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+},
+{
+"start_ref": "41014027",
+"start_ref_usfm": "MRK 14:27",
+"end_ref": "41014031",
+"end_ref_usfm": "MRK 14:31"
+},
+{
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022038",
+"end_ref_usfm": "LUK 22:38"
+},
+{
+"start_ref": "42022047",
+"start_ref_usfm": "LUK 22:47",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
+},
+{
+"start_ref": "43013031",
+"start_ref_usfm": "JHN 13:31",
+"end_ref": "43013038",
+"end_ref_usfm": "JHN 13:38"
+},
+{
+"start_ref": "43018015",
+"start_ref_usfm": "JHN 18:15",
+"end_ref": "43018027",
+"end_ref_usfm": "JHN 18:27"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1404",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cultiver un champ",
+"media_type": "Video",
+"index_reference": "cultiver un champ",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'><img src='thumbnails/a1404_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01045001",
+"start_ref_usfm": "GEN 45:1",
+"end_ref": "01045028",
+"end_ref_usfm": "GEN 45:28"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "09013015",
+"start_ref_usfm": "1SA 13:15",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+}
+],
+"resource": []
+}
+}
 ]

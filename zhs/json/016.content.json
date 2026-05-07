@@ -1,0 +1,42 @@
+[
+{
+"content_id": "a39",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "苦菜",
+"media_type": "Video",
+"index_reference": "苦菜",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'><img src='thumbnails/a39_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026025",
+"end_ref_usfm": "MAT 26:25"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+}
+],
+"resource": []
+}
+}
+]

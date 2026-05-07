@@ -1,0 +1,376 @@
+[
+{
+"content_id": "a31",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tapis de couchage",
+"media_type": "Video",
+"index_reference": "tapis de couchage",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'><img src='thumbnails/a31_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40009001",
+"start_ref_usfm": "MAT 9:1",
+"end_ref": "40009008",
+"end_ref_usfm": "MAT 9:8"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41006045",
+"start_ref_usfm": "MRK 6:45",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "43005001",
+"start_ref_usfm": "JHN 5:1",
+"end_ref": "43005015",
+"end_ref_usfm": "JHN 5:15"
+},
+{
+"start_ref": "44005012",
+"start_ref_usfm": "ACT 5:12",
+"end_ref": "44005016",
+"end_ref_usfm": "ACT 5:16"
+},
+{
+"start_ref": "44009032",
+"start_ref_usfm": "ACT 9:32",
+"end_ref": "44009035",
+"end_ref_usfm": "ACT 9:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a35",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tombeau de jardin",
+"media_type": "Video",
+"index_reference": "tombeau de jardin",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'><img src='thumbnails/a35_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a8",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tombeaux",
+"media_type": "Video",
+"index_reference": "tombeaux",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a8/720p.mp4'><img src='thumbnails/a8_720p_thumbnail.jpg' /></a> (93 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a8/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "07016023",
+"start_ref_usfm": "JDG 16:23",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "11013011",
+"start_ref_usfm": "1KI 13:11",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "14021011",
+"start_ref_usfm": "2CH 21:11",
+"end_ref": "14021020",
+"end_ref_usfm": "2CH 21:20"
+},
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002010",
+"end_ref_usfm": "NEH 2:10"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023028",
+"end_ref_usfm": "MAT 23:28"
+},
+{
+"start_ref": "40027057",
+"start_ref_usfm": "MAT 27:57",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "42023050",
+"start_ref_usfm": "LUK 23:50",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "43011017",
+"start_ref_usfm": "JHN 11:17",
+"end_ref": "43011027",
+"end_ref_usfm": "JHN 11:27"
+},
+{
+"start_ref": "43011028",
+"start_ref_usfm": "JHN 11:28",
+"end_ref": "43011044",
+"end_ref_usfm": "JHN 11:44"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020018",
+"end_ref_usfm": "JHN 20:18"
+},
+{
+"start_ref": "44005001",
+"start_ref_usfm": "ACT 5:1",
+"end_ref": "44005011",
+"end_ref_usfm": "ACT 5:11"
+},
+{
+"start_ref": "44013023",
+"start_ref_usfm": "ACT 13:23",
+"end_ref": "44013041",
+"end_ref_usfm": "ACT 13:41"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a36",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tour de guet d'une vigne",
+"media_type": "Video",
+"index_reference": "tour de guet dune vigne",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a36/720p.mp4'><img src='thumbnails/a36_720p_thumbnail.jpg' /></a> (97 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a36/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01035021",
+"start_ref_usfm": "GEN 35:21",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "42014025",
+"start_ref_usfm": "LUK 14:25",
+"end_ref": "42014035",
+"end_ref_usfm": "LUK 14:35"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a4",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Tunique",
+"media_type": "Video",
+"index_reference": "tunique",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'><img src='thumbnails/a4_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014020",
+"end_ref_usfm": "JDG 14:20"
+},
+{
+"start_ref": "10015024",
+"start_ref_usfm": "2SA 15:24",
+"end_ref": "10015037",
+"end_ref_usfm": "2SA 15:37"
+},
+{
+"start_ref": "40005033",
+"start_ref_usfm": "MAT 5:33",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "43013001",
+"start_ref_usfm": "JHN 13:1",
+"end_ref": "43013011",
+"end_ref_usfm": "JHN 13:11"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+}
+],
+"resource": []
+}
+}
+]

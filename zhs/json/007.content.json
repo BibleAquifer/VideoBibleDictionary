@@ -1,0 +1,54 @@
+[
+{
+"content_id": "a169",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "鸽子",
+"media_type": "Video",
+"index_reference": "鸽子",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'><img src='thumbnails/a169_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "03015013",
+"start_ref_usfm": "LEV 15:13",
+"end_ref": "03015018",
+"end_ref_usfm": "LEV 15:18"
+},
+{
+"start_ref": "41011012",
+"start_ref_usfm": "MRK 11:12",
+"end_ref": "41011026",
+"end_ref_usfm": "MRK 11:26"
+},
+{
+"start_ref": "42002022",
+"start_ref_usfm": "LUK 2:22",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+}
+],
+"resource": []
+}
+}
+]

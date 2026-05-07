@@ -1,0 +1,144 @@
+[
+{
+"content_id": "a32",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "चक्की का पाट",
+"media_type": "Video",
+"index_reference": "चक्की का पाट",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a32/720p.mp4'><img src='thumbnails/a32_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a32/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07009050",
+"start_ref_usfm": "JDG 9:50",
+"end_ref": "07009057",
+"end_ref_usfm": "JDG 9:57"
+},
+{
+"start_ref": "07016015",
+"start_ref_usfm": "JDG 16:15",
+"end_ref": "07016022",
+"end_ref_usfm": "JDG 16:22"
+},
+{
+"start_ref": "10011014",
+"start_ref_usfm": "2SA 11:14",
+"end_ref": "10011027",
+"end_ref_usfm": "2SA 11:27"
+},
+{
+"start_ref": "40024037",
+"start_ref_usfm": "MAT 24:37",
+"end_ref": "40024044",
+"end_ref_usfm": "MAT 24:44"
+},
+{
+"start_ref": "41009030",
+"start_ref_usfm": "MRK 9:30",
+"end_ref": "41009050",
+"end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "42017001",
+"start_ref_usfm": "LUK 17:1",
+"end_ref": "42017010",
+"end_ref_usfm": "LUK 17:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a12",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "चट्टानें",
+"media_type": "Video",
+"index_reference": "चट्टानें",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a12/720p.mp4'><img src='thumbnails/a12_720p_thumbnail.jpg' /></a> (49 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a12/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005020",
+"end_ref_usfm": "MRK 5:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a33",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "चरनी",
+"media_type": "Video",
+"index_reference": "चरनी",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a33/720p.mp4'><img src='thumbnails/a33_720p_thumbnail.jpg' /></a> (70 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a33/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002021",
+"end_ref_usfm": "LUK 2:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a3",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "चार प्रकार की मिट्टियाँ",
+"media_type": "Video",
+"index_reference": "चार प्रकार की मिट्टियाँ",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'><img src='thumbnails/a3_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "40013018",
+"start_ref_usfm": "MAT 13:18",
+"end_ref": "40013023",
+"end_ref_usfm": "MAT 13:23"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42008004",
+"start_ref_usfm": "LUK 8:4",
+"end_ref": "42008015",
+"end_ref_usfm": "LUK 8:15"
+}
+],
+"resource": []
+}
+}
+]

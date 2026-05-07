@@ -1,0 +1,30 @@
+[
+{
+"content_id": "a177",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "राख",
+"media_type": "Video",
+"index_reference": "राख",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a177/720p.mp4'><img src='thumbnails/a177_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a177/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02009008",
+"start_ref_usfm": "EXO 9:8",
+"end_ref": "02009012",
+"end_ref_usfm": "EXO 9:12"
+},
+{
+"start_ref": "18002007",
+"start_ref_usfm": "JOB 2:7",
+"end_ref": "18002013",
+"end_ref_usfm": "JOB 2:13"
+}
+],
+"resource": []
+}
+}
+]

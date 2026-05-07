@@ -1,0 +1,36 @@
+[
+{
+"content_id": "a41",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "香膏罐",
+"media_type": "Video",
+"index_reference": "香膏罐",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a41/720p.mp4'><img src='thumbnails/a41_720p_thumbnail.jpg' /></a> (73 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a41/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026001",
+"start_ref_usfm": "MAT 26:1",
+"end_ref": "40026016",
+"end_ref_usfm": "MAT 26:16"
+},
+{
+"start_ref": "41014001",
+"start_ref_usfm": "MRK 14:1",
+"end_ref": "41014011",
+"end_ref_usfm": "MRK 14:11"
+},
+{
+"start_ref": "42007036",
+"start_ref_usfm": "LUK 7:36",
+"end_ref": "42008003",
+"end_ref_usfm": "LUK 8:3"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,160 @@
+[
+{
+"content_id": "a1352",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "बकरी की खाल",
+"media_type": "Video",
+"index_reference": "बकरी की खाल",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1352/720p.mp4'><img src='thumbnails/a1352_720p_thumbnail.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1352/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01027017",
+"end_ref_usfm": "GEN 27:17"
+},
+{
+"start_ref": "09019011",
+"start_ref_usfm": "1SA 19:11",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a35",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "बगीचे की कब्र",
+"media_type": "Video",
+"index_reference": "बगीचे की कब्र",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'><img src='thumbnails/a35_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1351",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "बटुआ",
+"media_type": "Video",
+"index_reference": "बटुआ",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'><img src='thumbnails/a1351_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09025023",
+"start_ref_usfm": "1SA 25:23",
+"end_ref": "09025038",
+"end_ref_usfm": "1SA 25:38"
+},
+{
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1262",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "बर्फ",
+"media_type": "Video",
+"index_reference": "बर्फ",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1262/720p.mp4'><img src='thumbnails/a1262_720p_thumbnail.jpg' /></a> (79 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1262/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04012001",
+"start_ref_usfm": "NUM 12:1",
+"end_ref": "04012016",
+"end_ref_usfm": "NUM 12:16"
+},
+{
+"start_ref": "10023018",
+"start_ref_usfm": "2SA 23:18",
+"end_ref": "10023023",
+"end_ref_usfm": "2SA 23:23"
+},
+{
+"start_ref": "13011020",
+"start_ref_usfm": "1CH 11:20",
+"end_ref": "13011025",
+"end_ref_usfm": "1CH 11:25"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a169",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "बलिदान के पशु",
+"media_type": "Video",
+"index_reference": "बलिदान के पशु",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'><img src='thumbnails/a169_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a169/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04007084",
+"start_ref_usfm": "NUM 7:84",
+"end_ref": "04007089",
+"end_ref_usfm": "NUM 7:89"
+},
+{
+"start_ref": "40021012",
+"start_ref_usfm": "MAT 21:12",
+"end_ref": "40021022",
+"end_ref_usfm": "MAT 21:22"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,42 @@
+[
+{
+"content_id": "a3",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "四种土地",
+"media_type": "Video",
+"index_reference": "四种土地",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'><img src='thumbnails/a3_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
+},
+{
+"start_ref": "40013018",
+"start_ref_usfm": "MAT 13:18",
+"end_ref": "40013023",
+"end_ref_usfm": "MAT 13:23"
+},
+{
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
+},
+{
+"start_ref": "42008004",
+"start_ref_usfm": "LUK 8:4",
+"end_ref": "42008015",
+"end_ref_usfm": "LUK 8:15"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,52 +1,74 @@
 [
-  {
-    "content_id": 286746,
-    "reference_id": 8441,
-    "version": "1.0.1",
-    "title": "Rede de Pesca",
-    "media_type": "Video",
-    "index_reference": "rede de pesca",
-    "language": "por",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/FishingNet.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/FishingNet.jpg' /></a> (83 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001016",
-          "end_ref_usfm": "MRK 1:16"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": 286744,
-    "reference_id": 8439,
-    "version": "1.0.1",
-    "title": "Rio Jordão",
-    "media_type": "Video",
-    "index_reference": "rio jordão",
-    "language": "por",
-    "review_level": "None",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/JordanRiver.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/JordanRiver.jpg' /></a> (79 seconds)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "41001005",
-          "start_ref_usfm": "MRK 1:5",
-          "end_ref": "41001005",
-          "end_ref_usfm": "MRK 1:5"
-        },
-        {
-          "start_ref": "41001009",
-          "start_ref_usfm": "MRK 1:9",
-          "end_ref": "41001009",
-          "end_ref_usfm": "MRK 1:9"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a180",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Bandeja",
+"media_type": "Video",
+"index_reference": "bandeja",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'><img src='thumbnails/a180_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a1351",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Bolsa",
+"media_type": "Video",
+"index_reference": "bolsa",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'><img src='thumbnails/a1351_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09025023",
+"start_ref_usfm": "1SA 25:23",
+"end_ref": "09025038",
+"end_ref_usfm": "1SA 25:38"
+},
+{
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a23",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Bolsa de viajante",
+"media_type": "Video",
+"index_reference": "bolsa de viajante",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a23/720p.mp4'><img src='thumbnails/a23_720p_thumbnail.jpg' /></a> (47 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a23/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+}
 ]

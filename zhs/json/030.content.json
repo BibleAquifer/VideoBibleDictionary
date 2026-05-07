@@ -1,0 +1,24 @@
+[
+{
+"content_id": "a23",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "行囊",
+"media_type": "Video",
+"index_reference": "行囊",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a23/720p.mp4'><img src='thumbnails/a23_720p_thumbnail.jpg' /></a> (47 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a23/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+}
+]

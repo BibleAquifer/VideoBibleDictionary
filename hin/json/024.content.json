@@ -1,0 +1,180 @@
+[
+{
+"content_id": "a166",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "लाठी",
+"media_type": "Video",
+"index_reference": "लाठी",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'><img src='thumbnails/a166_720p_thumbnail.jpg' /></a> (53 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02008016",
+"start_ref_usfm": "EXO 8:16",
+"end_ref": "02008019",
+"end_ref_usfm": "EXO 8:19"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
+},
+{
+"start_ref": "02010001",
+"start_ref_usfm": "EXO 10:1",
+"end_ref": "02010020",
+"end_ref_usfm": "EXO 10:20"
+},
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017007",
+"end_ref_usfm": "EXO 17:7"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "04017001",
+"start_ref_usfm": "NUM 17:1",
+"end_ref": "04017013",
+"end_ref_usfm": "NUM 17:13"
+},
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022040",
+"end_ref_usfm": "NUM 22:40"
+},
+{
+"start_ref": "09017031",
+"start_ref_usfm": "1SA 17:31",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017041",
+"start_ref_usfm": "1SA 17:41",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a25",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "लाठी",
+"media_type": "Video",
+"index_reference": "लाठी",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'><img src='thumbnails/a25_720p_thumbnail.jpg' /></a> (74 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a25/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a118",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "लेखन पट्टिका",
+"media_type": "Video",
+"index_reference": "लेखन पट्टिका",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a118/720p.mp4'><img src='thumbnails/a118_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a118/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001057",
+"start_ref_usfm": "LUK 1:57",
+"end_ref": "42001080",
+"end_ref_usfm": "LUK 1:80"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a14",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "लोहे का फाटक",
+"media_type": "Video",
+"index_reference": "लोहे का फाटक",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a14/720p.mp4'><img src='thumbnails/a14_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a14/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05006001",
+"start_ref_usfm": "DEU 6:1",
+"end_ref": "05006009",
+"end_ref_usfm": "DEU 6:9"
+},
+{
+"start_ref": "05025001",
+"start_ref_usfm": "DEU 25:1",
+"end_ref": "05025010",
+"end_ref_usfm": "DEU 25:10"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+}
+],
+"resource": []
+}
+}
+]

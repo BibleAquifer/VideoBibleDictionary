@@ -1,180 +1,140 @@
 [
-  {
-    "content_id": "870940",
-    "reference_id": 222519,
-    "version": "1.0.1",
-    "title": "Lampstand",
-    "media_type": "Video",
-    "index_reference": "lampstand",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a21-lampstand.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a21-lampstand.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a21-lampstand.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "42008016",
-          "start_ref_usfm": "LUK 8:16",
-          "end_ref": "42008018",
-          "end_ref_usfm": "LUK 8:18"
-        },
-        {
-          "start_ref": "40005013",
-          "start_ref_usfm": "MAT 5:13",
-          "end_ref": "40005016",
-          "end_ref_usfm": "MAT 5:16"
-        },
-        {
-          "start_ref": "41004021",
-          "start_ref_usfm": "MRK 4:21",
-          "end_ref": "41004025",
-          "end_ref_usfm": "MRK 4:25"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870985",
-    "reference_id": 222564,
-    "version": "1.0.1",
-    "title": "Large Basket",
-    "media_type": "Video",
-    "index_reference": "large basket",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a27-basket-large.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a27-basket-large.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a27-basket-large.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44009019",
-          "start_ref_usfm": "ACT 9:19",
-          "end_ref": "44009031",
-          "end_ref_usfm": "ACT 9:31"
-        },
-        {
-          "start_ref": "40015029",
-          "start_ref_usfm": "MAT 15:29",
-          "end_ref": "40015039",
-          "end_ref_usfm": "MAT 15:39"
-        },
-        {
-          "start_ref": "41008001",
-          "start_ref_usfm": "MRK 8:1",
-          "end_ref": "41008010",
-          "end_ref_usfm": "MRK 8:10"
-        },
-        {
-          "start_ref": "41008011",
-          "start_ref_usfm": "MRK 8:11",
-          "end_ref": "41008021",
-          "end_ref_usfm": "MRK 8:21"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870972",
-    "reference_id": 222551,
-    "version": "1.0.1",
-    "title": "Long Sheet of Linen Cloth",
-    "media_type": "Video",
-    "index_reference": "long sheet of linen cloth",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a120-linen-long-sheet.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a120-linen-long-sheet.jpg' /></a> (67 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a120-linen-long-sheet.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40027057",
-          "start_ref_usfm": "MAT 27:57",
-          "end_ref": "40027066",
-          "end_ref_usfm": "MAT 27:66"
-        },
-        {
-          "start_ref": "41015040",
-          "start_ref_usfm": "MRK 15:40",
-          "end_ref": "41015047",
-          "end_ref_usfm": "MRK 15:47"
-        },
-        {
-          "start_ref": "43020001",
-          "start_ref_usfm": "JHN 20:1",
-          "end_ref": "43020018",
-          "end_ref_usfm": "JHN 20:18"
-        },
-        {
-          "start_ref": "43019031",
-          "start_ref_usfm": "JHN 19:31",
-          "end_ref": "43019042",
-          "end_ref_usfm": "JHN 19:42"
-        }
-      ],
-      "resource": []
-    }
-  },
-  {
-    "content_id": "870980",
-    "reference_id": 222559,
-    "version": "1.0.1",
-    "title": "Lots",
-    "media_type": "Video",
-    "index_reference": "lots",
-    "language": "eng",
-    "review_level": "Professional",
-    "content": "<h3>Video Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a18-lots.mp4'><img src='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/Thumbnails/a18-lots.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://cdn.aquifer.bible/aquifer-content/resources/VideoBibleDictionary/ENG/a18-lots.mp4'>link</a></p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "40027032",
-          "start_ref_usfm": "MAT 27:32",
-          "end_ref": "40027044",
-          "end_ref_usfm": "MAT 27:44"
-        },
-        {
-          "start_ref": "41015016",
-          "start_ref_usfm": "MRK 15:16",
-          "end_ref": "41015032",
-          "end_ref_usfm": "MRK 15:32"
-        },
-        {
-          "start_ref": "13006054",
-          "start_ref_usfm": "1CH 6:54",
-          "end_ref": "13006081",
-          "end_ref_usfm": "1CH 6:81"
-        },
-        {
-          "start_ref": "09010017",
-          "start_ref_usfm": "1SA 10:17",
-          "end_ref": "09010027",
-          "end_ref_usfm": "1SA 10:27"
-        },
-        {
-          "start_ref": "04033050",
-          "start_ref_usfm": "NUM 33:50",
-          "end_ref": "04033056",
-          "end_ref_usfm": "NUM 33:56"
-        },
-        {
-          "start_ref": "44001015",
-          "start_ref_usfm": "ACT 1:15",
-          "end_ref": "44001026",
-          "end_ref_usfm": "ACT 1:26"
-        },
-        {
-          "start_ref": "06014001",
-          "start_ref_usfm": "JOS 14:1",
-          "end_ref": "06014015",
-          "end_ref_usfm": "JOS 14:15"
-        },
-        {
-          "start_ref": "06018001",
-          "start_ref_usfm": "JOS 18:1",
-          "end_ref": "06018010",
-          "end_ref_usfm": "JOS 18:10"
-        }
-      ],
-      "resource": []
-    }
-  }
+{
+"content_id": "a21",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Lampstand",
+"media_type": "Video",
+"index_reference": "lampstand",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'><img src='thumbnails/a21_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a21/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005013",
+"start_ref_usfm": "MAT 5:13",
+"end_ref": "40005016",
+"end_ref_usfm": "MAT 5:16"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004025",
+"end_ref_usfm": "MRK 4:25"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008018",
+"end_ref_usfm": "LUK 8:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a27",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Large Basket",
+"media_type": "Video",
+"index_reference": "large basket",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a27/720p.mp4'><img src='thumbnails/a27_720p_thumbnail.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a27/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40015029",
+"start_ref_usfm": "MAT 15:29",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+},
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+},
+{
+"start_ref": "41008011",
+"start_ref_usfm": "MRK 8:11",
+"end_ref": "41008021",
+"end_ref_usfm": "MRK 8:21"
+},
+{
+"start_ref": "44009019",
+"start_ref_usfm": "ACT 9:19",
+"end_ref": "44009031",
+"end_ref_usfm": "ACT 9:31"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a18",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Lots",
+"media_type": "Video",
+"index_reference": "lots",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a18/720p.mp4'><img src='thumbnails/a18_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a18/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04033050",
+"start_ref_usfm": "NUM 33:50",
+"end_ref": "04033056",
+"end_ref_usfm": "NUM 33:56"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014015",
+"end_ref_usfm": "JOS 14:15"
+},
+{
+"start_ref": "06018001",
+"start_ref_usfm": "JOS 18:1",
+"end_ref": "06018010",
+"end_ref_usfm": "JOS 18:10"
+},
+{
+"start_ref": "09010017",
+"start_ref_usfm": "1SA 10:17",
+"end_ref": "09010027",
+"end_ref_usfm": "1SA 10:27"
+},
+{
+"start_ref": "13006054",
+"start_ref_usfm": "1CH 6:54",
+"end_ref": "13006081",
+"end_ref_usfm": "1CH 6:81"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "44001015",
+"start_ref_usfm": "ACT 1:15",
+"end_ref": "44001026",
+"end_ref_usfm": "ACT 1:26"
+}
+],
+"resource": []
+}
+}
 ]

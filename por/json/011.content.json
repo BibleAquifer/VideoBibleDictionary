@@ -1,0 +1,42 @@
+[
+{
+"content_id": "a1262",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Neve",
+"media_type": "Video",
+"index_reference": "neve",
+"language": "por",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1262/720p.mp4'><img src='thumbnails/a1262_720p_thumbnail.jpg' /></a> (79 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1262/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04012001",
+"start_ref_usfm": "NUM 12:1",
+"end_ref": "04012016",
+"end_ref_usfm": "NUM 12:16"
+},
+{
+"start_ref": "10023018",
+"start_ref_usfm": "2SA 23:18",
+"end_ref": "10023023",
+"end_ref_usfm": "2SA 23:23"
+},
+{
+"start_ref": "13011020",
+"start_ref_usfm": "1CH 11:20",
+"end_ref": "13011025",
+"end_ref_usfm": "1CH 11:25"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+}
+],
+"resource": []
+}
+}
+]
