@@ -29,14 +29,14 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-06",
+"date_created": "2026-05-07",
 "language": "fra",
 "localizations": [
 "eng",
-"zhs",
 "hin",
 "por",
-"spa"
+"spa",
+"zhs"
 ],
 "order": "alphabetical",
 "content_type": "Html"
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-06T17:29:06.823014"
+"dateCreated": "2026-05-07T17:51:41.709919"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-06T17:29:06.823014"
+"timestamp": "2026-05-07T17:51:41.709919"
 }
 }
 },
@@ -175,7 +175,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 10431,
+"size": 10660,
 "scope": {
 "m": [
 "Maison à l'époque de Jésus",
@@ -198,7 +198,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 11446,
+"size": 9854,
 "scope": {
 "p": [
 "Panier de provisions",
@@ -210,7 +210,6 @@
 "Pigeon",
 "Plat",
 "Poisson cuit",
-"Pot d'eau",
 "Pot en albâtre"
 ]
 }
@@ -226,7 +225,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 6064,
+"size": 6181,
 "scope": {
 "s": [
 "Sac de voyageur",
@@ -237,7 +236,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 8485,
+"size": 8831,
 "scope": {
 "t": [
 "Tapis de couchage",
@@ -282,7 +281,7 @@
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 2998
+"size": 3027
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
@@ -290,7 +289,7 @@
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 4441
+"size": 4007
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
@@ -298,67 +297,67 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 1914
+"size": 1936
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 2690
+"size": 2741
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 706505
+"size": 706616
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 775894
+"size": 772592
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 140706
+"size": 140637
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 296088
+"size": 296402
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 726751
+"size": 726910
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 267242
+"size": 267204
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 293357
+"size": 293497
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 137552
+"size": 138064
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 956318
+"size": 956077
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 459162
+"size": 459010
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1654991
+"size": 1535209
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 158752
+"size": 158840
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 526956
+"size": 527167
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1153791
+"size": 1154097
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
@@ -402,7 +401,7 @@
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70973
+"size": 69442
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
@@ -443,11 +442,6 @@
 "language": "eng",
 "title": "Basket as a Bushel"
 },
-"zhs": {
-"content_id": "a30",
-"language": "zhs",
-"title": "当作量斗的篮子。"
-},
 "hin": {
 "content_id": "a30",
 "language": "hin",
@@ -462,6 +456,11 @@
 "content_id": "a30",
 "language": "spa",
 "title": "Cesta como celemín"
+},
+"zhs": {
+"content_id": "a30",
+"language": "zhs",
+"title": "当作量斗的篮子。"
 }
 }
 },
@@ -474,11 +473,6 @@
 "content_id": "a1253",
 "language": "eng",
 "title": "Basket for Provisions"
-},
-"zhs": {
-"content_id": "a1253",
-"language": "zhs",
-"title": "粮篮"
 },
 "hin": {
 "content_id": "a1253",
@@ -494,6 +488,11 @@
 "content_id": "a1253",
 "language": "spa",
 "title": "Cesta para provisiones"
+},
+"zhs": {
+"content_id": "a1253",
+"language": "zhs",
+"title": "粮篮"
 }
 }
 },
@@ -506,11 +505,6 @@
 "content_id": "a9",
 "language": "eng",
 "title": "Camel"
-},
-"zhs": {
-"content_id": "a9",
-"language": "zhs",
-"title": "骆驼"
 },
 "hin": {
 "content_id": "a9",
@@ -526,6 +520,11 @@
 "content_id": "a9",
 "language": "spa",
 "title": "Camello"
+},
+"zhs": {
+"content_id": "a9",
+"language": "zhs",
+"title": "骆驼"
 }
 }
 },
@@ -538,11 +537,6 @@
 "content_id": "a12",
 "language": "eng",
 "title": "Cliffs"
-},
-"zhs": {
-"content_id": "a12",
-"language": "zhs",
-"title": "悬崖"
 },
 "hin": {
 "content_id": "a12",
@@ -558,6 +552,11 @@
 "content_id": "a12",
 "language": "spa",
 "title": "Acantilados"
+},
+"zhs": {
+"content_id": "a12",
+"language": "zhs",
+"title": "悬崖"
 }
 }
 },
@@ -570,11 +569,6 @@
 "content_id": "a133",
 "language": "eng",
 "title": "Egyptian Cloak"
-},
-"zhs": {
-"content_id": "a133",
-"language": "zhs",
-"title": "外袍"
 },
 "hin": {
 "content_id": "a133",
@@ -590,6 +584,11 @@
 "content_id": "a133",
 "language": "spa",
 "title": "Manto"
+},
+"zhs": {
+"content_id": "a133",
+"language": "zhs",
+"title": "外袍"
 }
 }
 },
@@ -602,11 +601,6 @@
 "content_id": "a28",
 "language": "eng",
 "title": "Coins"
-},
-"zhs": {
-"content_id": "a28",
-"language": "zhs",
-"title": "硬币"
 },
 "hin": {
 "content_id": "a28",
@@ -622,6 +616,11 @@
 "content_id": "a28",
 "language": "spa",
 "title": "Monedas"
+},
+"zhs": {
+"content_id": "a28",
+"language": "zhs",
+"title": "硬币"
 }
 }
 },
@@ -634,11 +633,6 @@
 "content_id": "a181",
 "language": "eng",
 "title": "Cornerstone with a Wall"
-},
-"zhs": {
-"content_id": "a181",
-"language": "zhs",
-"title": "基石"
 },
 "hin": {
 "content_id": "a181",
@@ -654,6 +648,11 @@
 "content_id": "a181",
 "language": "spa",
 "title": "Piedra angular"
+},
+"zhs": {
+"content_id": "a181",
+"language": "zhs",
+"title": "基石"
 }
 }
 },
@@ -666,11 +665,6 @@
 "content_id": "a43",
 "language": "eng",
 "title": "Cooked Fish"
-},
-"zhs": {
-"content_id": "a43",
-"language": "zhs",
-"title": "熟鱼"
 },
 "hin": {
 "content_id": "a43",
@@ -686,6 +680,11 @@
 "content_id": "a43",
 "language": "spa",
 "title": "Pescado cocido"
+},
+"zhs": {
+"content_id": "a43",
+"language": "zhs",
+"title": "熟鱼"
 }
 }
 },
@@ -698,11 +697,6 @@
 "content_id": "a19",
 "language": "eng",
 "title": "Fishing Net"
-},
-"zhs": {
-"content_id": "a19",
-"language": "zhs",
-"title": "渔网"
 },
 "hin": {
 "content_id": "a19",
@@ -718,6 +712,11 @@
 "content_id": "a19",
 "language": "spa",
 "title": "Red de pesca"
+},
+"zhs": {
+"content_id": "a19",
+"language": "zhs",
+"title": "渔网"
 }
 }
 },
@@ -730,11 +729,6 @@
 "content_id": "a145",
 "language": "eng",
 "title": "House in the Time of Jesus"
-},
-"zhs": {
-"content_id": "a145",
-"language": "zhs",
-"title": "耶稣时代的房屋"
 },
 "hin": {
 "content_id": "a145",
@@ -750,6 +744,11 @@
 "content_id": "a145",
 "language": "spa",
 "title": "Casa en el tiempo de Jesús"
+},
+"zhs": {
+"content_id": "a145",
+"language": "zhs",
+"title": "耶稣时代的房屋"
 }
 }
 },
@@ -762,11 +761,6 @@
 "content_id": "a13",
 "language": "eng",
 "title": "Jordan River"
-},
-"zhs": {
-"content_id": "a13",
-"language": "zhs",
-"title": "约旦河"
 },
 "hin": {
 "content_id": "a13",
@@ -782,6 +776,11 @@
 "content_id": "a13",
 "language": "spa",
 "title": "Río Jordán"
+},
+"zhs": {
+"content_id": "a13",
+"language": "zhs",
+"title": "约旦河"
 }
 }
 },
@@ -794,11 +793,6 @@
 "content_id": "a21",
 "language": "eng",
 "title": "Lampstand"
-},
-"zhs": {
-"content_id": "a21",
-"language": "zhs",
-"title": "灯台"
 },
 "hin": {
 "content_id": "a21",
@@ -814,6 +808,11 @@
 "content_id": "a21",
 "language": "spa",
 "title": "Candelero"
+},
+"zhs": {
+"content_id": "a21",
+"language": "zhs",
+"title": "灯台"
 }
 }
 },
@@ -826,11 +825,6 @@
 "content_id": "a32",
 "language": "eng",
 "title": "Millstone"
-},
-"zhs": {
-"content_id": "a32",
-"language": "zhs",
-"title": "磨石"
 },
 "hin": {
 "content_id": "a32",
@@ -846,6 +840,11 @@
 "content_id": "a32",
 "language": "spa",
 "title": "Piedra de molino"
+},
+"zhs": {
+"content_id": "a32",
+"language": "zhs",
+"title": "磨石"
 }
 }
 },
@@ -858,11 +857,6 @@
 "content_id": "a40",
 "language": "eng",
 "title": "Mount of Olives"
-},
-"zhs": {
-"content_id": "a40",
-"language": "zhs",
-"title": "橄榄山"
 },
 "hin": {
 "content_id": "a40",
@@ -878,6 +872,11 @@
 "content_id": "a40",
 "language": "spa",
 "title": "Monte de los Olivos"
+},
+"zhs": {
+"content_id": "a40",
+"language": "zhs",
+"title": "橄榄山"
 }
 }
 },
@@ -890,11 +889,6 @@
 "content_id": "a22",
 "language": "eng",
 "title": "Oil Lamp"
-},
-"zhs": {
-"content_id": "a22",
-"language": "zhs",
-"title": "油灯"
 },
 "hin": {
 "content_id": "a22",
@@ -910,6 +904,11 @@
 "content_id": "a22",
 "language": "spa",
 "title": "Lámpara de aceite"
+},
+"zhs": {
+"content_id": "a22",
+"language": "zhs",
+"title": "油灯"
 }
 }
 },
@@ -922,11 +921,6 @@
 "content_id": "a5",
 "language": "eng",
 "title": "Olive and Palm Branches"
-},
-"zhs": {
-"content_id": "a5",
-"language": "zhs",
-"title": "橄榄树和棕榈树枝"
 },
 "hin": {
 "content_id": "a5",
@@ -942,6 +936,11 @@
 "content_id": "a5",
 "language": "spa",
 "title": "Ramas de olivo y de palma"
+},
+"zhs": {
+"content_id": "a5",
+"language": "zhs",
+"title": "橄榄树和棕榈树枝"
 }
 }
 },
@@ -954,11 +953,6 @@
 "content_id": "a31",
 "language": "eng",
 "title": "Sleeping Mat"
-},
-"zhs": {
-"content_id": "a31",
-"language": "zhs",
-"title": "睡垫"
 },
 "hin": {
 "content_id": "a31",
@@ -974,6 +968,11 @@
 "content_id": "a31",
 "language": "spa",
 "title": "Esterilla para dormir"
+},
+"zhs": {
+"content_id": "a31",
+"language": "zhs",
+"title": "睡垫"
 }
 }
 },
@@ -986,11 +985,6 @@
 "content_id": "a1404",
 "language": "eng",
 "title": "Plowing a Field"
-},
-"zhs": {
-"content_id": "a1404",
-"language": "zhs",
-"title": "耕种田地"
 },
 "hin": {
 "content_id": "a1404",
@@ -1006,6 +1000,11 @@
 "content_id": "a1404",
 "language": "spa",
 "title": "Arando un campo"
+},
+"zhs": {
+"content_id": "a1404",
+"language": "zhs",
+"title": "耕种田地"
 }
 }
 },
@@ -1018,11 +1017,6 @@
 "content_id": "a3",
 "language": "eng",
 "title": "Four Soils"
-},
-"zhs": {
-"content_id": "a3",
-"language": "zhs",
-"title": "四种土地"
 },
 "hin": {
 "content_id": "a3",
@@ -1038,6 +1032,11 @@
 "content_id": "a3",
 "language": "spa",
 "title": "Cuatro suelos"
+},
+"zhs": {
+"content_id": "a3",
+"language": "zhs",
+"title": "四种土地"
 }
 }
 },
@@ -1050,11 +1049,6 @@
 "content_id": "a34",
 "language": "eng",
 "title": "Stone Wall Around a Vineyard"
-},
-"zhs": {
-"content_id": "a34",
-"language": "zhs",
-"title": "葡萄园周围的石墙"
 },
 "hin": {
 "content_id": "a34",
@@ -1070,6 +1064,11 @@
 "content_id": "a34",
 "language": "spa",
 "title": "Muro de piedra alrededor de un viñedo"
+},
+"zhs": {
+"content_id": "a34",
+"language": "zhs",
+"title": "葡萄园周围的石墙"
 }
 }
 },
@@ -1082,11 +1081,6 @@
 "content_id": "a186",
 "language": "eng",
 "title": "Synagogue"
-},
-"zhs": {
-"content_id": "a186",
-"language": "zhs",
-"title": "犹太会堂"
 },
 "hin": {
 "content_id": "a186",
@@ -1102,6 +1096,11 @@
 "content_id": "a186",
 "language": "spa",
 "title": "Sinagoga"
+},
+"zhs": {
+"content_id": "a186",
+"language": "zhs",
+"title": "犹太会堂"
 }
 }
 },
@@ -1114,11 +1113,6 @@
 "content_id": "a8",
 "language": "eng",
 "title": "Tombs"
-},
-"zhs": {
-"content_id": "a8",
-"language": "zhs",
-"title": "坟墓"
 },
 "hin": {
 "content_id": "a8",
@@ -1134,6 +1128,11 @@
 "content_id": "a8",
 "language": "spa",
 "title": "Tumbas"
+},
+"zhs": {
+"content_id": "a8",
+"language": "zhs",
+"title": "坟墓"
 }
 }
 },
@@ -1146,11 +1145,6 @@
 "content_id": "a23",
 "language": "eng",
 "title": "Traveler's Bag"
-},
-"zhs": {
-"content_id": "a23",
-"language": "zhs",
-"title": "行囊"
 },
 "hin": {
 "content_id": "a23",
@@ -1166,6 +1160,11 @@
 "content_id": "a23",
 "language": "spa",
 "title": "Bolsa de viajero"
+},
+"zhs": {
+"content_id": "a23",
+"language": "zhs",
+"title": "行囊"
 }
 }
 },
@@ -1178,11 +1177,6 @@
 "content_id": "a4",
 "language": "eng",
 "title": "Tunic"
-},
-"zhs": {
-"content_id": "a4",
-"language": "zhs",
-"title": "长袍/里衣"
 },
 "hin": {
 "content_id": "a4",
@@ -1198,6 +1192,11 @@
 "content_id": "a4",
 "language": "spa",
 "title": "Túnica"
+},
+"zhs": {
+"content_id": "a4",
+"language": "zhs",
+"title": "长袍/里衣"
 }
 }
 },
@@ -1210,11 +1209,6 @@
 "content_id": "a36",
 "language": "eng",
 "title": "Watchtower for a Vineyard"
-},
-"zhs": {
-"content_id": "a36",
-"language": "zhs",
-"title": "葡萄园的守望台"
 },
 "hin": {
 "content_id": "a36",
@@ -1230,6 +1224,11 @@
 "content_id": "a36",
 "language": "spa",
 "title": "Torre de vigilancia para un viñedo"
+},
+"zhs": {
+"content_id": "a36",
+"language": "zhs",
+"title": "葡萄园的守望台"
 }
 }
 },
@@ -1242,11 +1241,6 @@
 "content_id": "a1",
 "language": "eng",
 "title": "Wheat Ready For Harvest"
-},
-"zhs": {
-"content_id": "a1",
-"language": "zhs",
-"title": "熟透待收的麦子"
 },
 "hin": {
 "content_id": "a1",
@@ -1262,6 +1256,11 @@
 "content_id": "a1",
 "language": "spa",
 "title": "Trigo listo para la cosecha"
+},
+"zhs": {
+"content_id": "a1",
+"language": "zhs",
+"title": "熟透待收的麦子"
 }
 }
 },
@@ -1274,11 +1273,6 @@
 "content_id": "a2",
 "language": "eng",
 "title": "Wheat with Heads of Grain"
-},
-"zhs": {
-"content_id": "a2",
-"language": "zhs",
-"title": "结穗的麦子"
 },
 "hin": {
 "content_id": "a2",
@@ -1294,6 +1288,11 @@
 "content_id": "a2",
 "language": "spa",
 "title": "Trigo con espigas"
+},
+"zhs": {
+"content_id": "a2",
+"language": "zhs",
+"title": "结穗的麦子"
 }
 }
 },
@@ -1306,11 +1305,6 @@
 "content_id": "a10",
 "language": "eng",
 "title": "Wilderness or Desert"
-},
-"zhs": {
-"content_id": "a10",
-"language": "zhs",
-"title": "旷野或沙漠"
 },
 "hin": {
 "content_id": "a10",
@@ -1326,6 +1320,11 @@
 "content_id": "a10",
 "language": "spa",
 "title": "Desierto"
+},
+"zhs": {
+"content_id": "a10",
+"language": "zhs",
+"title": "旷野或沙漠"
 }
 }
 },
@@ -1338,11 +1337,6 @@
 "content_id": "a6",
 "language": "eng",
 "title": "Wineskins"
-},
-"zhs": {
-"content_id": "a6",
-"language": "zhs",
-"title": "皮酒袋"
 },
 "hin": {
 "content_id": "a6",
@@ -1358,6 +1352,11 @@
 "content_id": "a6",
 "language": "spa",
 "title": "Odre"
+},
+"zhs": {
+"content_id": "a6",
+"language": "zhs",
+"title": "皮酒袋"
 }
 }
 },
@@ -1370,11 +1369,6 @@
 "content_id": "a184",
 "language": "eng",
 "title": "Sandals"
-},
-"zhs": {
-"content_id": "a184",
-"language": "zhs",
-"title": "凉鞋"
 },
 "hin": {
 "content_id": "a184",
@@ -1390,6 +1384,11 @@
 "content_id": "a184",
 "language": "spa",
 "title": "Sandalias"
+},
+"zhs": {
+"content_id": "a184",
+"language": "zhs",
+"title": "凉鞋"
 }
 }
 },
@@ -1402,11 +1401,6 @@
 "content_id": "a11",
 "language": "eng",
 "title": "Sea of Galilee"
-},
-"zhs": {
-"content_id": "a11",
-"language": "zhs",
-"title": "加利利海"
 },
 "hin": {
 "content_id": "a11",
@@ -1422,6 +1416,11 @@
 "content_id": "a11",
 "language": "spa",
 "title": "Mar de Galilea"
+},
+"zhs": {
+"content_id": "a11",
+"language": "zhs",
+"title": "加利利海"
 }
 }
 },
@@ -1434,11 +1433,6 @@
 "content_id": "a44",
 "language": "eng",
 "title": "Olive Tree"
-},
-"zhs": {
-"content_id": "a44",
-"language": "zhs",
-"title": "橄榄树"
 },
 "hin": {
 "content_id": "a44",
@@ -1454,6 +1448,11 @@
 "content_id": "a44",
 "language": "spa",
 "title": "Árbol de olivo"
+},
+"zhs": {
+"content_id": "a44",
+"language": "zhs",
+"title": "橄榄树"
 }
 }
 },
@@ -1466,11 +1465,6 @@
 "content_id": "a185",
 "language": "eng",
 "title": "Sickle"
-},
-"zhs": {
-"content_id": "a185",
-"language": "zhs",
-"title": "镰刀"
 },
 "hin": {
 "content_id": "a185",
@@ -1486,6 +1480,11 @@
 "content_id": "a185",
 "language": "spa",
 "title": "Hoz"
+},
+"zhs": {
+"content_id": "a185",
+"language": "zhs",
+"title": "镰刀"
 }
 }
 },
@@ -1498,11 +1497,6 @@
 "content_id": "a180",
 "language": "eng",
 "title": "Platter"
-},
-"zhs": {
-"content_id": "a180",
-"language": "zhs",
-"title": "大托盘"
 },
 "hin": {
 "content_id": "a180",
@@ -1518,6 +1512,11 @@
 "content_id": "a180",
 "language": "spa",
 "title": "Bandeja"
+},
+"zhs": {
+"content_id": "a180",
+"language": "zhs",
+"title": "大托盘"
 }
 }
 },
@@ -1530,11 +1529,6 @@
 "content_id": "a166",
 "language": "eng",
 "title": "Staff"
-},
-"zhs": {
-"content_id": "a166",
-"language": "zhs",
-"title": "杖"
 },
 "hin": {
 "content_id": "a166",
@@ -1550,6 +1544,11 @@
 "content_id": "a166",
 "language": "spa",
 "title": "Bastón"
+},
+"zhs": {
+"content_id": "a166",
+"language": "zhs",
+"title": "杖"
 }
 }
 },
@@ -1562,11 +1561,6 @@
 "content_id": "a37",
 "language": "eng",
 "title": "Garden of Gethsemane"
-},
-"zhs": {
-"content_id": "a37",
-"language": "zhs",
-"title": "客西马尼园"
 },
 "hin": {
 "content_id": "a37",
@@ -1582,6 +1576,11 @@
 "content_id": "a37",
 "language": "spa",
 "title": "Jardín de Getsemaní"
+},
+"zhs": {
+"content_id": "a37",
+"language": "zhs",
+"title": "客西马尼园"
 }
 }
 },
@@ -1594,11 +1593,6 @@
 "content_id": "a41",
 "language": "eng",
 "title": "Alabaster Jar"
-},
-"zhs": {
-"content_id": "a41",
-"language": "zhs",
-"title": "香膏罐"
 },
 "hin": {
 "content_id": "a41",
@@ -1614,6 +1608,11 @@
 "content_id": "a41",
 "language": "spa",
 "title": "Jarra de alabastro"
+},
+"zhs": {
+"content_id": "a41",
+"language": "zhs",
+"title": "香膏罐"
 }
 }
 },
@@ -1626,11 +1625,6 @@
 "content_id": "a25",
 "language": "eng",
 "title": "Club"
-},
-"zhs": {
-"content_id": "a25",
-"language": "zhs",
-"title": "棍棒"
 },
 "hin": {
 "content_id": "a25",
@@ -1646,6 +1640,11 @@
 "content_id": "a25",
 "language": "spa",
 "title": "Garrote"
+},
+"zhs": {
+"content_id": "a25",
+"language": "zhs",
+"title": "棍棒"
 }
 }
 },
@@ -1658,11 +1657,6 @@
 "content_id": "a1388",
 "language": "eng",
 "title": "Rooster"
-},
-"zhs": {
-"content_id": "a1388",
-"language": "zhs",
-"title": "公鸡"
 },
 "hin": {
 "content_id": "a1388",
@@ -1678,6 +1672,11 @@
 "content_id": "a1388",
 "language": "spa",
 "title": "Gallo"
+},
+"zhs": {
+"content_id": "a1388",
+"language": "zhs",
+"title": "公鸡"
 }
 }
 },
@@ -1690,11 +1689,6 @@
 "content_id": "a1381",
 "language": "eng",
 "title": "Sponge with Wine on a Stick"
-},
-"zhs": {
-"content_id": "a1381",
-"language": "zhs",
-"title": "绑在棍子上的蘸了醋的海绵"
 },
 "hin": {
 "content_id": "a1381",
@@ -1710,38 +1704,11 @@
 "content_id": "a1381",
 "language": "spa",
 "title": "Esponja con vino en un palo"
-}
-}
-},
-"a20": {
-"content_id": "a20",
-"reference_id": 0,
-"index_reference": "pot deau",
-"localizations": {
-"eng": {
-"content_id": "a20",
-"language": "eng",
-"title": "Water Jar"
 },
 "zhs": {
-"content_id": "a20",
+"content_id": "a1381",
 "language": "zhs",
-"title": "水罐"
-},
-"hin": {
-"content_id": "a20",
-"language": "hin",
-"title": "पानी का घड़ा"
-},
-"por": {
-"content_id": "a20",
-"language": "por",
-"title": "Jarro de água"
-},
-"spa": {
-"content_id": "a20",
-"language": "spa",
-"title": "Jarra de agua"
+"title": "绑在棍子上的蘸了醋的海绵"
 }
 }
 },
@@ -1754,11 +1721,6 @@
 "content_id": "a29",
 "language": "eng",
 "title": "Copper Coins"
-},
-"zhs": {
-"content_id": "a29",
-"language": "zhs",
-"title": "铜币"
 },
 "hin": {
 "content_id": "a29",
@@ -1774,6 +1736,11 @@
 "content_id": "a29",
 "language": "spa",
 "title": "Monedas de cobre"
+},
+"zhs": {
+"content_id": "a29",
+"language": "zhs",
+"title": "铜币"
 }
 }
 },
@@ -1786,11 +1753,6 @@
 "content_id": "a35",
 "language": "eng",
 "title": "Garden Tomb"
-},
-"zhs": {
-"content_id": "a35",
-"language": "zhs",
-"title": "花园墓穴"
 },
 "hin": {
 "content_id": "a35",
@@ -1806,6 +1768,11 @@
 "content_id": "a35",
 "language": "spa",
 "title": "Tumba del jardín"
+},
+"zhs": {
+"content_id": "a35",
+"language": "zhs",
+"title": "花园墓穴"
 }
 }
 },
@@ -1818,11 +1785,6 @@
 "content_id": "a169",
 "language": "eng",
 "title": "Sacrificial Animals"
-},
-"zhs": {
-"content_id": "a169",
-"language": "zhs",
-"title": "鸽子"
 },
 "hin": {
 "content_id": "a169",
@@ -1838,6 +1800,11 @@
 "content_id": "a169",
 "language": "spa",
 "title": "Paloma"
+},
+"zhs": {
+"content_id": "a169",
+"language": "zhs",
+"title": "鸽子"
 }
 }
 },
@@ -1850,11 +1817,6 @@
 "content_id": "a39",
 "language": "eng",
 "title": "Bitter Herbs"
-},
-"zhs": {
-"content_id": "a39",
-"language": "zhs",
-"title": "苦菜"
 },
 "hin": {
 "content_id": "a39",
@@ -1870,6 +1832,11 @@
 "content_id": "a39",
 "language": "spa",
 "title": "Hierbas amargas"
+},
+"zhs": {
+"content_id": "a39",
+"language": "zhs",
+"title": "苦菜"
 }
 }
 }
