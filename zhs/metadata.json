@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-06",
+"date_created": "2026-05-07",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-06T17:29:07.868290"
+"dateCreated": "2026-05-07T17:51:42.775498"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-06T17:29:07.868290"
+"timestamp": "2026-05-07T17:51:42.775498"
 }
 }
 },
@@ -129,7 +129,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 3345,
+"size": 3462,
 "scope": {
 "fen": [
 "坟墓"
@@ -257,7 +257,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 3413,
+"size": 3530,
 "scope": {
 "liang": [
 "凉鞋",
@@ -314,10 +314,9 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 2935,
+"size": 1348,
 "scope": {
 "shui": [
-"水罐",
 "睡垫"
 ]
 }
@@ -342,7 +341,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 3002,
+"size": 3231,
 "scope": {
 "wai": [
 "外袍"
@@ -424,7 +423,7 @@
 },
 "json/037.content.json": {
 "mimeType": "text/json",
-"size": 1713,
+"size": 1942,
 "scope": {
 "chang": [
 "长袍/里衣"
@@ -458,7 +457,7 @@
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 1286
+"size": 1308
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
@@ -514,7 +513,7 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 1486
+"size": 1508
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -538,7 +537,7 @@
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 1388
+"size": 909
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
@@ -550,7 +549,7 @@
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
-"size": 1230
+"size": 1271
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
@@ -586,7 +585,7 @@
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 982
+"size": 1023
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
@@ -594,155 +593,155 @@
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 296116
+"size": 296430
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 122378
+"size": 122365
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 197512
+"size": 197238
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 188603
+"size": 188467
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 250415
+"size": 250604
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 592972
+"size": 592853
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 183143
+"size": 183114
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 183534
+"size": 183449
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 167259
+"size": 167124
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 178516
+"size": 175231
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 354732
+"size": 354821
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 170890
+"size": 170959
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 207752
+"size": 207739
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 180170
+"size": 179917
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 293367
+"size": 293507
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 267247
+"size": 267209
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 140721
+"size": 140652
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 250921
+"size": 250810
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 344946
+"size": 345158
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 227171
+"size": 227510
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 323215
+"size": 323212
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 236409
+"size": 236647
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 516881
+"size": 516773
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 317942
+"size": 318187
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 323829
+"size": 203653
 },
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 158769
+"size": 158857
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 254268
+"size": 254477
 },
 "docx/028.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 167742
+"size": 167465
 },
 "docx/029.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 258568
+"size": 258758
 },
 "docx/030.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 176744
+"size": 176900
 },
 "docx/031.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 277277
+"size": 277483
 },
 "docx/032.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 218701
+"size": 218634
 },
 "docx/033.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 254266
+"size": 254475
 },
 "docx/034.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 321726
+"size": 322194
 },
 "docx/035.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 117595
+"size": 117499
 },
 "docx/036.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 207849
+"size": 208009
 },
 "docx/037.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 265075
+"size": 265336
 },
 "docx/038.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 286167
+"size": 286116
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
@@ -842,7 +841,7 @@
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51186
+"size": 48982
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
@@ -2190,38 +2189,6 @@
 "content_id": "a1381",
 "language": "spa",
 "title": "Esponja con vino en un palo"
-}
-}
-},
-"a20": {
-"content_id": "a20",
-"reference_id": 0,
-"index_reference": "水罐",
-"localizations": {
-"eng": {
-"content_id": "a20",
-"language": "eng",
-"title": "Water Jar"
-},
-"fra": {
-"content_id": "a20",
-"language": "fra",
-"title": "Pot d'eau"
-},
-"hin": {
-"content_id": "a20",
-"language": "hin",
-"title": "पानी का घड़ा"
-},
-"por": {
-"content_id": "a20",
-"language": "por",
-"title": "Jarro de água"
-},
-"spa": {
-"content_id": "a20",
-"language": "spa",
-"title": "Jarra de agua"
 }
 }
 },
