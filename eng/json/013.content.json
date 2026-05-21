@@ -1,245 +1,133 @@
 [
 {
-"content_id": "a22",
+"content_id": "a175",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Oil Lamp",
+"title": "Pearls",
 "media_type": "Video",
-"index_reference": "oil lamp",
+"index_reference": "pearls",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a22/720p.mp4'><img src='thumbnails/a22_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a22/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'><img src='thumbnails/a175_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "10021015",
-"start_ref_usfm": "2SA 21:15",
-"end_ref": "10021022",
-"end_ref_usfm": "2SA 21:22"
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
 },
 {
-"start_ref": "10022021",
-"start_ref_usfm": "2SA 22:21",
-"end_ref": "10022029",
-"end_ref_usfm": "2SA 22:29"
-},
-{
-"start_ref": "11011026",
-"start_ref_usfm": "1KI 11:26",
-"end_ref": "11011043",
-"end_ref_usfm": "1KI 11:43"
-},
-{
-"start_ref": "11015001",
-"start_ref_usfm": "1KI 15:1",
-"end_ref": "11015008",
-"end_ref_usfm": "1KI 15:8"
-},
-{
-"start_ref": "14021001",
-"start_ref_usfm": "2CH 21:1",
-"end_ref": "14021010",
-"end_ref_usfm": "2CH 21:10"
-},
-{
-"start_ref": "40005013",
-"start_ref_usfm": "MAT 5:13",
-"end_ref": "40005016",
-"end_ref_usfm": "MAT 5:16"
-},
-{
-"start_ref": "40006019",
-"start_ref_usfm": "MAT 6:19",
-"end_ref": "40006034",
-"end_ref_usfm": "MAT 6:34"
-},
-{
-"start_ref": "40012015",
-"start_ref_usfm": "MAT 12:15",
-"end_ref": "40012021",
-"end_ref_usfm": "MAT 12:21"
-},
-{
-"start_ref": "40025001",
-"start_ref_usfm": "MAT 25:1",
-"end_ref": "40025013",
-"end_ref_usfm": "MAT 25:13"
-},
-{
-"start_ref": "41004021",
-"start_ref_usfm": "MRK 4:21",
-"end_ref": "41004025",
-"end_ref_usfm": "MRK 4:25"
-},
-{
-"start_ref": "42008016",
-"start_ref_usfm": "LUK 8:16",
-"end_ref": "42008018",
-"end_ref_usfm": "LUK 8:18"
-},
-{
-"start_ref": "42011033",
-"start_ref_usfm": "LUK 11:33",
-"end_ref": "42011054",
-"end_ref_usfm": "LUK 11:54"
-},
-{
-"start_ref": "42012035",
-"start_ref_usfm": "LUK 12:35",
-"end_ref": "42012048",
-"end_ref_usfm": "LUK 12:48"
-},
-{
-"start_ref": "42015001",
-"start_ref_usfm": "LUK 15:1",
-"end_ref": "42015010",
-"end_ref_usfm": "LUK 15:10"
-},
-{
-"start_ref": "43005031",
-"start_ref_usfm": "JHN 5:31",
-"end_ref": "43005047",
-"end_ref_usfm": "JHN 5:47"
-},
-{
-"start_ref": "43018001",
-"start_ref_usfm": "JHN 18:1",
-"end_ref": "43018014",
-"end_ref_usfm": "JHN 18:14"
-},
-{
-"start_ref": "44016025",
-"start_ref_usfm": "ACT 16:25",
-"end_ref": "44016040",
-"end_ref_usfm": "ACT 16:40"
-},
-{
-"start_ref": "44020007",
-"start_ref_usfm": "ACT 20:7",
-"end_ref": "44020012",
-"end_ref_usfm": "ACT 20:12"
+"start_ref": "40013044",
+"start_ref_usfm": "MAT 13:44",
+"end_ref": "40013053",
+"end_ref_usfm": "MAT 13:53"
 }
 ],
 "resource": []
 }
 },
 {
-"content_id": "a5",
+"content_id": "a1264",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Olive and Palm Branches",
+"title": "Pine Trees",
 "media_type": "Video",
-"index_reference": "olive and palm branches",
+"index_reference": "pine trees",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a5/720p.mp4'><img src='thumbnails/a5_720p_thumbnail.jpg' /></a> (68 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a5/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1264/720p.mp4'><img src='thumbnails/a1264_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1264/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "41011001",
-"start_ref_usfm": "MRK 11:1",
-"end_ref": "41011011",
-"end_ref_usfm": "MRK 11:11"
-},
-{
-"start_ref": "43012012",
-"start_ref_usfm": "JHN 12:12",
-"end_ref": "43012019",
-"end_ref_usfm": "JHN 12:19"
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
 }
 ],
 "resource": []
 }
 },
 {
-"content_id": "a44",
+"content_id": "a180",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Olive Tree",
+"title": "Platter",
 "media_type": "Video",
-"index_reference": "olive tree",
+"index_reference": "platter",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a44/720p.mp4'><img src='thumbnails/a44_720p_thumbnail.jpg' /></a> (92 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a44/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'><img src='thumbnails/a180_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "01008001",
-"start_ref_usfm": "GEN 8:1",
-"end_ref": "01008019",
-"end_ref_usfm": "GEN 8:19"
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+}
+],
+"resource": []
+}
 },
 {
-"start_ref": "02025001",
-"start_ref_usfm": "EXO 25:1",
-"end_ref": "02025009",
-"end_ref_usfm": "EXO 25:9"
+"content_id": "a1356",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Purple Robe",
+"media_type": "Video",
+"index_reference": "purple robe",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1356/720p.mp4'><img src='thumbnails/a1356_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1356/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
 },
 {
-"start_ref": "02030022",
-"start_ref_usfm": "EXO 30:22",
-"end_ref": "02030033",
-"end_ref_usfm": "EXO 30:33"
+"start_ref": "42016019",
+"start_ref_usfm": "LUK 16:19",
+"end_ref": "42016031",
+"end_ref_usfm": "LUK 16:31"
 },
 {
-"start_ref": "05024017",
-"start_ref_usfm": "DEU 24:17",
-"end_ref": "05024022",
-"end_ref_usfm": "DEU 24:22"
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019016",
+"end_ref_usfm": "JHN 19:16"
+}
+],
+"resource": []
+}
 },
 {
-"start_ref": "07009007",
-"start_ref_usfm": "JDG 9:7",
-"end_ref": "07009021",
-"end_ref_usfm": "JDG 9:21"
+"content_id": "a1351",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Purse",
+"media_type": "Video",
+"index_reference": "purse",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'><img src='thumbnails/a1351_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09025023",
+"start_ref_usfm": "1SA 25:23",
+"end_ref": "09025038",
+"end_ref_usfm": "1SA 25:38"
 },
 {
-"start_ref": "41011001",
-"start_ref_usfm": "MRK 11:1",
-"end_ref": "41011011",
-"end_ref_usfm": "MRK 11:11"
-},
-{
-"start_ref": "41013001",
-"start_ref_usfm": "MRK 13:1",
-"end_ref": "41013008",
-"end_ref_usfm": "MRK 13:8"
-},
-{
-"start_ref": "41014032",
-"start_ref_usfm": "MRK 14:32",
-"end_ref": "41014042",
-"end_ref_usfm": "MRK 14:42"
-},
-{
-"start_ref": "42019028",
-"start_ref_usfm": "LUK 19:28",
-"end_ref": "42019044",
-"end_ref_usfm": "LUK 19:44"
-},
-{
-"start_ref": "42022039",
-"start_ref_usfm": "LUK 22:39",
-"end_ref": "42022046",
-"end_ref_usfm": "LUK 22:46"
-},
-{
-"start_ref": "44001006",
-"start_ref_usfm": "ACT 1:6",
-"end_ref": "44001011",
-"end_ref_usfm": "ACT 1:11"
-},
-{
-"start_ref": "44001012",
-"start_ref_usfm": "ACT 1:12",
-"end_ref": "44001014",
-"end_ref_usfm": "ACT 1:14"
-},
-{
-"start_ref": "59003001",
-"start_ref_usfm": "JAS 3:1",
-"end_ref": "59003012",
-"end_ref_usfm": "JAS 3:12"
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
 }
 ],
 "resource": []

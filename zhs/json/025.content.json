@@ -1,57 +1,39 @@
 [
 {
-"content_id": "a31",
+"content_id": "a3",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "睡垫",
+"title": "四种土地",
 "media_type": "Video",
-"index_reference": "睡垫",
+"index_reference": "四种土地",
 "language": "zhs",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'><img src='thumbnails/a31_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a31/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'><img src='thumbnails/a3_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a3/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "40009001",
-"start_ref_usfm": "MAT 9:1",
-"end_ref": "40009008",
-"end_ref_usfm": "MAT 9:8"
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013009",
+"end_ref_usfm": "MAT 13:9"
 },
 {
-"start_ref": "41002001",
-"start_ref_usfm": "MRK 2:1",
-"end_ref": "41002012",
-"end_ref_usfm": "MRK 2:12"
+"start_ref": "40013018",
+"start_ref_usfm": "MAT 13:18",
+"end_ref": "40013023",
+"end_ref_usfm": "MAT 13:23"
 },
 {
-"start_ref": "41006045",
-"start_ref_usfm": "MRK 6:45",
-"end_ref": "41006056",
-"end_ref_usfm": "MRK 6:56"
+"start_ref": "41004001",
+"start_ref_usfm": "MRK 4:1",
+"end_ref": "41004020",
+"end_ref_usfm": "MRK 4:20"
 },
 {
-"start_ref": "42005017",
-"start_ref_usfm": "LUK 5:17",
-"end_ref": "42005026",
-"end_ref_usfm": "LUK 5:26"
-},
-{
-"start_ref": "43005001",
-"start_ref_usfm": "JHN 5:1",
-"end_ref": "43005015",
-"end_ref_usfm": "JHN 5:15"
-},
-{
-"start_ref": "44005012",
-"start_ref_usfm": "ACT 5:12",
-"end_ref": "44005016",
-"end_ref_usfm": "ACT 5:16"
-},
-{
-"start_ref": "44009032",
-"start_ref_usfm": "ACT 9:32",
-"end_ref": "44009035",
-"end_ref_usfm": "ACT 9:35"
+"start_ref": "42008004",
+"start_ref_usfm": "LUK 8:4",
+"end_ref": "42008015",
+"end_ref_usfm": "LUK 8:15"
 }
 ],
 "resource": []

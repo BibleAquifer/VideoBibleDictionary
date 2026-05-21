@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-07",
+"date_created": "2026-05-20",
 "language": "fra",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T17:51:41.709919"
+"dateCreated": "2026-05-20T17:57:09.888574"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-07T17:51:41.709919"
+"timestamp": "2026-05-20T17:57:09.888574"
 }
 }
 },
@@ -105,14 +105,13 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 7400,
+"size": 6134,
 "scope": {
 "c": [
 "Chameau",
 "chandelier",
 "Club",
-"Coq",
-"Cultiver un champ"
+"Coq"
 ]
 }
 },
@@ -175,7 +174,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 10660,
+"size": 10778,
 "scope": {
 "m": [
 "Maison à l'époque de Jésus",
@@ -253,7 +252,7 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 2586
+"size": 2189
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
@@ -281,7 +280,7 @@
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 3027
+"size": 3041
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
@@ -303,117 +302,61 @@
 "mimeType": "text/markdown",
 "size": 2741
 },
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 706616
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 772592
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 140637
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 296402
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 726910
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 267204
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 293497
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 138064
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 956077
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 459010
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1535209
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 158840
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 527167
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1154097
-},
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59974
+"size": 50519
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59290
+"size": 47811
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51769
+"size": 43176
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54125
+"size": 44677
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58434
+"size": 49017
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51767
+"size": 43119
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52912
+"size": 43999
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52405
+"size": 43400
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61532
+"size": 51823
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53197
+"size": 44478
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69442
+"size": 60110
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52124
+"size": 43267
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56341
+"size": 47166
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60424
+"size": 50890
 }
 },
 "copyright": {
@@ -973,38 +916,6 @@
 "content_id": "a31",
 "language": "zhs",
 "title": "睡垫"
-}
-}
-},
-"a1404": {
-"content_id": "a1404",
-"reference_id": 0,
-"index_reference": "cultiver un champ",
-"localizations": {
-"eng": {
-"content_id": "a1404",
-"language": "eng",
-"title": "Plowing a Field"
-},
-"hin": {
-"content_id": "a1404",
-"language": "hin",
-"title": "खेत जोतना"
-},
-"por": {
-"content_id": "a1404",
-"language": "por",
-"title": "Arando um campo"
-},
-"spa": {
-"content_id": "a1404",
-"language": "spa",
-"title": "Arando un campo"
-},
-"zhs": {
-"content_id": "a1404",
-"language": "zhs",
-"title": "耕种田地"
 }
 }
 },

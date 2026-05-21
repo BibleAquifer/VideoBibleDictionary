@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-07",
+"date_created": "2026-05-20",
 "language": "spa",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T17:51:42.488592"
+"dateCreated": "2026-05-20T17:57:10.725681"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-07T17:51:42.488592"
+"timestamp": "2026-05-20T17:57:10.725681"
 }
 }
 },
@@ -93,11 +93,10 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 4113,
+"size": 2851,
 "scope": {
 "a": [
 "Acantilados",
-"Arando un campo",
 "Árbol de olivo"
 ]
 }
@@ -115,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 10264,
+"size": 10382,
 "scope": {
 "c": [
 "Cadenas",
@@ -238,11 +237,10 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 9047,
+"size": 6988,
 "scope": {
 "s": [
 "Sandalias",
-"Serpiente",
 "Sinagoga",
 "Suertes"
 ]
@@ -266,7 +264,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1700
+"size": 1302
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -274,7 +272,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 3637
+"size": 3653
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -318,131 +316,71 @@
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 2578
+"size": 2080
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
 "size": 4091
 },
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 641014
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 500784
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1247102
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 140626
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 457759
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 300059
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 475719
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 509958
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 138064
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 991965
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 236629
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1206627
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 432393
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 766021
-},
-"docx/015.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1501630
-},
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56105
+"size": 45345
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55389
+"size": 46500
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64310
+"size": 55306
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51114
+"size": 42588
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55461
+"size": 46012
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52764
+"size": 44103
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54404
+"size": 45262
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54626
+"size": 45674
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52391
+"size": 43472
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61606
+"size": 52293
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50785
+"size": 42410
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 62197
+"size": 52979
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57044
+"size": 47745
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57345
+"size": 46682
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65699
+"size": 56299
 }
 },
 "copyright": {
@@ -1002,38 +940,6 @@
 "content_id": "a31",
 "language": "zhs",
 "title": "睡垫"
-}
-}
-},
-"a1404": {
-"content_id": "a1404",
-"reference_id": 0,
-"index_reference": "arando un campo",
-"localizations": {
-"eng": {
-"content_id": "a1404",
-"language": "eng",
-"title": "Plowing a Field"
-},
-"fra": {
-"content_id": "a1404",
-"language": "fra",
-"title": "Cultiver un champ"
-},
-"hin": {
-"content_id": "a1404",
-"language": "hin",
-"title": "खेत जोतना"
-},
-"por": {
-"content_id": "a1404",
-"language": "por",
-"title": "Arando um campo"
-},
-"zhs": {
-"content_id": "a1404",
-"language": "zhs",
-"title": "耕种田地"
 }
 }
 },
@@ -2002,23 +1908,6 @@
 "content_id": "a127",
 "language": "por",
 "title": "Peixe"
-}
-}
-},
-"a168": {
-"content_id": "a168",
-"reference_id": 0,
-"index_reference": "serpiente",
-"localizations": {
-"eng": {
-"content_id": "a168",
-"language": "eng",
-"title": "Snake"
-},
-"por": {
-"content_id": "a168",
-"language": "por",
-"title": "Serpente"
 }
 }
 }

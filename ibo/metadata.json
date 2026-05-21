@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-07",
+"date_created": "2026-05-20",
 "language": "ibo",
 "localizations": [
 "eng",
@@ -59,7 +59,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T17:51:42.011900"
+"dateCreated": "2026-05-20T17:57:10.210048"
 },
 "idAuthorities": {
 "aquifer": {
@@ -73,7 +73,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-07T17:51:42.011900"
+"timestamp": "2026-05-20T17:57:10.210048"
 }
 }
 },
@@ -131,21 +131,13 @@
 "mimeType": "text/markdown",
 "size": 882
 },
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 63461
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47418
-},
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56624
+"size": 47756
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51878
+"size": 43132
 }
 },
 "copyright": {
