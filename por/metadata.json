@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-07",
+"date_created": "2026-05-20",
 "language": "por",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T17:51:42.234446"
+"dateCreated": "2026-05-20T17:57:10.440605"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-07T17:51:42.234446"
+"timestamp": "2026-05-20T17:57:10.440605"
 }
 }
 },
@@ -93,12 +93,11 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 2871,
+"size": 1609,
 "scope": {
 "a": [
 "Animais sacrificiais",
-"Animais sacrificiais",
-"Arando um campo"
+"Animais sacrificiais"
 ]
 }
 },
@@ -115,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 16001,
+"size": 16119,
 "scope": {
 "c": [
 "Cajado",
@@ -231,7 +230,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 13669,
+"size": 12764,
 "scope": {
 "p": [
 "Pá de joeirar",
@@ -243,8 +242,7 @@
 "Penhascos",
 "Pérolas",
 "Planta de junco",
-"Portão da cidade",
-"Portão de ferro"
+"Portão da cidade"
 ]
 }
 },
@@ -270,11 +268,10 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 9958,
+"size": 7901,
 "scope": {
 "s": [
 "Sandálias",
-"Serpente",
 "Sinagoga",
 "Sortes",
 "Suporte de candeeiro"
@@ -309,7 +306,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1549
+"size": 1149
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -317,7 +314,7 @@
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 4887
+"size": 4903
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -357,7 +354,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 4803
+"size": 4451
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -369,7 +366,7 @@
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2923
+"size": 2422
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
@@ -379,149 +376,77 @@
 "mimeType": "text/markdown",
 "size": 1145
 },
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 484213
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 344364
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1674663
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1173143
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 467266
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 167114
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 148222
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 484692
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 138060
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1858835
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 133072
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 459010
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1742400
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 158843
-},
-"docx/015.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 432397
-},
-"docx/016.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 912196
-},
-"docx/017.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1603411
-},
-"docx/018.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 380801
-},
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56360
+"size": 44976
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55121
+"size": 46277
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68256
+"size": 59179
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61914
+"size": 52367
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53840
+"size": 44976
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50722
+"size": 42212
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52138
+"size": 43176
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54883
+"size": 45865
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51654
+"size": 42749
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69888
+"size": 60319
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50846
+"size": 42224
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53227
+"size": 44582
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71267
+"size": 60066
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52014
+"size": 43148
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56738
+"size": 47509
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59637
+"size": 48942
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 63887
+"size": 54852
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51850
+"size": 43414
 }
 },
 "copyright": {
@@ -1098,38 +1023,6 @@
 "content_id": "a31",
 "language": "zhs",
 "title": "睡垫"
-}
-}
-},
-"a1404": {
-"content_id": "a1404",
-"reference_id": 0,
-"index_reference": "arando um campo",
-"localizations": {
-"eng": {
-"content_id": "a1404",
-"language": "eng",
-"title": "Plowing a Field"
-},
-"fra": {
-"content_id": "a1404",
-"language": "fra",
-"title": "Cultiver un champ"
-},
-"hin": {
-"content_id": "a1404",
-"language": "hin",
-"title": "खेत जोतना"
-},
-"spa": {
-"content_id": "a1404",
-"language": "spa",
-"title": "Arando un campo"
-},
-"zhs": {
-"content_id": "a1404",
-"language": "zhs",
-"title": "耕种田地"
 }
 }
 },
@@ -2203,23 +2096,6 @@
 }
 }
 },
-"a14": {
-"content_id": "a14",
-"reference_id": 0,
-"index_reference": "portão de ferro",
-"localizations": {
-"eng": {
-"content_id": "a14",
-"language": "eng",
-"title": "Iron Gate"
-},
-"hin": {
-"content_id": "a14",
-"language": "hin",
-"title": "लोहे का फाटक"
-}
-}
-},
 "a129": {
 "content_id": "a129",
 "reference_id": 0,
@@ -2404,23 +2280,6 @@
 "content_id": "a1262",
 "language": "hin",
 "title": "बर्फ"
-}
-}
-},
-"a168": {
-"content_id": "a168",
-"reference_id": 0,
-"index_reference": "serpente",
-"localizations": {
-"eng": {
-"content_id": "a168",
-"language": "eng",
-"title": "Snake"
-},
-"spa": {
-"content_id": "a168",
-"language": "spa",
-"title": "Serpiente"
 }
 }
 }

@@ -1,185 +1,103 @@
 [
 {
-"content_id": "a175",
+"content_id": "a187",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Pearls",
+"title": "Reed Plant",
 "media_type": "Video",
-"index_reference": "pearls",
+"index_reference": "reed plant",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'><img src='thumbnails/a175_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a175/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a187/720p.mp4'><img src='thumbnails/a187_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a187/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "40007001",
-"start_ref_usfm": "MAT 7:1",
-"end_ref": "40007012",
-"end_ref_usfm": "MAT 7:12"
+"start_ref": "11014012",
+"start_ref_usfm": "1KI 14:12",
+"end_ref": "11014020",
+"end_ref_usfm": "1KI 14:20"
 },
 {
-"start_ref": "40013044",
-"start_ref_usfm": "MAT 13:44",
-"end_ref": "40013053",
-"end_ref_usfm": "MAT 13:53"
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011019",
+"end_ref_usfm": "MAT 11:19"
+},
+{
+"start_ref": "40012015",
+"start_ref_usfm": "MAT 12:15",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "42007018",
+"start_ref_usfm": "LUK 7:18",
+"end_ref": "42007035",
+"end_ref_usfm": "LUK 7:35"
 }
 ],
 "resource": []
 }
 },
 {
-"content_id": "a1264",
+"content_id": "a1388",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Pine Trees",
+"title": "Rooster",
 "media_type": "Video",
-"index_reference": "pine trees",
+"index_reference": "rooster",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1264/720p.mp4'><img src='thumbnails/a1264_720p_thumbnail.jpg' /></a> (91 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1264/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1388/720p.mp4'><img src='thumbnails/a1388_720p_thumbnail.jpg' /></a> (5 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1388/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "01006009",
-"start_ref_usfm": "GEN 6:9",
-"end_ref": "01006022",
-"end_ref_usfm": "GEN 6:22"
-}
-],
-"resource": []
-}
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
 },
 {
-"content_id": "a180",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Platter",
-"media_type": "Video",
-"index_reference": "platter",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'><img src='thumbnails/a180_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a180/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "41006014",
-"start_ref_usfm": "MRK 6:14",
-"end_ref": "41006029",
-"end_ref_usfm": "MRK 6:29"
-}
-],
-"resource": []
-}
+"start_ref": "40026069",
+"start_ref_usfm": "MAT 26:69",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
 },
 {
-"content_id": "a1404",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Plowing a Field",
-"media_type": "Video",
-"index_reference": "plowing a field",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'><img src='thumbnails/a1404_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1404/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01045001",
-"start_ref_usfm": "GEN 45:1",
-"end_ref": "01045028",
-"end_ref_usfm": "GEN 45:28"
+"start_ref": "41014027",
+"start_ref_usfm": "MRK 14:27",
+"end_ref": "41014031",
+"end_ref_usfm": "MRK 14:31"
 },
 {
-"start_ref": "07014010",
-"start_ref_usfm": "JDG 14:10",
-"end_ref": "07014020",
-"end_ref_usfm": "JDG 14:20"
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
 },
 {
-"start_ref": "09013015",
-"start_ref_usfm": "1SA 13:15",
-"end_ref": "09013023",
-"end_ref_usfm": "1SA 13:23"
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022038",
+"end_ref_usfm": "LUK 22:38"
 },
 {
-"start_ref": "40013001",
-"start_ref_usfm": "MAT 13:1",
-"end_ref": "40013009",
-"end_ref_usfm": "MAT 13:9"
+"start_ref": "42022047",
+"start_ref_usfm": "LUK 22:47",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
 },
 {
-"start_ref": "41004001",
-"start_ref_usfm": "MRK 4:1",
-"end_ref": "41004020",
-"end_ref_usfm": "MRK 4:20"
+"start_ref": "43013031",
+"start_ref_usfm": "JHN 13:31",
+"end_ref": "43013038",
+"end_ref_usfm": "JHN 13:38"
 },
 {
-"start_ref": "42009046",
-"start_ref_usfm": "LUK 9:46",
-"end_ref": "42009062",
-"end_ref_usfm": "LUK 9:62"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "a1356",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Purple Robe",
-"media_type": "Video",
-"index_reference": "purple robe",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1356/720p.mp4'><img src='thumbnails/a1356_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1356/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "41015016",
-"start_ref_usfm": "MRK 15:16",
-"end_ref": "41015032",
-"end_ref_usfm": "MRK 15:32"
-},
-{
-"start_ref": "42016019",
-"start_ref_usfm": "LUK 16:19",
-"end_ref": "42016031",
-"end_ref_usfm": "LUK 16:31"
-},
-{
-"start_ref": "43019001",
-"start_ref_usfm": "JHN 19:1",
-"end_ref": "43019016",
-"end_ref_usfm": "JHN 19:16"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "a1351",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Purse",
-"media_type": "Video",
-"index_reference": "purse",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'><img src='thumbnails/a1351_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1351/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "09025023",
-"start_ref_usfm": "1SA 25:23",
-"end_ref": "09025038",
-"end_ref_usfm": "1SA 25:38"
-},
-{
-"start_ref": "42012022",
-"start_ref_usfm": "LUK 12:22",
-"end_ref": "42012034",
-"end_ref_usfm": "LUK 12:34"
+"start_ref": "43018015",
+"start_ref_usfm": "JHN 18:15",
+"end_ref": "43018027",
+"end_ref_usfm": "JHN 18:27"
 }
 ],
 "resource": []

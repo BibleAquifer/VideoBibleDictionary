@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-07",
+"date_created": "2026-05-20",
 "language": "hin",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T17:51:41.916971"
+"dateCreated": "2026-05-20T17:57:10.140580"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-07T17:51:41.916971"
+"timestamp": "2026-05-20T17:57:10.140580"
 }
 }
 },
@@ -153,15 +153,6 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 1285,
-"scope": {
-"ख": [
-"खेत जोतना"
-]
-}
-},
-"json/008.content.json": {
-"mimeType": "text/json",
 "size": 9419,
 "scope": {
 "ग": [
@@ -173,7 +164,7 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
 "size": 3874,
 "scope": {
@@ -185,7 +176,7 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 11801,
 "scope": {
@@ -198,7 +189,7 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
 "size": 1488,
 "scope": {
@@ -207,7 +198,7 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 2368,
 "scope": {
@@ -217,7 +208,7 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
 "size": 3653,
 "scope": {
@@ -227,7 +218,7 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
 "size": 666,
 "scope": {
@@ -236,7 +227,7 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
 "size": 1681,
 "scope": {
@@ -246,7 +237,7 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
 "size": 1627,
 "scope": {
@@ -255,7 +246,7 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
 "size": 1179,
 "scope": {
@@ -264,7 +255,7 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
 "size": 735,
 "scope": {
@@ -273,7 +264,7 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
 "size": 1054,
 "scope": {
@@ -282,7 +273,7 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
 "size": 4428,
 "scope": {
@@ -295,7 +286,7 @@
 ]
 }
 },
-"json/021.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
 "size": 8574,
 "scope": {
@@ -310,9 +301,9 @@
 ]
 }
 },
-"json/022.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 5501,
+"size": 5619,
 "scope": {
 "य": [
 "यरदन नदी",
@@ -323,7 +314,7 @@
 ]
 }
 },
-"json/023.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
 "size": 780,
 "scope": {
@@ -332,19 +323,18 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
-"size": 4509,
+"size": 3572,
 "scope": {
 "ल": [
 "लाठी",
 "लाठी",
-"लेखन पट्टिका",
-"लोहे का फाटक"
+"लेखन पट्टिका"
 ]
 }
 },
-"json/025.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
 "size": 5427,
 "scope": {
@@ -354,7 +344,7 @@
 ]
 }
 },
-"json/026.content.json": {
+"json/025.content.json": {
 "mimeType": "text/json",
 "size": 680,
 "scope": {
@@ -363,7 +353,7 @@
 ]
 }
 },
-"json/027.content.json": {
+"json/026.content.json": {
 "mimeType": "text/json",
 "size": 5468,
 "scope": {
@@ -376,7 +366,7 @@
 ]
 }
 },
-"json/028.content.json": {
+"json/027.content.json": {
 "mimeType": "text/json",
 "size": 916,
 "scope": {
@@ -411,315 +401,195 @@
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 955
+"size": 3650
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 3650
+"size": 2055
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 2055
+"size": 4344
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 4344
+"size": 1007
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 1007
+"size": 1384
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 1384
+"size": 1711
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 1711
+"size": 791
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 791
+"size": 1221
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 1221
+"size": 1074
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 1074
+"size": 909
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 909
+"size": 823
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 823
+"size": 897
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 897
+"size": 2380
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 2380
+"size": 3794
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 3794
+"size": 2759
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 2736
+"size": 823
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 823
+"size": 1828
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 2288
+"size": 2206
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 2206
+"size": 807
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 807
+"size": 2661
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 2661
-},
-"md/028.content.md": {
-"mimeType": "text/markdown",
 "size": 875
-},
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 516810
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 226421
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 227506
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 296463
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 265195
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1107740
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 183451
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 883263
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1013662
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 857397
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 211443
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 357403
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 350278
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 122358
-},
-"docx/015.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 317169
-},
-"docx/016.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 171151
-},
-"docx/017.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 184500
-},
-"docx/018.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 146024
-},
-"docx/019.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 180175
-},
-"docx/020.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 772619
-},
-"docx/021.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1066300
-},
-"docx/022.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 810679
-},
-"docx/023.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 190666
-},
-"docx/024.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 696158
-},
-"docx/025.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 393469
-},
-"docx/026.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 204408
-},
-"docx/027.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1018397
-},
-"docx/028.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 250812
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65785
+"size": 48950
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57230
+"size": 43810
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55622
+"size": 42673
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65715
+"size": 48010
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58969
+"size": 43546
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 72351
+"size": 55128
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58319
+"size": 53753
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71184
+"size": 50554
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 66922
+"size": 53817
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70940
+"size": 42615
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55227
+"size": 46173
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61944
+"size": 46829
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 62744
+"size": 42379
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55226
+"size": 46849
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 63193
+"size": 43416
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58839
+"size": 44554
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60855
+"size": 43849
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58892
+"size": 43956
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59682
+"size": 52901
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69782
+"size": 56877
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 74208
+"size": 54154
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71875
+"size": 42479
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55259
+"size": 47631
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65923
+"size": 47736
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64289
+"size": 42913
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56011
+"size": 54072
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71523
-},
-"pdf/028.content.pdf": {
-"mimeType": "application/pdf",
-"size": 56128
+"size": 43393
 }
 },
 "copyright": {
@@ -1296,38 +1166,6 @@
 "content_id": "a31",
 "language": "zhs",
 "title": "睡垫"
-}
-}
-},
-"a1404": {
-"content_id": "a1404",
-"reference_id": 0,
-"index_reference": "खेत जोतना",
-"localizations": {
-"eng": {
-"content_id": "a1404",
-"language": "eng",
-"title": "Plowing a Field"
-},
-"fra": {
-"content_id": "a1404",
-"language": "fra",
-"title": "Cultiver un champ"
-},
-"por": {
-"content_id": "a1404",
-"language": "por",
-"title": "Arando um campo"
-},
-"spa": {
-"content_id": "a1404",
-"language": "spa",
-"title": "Arando un campo"
-},
-"zhs": {
-"content_id": "a1404",
-"language": "zhs",
-"title": "耕种田地"
 }
 }
 },
@@ -2279,23 +2117,6 @@
 "content_id": "a135",
 "language": "por",
 "title": "Cinto"
-}
-}
-},
-"a14": {
-"content_id": "a14",
-"reference_id": 0,
-"index_reference": "लोहे का फाटक",
-"localizations": {
-"eng": {
-"content_id": "a14",
-"language": "eng",
-"title": "Iron Gate"
-},
-"por": {
-"content_id": "a14",
-"language": "por",
-"title": "Portão de ferro"
 }
 }
 },

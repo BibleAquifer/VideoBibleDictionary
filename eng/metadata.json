@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-07",
+"date_created": "2026-05-20",
 "language": "eng",
 "localizations": [
 "fra",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T17:51:41.520166"
+"dateCreated": "2026-05-20T17:57:09.682954"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-07T17:51:41.520166"
+"timestamp": "2026-05-20T17:57:09.682954"
 }
 }
 },
@@ -170,7 +170,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 2541,
+"size": 2659,
 "scope": {
 "h": [
 "Hail Falling",
@@ -180,15 +180,6 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 894,
-"scope": {
-"i": [
-"Iron Gate"
-]
-}
-},
-"json/009.content.json": {
-"mimeType": "text/json",
 "size": 2150,
 "scope": {
 "j": [
@@ -197,7 +188,7 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 3379,
 "scope": {
@@ -208,7 +199,7 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
 "size": 5934,
 "scope": {
@@ -221,7 +212,7 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 811,
 "scope": {
@@ -230,7 +221,7 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
 "size": 5513,
 "scope": {
@@ -241,21 +232,20 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 5053,
+"size": 3791,
 "scope": {
 "p": [
 "Pearls",
 "Pine Trees",
 "Platter",
-"Plowing a Field",
 "Purple Robe",
 "Purse"
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
 "size": 2511,
 "scope": {
@@ -265,9 +255,9 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
-"size": 20643,
+"size": 18592,
 "scope": {
 "s": [
 "Sackcloth",
@@ -276,7 +266,6 @@
 "Sea of Galilee",
 "Sickle",
 "Sleeping Mat",
-"Snake",
 "Snow",
 "Sponge with Wine on a Stick",
 "Staff",
@@ -287,7 +276,7 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
 "size": 9130,
 "scope": {
@@ -300,7 +289,7 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
 "size": 2789,
 "scope": {
@@ -309,9 +298,9 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
-"size": 13207,
+"size": 13920,
 "scope": {
 "w": [
 "Watchtower for a Vineyard",
@@ -321,6 +310,7 @@
 "Wilderness or Desert",
 "Wineskins",
 "Winnowing Fork",
+"Woman with Head and Face Covered",
 "Writing Tablet"
 ]
 }
@@ -351,207 +341,123 @@
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 1268
+"size": 1283
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 816
+"size": 1210
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 1210
+"size": 1576
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 1576
+"size": 2367
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 2367
+"size": 816
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 816
+"size": 1865
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 1865
+"size": 2078
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 2474
+"size": 1252
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 1252
+"size": 5831
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 6326
+"size": 2797
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 2797
+"size": 1094
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 1094
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 4078
-},
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 893106
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 947569
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1370163
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 352259
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 569393
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 704767
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 441498
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 83661
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 314891
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 519403
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1050496
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 137100
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 509616
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 906806
-},
-"docx/015.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 416462
-},
-"docx/016.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 2645931
-},
-"docx/017.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 906212
-},
-"docx/018.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 267200
-},
-"docx/019.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 1332375
+"size": 4412
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60041
+"size": 50307
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59973
+"size": 50509
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 67653
+"size": 58216
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56842
+"size": 46757
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60044
+"size": 50511
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56611
+"size": 47339
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55963
+"size": 46067
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51599
+"size": 45975
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55241
+"size": 46489
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55574
+"size": 51695
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61535
+"size": 44020
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53218
+"size": 47139
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56458
+"size": 49394
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60494
+"size": 44884
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53788
+"size": 65315
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76615
+"size": 50122
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59409
+"size": 42812
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51768
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 66161
+"size": 59506
 }
 },
 "copyright": {
@@ -1128,38 +1034,6 @@
 "content_id": "a31",
 "language": "zhs",
 "title": "睡垫"
-}
-}
-},
-"a1404": {
-"content_id": "a1404",
-"reference_id": 0,
-"index_reference": "plowing a field",
-"localizations": {
-"fra": {
-"content_id": "a1404",
-"language": "fra",
-"title": "Cultiver un champ"
-},
-"hin": {
-"content_id": "a1404",
-"language": "hin",
-"title": "खेत जोतना"
-},
-"por": {
-"content_id": "a1404",
-"language": "por",
-"title": "Arando um campo"
-},
-"spa": {
-"content_id": "a1404",
-"language": "spa",
-"title": "Arando un campo"
-},
-"zhs": {
-"content_id": "a1404",
-"language": "zhs",
-"title": "耕种田地"
 }
 }
 },
@@ -2233,23 +2107,6 @@
 }
 }
 },
-"a14": {
-"content_id": "a14",
-"reference_id": 0,
-"index_reference": "iron gate",
-"localizations": {
-"hin": {
-"content_id": "a14",
-"language": "hin",
-"title": "लोहे का फाटक"
-},
-"por": {
-"content_id": "a14",
-"language": "por",
-"title": "Portão de ferro"
-}
-}
-},
 "a129": {
 "content_id": "a129",
 "reference_id": 0,
@@ -2527,23 +2384,6 @@
 }
 }
 },
-"a168": {
-"content_id": "a168",
-"reference_id": 0,
-"index_reference": "snake",
-"localizations": {
-"por": {
-"content_id": "a168",
-"language": "por",
-"title": "Serpente"
-},
-"spa": {
-"content_id": "a168",
-"language": "spa",
-"title": "Serpiente"
-}
-}
-},
 "a1444": {
 "content_id": "a1444",
 "reference_id": 0,
@@ -2555,6 +2395,12 @@
 "title": "ओले पड़ना"
 }
 }
+},
+"a2119": {
+"content_id": "a2119",
+"reference_id": 0,
+"index_reference": "woman with head and face covered",
+"localizations": {}
 }
 }
 }

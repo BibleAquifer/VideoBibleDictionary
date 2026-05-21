@@ -1,87 +1,87 @@
 [
 {
-"content_id": "a4",
+"content_id": "a166",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "长袍/里衣",
+"title": "杖",
 "media_type": "Video",
-"index_reference": "长袍里衣",
+"index_reference": "杖",
 "language": "zhs",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'><img src='thumbnails/a4_720p_thumbnail.jpg' /></a> (82 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a4/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'><img src='thumbnails/a166_720p_thumbnail.jpg' /></a> (53 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a166/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "07014010",
-"start_ref_usfm": "JDG 14:10",
-"end_ref": "07014020",
-"end_ref_usfm": "JDG 14:20"
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
 },
 {
-"start_ref": "10015024",
-"start_ref_usfm": "2SA 15:24",
-"end_ref": "10015037",
-"end_ref_usfm": "2SA 15:37"
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
 },
 {
-"start_ref": "15009001",
-"start_ref_usfm": "EZR 9:1",
-"end_ref": "15009004",
-"end_ref_usfm": "EZR 9:4"
+"start_ref": "02008016",
+"start_ref_usfm": "EXO 8:16",
+"end_ref": "02008019",
+"end_ref_usfm": "EXO 8:19"
 },
 {
-"start_ref": "15009005",
-"start_ref_usfm": "EZR 9:5",
-"end_ref": "15009015",
-"end_ref_usfm": "EZR 9:15"
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009035",
+"end_ref_usfm": "EXO 9:35"
 },
 {
-"start_ref": "40005033",
-"start_ref_usfm": "MAT 5:33",
-"end_ref": "40005042",
-"end_ref_usfm": "MAT 5:42"
+"start_ref": "02010001",
+"start_ref_usfm": "EXO 10:1",
+"end_ref": "02010020",
+"end_ref_usfm": "EXO 10:20"
+},
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017007",
+"end_ref_usfm": "EXO 17:7"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "04017001",
+"start_ref_usfm": "NUM 17:1",
+"end_ref": "04017013",
+"end_ref_usfm": "NUM 17:13"
+},
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022040",
+"end_ref_usfm": "NUM 22:40"
+},
+{
+"start_ref": "09017031",
+"start_ref_usfm": "1SA 17:31",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017041",
+"start_ref_usfm": "1SA 17:41",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
 },
 {
 "start_ref": "41006006",
 "start_ref_usfm": "MRK 6:6",
 "end_ref": "41006013",
 "end_ref_usfm": "MRK 6:13"
-},
-{
-"start_ref": "42003001",
-"start_ref_usfm": "LUK 3:1",
-"end_ref": "42003014",
-"end_ref_usfm": "LUK 3:14"
-},
-{
-"start_ref": "42006027",
-"start_ref_usfm": "LUK 6:27",
-"end_ref": "42006036",
-"end_ref_usfm": "LUK 6:36"
-},
-{
-"start_ref": "42009001",
-"start_ref_usfm": "LUK 9:1",
-"end_ref": "42009017",
-"end_ref_usfm": "LUK 9:17"
-},
-{
-"start_ref": "43013001",
-"start_ref_usfm": "JHN 13:1",
-"end_ref": "43013011",
-"end_ref_usfm": "JHN 13:11"
-},
-{
-"start_ref": "43019017",
-"start_ref_usfm": "JHN 19:17",
-"end_ref": "43019030",
-"end_ref_usfm": "JHN 19:30"
-},
-{
-"start_ref": "44009036",
-"start_ref_usfm": "ACT 9:36",
-"end_ref": "44009043",
-"end_ref_usfm": "ACT 9:43"
 }
 ],
 "resource": []

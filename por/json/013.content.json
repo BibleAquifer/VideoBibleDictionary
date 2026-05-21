@@ -530,39 +530,5 @@
 ],
 "resource": []
 }
-},
-{
-"content_id": "a14",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Portão de ferro",
-"media_type": "Video",
-"index_reference": "portão de ferro",
-"language": "por",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a14/720p.mp4'><img src='thumbnails/a14_720p_thumbnail.jpg' /></a> (59 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a14/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "05006001",
-"start_ref_usfm": "DEU 6:1",
-"end_ref": "05006009",
-"end_ref_usfm": "DEU 6:9"
-},
-{
-"start_ref": "05025001",
-"start_ref_usfm": "DEU 25:1",
-"end_ref": "05025010",
-"end_ref_usfm": "DEU 25:10"
-},
-{
-"start_ref": "44012006",
-"start_ref_usfm": "ACT 12:6",
-"end_ref": "44012019",
-"end_ref_usfm": "ACT 12:19"
-}
-],
-"resource": []
-}
 }
 ]
