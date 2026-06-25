@@ -1,39 +1,21 @@
 [
 {
-"content_id": "a24",
+"content_id": "a143",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "फटकने का सूप",
+"title": "प्रेसिपिस पर्वत",
 "media_type": "Video",
-"index_reference": "फटकने का सूप",
+"index_reference": "प्रेसिपिस पर्वत",
 "language": "hin",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a24/720p.mp4'><img src='thumbnails/a24_720p_thumbnail.jpg' /></a> (75 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a24/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a143/720p.mp4'><img src='thumbnails/a143_720p_thumbnail.jpg' /></a> (101 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a143/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "13013001",
-"start_ref_usfm": "1CH 13:1",
-"end_ref": "13013014",
-"end_ref_usfm": "1CH 13:14"
-},
-{
-"start_ref": "19001001",
-"start_ref_usfm": "PSA 1:1",
-"end_ref": "19001006",
-"end_ref_usfm": "PSA 1:6"
-},
-{
-"start_ref": "40003001",
-"start_ref_usfm": "MAT 3:1",
-"end_ref": "40003017",
-"end_ref_usfm": "MAT 3:17"
-},
-{
-"start_ref": "42003015",
-"start_ref_usfm": "LUK 3:15",
-"end_ref": "42003022",
-"end_ref_usfm": "LUK 3:22"
+"start_ref": "42004014",
+"start_ref_usfm": "LUK 4:14",
+"end_ref": "42004030",
+"end_ref_usfm": "LUK 4:30"
 }
 ],
 "resource": []

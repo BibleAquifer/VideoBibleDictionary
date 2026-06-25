@@ -1,27 +1,79 @@
 [
 {
-"content_id": "a37",
+"content_id": "a182",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Jardin de Gethsémané",
+"title": "Hache",
 "media_type": "Video",
-"index_reference": "jardin de gethsémané",
+"index_reference": "hache",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'><img src='thumbnails/a37_720p_thumbnail.jpg' /></a> (108 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a182/720p.mp4'><img src='thumbnails/a182_720p_thumbnail.jpg' /></a> (69 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a182/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "40026036",
-"start_ref_usfm": "MAT 26:36",
-"end_ref": "40026046",
-"end_ref_usfm": "MAT 26:46"
+"start_ref": "07009042",
+"start_ref_usfm": "JDG 9:42",
+"end_ref": "07009049",
+"end_ref_usfm": "JDG 9:49"
 },
 {
-"start_ref": "41014032",
-"start_ref_usfm": "MRK 14:32",
-"end_ref": "41014042",
-"end_ref_usfm": "MRK 14:42"
+"start_ref": "09013015",
+"start_ref_usfm": "1SA 13:15",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "40003001",
+"start_ref_usfm": "MAT 3:1",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a39",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Herbes amères",
+"media_type": "Video",
+"index_reference": "herbes amères",
+"language": "fra",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'><img src='thumbnails/a39_720p_thumbnail.jpg' /></a> (71 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a39/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02012013",
+"end_ref_usfm": "EXO 12:13"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026025",
+"end_ref_usfm": "MAT 26:25"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
 }
 ],
 "resource": []

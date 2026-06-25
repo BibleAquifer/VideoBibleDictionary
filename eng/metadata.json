@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "eng",
 "localizations": [
 "fra",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:09.682954"
+"dateCreated": "2026-06-25T05:58:54.951669"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:09.682954"
+"timestamp": "2026-06-25T05:58:54.951669"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 7882,
+"size": 7537,
 "scope": {
 "a": [
 "Adult and Kid Goat",
@@ -106,7 +106,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 6639,
+"size": 6471,
 "scope": {
 "b": [
 "Basket as a Bushel",
@@ -119,7 +119,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 10486,
+"size": 10053,
 "scope": {
 "c": [
 "Camel",
@@ -136,7 +136,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 1370,
+"size": 1325,
 "scope": {
 "e": [
 "Egyptian Cloak",
@@ -146,7 +146,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 5890,
+"size": 5647,
 "scope": {
 "f": [
 "Fine Linen Cloth",
@@ -159,7 +159,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 2489,
+"size": 2398,
 "scope": {
 "g": [
 "Garden of Gethsemane",
@@ -170,19 +170,23 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 2659,
+"size": 4876,
 "scope": {
 "h": [
 "Hail Falling",
+"Hammer and Tent Pegs",
+"Hammer and Tent Pegs",
+"Hammer and Tent Pegs",
 "House in the Time of Jesus"
 ]
 }
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 2150,
+"size": 2716,
 "scope": {
 "j": [
+"Jar of Sour Wine",
 "Jordan River",
 "Joseph's Coat"
 ]
@@ -190,18 +194,19 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 3379,
+"size": 4015,
 "scope": {
 "l": [
 "Lampstand",
 "Large Basket",
+"Lifespan of a Flower",
 "Lots"
 ]
 }
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 5934,
+"size": 5691,
 "scope": {
 "m": [
 "Man Who Is Girded Up",
@@ -214,7 +219,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 811,
+"size": 782,
 "scope": {
 "n": [
 "Nests Inside Noah's Ark"
@@ -223,7 +228,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 5513,
+"size": 5266,
 "scope": {
 "o": [
 "Oil Lamp",
@@ -234,7 +239,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 3791,
+"size": 3656,
 "scope": {
 "p": [
 "Pearls",
@@ -247,17 +252,17 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 2511,
+"size": 2422,
 "scope": {
 "r": [
 "Reed Plant",
-"Rooster"
+"Rooster Crowing"
 ]
 }
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 18592,
+"size": 17904,
 "scope": {
 "s": [
 "Sackcloth",
@@ -278,7 +283,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 9130,
+"size": 8719,
 "scope": {
 "t": [
 "Tambourine",
@@ -291,7 +296,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 2789,
+"size": 2879,
 "scope": {
 "u": [
 "Unleavened Bread"
@@ -300,7 +305,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 13920,
+"size": 13428,
 "scope": {
 "w": [
 "Watchtower for a Vineyard",
@@ -315,149 +320,149 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 2671
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 2539
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 3860
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 1107
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 2365
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 1475
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 1283
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 1210
+"size": 1478
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 1576
+"size": 1859
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 2367
+"size": 3753
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 1077
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 816
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 1865
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 2078
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 1252
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 5831
+"size": 797
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2797
+"size": 2734
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 1094
+"size": 1111
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 2304
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 2302
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 2498
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 1824
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 5695
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 2231
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 1434
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 2608
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 1230
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 2015
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 4412
+"size": 4318
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50307
+"size": 36697
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50509
+"size": 36476
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58216
+"size": 44240
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46757
+"size": 32230
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50511
+"size": 36743
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47339
+"size": 33317
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46067
+"size": 36740
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45975
+"size": 34180
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46489
+"size": 34928
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51695
+"size": 37474
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44020
+"size": 30169
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47139
+"size": 33848
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 49394
+"size": 36267
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44884
+"size": 31683
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65315
+"size": 51084
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50122
+"size": 36493
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42812
+"size": 29666
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59506
+"size": 44862
 }
 },
 "copyright": {
@@ -1711,38 +1716,6 @@
 }
 }
 },
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "rooster",
-"localizations": {
-"fra": {
-"content_id": "a1388",
-"language": "fra",
-"title": "Coq"
-},
-"hin": {
-"content_id": "a1388",
-"language": "hin",
-"title": "मुर्गा"
-},
-"por": {
-"content_id": "a1388",
-"language": "por",
-"title": "Galo"
-},
-"spa": {
-"content_id": "a1388",
-"language": "spa",
-"title": "Gallo"
-},
-"zhs": {
-"content_id": "a1388",
-"language": "zhs",
-"title": "公鸡"
-}
-}
-},
 "a1381": {
 "content_id": "a1381",
 "reference_id": 0,
@@ -1772,6 +1745,38 @@
 "content_id": "a1381",
 "language": "zhs",
 "title": "绑在棍子上的蘸了醋的海绵"
+}
+}
+},
+"a16": {
+"content_id": "a16",
+"reference_id": 0,
+"index_reference": "jar of sour wine",
+"localizations": {
+"fra": {
+"content_id": "a16",
+"language": "fra",
+"title": "Vin"
+},
+"hin": {
+"content_id": "a16",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+},
+"por": {
+"content_id": "a16",
+"language": "por",
+"title": "Vinho"
+},
+"spa": {
+"content_id": "a16",
+"language": "spa",
+"title": "Vino"
+},
+"zhs": {
+"content_id": "a16",
+"language": "zhs",
+"title": "葡萄酒"
 }
 }
 },
@@ -1847,7 +1852,7 @@
 "fra": {
 "content_id": "a169",
 "language": "fra",
-"title": "Pigeon"
+"title": "Animaux sacrificiels"
 },
 "hin": {
 "content_id": "a169",
@@ -2044,6 +2049,11 @@
 "reference_id": 0,
 "index_reference": "axe",
 "localizations": {
+"fra": {
+"content_id": "a182",
+"language": "fra",
+"title": "Hache"
+},
 "hin": {
 "content_id": "a182",
 "language": "hin",
@@ -2193,6 +2203,11 @@
 "reference_id": 0,
 "index_reference": "pearls",
 "localizations": {
+"fra": {
+"content_id": "a175",
+"language": "fra",
+"title": "Perles"
+},
 "hin": {
 "content_id": "a175",
 "language": "hin",
@@ -2210,6 +2225,11 @@
 "reference_id": 0,
 "index_reference": "adult and kid goat",
 "localizations": {
+"fra": {
+"content_id": "a183",
+"language": "fra",
+"title": "Animaux sacrificiels"
+},
 "hin": {
 "content_id": "a183",
 "language": "hin",
@@ -2372,6 +2392,11 @@
 "reference_id": 0,
 "index_reference": "snow",
 "localizations": {
+"fra": {
+"content_id": "a1262",
+"language": "fra",
+"title": "Neige"
+},
 "hin": {
 "content_id": "a1262",
 "language": "hin",
@@ -2396,10 +2421,46 @@
 }
 }
 },
+"a1388": {
+"content_id": "a1388",
+"reference_id": 0,
+"index_reference": "rooster crowing",
+"localizations": {
+"hin": {
+"content_id": "a1388",
+"language": "hin",
+"title": "मुर्गे की बाँग"
+}
+}
+},
+"a2218": {
+"content_id": "a2218",
+"reference_id": 0,
+"index_reference": "hammer and tent pegs",
+"localizations": {}
+},
+"a2219": {
+"content_id": "a2219",
+"reference_id": 0,
+"index_reference": "hammer and tent pegs",
+"localizations": {}
+},
+"a2220": {
+"content_id": "a2220",
+"reference_id": 0,
+"index_reference": "hammer and tent pegs",
+"localizations": {}
+},
 "a2119": {
 "content_id": "a2119",
 "reference_id": 0,
 "index_reference": "woman with head and face covered",
+"localizations": {}
+},
+"a2242": {
+"content_id": "a2242",
+"reference_id": 0,
+"index_reference": "lifespan of a flower",
 "localizations": {}
 }
 }
