@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "fra",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:09.888574"
+"dateCreated": "2026-06-25T05:58:55.032123"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:09.888574"
+"timestamp": "2026-06-25T05:58:55.032123"
 }
 }
 },
@@ -93,7 +93,17 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 7058,
+"size": 1552,
+"scope": {
+"a": [
+"Animaux sacrificiels",
+"Animaux sacrificiels"
+]
+}
+},
+"json/002.content.json": {
+"mimeType": "text/json",
+"size": 6856,
 "scope": {
 "b": [
 "bâton",
@@ -103,39 +113,38 @@
 ]
 }
 },
-"json/002.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
-"size": 6134,
+"size": 4447,
 "scope": {
 "c": [
 "Chameau",
 "chandelier",
-"Club",
-"Coq"
+"Club"
 ]
 }
 },
-"json/003.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
-"size": 3821,
+"size": 3636,
 "scope": {
 "d": [
 "Désert ou désert"
 ]
 }
 },
-"json/004.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
-"size": 838,
+"size": 809,
 "scope": {
 "e": [
 "Éponge avec du vin sur un bâton"
 ]
 }
 },
-"json/005.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
-"size": 4282,
+"size": 4109,
 "scope": {
 "f": [
 "Falaises",
@@ -145,36 +154,37 @@
 ]
 }
 },
-"json/006.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
-"size": 1024,
+"size": 1948,
 "scope": {
 "h": [
+"Hache",
 "Herbes amères"
 ]
 }
 },
-"json/007.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
-"size": 809,
+"size": 780,
 "scope": {
 "j": [
 "Jardin de Gethsémané"
 ]
 }
 },
-"json/008.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 2663,
+"size": 2538,
 "scope": {
 "l": [
 "Lampe à huile"
 ]
 }
 },
-"json/009.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 10778,
+"size": 10289,
 "scope": {
 "m": [
 "Maison à l'époque de Jésus",
@@ -185,9 +195,18 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
-"size": 3635,
+"size": 975,
+"scope": {
+"n": [
+"Neige"
+]
+}
+},
+"json/012.content.json": {
+"mimeType": "text/json",
+"size": 3470,
 "scope": {
 "o": [
 "Olivier",
@@ -195,36 +214,36 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 9854,
+"size": 9030,
 "scope": {
 "p": [
 "Panier de provisions",
 "Panier en tant boisseau",
+"Perles",
 "Pièces",
 "Pièces de cuivre",
 "Pierre à moudre",
 "Pierre d'angle",
-"Pigeon",
 "Plat",
 "Poisson cuit",
 "Pot en albâtre"
 ]
 }
 },
-"json/012.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
-"size": 1008,
+"size": 967,
 "scope": {
 "q": [
 "Quatre sol"
 ]
 }
 },
-"json/013.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
-"size": 6181,
+"size": 5898,
 "scope": {
 "s": [
 "Sac de voyageur",
@@ -233,9 +252,9 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 8831,
+"size": 8438,
 "scope": {
 "t": [
 "Tapis de couchage",
@@ -246,117 +265,150 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 2353
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 2189
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 1219
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 824
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 1929
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 832
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 810
+"json/017.content.json": {
+"mimeType": "text/json",
+"size": 1952,
+"scope": {
+"v": [
+"Vin"
+]
+}
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 1059
+"size": 791
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 3041
+"size": 1040
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 1386
+"size": 1734
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 1200
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 4007
+"size": 824
+},
+"md/016.content.md": {
+"mimeType": "text/markdown",
+"size": 2678
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 971
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 2978
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 805
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 2316
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 820
+"size": 1356
 },
-"md/013.content.md": {
+"md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 1936
+"size": 1895
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 1162
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 1877
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 1121
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 2741
+"size": 801
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 3819
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50519
+"size": 31873
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47811
+"size": 36258
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43176
+"size": 32912
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44677
+"size": 29797
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 49017
+"size": 30500
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43119
+"size": 35357
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43999
+"size": 31700
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43400
+"size": 30338
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51823
+"size": 30162
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44478
+"size": 37657
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60110
+"size": 29754
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43267
+"size": 31372
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47166
+"size": 46009
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50890
+"size": 29909
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 33326
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 37040
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 29453
 }
 },
 "copyright": {
@@ -1271,38 +1323,6 @@
 }
 }
 },
-"a184": {
-"content_id": "a184",
-"reference_id": 0,
-"index_reference": "sandales",
-"localizations": {
-"eng": {
-"content_id": "a184",
-"language": "eng",
-"title": "Sandals"
-},
-"hin": {
-"content_id": "a184",
-"language": "hin",
-"title": "जूते"
-},
-"por": {
-"content_id": "a184",
-"language": "por",
-"title": "Sandálias"
-},
-"spa": {
-"content_id": "a184",
-"language": "spa",
-"title": "Sandalias"
-},
-"zhs": {
-"content_id": "a184",
-"language": "zhs",
-"title": "凉鞋"
-}
-}
-},
 "a11": {
 "content_id": "a11",
 "reference_id": 0,
@@ -1332,6 +1352,38 @@
 "content_id": "a11",
 "language": "zhs",
 "title": "加利利海"
+}
+}
+},
+"a184": {
+"content_id": "a184",
+"reference_id": 0,
+"index_reference": "sandales",
+"localizations": {
+"eng": {
+"content_id": "a184",
+"language": "eng",
+"title": "Sandals"
+},
+"hin": {
+"content_id": "a184",
+"language": "hin",
+"title": "जूते"
+},
+"por": {
+"content_id": "a184",
+"language": "por",
+"title": "Sandálias"
+},
+"spa": {
+"content_id": "a184",
+"language": "spa",
+"title": "Sandalias"
+},
+"zhs": {
+"content_id": "a184",
+"language": "zhs",
+"title": "凉鞋"
 }
 }
 },
@@ -1559,38 +1611,6 @@
 }
 }
 },
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "coq",
-"localizations": {
-"eng": {
-"content_id": "a1388",
-"language": "eng",
-"title": "Rooster"
-},
-"hin": {
-"content_id": "a1388",
-"language": "hin",
-"title": "मुर्गा"
-},
-"por": {
-"content_id": "a1388",
-"language": "por",
-"title": "Galo"
-},
-"spa": {
-"content_id": "a1388",
-"language": "spa",
-"title": "Gallo"
-},
-"zhs": {
-"content_id": "a1388",
-"language": "zhs",
-"title": "公鸡"
-}
-}
-},
 "a1381": {
 "content_id": "a1381",
 "reference_id": 0,
@@ -1620,6 +1640,38 @@
 "content_id": "a1381",
 "language": "zhs",
 "title": "绑在棍子上的蘸了醋的海绵"
+}
+}
+},
+"a16": {
+"content_id": "a16",
+"reference_id": 0,
+"index_reference": "vin",
+"localizations": {
+"eng": {
+"content_id": "a16",
+"language": "eng",
+"title": "Jar of Sour Wine"
+},
+"hin": {
+"content_id": "a16",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+},
+"por": {
+"content_id": "a16",
+"language": "por",
+"title": "Vinho"
+},
+"spa": {
+"content_id": "a16",
+"language": "spa",
+"title": "Vino"
+},
+"zhs": {
+"content_id": "a16",
+"language": "zhs",
+"title": "葡萄酒"
 }
 }
 },
@@ -1690,7 +1742,7 @@
 "a169": {
 "content_id": "a169",
 "reference_id": 0,
-"index_reference": "pigeon",
+"index_reference": "animaux sacrificiels",
 "localizations": {
 "eng": {
 "content_id": "a169",
@@ -1748,6 +1800,94 @@
 "content_id": "a39",
 "language": "zhs",
 "title": "苦菜"
+}
+}
+},
+"a182": {
+"content_id": "a182",
+"reference_id": 0,
+"index_reference": "hache",
+"localizations": {
+"eng": {
+"content_id": "a182",
+"language": "eng",
+"title": "Axe"
+},
+"hin": {
+"content_id": "a182",
+"language": "hin",
+"title": "कुल्हाड़ी"
+},
+"por": {
+"content_id": "a182",
+"language": "por",
+"title": "Machado"
+}
+}
+},
+"a175": {
+"content_id": "a175",
+"reference_id": 0,
+"index_reference": "perles",
+"localizations": {
+"eng": {
+"content_id": "a175",
+"language": "eng",
+"title": "Pearls"
+},
+"hin": {
+"content_id": "a175",
+"language": "hin",
+"title": "मोती"
+},
+"por": {
+"content_id": "a175",
+"language": "por",
+"title": "Pérolas"
+}
+}
+},
+"a183": {
+"content_id": "a183",
+"reference_id": 0,
+"index_reference": "animaux sacrificiels",
+"localizations": {
+"eng": {
+"content_id": "a183",
+"language": "eng",
+"title": "Adult and Kid Goat"
+},
+"hin": {
+"content_id": "a183",
+"language": "hin",
+"title": "वयस्क बकरी और मेम्ना"
+},
+"por": {
+"content_id": "a183",
+"language": "por",
+"title": "Animais sacrificiais"
+}
+}
+},
+"a1262": {
+"content_id": "a1262",
+"reference_id": 0,
+"index_reference": "neige",
+"localizations": {
+"eng": {
+"content_id": "a1262",
+"language": "eng",
+"title": "Snow"
+},
+"hin": {
+"content_id": "a1262",
+"language": "hin",
+"title": "बर्फ"
+},
+"por": {
+"content_id": "a1262",
+"language": "por",
+"title": "Neve"
 }
 }
 }

@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "spa",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:10.725681"
+"dateCreated": "2026-06-25T05:58:55.230436"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:10.725681"
+"timestamp": "2026-06-25T05:58:55.230436"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 2851,
+"size": 2728,
 "scope": {
 "a": [
 "Acantilados",
@@ -103,7 +103,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 3277,
+"size": 3144,
 "scope": {
 "b": [
 "Bandeja",
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 10382,
+"size": 9947,
 "scope": {
 "c": [
 "Cadenas",
@@ -130,7 +130,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 3801,
+"size": 3616,
 "scope": {
 "d": [
 "Desierto"
@@ -139,7 +139,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 2201,
+"size": 2114,
 "scope": {
 "e": [
 "Esponja con vino en un palo",
@@ -149,17 +149,16 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 2382,
+"size": 861,
 "scope": {
 "g": [
-"Gallo",
 "Garrote"
 ]
 }
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 1909,
+"size": 1945,
 "scope": {
 "h": [
 "Hierbas amargas",
@@ -169,7 +168,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 1717,
+"size": 1654,
 "scope": {
 "j": [
 "Jardín de Getsemaní",
@@ -179,7 +178,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 2671,
+"size": 2546,
 "scope": {
 "l": [
 "Lámpara de aceite"
@@ -188,7 +187,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 10599,
+"size": 10130,
 "scope": {
 "m": [
 "Manto",
@@ -202,7 +201,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 1579,
+"size": 1508,
 "scope": {
 "o": [
 "Odre"
@@ -211,7 +210,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 9453,
+"size": 9273,
 "scope": {
 "p": [
 "Palo",
@@ -226,7 +225,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 3411,
+"size": 3272,
 "scope": {
 "r": [
 "Ramas de olivo y de palma",
@@ -237,7 +236,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 6988,
+"size": 6772,
 "scope": {
 "s": [
 "Sandalias",
@@ -248,7 +247,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 13345,
+"size": 12869,
 "scope": {
 "t": [
 "Torre de vigilancia para un viñedo",
@@ -262,125 +261,142 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 1302
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 1579
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 3653
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 1220
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 1223
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 1228
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 1174
+"json/016.content.json": {
+"mimeType": "text/json",
+"size": 1954,
+"scope": {
+"v": [
+"Vino"
+]
+}
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 1151
+"size": 1121
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 1064
+"size": 1045
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 3238
+"size": 3557
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 1201
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 903
+"size": 884
+},
+"md/016.content.md": {
+"mimeType": "text/markdown",
+"size": 973
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 3164
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 1193
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 1538
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 3318
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 1595
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 2080
+"size": 3270
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 4091
+"size": 4010
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 1165
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 791
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 1272
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 2053
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 1554
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45345
+"size": 31466
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46500
+"size": 32973
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55306
+"size": 41664
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42588
+"size": 29468
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46012
+"size": 32024
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44103
+"size": 29527
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45262
+"size": 31715
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45674
+"size": 31865
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43472
+"size": 30053
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52293
+"size": 38501
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42410
+"size": 29632
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52979
+"size": 39501
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47745
+"size": 33810
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46682
+"size": 33116
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56299
+"size": 42337
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 29461
 }
 },
 "copyright": {
@@ -1583,38 +1599,6 @@
 }
 }
 },
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "gallo",
-"localizations": {
-"eng": {
-"content_id": "a1388",
-"language": "eng",
-"title": "Rooster"
-},
-"fra": {
-"content_id": "a1388",
-"language": "fra",
-"title": "Coq"
-},
-"hin": {
-"content_id": "a1388",
-"language": "hin",
-"title": "मुर्गा"
-},
-"por": {
-"content_id": "a1388",
-"language": "por",
-"title": "Galo"
-},
-"zhs": {
-"content_id": "a1388",
-"language": "zhs",
-"title": "公鸡"
-}
-}
-},
 "a1381": {
 "content_id": "a1381",
 "reference_id": 0,
@@ -1644,6 +1628,38 @@
 "content_id": "a1381",
 "language": "zhs",
 "title": "绑在棍子上的蘸了醋的海绵"
+}
+}
+},
+"a16": {
+"content_id": "a16",
+"reference_id": 0,
+"index_reference": "vino",
+"localizations": {
+"eng": {
+"content_id": "a16",
+"language": "eng",
+"title": "Jar of Sour Wine"
+},
+"fra": {
+"content_id": "a16",
+"language": "fra",
+"title": "Vin"
+},
+"hin": {
+"content_id": "a16",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+},
+"por": {
+"content_id": "a16",
+"language": "por",
+"title": "Vinho"
+},
+"zhs": {
+"content_id": "a16",
+"language": "zhs",
+"title": "葡萄酒"
 }
 }
 },
@@ -1724,7 +1740,7 @@
 "fra": {
 "content_id": "a169",
 "language": "fra",
-"title": "Pigeon"
+"title": "Animaux sacrificiels"
 },
 "hin": {
 "content_id": "a169",

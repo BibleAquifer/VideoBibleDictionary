@@ -28,6 +28,90 @@
 }
 },
 {
+"content_id": "a2218",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hammer and Tent Pegs",
+"media_type": "Video",
+"index_reference": "hammer and tent pegs",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2218/720p.mp4'><img src='thumbnails/a2218_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2218/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07004011",
+"start_ref_usfm": "JDG 4:11",
+"end_ref": "07004024",
+"end_ref_usfm": "JDG 4:24"
+},
+{
+"start_ref": "07005024",
+"start_ref_usfm": "JDG 5:24",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2219",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hammer and Tent Pegs",
+"media_type": "Video",
+"index_reference": "hammer and tent pegs",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2219/720p.mp4'><img src='thumbnails/a2219_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2219/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07004011",
+"start_ref_usfm": "JDG 4:11",
+"end_ref": "07004024",
+"end_ref_usfm": "JDG 4:24"
+},
+{
+"start_ref": "07005024",
+"start_ref_usfm": "JDG 5:24",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2220",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Hammer and Tent Pegs",
+"media_type": "Video",
+"index_reference": "hammer and tent pegs",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2220/720p.mp4'><img src='thumbnails/a2220_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2220/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07004011",
+"start_ref_usfm": "JDG 4:11",
+"end_ref": "07004024",
+"end_ref_usfm": "JDG 4:24"
+},
+{
+"start_ref": "07005024",
+"start_ref_usfm": "JDG 5:24",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "a145",
 "reference_id": 0,
 "version": "1.0.4",

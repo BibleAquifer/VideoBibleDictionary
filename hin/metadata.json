@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "hin",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:10.140580"
+"dateCreated": "2026-06-25T05:58:55.096841"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:10.140580"
+"timestamp": "2026-06-25T05:58:55.096841"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 2235,
+"size": 2160,
 "scope": {
 "अ": [
 "अंगूर के बाग की चौकी मीनार",
@@ -103,7 +103,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 3138,
+"size": 2989,
 "scope": {
 "आ": [
 "आराधनालय"
@@ -112,7 +112,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 2876,
+"size": 2739,
 "scope": {
 "ऊ": [
 "ऊँट"
@@ -121,7 +121,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 993,
+"size": 964,
 "scope": {
 "ए": [
 "एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता।"
@@ -130,7 +130,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 818,
+"size": 789,
 "scope": {
 "ओ": [
 "ओले पड़ना"
@@ -139,7 +139,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 9229,
+"size": 8949,
 "scope": {
 "क": [
 "कड़वे सागपात",
@@ -153,7 +153,16 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 9419,
+"size": 725,
+"scope": {
+"ख": [
+"खट्टे दाखरस का घड़ा"
+]
+}
+},
+"json/008.content.json": {
+"mimeType": "text/json",
+"size": 9117,
 "scope": {
 "ग": [
 "गतसमनी का बगीचा",
@@ -164,9 +173,9 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 3874,
+"size": 3731,
 "scope": {
 "च": [
 "चक्की का पाट",
@@ -176,9 +185,9 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 11801,
+"size": 11270,
 "scope": {
 "ज": [
 "जंगल या रेगिस्तान",
@@ -189,18 +198,18 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
-"size": 1488,
+"size": 1423,
 "scope": {
 "झ": [
 "झांझ"
 ]
 }
 },
-"json/011.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 2368,
+"size": 2384,
 "scope": {
 "ट": [
 "टाट",
@@ -208,9 +217,9 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 3653,
+"size": 3494,
 "scope": {
 "त": [
 "तांबे के सिक्के",
@@ -218,18 +227,18 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
-"size": 666,
+"size": 643,
 "scope": {
 "थ": [
 "थाल"
 ]
 }
 },
-"json/014.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
-"size": 1681,
+"size": 1624,
 "scope": {
 "द": [
 "दीवट",
@@ -237,45 +246,45 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 1627,
+"size": 1556,
 "scope": {
 "न": [
 "नगर फाटक"
 ]
 }
 },
-"json/016.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
-"size": 1179,
+"size": 1132,
 "scope": {
 "प": [
 "पकाई हुई मछली"
 ]
 }
 },
-"json/017.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
-"size": 735,
+"size": 712,
 "scope": {
 "पर": [
 "प्रेसिपिस पर्वत"
 ]
 }
 },
-"json/018.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
-"size": 1054,
+"size": 1013,
 "scope": {
 "फ": [
 "फटकने का सूप"
 ]
 }
 },
-"json/019.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
-"size": 4428,
+"size": 4269,
 "scope": {
 "ब": [
 "बकरी की खाल",
@@ -286,9 +295,9 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 8574,
+"size": 8273,
 "scope": {
 "म": [
 "मछली की पंखुड़ी",
@@ -296,14 +305,14 @@
 "मशक",
 "महीन मलमल का कपड़ा",
 "मिस्र का वस्त्र",
-"मुर्गा",
+"मुर्गे की बाँग",
 "मोती"
 ]
 }
 },
-"json/021.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
-"size": 5619,
+"size": 5406,
 "scope": {
 "य": [
 "यरदन नदी",
@@ -314,18 +323,18 @@
 ]
 }
 },
-"json/022.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
-"size": 780,
+"size": 751,
 "scope": {
 "र": [
 "राख"
 ]
 }
 },
-"json/023.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
-"size": 3572,
+"size": 3427,
 "scope": {
 "ल": [
 "लाठी",
@@ -334,9 +343,9 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/025.content.json": {
 "mimeType": "text/json",
-"size": 5427,
+"size": 5178,
 "scope": {
 "व": [
 "वयस्क गधा",
@@ -344,18 +353,18 @@
 ]
 }
 },
-"json/025.content.json": {
+"json/026.content.json": {
 "mimeType": "text/json",
-"size": 680,
+"size": 657,
 "scope": {
 "श": [
 "शोरबा"
 ]
 }
 },
-"json/026.content.json": {
+"json/027.content.json": {
 "mimeType": "text/json",
-"size": 5468,
+"size": 5261,
 "scope": {
 "स": [
 "संगमरमर का पात्र",
@@ -366,230 +375,238 @@
 ]
 }
 },
-"json/027.content.json": {
+"json/028.content.json": {
 "mimeType": "text/json",
-"size": 916,
+"size": 881,
 "scope": {
 "ह": [
 "हँसिया"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 1401
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 1460
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 1381
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 931
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 848
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 3842
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 3650
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 2055
+"size": 3611
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 4344
+"size": 2003
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 1007
+"size": 1362
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 912
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 1384
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 1711
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 791
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 1221
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 1074
+"size": 988
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 909
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 823
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 897
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 2380
+"size": 1055
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 3794
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
-"size": 2759
-},
-"md/022.content.md": {
-"mimeType": "text/markdown",
-"size": 823
-},
-"md/023.content.md": {
-"mimeType": "text/markdown",
-"size": 1828
-},
-"md/024.content.md": {
-"mimeType": "text/markdown",
-"size": 2206
-},
-"md/025.content.md": {
-"mimeType": "text/markdown",
-"size": 807
-},
-"md/026.content.md": {
-"mimeType": "text/markdown",
-"size": 2661
+"size": 2317
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 875
+"size": 2598
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 890
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 4281
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 829
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 1441
+},
+"md/026.content.md": {
+"mimeType": "text/markdown",
+"size": 788
+},
+"md/021.content.md": {
+"mimeType": "text/markdown",
+"size": 3729
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 1381
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 1191
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 817
+},
+"md/023.content.md": {
+"mimeType": "text/markdown",
+"size": 804
+},
+"md/024.content.md": {
+"mimeType": "text/markdown",
+"size": 1787
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 3798
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 1371
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 772
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 1681
+},
+"md/025.content.md": {
+"mimeType": "text/markdown",
+"size": 2176
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 2696
+},
+"md/028.content.md": {
+"mimeType": "text/markdown",
+"size": 856
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 878
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 804
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48950
+"size": 35971
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43810
+"size": 31214
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42673
+"size": 30240
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48010
+"size": 34749
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43546
+"size": 30909
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55128
+"size": 42031
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53753
+"size": 32248
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50554
+"size": 40860
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53817
+"size": 37842
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42615
+"size": 40968
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46173
+"size": 30085
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46829
+"size": 33242
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42379
+"size": 34033
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46849
+"size": 30022
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43416
+"size": 34107
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44554
+"size": 30842
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43849
+"size": 31832
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43956
+"size": 31149
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52901
+"size": 31380
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56877
+"size": 40044
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54154
+"size": 44204
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42479
+"size": 41099
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47631
+"size": 30002
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47736
+"size": 34762
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42913
+"size": 34773
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54072
+"size": 30344
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43393
+"size": 41051
+},
+"pdf/028.content.pdf": {
+"mimeType": "application/pdf",
+"size": 30689
 }
 },
 "copyright": {
@@ -1843,38 +1860,6 @@
 }
 }
 },
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "मुर्गा",
-"localizations": {
-"eng": {
-"content_id": "a1388",
-"language": "eng",
-"title": "Rooster"
-},
-"fra": {
-"content_id": "a1388",
-"language": "fra",
-"title": "Coq"
-},
-"por": {
-"content_id": "a1388",
-"language": "por",
-"title": "Galo"
-},
-"spa": {
-"content_id": "a1388",
-"language": "spa",
-"title": "Gallo"
-},
-"zhs": {
-"content_id": "a1388",
-"language": "zhs",
-"title": "公鸡"
-}
-}
-},
 "a1381": {
 "content_id": "a1381",
 "reference_id": 0,
@@ -1904,6 +1889,38 @@
 "content_id": "a1381",
 "language": "zhs",
 "title": "绑在棍子上的蘸了醋的海绵"
+}
+}
+},
+"a16": {
+"content_id": "a16",
+"reference_id": 0,
+"index_reference": "खट्टे दाखरस का घड़ा",
+"localizations": {
+"eng": {
+"content_id": "a16",
+"language": "eng",
+"title": "Jar of Sour Wine"
+},
+"fra": {
+"content_id": "a16",
+"language": "fra",
+"title": "Vin"
+},
+"por": {
+"content_id": "a16",
+"language": "por",
+"title": "Vinho"
+},
+"spa": {
+"content_id": "a16",
+"language": "spa",
+"title": "Vino"
+},
+"zhs": {
+"content_id": "a16",
+"language": "zhs",
+"title": "葡萄酒"
 }
 }
 },
@@ -1984,7 +2001,7 @@
 "fra": {
 "content_id": "a169",
 "language": "fra",
-"title": "Pigeon"
+"title": "Animaux sacrificiels"
 },
 "por": {
 "content_id": "a169",
@@ -2078,6 +2095,11 @@
 "content_id": "a182",
 "language": "eng",
 "title": "Axe"
+},
+"fra": {
+"content_id": "a182",
+"language": "fra",
+"title": "Hache"
 },
 "por": {
 "content_id": "a182",
@@ -2193,6 +2215,11 @@
 "language": "eng",
 "title": "Pearls"
 },
+"fra": {
+"content_id": "a175",
+"language": "fra",
+"title": "Perles"
+},
 "por": {
 "content_id": "a175",
 "language": "por",
@@ -2209,6 +2236,11 @@
 "content_id": "a183",
 "language": "eng",
 "title": "Adult and Kid Goat"
+},
+"fra": {
+"content_id": "a183",
+"language": "fra",
+"title": "Animaux sacrificiels"
 },
 "por": {
 "content_id": "a183",
@@ -2355,6 +2387,11 @@
 "language": "eng",
 "title": "Snow"
 },
+"fra": {
+"content_id": "a1262",
+"language": "fra",
+"title": "Neige"
+},
 "por": {
 "content_id": "a1262",
 "language": "por",
@@ -2371,6 +2408,18 @@
 "content_id": "a1444",
 "language": "eng",
 "title": "Hail Falling"
+}
+}
+},
+"a1388": {
+"content_id": "a1388",
+"reference_id": 0,
+"index_reference": "मुर्गे की बाँग",
+"localizations": {
+"eng": {
+"content_id": "a1388",
+"language": "eng",
+"title": "Rooster Crowing"
 }
 }
 }

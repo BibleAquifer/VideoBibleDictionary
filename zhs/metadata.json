@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:11.057585"
+"dateCreated": "2026-06-25T05:58:55.307423"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:11.057585"
+"timestamp": "2026-06-25T05:58:55.307423"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 844,
+"size": 815,
 "scope": {
 "bang": [
 "绑在棍子上的蘸了醋的海绵"
@@ -102,7 +102,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 666,
+"size": 643,
 "scope": {
 "da": [
 "大托盘"
@@ -111,7 +111,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 805,
+"size": 776,
 "scope": {
 "dang": [
 "当作量斗的篮子。"
@@ -120,7 +120,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 888,
+"size": 853,
 "scope": {
 "deng": [
 "灯台"
@@ -129,7 +129,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 3462,
+"size": 3295,
 "scope": {
 "fen": [
 "坟墓"
@@ -138,7 +138,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 5284,
+"size": 5049,
 "scope": {
 "gan": [
 "橄榄山",
@@ -149,7 +149,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 1242,
+"size": 1189,
 "scope": {
 "ge": [
 "鸽子"
@@ -158,97 +158,88 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 1491,
-"scope": {
-"gong": [
-"公鸡"
-]
-}
-},
-"json/009.content.json": {
-"mimeType": "text/json",
-"size": 894,
+"size": 859,
 "scope": {
 "gun": [
 "棍棒"
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 902,
+"size": 867,
 "scope": {
 "hua": [
 "花园墓穴"
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 1010,
+"size": 969,
 "scope": {
 "ji": [
 "基石"
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
-"size": 2412,
+"size": 2299,
 "scope": {
 "jia": [
 "加利利海"
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 1251,
+"size": 1198,
 "scope": {
 "jie": [
 "结穗的麦子"
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 795,
+"size": 766,
 "scope": {
 "ke": [
 "客西马尼园"
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
-"size": 1008,
+"size": 1078,
 "scope": {
 "ku": [
 "苦菜"
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
-"size": 3815,
+"size": 3630,
 "scope": {
 "kuang": [
 "旷野或沙漠"
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 892,
+"size": 857,
 "scope": {
 "lian": [
 "镰刀"
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
-"size": 3530,
+"size": 3371,
 "scope": {
 "liang": [
 "凉鞋",
@@ -256,46 +247,47 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
-"size": 2870,
+"size": 2733,
 "scope": {
 "luo": [
 "骆驼"
 ]
 }
 },
-"json/020.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
-"size": 1243,
+"size": 1190,
 "scope": {
 "mo": [
 "磨石"
 ]
 }
 },
-"json/021.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
-"size": 1589,
+"size": 1518,
 "scope": {
 "pi": [
 "皮酒袋"
 ]
 }
 },
-"json/022.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 1967,
+"size": 3854,
 "scope": {
 "pu": [
+"葡萄酒",
 "葡萄园的守望台",
 "葡萄园周围的石墙"
 ]
 }
 },
-"json/023.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
-"size": 4128,
+"size": 4048,
 "scope": {
 "shu": [
 "熟透待收的麦子",
@@ -303,90 +295,90 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
-"size": 1348,
+"size": 1289,
 "scope": {
 "shui": [
 "睡垫"
 ]
 }
 },
-"json/025.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
-"size": 1012,
+"size": 971,
 "scope": {
 "si": [
 "四种土地"
 ]
 }
 },
-"json/026.content.json": {
+"json/025.content.json": {
 "mimeType": "text/json",
-"size": 893,
+"size": 858,
 "scope": {
 "tong": [
 "铜币"
 ]
 }
 },
-"json/027.content.json": {
+"json/026.content.json": {
 "mimeType": "text/json",
-"size": 3231,
+"size": 3076,
 "scope": {
 "wai": [
 "外袍"
 ]
 }
 },
-"json/028.content.json": {
+"json/027.content.json": {
 "mimeType": "text/json",
-"size": 895,
+"size": 860,
 "scope": {
 "xiang": [
 "香膏罐"
 ]
 }
 },
-"json/029.content.json": {
+"json/028.content.json": {
 "mimeType": "text/json",
-"size": 655,
+"size": 632,
 "scope": {
 "xing": [
 "行囊"
 ]
 }
 },
-"json/030.content.json": {
+"json/029.content.json": {
 "mimeType": "text/json",
-"size": 771,
+"size": 742,
 "scope": {
 "xuan": [
 "悬崖"
 ]
 }
 },
-"json/031.content.json": {
+"json/030.content.json": {
 "mimeType": "text/json",
-"size": 1860,
+"size": 1777,
 "scope": {
 "ye": [
 "耶稣时代的房屋"
 ]
 }
 },
-"json/032.content.json": {
+"json/031.content.json": {
 "mimeType": "text/json",
-"size": 773,
+"size": 744,
 "scope": {
 "ying": [
 "硬币"
 ]
 }
 },
-"json/033.content.json": {
+"json/032.content.json": {
 "mimeType": "text/json",
-"size": 5758,
+"size": 5485,
 "scope": {
 "you": [
 "犹太会堂",
@@ -394,337 +386,329 @@
 ]
 }
 },
-"json/034.content.json": {
+"json/033.content.json": {
 "mimeType": "text/json",
-"size": 1239,
+"size": 1186,
 "scope": {
 "yu": [
 "渔网"
 ]
 }
 },
-"json/035.content.json": {
+"json/034.content.json": {
 "mimeType": "text/json",
-"size": 1351,
+"size": 1292,
 "scope": {
 "yue": [
 "约旦河"
 ]
 }
 },
-"json/036.content.json": {
+"json/035.content.json": {
 "mimeType": "text/json",
-"size": 1942,
+"size": 1853,
 "scope": {
 "chang": [
 "长袍/里衣"
 ]
 }
 },
-"json/037.content.json": {
+"json/036.content.json": {
 "mimeType": "text/json",
-"size": 1938,
+"size": 1849,
 "scope": {
 "zhang": [
 "杖"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 843
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 788
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 821
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 825
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 1308
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 2026
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 882
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 950
+"size": 809
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 828
+"size": 809
 },
-"md/010.content.md": {
-"mimeType": "text/markdown",
-"size": 828
-},
-"md/011.content.md": {
-"mimeType": "text/markdown",
-"size": 851
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 1119
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 897
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 815
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 845
-},
-"md/016.content.md": {
-"mimeType": "text/markdown",
-"size": 1383
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 828
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 1508
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 1183
-},
-"md/020.content.md": {
-"mimeType": "text/markdown",
-"size": 891
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
-"size": 968
-},
-"md/022.content.md": {
-"mimeType": "text/markdown",
-"size": 1232
-},
-"md/023.content.md": {
-"mimeType": "text/markdown",
-"size": 1615
-},
-"md/024.content.md": {
-"mimeType": "text/markdown",
-"size": 909
-},
-"md/025.content.md": {
-"mimeType": "text/markdown",
-"size": 847
-},
-"md/026.content.md": {
-"mimeType": "text/markdown",
-"size": 830
-},
-"md/027.content.md": {
-"mimeType": "text/markdown",
-"size": 1271
-},
-"md/028.content.md": {
-"mimeType": "text/markdown",
-"size": 829
-},
-"md/029.content.md": {
-"mimeType": "text/markdown",
-"size": 780
-},
-"md/030.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
 "size": 802
 },
-"md/031.content.md": {
+"md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 1026
+"size": 806
+},
+"md/011.content.md": {
+"mimeType": "text/markdown",
+"size": 1100
+},
+"md/016.content.md": {
+"mimeType": "text/markdown",
+"size": 809
+},
+"md/020.content.md": {
+"mimeType": "text/markdown",
+"size": 949
+},
+"md/027.content.md": {
+"mimeType": "text/markdown",
+"size": 810
 },
 "md/032.content.md": {
 "mimeType": "text/markdown",
-"size": 803
-},
-"md/033.content.md": {
-"mimeType": "text/markdown",
-"size": 1940
-},
-"md/034.content.md": {
-"mimeType": "text/markdown",
-"size": 888
+"size": 1910
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 901
+"size": 1004
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 1478
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 832
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 1289
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 769
+},
+"md/034.content.md": {
+"mimeType": "text/markdown",
+"size": 882
+},
+"md/033.content.md": {
+"mimeType": "text/markdown",
+"size": 869
+},
+"md/026.content.md": {
+"mimeType": "text/markdown",
+"size": 1252
+},
+"md/021.content.md": {
+"mimeType": "text/markdown",
+"size": 1755
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 878
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 1364
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 863
+},
+"md/031.content.md": {
+"mimeType": "text/markdown",
+"size": 784
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
-"size": 1023
+"size": 1006
 },
-"md/037.content.md": {
+"md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1025
+"size": 890
+},
+"md/024.content.md": {
+"mimeType": "text/markdown",
+"size": 828
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 1985
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 824
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 848
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 796
+},
+"md/025.content.md": {
+"mimeType": "text/markdown",
+"size": 811
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 1606
+},
+"md/030.content.md": {
+"mimeType": "text/markdown",
+"size": 1007
+},
+"md/028.content.md": {
+"mimeType": "text/markdown",
+"size": 761
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 872
+},
+"md/029.content.md": {
+"mimeType": "text/markdown",
+"size": 783
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 1164
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 41968
+"size": 32442
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39786
+"size": 29974
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40822
+"size": 31035
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39762
+"size": 29891
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39861
+"size": 29997
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44603
+"size": 34991
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39848
+"size": 29973
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39778
+"size": 30196
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39982
+"size": 30561
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40340
+"size": 29765
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39638
+"size": 30138
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39935
+"size": 30645
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40384
+"size": 30527
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40339
+"size": 30016
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39824
+"size": 31016
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40764
+"size": 30102
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39980
+"size": 32526
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42390
+"size": 30241
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40032
+"size": 30014
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39817
+"size": 30441
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40225
+"size": 35933
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43381
+"size": 33511
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43088
+"size": 30347
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40207
+"size": 30393
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40217
+"size": 30068
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39926
+"size": 29968
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39783
+"size": 30561
 },
 "pdf/028.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40373
+"size": 30229
 },
 "pdf/029.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40046
+"size": 30102
 },
 "pdf/030.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39980
+"size": 31197
 },
 "pdf/031.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40865
+"size": 30089
 },
 "pdf/032.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39897
+"size": 32512
 },
 "pdf/033.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42238
+"size": 30021
 },
 "pdf/034.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39927
+"size": 30169
 },
 "pdf/035.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39958
+"size": 30672
 },
 "pdf/036.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42888
-},
-"pdf/037.content.pdf": {
-"mimeType": "application/pdf",
-"size": 39738
+"size": 29866
 }
 },
 "copyright": {
@@ -1927,38 +1911,6 @@
 }
 }
 },
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "公鸡",
-"localizations": {
-"eng": {
-"content_id": "a1388",
-"language": "eng",
-"title": "Rooster"
-},
-"fra": {
-"content_id": "a1388",
-"language": "fra",
-"title": "Coq"
-},
-"hin": {
-"content_id": "a1388",
-"language": "hin",
-"title": "मुर्गा"
-},
-"por": {
-"content_id": "a1388",
-"language": "por",
-"title": "Galo"
-},
-"spa": {
-"content_id": "a1388",
-"language": "spa",
-"title": "Gallo"
-}
-}
-},
 "a1381": {
 "content_id": "a1381",
 "reference_id": 0,
@@ -1988,6 +1940,38 @@
 "content_id": "a1381",
 "language": "spa",
 "title": "Esponja con vino en un palo"
+}
+}
+},
+"a16": {
+"content_id": "a16",
+"reference_id": 0,
+"index_reference": "葡萄酒",
+"localizations": {
+"eng": {
+"content_id": "a16",
+"language": "eng",
+"title": "Jar of Sour Wine"
+},
+"fra": {
+"content_id": "a16",
+"language": "fra",
+"title": "Vin"
+},
+"hin": {
+"content_id": "a16",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+},
+"por": {
+"content_id": "a16",
+"language": "por",
+"title": "Vinho"
+},
+"spa": {
+"content_id": "a16",
+"language": "spa",
+"title": "Vino"
 }
 }
 },
@@ -2068,7 +2052,7 @@
 "fra": {
 "content_id": "a169",
 "language": "fra",
-"title": "Pigeon"
+"title": "Animaux sacrificiels"
 },
 "hin": {
 "content_id": "a169",

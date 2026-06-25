@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "zht",
 "localizations": [
 "eng",
@@ -59,7 +59,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:11.152590"
+"dateCreated": "2026-06-25T05:58:55.253128"
 },
 "idAuthorities": {
 "aquifer": {
@@ -73,7 +73,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:11.152590"
+"timestamp": "2026-06-25T05:58:55.253128"
 }
 }
 },
@@ -105,7 +105,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 1007,
+"size": 972,
 "scope": {
 "huang": [
 "荒野"
@@ -114,7 +114,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 798,
+"size": 775,
 "scope": {
 "jia": [
 "加利利海"
@@ -123,7 +123,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 779,
+"size": 756,
 "scope": {
 "yu": [
 "漁網"
@@ -132,44 +132,44 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 900,
+"size": 871,
 "scope": {
 "yue": [
 "約旦河"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 922
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 899
-},
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 886
+"size": 867
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 909
+"size": 890
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 880
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 903
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40268
+"size": 30422
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39991
+"size": 30194
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40170
+"size": 30327
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40093
+"size": 30297
 }
 },
 "copyright": {

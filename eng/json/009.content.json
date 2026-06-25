@@ -74,6 +74,28 @@
 }
 },
 {
+"content_id": "a2242",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Lifespan of a Flower",
+"media_type": "Video",
+"index_reference": "lifespan of a flower",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2242/720p.mp4'><img src='thumbnails/a2242_720p_thumbnail.jpg' /></a> (10 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2242/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "59001001",
+"start_ref_usfm": "JAS 1:1",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "a18",
 "reference_id": 0,
 "version": "1.0.4",
@@ -114,6 +136,12 @@
 "start_ref_usfm": "1CH 6:54",
 "end_ref": "13006081",
 "end_ref_usfm": "1CH 6:81"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
 },
 {
 "start_ref": "40027032",

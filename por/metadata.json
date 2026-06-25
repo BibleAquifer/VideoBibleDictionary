@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-05-20",
+"date_created": "2026-06-25",
 "language": "por",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T17:57:10.440605"
+"dateCreated": "2026-06-25T05:58:55.165740"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-05-20T17:57:10.440605"
+"timestamp": "2026-06-25T05:58:55.165740"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 1609,
+"size": 1552,
 "scope": {
 "a": [
 "Animais sacrificiais",
@@ -103,7 +103,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 2115,
+"size": 2042,
 "scope": {
 "b": [
 "Bandeja",
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 16119,
+"size": 15412,
 "scope": {
 "c": [
 "Cajado",
@@ -132,7 +132,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 8522,
+"size": 8272,
 "scope": {
 "e": [
 "Entrada de uma casa judaica",
@@ -146,7 +146,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 1802,
+"size": 1733,
 "scope": {
 "f": [
 "Foice",
@@ -156,25 +156,16 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 1487,
-"scope": {
-"g": [
-"Galo"
-]
-}
-},
-"json/007.content.json": {
-"mimeType": "text/json",
-"size": 915,
+"size": 880,
 "scope": {
 "h": [
 "Homem cingido"
 ]
 }
 },
-"json/008.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
-"size": 5217,
+"size": 4974,
 "scope": {
 "j": [
 "Jardim do Getsêmani",
@@ -182,18 +173,18 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
-"size": 2653,
+"size": 2528,
 "scope": {
 "l": [
 "Lamparina"
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 11748,
+"size": 11269,
 "scope": {
 "m": [
 "Machado",
@@ -209,18 +200,18 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 1014,
+"size": 973,
 "scope": {
 "n": [
 "Neve"
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
-"size": 3637,
+"size": 3472,
 "scope": {
 "o": [
 "Odres",
@@ -228,9 +219,9 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 12764,
+"size": 12561,
 "scope": {
 "p": [
 "Pá de joeirar",
@@ -246,18 +237,18 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 1012,
+"size": 971,
 "scope": {
 "q": [
 "Quatro solos"
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
-"size": 3417,
+"size": 3278,
 "scope": {
 "r": [
 "Ramos de oliveira e palmeira",
@@ -266,9 +257,9 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
-"size": 7901,
+"size": 7651,
 "scope": {
 "s": [
 "Sandálias",
@@ -278,9 +269,9 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 13083,
+"size": 12619,
 "scope": {
 "t": [
 "Tabuinha",
@@ -294,159 +285,152 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
-"size": 1781,
+"size": 3666,
 "scope": {
 "v": [
 "Vara",
-"Vara"
+"Vara",
+"Vinho"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 1149
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 1416
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 4903
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 2987
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 1163
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 896
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 821
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 1670
+"size": 1036
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 1055
+"size": 4156
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 4274
+"size": 4785
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 2934
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 840
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 1401
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 4451
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 822
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 1605
+"size": 1371
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2422
+"size": 3977
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 4058
+"size": 1623
 },
-"md/018.content.md": {
+"md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 1145
+"size": 821
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 1133
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 1375
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 4384
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 2384
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 1640
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 802
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 1119
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 1564
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 803
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44976
+"size": 31627
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46277
+"size": 32760
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59179
+"size": 45445
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52367
+"size": 38538
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44976
+"size": 31303
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42212
+"size": 29846
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43176
+"size": 31954
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45865
+"size": 29782
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42749
+"size": 45958
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60319
+"size": 29759
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42224
+"size": 31403
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44582
+"size": 46188
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60066
+"size": 29915
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43148
+"size": 33813
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47509
+"size": 34968
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48942
+"size": 41558
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54852
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 43414
+"size": 32595
 }
 },
 "copyright": {
@@ -1700,38 +1684,6 @@
 }
 }
 },
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "galo",
-"localizations": {
-"eng": {
-"content_id": "a1388",
-"language": "eng",
-"title": "Rooster"
-},
-"fra": {
-"content_id": "a1388",
-"language": "fra",
-"title": "Coq"
-},
-"hin": {
-"content_id": "a1388",
-"language": "hin",
-"title": "मुर्गा"
-},
-"spa": {
-"content_id": "a1388",
-"language": "spa",
-"title": "Gallo"
-},
-"zhs": {
-"content_id": "a1388",
-"language": "zhs",
-"title": "公鸡"
-}
-}
-},
 "a1381": {
 "content_id": "a1381",
 "reference_id": 0,
@@ -1761,6 +1713,38 @@
 "content_id": "a1381",
 "language": "zhs",
 "title": "绑在棍子上的蘸了醋的海绵"
+}
+}
+},
+"a16": {
+"content_id": "a16",
+"reference_id": 0,
+"index_reference": "vinho",
+"localizations": {
+"eng": {
+"content_id": "a16",
+"language": "eng",
+"title": "Jar of Sour Wine"
+},
+"fra": {
+"content_id": "a16",
+"language": "fra",
+"title": "Vin"
+},
+"hin": {
+"content_id": "a16",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+},
+"spa": {
+"content_id": "a16",
+"language": "spa",
+"title": "Vino"
+},
+"zhs": {
+"content_id": "a16",
+"language": "zhs",
+"title": "葡萄酒"
 }
 }
 },
@@ -1841,7 +1825,7 @@
 "fra": {
 "content_id": "a169",
 "language": "fra",
-"title": "Pigeon"
+"title": "Animaux sacrificiels"
 },
 "hin": {
 "content_id": "a169",
@@ -2038,6 +2022,11 @@
 "language": "eng",
 "title": "Axe"
 },
+"fra": {
+"content_id": "a182",
+"language": "fra",
+"title": "Hache"
+},
 "hin": {
 "content_id": "a182",
 "language": "hin",
@@ -2157,6 +2146,11 @@
 "language": "eng",
 "title": "Pearls"
 },
+"fra": {
+"content_id": "a175",
+"language": "fra",
+"title": "Perles"
+},
 "hin": {
 "content_id": "a175",
 "language": "hin",
@@ -2242,6 +2236,11 @@
 "language": "eng",
 "title": "Adult and Kid Goat"
 },
+"fra": {
+"content_id": "a183",
+"language": "fra",
+"title": "Animaux sacrificiels"
+},
 "hin": {
 "content_id": "a183",
 "language": "hin",
@@ -2275,6 +2274,11 @@
 "content_id": "a1262",
 "language": "eng",
 "title": "Snow"
+},
+"fra": {
+"content_id": "a1262",
+"language": "fra",
+"title": "Neige"
 },
 "hin": {
 "content_id": "a1262",
