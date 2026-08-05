@@ -1,2427 +1,2285 @@
 {
-"resource_metadata": {
-"aquifer_type": "Videos",
-"resource_type": "Images, Maps, Videos",
-"title": "Familiarization, Internalization, Articulation (FIA) Videos",
-"aquifer_name": "Videos (Video Bible Dictionary)",
-"version": "1.1.2",
-"collection_title": "Videos (Video Bible Dictionary)",
-"short_name": "VBD",
-"license_info": {
-"title": "Video Bible Dictionary",
-"copyright": {
-"dates": "2023",
-"holder": {
-"name": "SRV Partners",
-"url": "https://srvpartners.org/home/"
-}
-},
-"licenses": [
-{
-"eng": {
-"name": "CC BY-SA 4.0 license",
-"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-}
-}
-],
-"showAdaptationNoticeForEnglish": false,
-"showAdaptationNoticeForNonEnglish": false
-},
-"adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2023 SRV Partners. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
-"resource_code": "VideoBibleDictionary",
-"date_created": "2026-06-25",
-"language": "hin",
-"localizations": [
-"eng",
-"fra",
-"por",
-"spa",
-"zhs"
-],
-"order": "alphabetical",
-"content_type": "Html"
-},
-"scripture_burrito": {
-"format": "scripture burrito",
-"meta": {
-"version": "1.0.0",
-"category": "source",
-"defaultLocale": "en",
-"dateCreated": "2026-06-25T05:58:55.096841"
-},
-"idAuthorities": {
-"aquifer": {
-"id": "https://aquifer.bible",
-"name": {
-"en": "Bible Aquifer"
-}
-}
-},
-"identification": {
-"primary": {
-"aquifer": {
-"VideoBibleDictionary": {
-"timestamp": "2026-06-25T05:58:55.096841"
-}
-}
-},
-"name": {
-"hi": "Video Bible Dictionary"
-},
-"abbreviation": {
-"hi": "VBD"
-}
-},
-"languages": [
-{
-"tag": "hi",
-"name": {
-"hi": "Hindi"
-}
-}
-],
-"type": {
-"flavorType": {
-"name": "peripheral",
-"flavor": {
-"name": "textAquiferAlphabetical",
-"audience": "common"
-},
-"currentScope": {}
-}
-},
-"ingredients": {
-"json/001.content.json": {
-"mimeType": "text/json",
-"size": 2160,
-"scope": {
-"अ": [
-"अंगूर के बाग की चौकी मीनार",
-"अंगूर के बाग के चारों ओर बनी पत्थर की दीवार"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
-"size": 2989,
-"scope": {
-"आ": [
-"आराधनालय"
-]
-}
-},
-"json/003.content.json": {
-"mimeType": "text/json",
-"size": 2739,
-"scope": {
-"ऊ": [
-"ऊँट"
-]
-}
-},
-"json/004.content.json": {
-"mimeType": "text/json",
-"size": 964,
-"scope": {
-"ए": [
-"एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता।"
-]
-}
-},
-"json/005.content.json": {
-"mimeType": "text/json",
-"size": 789,
-"scope": {
-"ओ": [
-"ओले पड़ना"
-]
-}
-},
-"json/006.content.json": {
-"mimeType": "text/json",
-"size": 8949,
-"scope": {
-"क": [
-"कड़वे सागपात",
-"कब्रें",
-"कमर बाँधे हुआ मनुष्य",
-"कमरबन्द",
-"कुर्ता",
-"कुल्हाड़ी"
-]
-}
-},
-"json/007.content.json": {
-"mimeType": "text/json",
-"size": 725,
-"scope": {
-"ख": [
-"खट्टे दाखरस का घड़ा"
-]
-}
-},
-"json/008.content.json": {
-"mimeType": "text/json",
-"size": 9117,
-"scope": {
-"ग": [
-"गतसमनी का बगीचा",
-"गलील की झील",
-"गुफा",
-"गेहूँ कटनी के लिए तैयार है",
-"गेहूँ की बालियाँ"
-]
-}
-},
-"json/009.content.json": {
-"mimeType": "text/json",
-"size": 3731,
-"scope": {
-"च": [
-"चक्की का पाट",
-"चट्टानें",
-"चरनी",
-"चार प्रकार की मिट्टियाँ"
-]
-}
-},
-"json/010.content.json": {
-"mimeType": "text/json",
-"size": 11270,
-"scope": {
-"ज": [
-"जंगल या रेगिस्तान",
-"जूते",
-"जैतून और खजूर के पेड़ की डालियाँ",
-"जैतून का पहाड़",
-"जैतून का पेड़"
-]
-}
-},
-"json/011.content.json": {
-"mimeType": "text/json",
-"size": 1423,
-"scope": {
-"झ": [
-"झांझ"
-]
-}
-},
-"json/012.content.json": {
-"mimeType": "text/json",
-"size": 2384,
-"scope": {
-"ट": [
-"टाट",
-"टोकरी पैमाने के रूप में"
-]
-}
-},
-"json/013.content.json": {
-"mimeType": "text/json",
-"size": 3494,
-"scope": {
-"त": [
-"तांबे के सिक्के",
-"तेल का दीपक"
-]
-}
-},
-"json/014.content.json": {
-"mimeType": "text/json",
-"size": 643,
-"scope": {
-"थ": [
-"थाल"
-]
-}
-},
-"json/015.content.json": {
-"mimeType": "text/json",
-"size": 1624,
-"scope": {
-"द": [
-"दीवट",
-"दीवार के साथ कोने का पत्थर"
-]
-}
-},
-"json/016.content.json": {
-"mimeType": "text/json",
-"size": 1556,
-"scope": {
-"न": [
-"नगर फाटक"
-]
-}
-},
-"json/017.content.json": {
-"mimeType": "text/json",
-"size": 1132,
-"scope": {
-"प": [
-"पकाई हुई मछली"
-]
-}
-},
-"json/018.content.json": {
-"mimeType": "text/json",
-"size": 712,
-"scope": {
-"पर": [
-"प्रेसिपिस पर्वत"
-]
-}
-},
-"json/019.content.json": {
-"mimeType": "text/json",
-"size": 1013,
-"scope": {
-"फ": [
-"फटकने का सूप"
-]
-}
-},
-"json/020.content.json": {
-"mimeType": "text/json",
-"size": 4269,
-"scope": {
-"ब": [
-"बकरी की खाल",
-"बगीचे की कब्र",
-"बटुआ",
-"बर्फ",
-"बलिदान के पशु"
-]
-}
-},
-"json/021.content.json": {
-"mimeType": "text/json",
-"size": 8273,
-"scope": {
-"म": [
-"मछली की पंखुड़ी",
-"मछली पकड़ने का जाल",
-"मशक",
-"महीन मलमल का कपड़ा",
-"मिस्र का वस्त्र",
-"मुर्गे की बाँग",
-"मोती"
-]
-}
-},
-"json/022.content.json": {
-"mimeType": "text/json",
-"size": 5406,
-"scope": {
-"य": [
-"यरदन नदी",
-"यहूदी घर का प्रवेश द्वार",
-"यात्री का झोला",
-"यीशु के समय के घर",
-"यूसुफ का अंगरखा"
-]
-}
-},
-"json/023.content.json": {
-"mimeType": "text/json",
-"size": 751,
-"scope": {
-"र": [
-"राख"
-]
-}
-},
-"json/024.content.json": {
-"mimeType": "text/json",
-"size": 3427,
-"scope": {
-"ल": [
-"लाठी",
-"लाठी",
-"लेखन पट्टिका"
-]
-}
-},
-"json/025.content.json": {
-"mimeType": "text/json",
-"size": 5178,
-"scope": {
-"व": [
-"वयस्क गधा",
-"वयस्क बकरी और मेम्ना"
-]
-}
-},
-"json/026.content.json": {
-"mimeType": "text/json",
-"size": 657,
-"scope": {
-"श": [
-"शोरबा"
-]
-}
-},
-"json/027.content.json": {
-"mimeType": "text/json",
-"size": 5261,
-"scope": {
-"स": [
-"संगमरमर का पात्र",
-"सरकंडे का पौधा",
-"सामान रखने की टोकरी",
-"सिक्के",
-"सोने के लिए चटाई"
-]
-}
-},
-"json/028.content.json": {
-"mimeType": "text/json",
-"size": 881,
-"scope": {
-"ह": [
-"हँसिया"
-]
-}
-},
-"md/008.content.md": {
-"mimeType": "text/markdown",
-"size": 3611
-},
-"md/009.content.md": {
-"mimeType": "text/markdown",
-"size": 2003
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 1362
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 912
-},
-"md/011.content.md": {
-"mimeType": "text/markdown",
-"size": 988
-},
-"md/016.content.md": {
-"mimeType": "text/markdown",
-"size": 1055
-},
-"md/020.content.md": {
-"mimeType": "text/markdown",
-"size": 2317
-},
-"md/027.content.md": {
-"mimeType": "text/markdown",
-"size": 2598
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 890
-},
-"md/010.content.md": {
-"mimeType": "text/markdown",
-"size": 4281
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 829
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 1441
-},
-"md/026.content.md": {
-"mimeType": "text/markdown",
-"size": 788
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
-"size": 3729
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 1381
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 1191
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 817
-},
-"md/023.content.md": {
-"mimeType": "text/markdown",
-"size": 804
-},
-"md/024.content.md": {
-"mimeType": "text/markdown",
-"size": 1787
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 3798
-},
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 1371
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 772
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 1681
-},
-"md/025.content.md": {
-"mimeType": "text/markdown",
-"size": 2176
-},
-"md/022.content.md": {
-"mimeType": "text/markdown",
-"size": 2696
-},
-"md/028.content.md": {
-"mimeType": "text/markdown",
-"size": 856
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 878
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 804
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 35971
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31214
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30240
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 34749
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30909
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 42031
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 32248
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 40860
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 37842
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 40968
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30085
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 33242
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 34033
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30022
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 34107
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30842
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31832
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31149
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31380
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 40044
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 44204
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 41099
-},
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30002
-},
-"pdf/024.content.pdf": {
-"mimeType": "application/pdf",
-"size": 34762
-},
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 34773
-},
-"pdf/026.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30344
-},
-"pdf/027.content.pdf": {
-"mimeType": "application/pdf",
-"size": 41051
-},
-"pdf/028.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30689
-}
-},
-"copyright": {
-"licenses": [
-{
-"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-}
-],
-"shortStatements": [
-{
-"statement": "<p>Video Bible Dictionary © 2023 SRV Partners.</p>",
-"mimetype": "text/html",
-"lang": "hi"
-}
-]
-}
-},
-"article_metadata": {
-"a30": {
-"content_id": "a30",
-"reference_id": 0,
-"index_reference": "टोकरी पैमाने के रूप में",
-"localizations": {
-"eng": {
-"content_id": "a30",
-"language": "eng",
-"title": "Basket as a Bushel"
-},
-"fra": {
-"content_id": "a30",
-"language": "fra",
-"title": "Panier en tant boisseau"
-},
-"por": {
-"content_id": "a30",
-"language": "por",
-"title": "Cesta como alqueire"
-},
-"spa": {
-"content_id": "a30",
-"language": "spa",
-"title": "Cesta como celemín"
-},
-"zhs": {
-"content_id": "a30",
-"language": "zhs",
-"title": "当作量斗的篮子。"
-}
-}
-},
-"a1253": {
-"content_id": "a1253",
-"reference_id": 0,
-"index_reference": "सामान रखने की टोकरी",
-"localizations": {
-"eng": {
-"content_id": "a1253",
-"language": "eng",
-"title": "Basket for Provisions"
-},
-"fra": {
-"content_id": "a1253",
-"language": "fra",
-"title": "Panier de provisions"
-},
-"por": {
-"content_id": "a1253",
-"language": "por",
-"title": "Cesta de mantimentos"
-},
-"spa": {
-"content_id": "a1253",
-"language": "spa",
-"title": "Cesta para provisiones"
-},
-"zhs": {
-"content_id": "a1253",
-"language": "zhs",
-"title": "粮篮"
-}
-}
-},
-"a9": {
-"content_id": "a9",
-"reference_id": 0,
-"index_reference": "ऊँट",
-"localizations": {
-"eng": {
-"content_id": "a9",
-"language": "eng",
-"title": "Camel"
-},
-"fra": {
-"content_id": "a9",
-"language": "fra",
-"title": "Chameau"
-},
-"por": {
-"content_id": "a9",
-"language": "por",
-"title": "Camelo"
-},
-"spa": {
-"content_id": "a9",
-"language": "spa",
-"title": "Camello"
-},
-"zhs": {
-"content_id": "a9",
-"language": "zhs",
-"title": "骆驼"
-}
-}
-},
-"a12": {
-"content_id": "a12",
-"reference_id": 0,
-"index_reference": "चट्टानें",
-"localizations": {
-"eng": {
-"content_id": "a12",
-"language": "eng",
-"title": "Cliffs"
-},
-"fra": {
-"content_id": "a12",
-"language": "fra",
-"title": "Falaises"
-},
-"por": {
-"content_id": "a12",
-"language": "por",
-"title": "Penhascos"
-},
-"spa": {
-"content_id": "a12",
-"language": "spa",
-"title": "Acantilados"
-},
-"zhs": {
-"content_id": "a12",
-"language": "zhs",
-"title": "悬崖"
-}
-}
-},
-"a133": {
-"content_id": "a133",
-"reference_id": 0,
-"index_reference": "मिस्र का वस्त्र",
-"localizations": {
-"eng": {
-"content_id": "a133",
-"language": "eng",
-"title": "Egyptian Cloak"
-},
-"fra": {
-"content_id": "a133",
-"language": "fra",
-"title": "Manteau"
-},
-"por": {
-"content_id": "a133",
-"language": "por",
-"title": "Capa"
-},
-"spa": {
-"content_id": "a133",
-"language": "spa",
-"title": "Manto"
-},
-"zhs": {
-"content_id": "a133",
-"language": "zhs",
-"title": "外袍"
-}
-}
-},
-"a28": {
-"content_id": "a28",
-"reference_id": 0,
-"index_reference": "सिक्के",
-"localizations": {
-"eng": {
-"content_id": "a28",
-"language": "eng",
-"title": "Coins"
-},
-"fra": {
-"content_id": "a28",
-"language": "fra",
-"title": "Pièces"
-},
-"por": {
-"content_id": "a28",
-"language": "por",
-"title": "Moedas"
-},
-"spa": {
-"content_id": "a28",
-"language": "spa",
-"title": "Monedas"
-},
-"zhs": {
-"content_id": "a28",
-"language": "zhs",
-"title": "硬币"
-}
-}
-},
-"a181": {
-"content_id": "a181",
-"reference_id": 0,
-"index_reference": "दीवार के साथ कोने का पत्थर",
-"localizations": {
-"eng": {
-"content_id": "a181",
-"language": "eng",
-"title": "Cornerstone with a Wall"
-},
-"fra": {
-"content_id": "a181",
-"language": "fra",
-"title": "Pierre d'angle"
-},
-"por": {
-"content_id": "a181",
-"language": "por",
-"title": "Pedra angular"
-},
-"spa": {
-"content_id": "a181",
-"language": "spa",
-"title": "Piedra angular"
-},
-"zhs": {
-"content_id": "a181",
-"language": "zhs",
-"title": "基石"
-}
-}
-},
-"a43": {
-"content_id": "a43",
-"reference_id": 0,
-"index_reference": "पकाई हुई मछली",
-"localizations": {
-"eng": {
-"content_id": "a43",
-"language": "eng",
-"title": "Cooked Fish"
-},
-"fra": {
-"content_id": "a43",
-"language": "fra",
-"title": "Poisson cuit"
-},
-"por": {
-"content_id": "a43",
-"language": "por",
-"title": "Peixe cozido"
-},
-"spa": {
-"content_id": "a43",
-"language": "spa",
-"title": "Pescado cocido"
-},
-"zhs": {
-"content_id": "a43",
-"language": "zhs",
-"title": "熟鱼"
-}
-}
-},
-"a19": {
-"content_id": "a19",
-"reference_id": 0,
-"index_reference": "मछली पकड़ने का जाल",
-"localizations": {
-"eng": {
-"content_id": "a19",
-"language": "eng",
-"title": "Fishing Net"
-},
-"fra": {
-"content_id": "a19",
-"language": "fra",
-"title": "Filet de pêche"
-},
-"por": {
-"content_id": "a19",
-"language": "por",
-"title": "Rede de pesca"
-},
-"spa": {
-"content_id": "a19",
-"language": "spa",
-"title": "Red de pesca"
-},
-"zhs": {
-"content_id": "a19",
-"language": "zhs",
-"title": "渔网"
-}
-}
-},
-"a145": {
-"content_id": "a145",
-"reference_id": 0,
-"index_reference": "यीशु के समय के घर",
-"localizations": {
-"eng": {
-"content_id": "a145",
-"language": "eng",
-"title": "House in the Time of Jesus"
-},
-"fra": {
-"content_id": "a145",
-"language": "fra",
-"title": "Maison à l'époque de Jésus"
-},
-"por": {
-"content_id": "a145",
-"language": "por",
-"title": "Casa no tempo de Jesus"
-},
-"spa": {
-"content_id": "a145",
-"language": "spa",
-"title": "Casa en el tiempo de Jesús"
-},
-"zhs": {
-"content_id": "a145",
-"language": "zhs",
-"title": "耶稣时代的房屋"
-}
-}
-},
-"a13": {
-"content_id": "a13",
-"reference_id": 0,
-"index_reference": "यरदन नदी",
-"localizations": {
-"eng": {
-"content_id": "a13",
-"language": "eng",
-"title": "Jordan River"
-},
-"fra": {
-"content_id": "a13",
-"language": "fra",
-"title": "fleuve Jourdain"
-},
-"por": {
-"content_id": "a13",
-"language": "por",
-"title": "Rio Jordão"
-},
-"spa": {
-"content_id": "a13",
-"language": "spa",
-"title": "Río Jordán"
-},
-"zhs": {
-"content_id": "a13",
-"language": "zhs",
-"title": "约旦河"
-}
-}
-},
-"a21": {
-"content_id": "a21",
-"reference_id": 0,
-"index_reference": "दीवट",
-"localizations": {
-"eng": {
-"content_id": "a21",
-"language": "eng",
-"title": "Lampstand"
-},
-"fra": {
-"content_id": "a21",
-"language": "fra",
-"title": "chandelier"
-},
-"por": {
-"content_id": "a21",
-"language": "por",
-"title": "Suporte de candeeiro"
-},
-"spa": {
-"content_id": "a21",
-"language": "spa",
-"title": "Candelero"
-},
-"zhs": {
-"content_id": "a21",
-"language": "zhs",
-"title": "灯台"
-}
-}
-},
-"a33": {
-"content_id": "a33",
-"reference_id": 0,
-"index_reference": "चरनी",
-"localizations": {
-"eng": {
-"content_id": "a33",
-"language": "eng",
-"title": "Manger"
-},
-"por": {
-"content_id": "a33",
-"language": "por",
-"title": "Manjedoura"
-}
-}
-},
-"a32": {
-"content_id": "a32",
-"reference_id": 0,
-"index_reference": "चक्की का पाट",
-"localizations": {
-"eng": {
-"content_id": "a32",
-"language": "eng",
-"title": "Millstone"
-},
-"fra": {
-"content_id": "a32",
-"language": "fra",
-"title": "Pierre à moudre"
-},
-"por": {
-"content_id": "a32",
-"language": "por",
-"title": "Mó de moinho"
-},
-"spa": {
-"content_id": "a32",
-"language": "spa",
-"title": "Piedra de molino"
-},
-"zhs": {
-"content_id": "a32",
-"language": "zhs",
-"title": "磨石"
-}
-}
-},
-"a40": {
-"content_id": "a40",
-"reference_id": 0,
-"index_reference": "जैतून का पहाड़",
-"localizations": {
-"eng": {
-"content_id": "a40",
-"language": "eng",
-"title": "Mount of Olives"
-},
-"fra": {
-"content_id": "a40",
-"language": "fra",
-"title": "Mont des Oliviers"
-},
-"por": {
-"content_id": "a40",
-"language": "por",
-"title": "Monte das Oliveiras"
-},
-"spa": {
-"content_id": "a40",
-"language": "spa",
-"title": "Monte de los Olivos"
-},
-"zhs": {
-"content_id": "a40",
-"language": "zhs",
-"title": "橄榄山"
-}
-}
-},
-"a22": {
-"content_id": "a22",
-"reference_id": 0,
-"index_reference": "तेल का दीपक",
-"localizations": {
-"eng": {
-"content_id": "a22",
-"language": "eng",
-"title": "Oil Lamp"
-},
-"fra": {
-"content_id": "a22",
-"language": "fra",
-"title": "Lampe à huile"
-},
-"por": {
-"content_id": "a22",
-"language": "por",
-"title": "Lamparina"
-},
-"spa": {
-"content_id": "a22",
-"language": "spa",
-"title": "Lámpara de aceite"
-},
-"zhs": {
-"content_id": "a22",
-"language": "zhs",
-"title": "油灯"
-}
-}
-},
-"a5": {
-"content_id": "a5",
-"reference_id": 0,
-"index_reference": "जैतून और खजूर के पेड़ की डालियाँ",
-"localizations": {
-"eng": {
-"content_id": "a5",
-"language": "eng",
-"title": "Olive and Palm Branches"
-},
-"fra": {
-"content_id": "a5",
-"language": "fra",
-"title": "Branches d'olivier et de palmier"
-},
-"por": {
-"content_id": "a5",
-"language": "por",
-"title": "Ramos de oliveira e palmeira"
-},
-"spa": {
-"content_id": "a5",
-"language": "spa",
-"title": "Ramas de olivo y de palma"
-},
-"zhs": {
-"content_id": "a5",
-"language": "zhs",
-"title": "橄榄树和棕榈树枝"
-}
-}
-},
-"a31": {
-"content_id": "a31",
-"reference_id": 0,
-"index_reference": "सोने के लिए चटाई",
-"localizations": {
-"eng": {
-"content_id": "a31",
-"language": "eng",
-"title": "Sleeping Mat"
-},
-"fra": {
-"content_id": "a31",
-"language": "fra",
-"title": "Tapis de couchage"
-},
-"por": {
-"content_id": "a31",
-"language": "por",
-"title": "Esteira de dormir"
-},
-"spa": {
-"content_id": "a31",
-"language": "spa",
-"title": "Esterilla para dormir"
-},
-"zhs": {
-"content_id": "a31",
-"language": "zhs",
-"title": "睡垫"
-}
-}
-},
-"a3": {
-"content_id": "a3",
-"reference_id": 0,
-"index_reference": "चार प्रकार की मिट्टियाँ",
-"localizations": {
-"eng": {
-"content_id": "a3",
-"language": "eng",
-"title": "Four Soils"
-},
-"fra": {
-"content_id": "a3",
-"language": "fra",
-"title": "Quatre sol"
-},
-"por": {
-"content_id": "a3",
-"language": "por",
-"title": "Quatro solos"
-},
-"spa": {
-"content_id": "a3",
-"language": "spa",
-"title": "Cuatro suelos"
-},
-"zhs": {
-"content_id": "a3",
-"language": "zhs",
-"title": "四种土地"
-}
-}
-},
-"a34": {
-"content_id": "a34",
-"reference_id": 0,
-"index_reference": "अंगूर के बाग के चारों ओर बनी पत्थर की दीवार",
-"localizations": {
-"eng": {
-"content_id": "a34",
-"language": "eng",
-"title": "Stone Wall Around a Vineyard"
-},
-"fra": {
-"content_id": "a34",
-"language": "fra",
-"title": "Mur de pierre autour d'une vigne"
-},
-"por": {
-"content_id": "a34",
-"language": "por",
-"title": "Muro de pedras ao redor de uma vinha"
-},
-"spa": {
-"content_id": "a34",
-"language": "spa",
-"title": "Muro de piedra alrededor de un viñedo"
-},
-"zhs": {
-"content_id": "a34",
-"language": "zhs",
-"title": "葡萄园周围的石墙"
-}
-}
-},
-"a186": {
-"content_id": "a186",
-"reference_id": 0,
-"index_reference": "आराधनालय",
-"localizations": {
-"eng": {
-"content_id": "a186",
-"language": "eng",
-"title": "Synagogue"
-},
-"fra": {
-"content_id": "a186",
-"language": "fra",
-"title": "synagogue"
-},
-"por": {
-"content_id": "a186",
-"language": "por",
-"title": "Sinagoga"
-},
-"spa": {
-"content_id": "a186",
-"language": "spa",
-"title": "Sinagoga"
-},
-"zhs": {
-"content_id": "a186",
-"language": "zhs",
-"title": "犹太会堂"
-}
-}
-},
-"a8": {
-"content_id": "a8",
-"reference_id": 0,
-"index_reference": "कब्रें",
-"localizations": {
-"eng": {
-"content_id": "a8",
-"language": "eng",
-"title": "Tombs"
-},
-"fra": {
-"content_id": "a8",
-"language": "fra",
-"title": "Tombeaux"
-},
-"por": {
-"content_id": "a8",
-"language": "por",
-"title": "Túmulos"
-},
-"spa": {
-"content_id": "a8",
-"language": "spa",
-"title": "Tumbas"
-},
-"zhs": {
-"content_id": "a8",
-"language": "zhs",
-"title": "坟墓"
-}
-}
-},
-"a23": {
-"content_id": "a23",
-"reference_id": 0,
-"index_reference": "यात्री का झोला",
-"localizations": {
-"eng": {
-"content_id": "a23",
-"language": "eng",
-"title": "Traveler's Bag"
-},
-"fra": {
-"content_id": "a23",
-"language": "fra",
-"title": "Sac de voyageur"
-},
-"por": {
-"content_id": "a23",
-"language": "por",
-"title": "Bolsa de viajante"
-},
-"spa": {
-"content_id": "a23",
-"language": "spa",
-"title": "Bolsa de viajero"
-},
-"zhs": {
-"content_id": "a23",
-"language": "zhs",
-"title": "行囊"
-}
-}
-},
-"a4": {
-"content_id": "a4",
-"reference_id": 0,
-"index_reference": "कुर्ता",
-"localizations": {
-"eng": {
-"content_id": "a4",
-"language": "eng",
-"title": "Tunic"
-},
-"fra": {
-"content_id": "a4",
-"language": "fra",
-"title": "Tunique"
-},
-"por": {
-"content_id": "a4",
-"language": "por",
-"title": "Túnica"
-},
-"spa": {
-"content_id": "a4",
-"language": "spa",
-"title": "Túnica"
-},
-"zhs": {
-"content_id": "a4",
-"language": "zhs",
-"title": "长袍/里衣"
-}
-}
-},
-"a36": {
-"content_id": "a36",
-"reference_id": 0,
-"index_reference": "अंगूर के बाग की चौकी मीनार",
-"localizations": {
-"eng": {
-"content_id": "a36",
-"language": "eng",
-"title": "Watchtower for a Vineyard"
-},
-"fra": {
-"content_id": "a36",
-"language": "fra",
-"title": "Tour de guet d'une vigne"
-},
-"por": {
-"content_id": "a36",
-"language": "por",
-"title": "Torre de vigia para uma vinha"
-},
-"spa": {
-"content_id": "a36",
-"language": "spa",
-"title": "Torre de vigilancia para un viñedo"
-},
-"zhs": {
-"content_id": "a36",
-"language": "zhs",
-"title": "葡萄园的守望台"
-}
-}
-},
-"a1": {
-"content_id": "a1",
-"reference_id": 0,
-"index_reference": "गेहूँ कटनी के लिए तैयार है",
-"localizations": {
-"eng": {
-"content_id": "a1",
-"language": "eng",
-"title": "Wheat Ready For Harvest"
-},
-"fra": {
-"content_id": "a1",
-"language": "fra",
-"title": "Blé Prêt Pour La Récolte"
-},
-"por": {
-"content_id": "a1",
-"language": "por",
-"title": "Trigo pronto para a colheita"
-},
-"spa": {
-"content_id": "a1",
-"language": "spa",
-"title": "Trigo listo para la cosecha"
-},
-"zhs": {
-"content_id": "a1",
-"language": "zhs",
-"title": "熟透待收的麦子"
-}
-}
-},
-"a2": {
-"content_id": "a2",
-"reference_id": 0,
-"index_reference": "गेहूँ की बालियाँ",
-"localizations": {
-"eng": {
-"content_id": "a2",
-"language": "eng",
-"title": "Wheat with Heads of Grain"
-},
-"fra": {
-"content_id": "a2",
-"language": "fra",
-"title": "Blé avec des têtes de grain"
-},
-"por": {
-"content_id": "a2",
-"language": "por",
-"title": "Trigo com espigas"
-},
-"spa": {
-"content_id": "a2",
-"language": "spa",
-"title": "Trigo con espigas"
-},
-"zhs": {
-"content_id": "a2",
-"language": "zhs",
-"title": "结穗的麦子"
-}
-}
-},
-"a10": {
-"content_id": "a10",
-"reference_id": 0,
-"index_reference": "जंगल या रेगिस्तान",
-"localizations": {
-"eng": {
-"content_id": "a10",
-"language": "eng",
-"title": "Wilderness or Desert"
-},
-"fra": {
-"content_id": "a10",
-"language": "fra",
-"title": "Désert ou désert"
-},
-"por": {
-"content_id": "a10",
-"language": "por",
-"title": "Ermo ou deserto"
-},
-"spa": {
-"content_id": "a10",
-"language": "spa",
-"title": "Desierto"
-},
-"zhs": {
-"content_id": "a10",
-"language": "zhs",
-"title": "旷野或沙漠"
-}
-}
-},
-"a6": {
-"content_id": "a6",
-"reference_id": 0,
-"index_reference": "मशक",
-"localizations": {
-"eng": {
-"content_id": "a6",
-"language": "eng",
-"title": "Wineskins"
-},
-"fra": {
-"content_id": "a6",
-"language": "fra",
-"title": "outre"
-},
-"por": {
-"content_id": "a6",
-"language": "por",
-"title": "Odres"
-},
-"spa": {
-"content_id": "a6",
-"language": "spa",
-"title": "Odre"
-},
-"zhs": {
-"content_id": "a6",
-"language": "zhs",
-"title": "皮酒袋"
-}
-}
-},
-"a118": {
-"content_id": "a118",
-"reference_id": 0,
-"index_reference": "लेखन पट्टिका",
-"localizations": {
-"eng": {
-"content_id": "a118",
-"language": "eng",
-"title": "Writing Tablet"
-},
-"por": {
-"content_id": "a118",
-"language": "por",
-"title": "Tabuinha"
-}
-}
-},
-"a11": {
-"content_id": "a11",
-"reference_id": 0,
-"index_reference": "गलील की झील",
-"localizations": {
-"eng": {
-"content_id": "a11",
-"language": "eng",
-"title": "Sea of Galilee"
-},
-"fra": {
-"content_id": "a11",
-"language": "fra",
-"title": "Mer de Galilée"
-},
-"por": {
-"content_id": "a11",
-"language": "por",
-"title": "Mar da Galileia"
-},
-"spa": {
-"content_id": "a11",
-"language": "spa",
-"title": "Mar de Galilea"
-},
-"zhs": {
-"content_id": "a11",
-"language": "zhs",
-"title": "加利利海"
-}
-}
-},
-"a184": {
-"content_id": "a184",
-"reference_id": 0,
-"index_reference": "जूते",
-"localizations": {
-"eng": {
-"content_id": "a184",
-"language": "eng",
-"title": "Sandals"
-},
-"fra": {
-"content_id": "a184",
-"language": "fra",
-"title": "Sandales"
-},
-"por": {
-"content_id": "a184",
-"language": "por",
-"title": "Sandálias"
-},
-"spa": {
-"content_id": "a184",
-"language": "spa",
-"title": "Sandalias"
-},
-"zhs": {
-"content_id": "a184",
-"language": "zhs",
-"title": "凉鞋"
-}
-}
-},
-"a44": {
-"content_id": "a44",
-"reference_id": 0,
-"index_reference": "जैतून का पेड़",
-"localizations": {
-"eng": {
-"content_id": "a44",
-"language": "eng",
-"title": "Olive Tree"
-},
-"fra": {
-"content_id": "a44",
-"language": "fra",
-"title": "Olivier"
-},
-"por": {
-"content_id": "a44",
-"language": "por",
-"title": "Oliveira"
-},
-"spa": {
-"content_id": "a44",
-"language": "spa",
-"title": "Árbol de olivo"
-},
-"zhs": {
-"content_id": "a44",
-"language": "zhs",
-"title": "橄榄树"
-}
-}
-},
-"a185": {
-"content_id": "a185",
-"reference_id": 0,
-"index_reference": "हँसिया",
-"localizations": {
-"eng": {
-"content_id": "a185",
-"language": "eng",
-"title": "Sickle"
-},
-"fra": {
-"content_id": "a185",
-"language": "fra",
-"title": "Faucille"
-},
-"por": {
-"content_id": "a185",
-"language": "por",
-"title": "Foice"
-},
-"spa": {
-"content_id": "a185",
-"language": "spa",
-"title": "Hoz"
-},
-"zhs": {
-"content_id": "a185",
-"language": "zhs",
-"title": "镰刀"
-}
-}
-},
-"a180": {
-"content_id": "a180",
-"reference_id": 0,
-"index_reference": "थाल",
-"localizations": {
-"eng": {
-"content_id": "a180",
-"language": "eng",
-"title": "Platter"
-},
-"fra": {
-"content_id": "a180",
-"language": "fra",
-"title": "Plat"
-},
-"por": {
-"content_id": "a180",
-"language": "por",
-"title": "Bandeja"
-},
-"spa": {
-"content_id": "a180",
-"language": "spa",
-"title": "Bandeja"
-},
-"zhs": {
-"content_id": "a180",
-"language": "zhs",
-"title": "大托盘"
-}
-}
-},
-"a166": {
-"content_id": "a166",
-"reference_id": 0,
-"index_reference": "लाठी",
-"localizations": {
-"eng": {
-"content_id": "a166",
-"language": "eng",
-"title": "Staff"
-},
-"fra": {
-"content_id": "a166",
-"language": "fra",
-"title": "bâton"
-},
-"por": {
-"content_id": "a166",
-"language": "por",
-"title": "Cajado"
-},
-"spa": {
-"content_id": "a166",
-"language": "spa",
-"title": "Bastón"
-},
-"zhs": {
-"content_id": "a166",
-"language": "zhs",
-"title": "杖"
-}
-}
-},
-"a24": {
-"content_id": "a24",
-"reference_id": 0,
-"index_reference": "फटकने का सूप",
-"localizations": {
-"eng": {
-"content_id": "a24",
-"language": "eng",
-"title": "Winnowing Fork"
-},
-"por": {
-"content_id": "a24",
-"language": "por",
-"title": "Pá de joeirar"
-}
-}
-},
-"a37": {
-"content_id": "a37",
-"reference_id": 0,
-"index_reference": "गतसमनी का बगीचा",
-"localizations": {
-"eng": {
-"content_id": "a37",
-"language": "eng",
-"title": "Garden of Gethsemane"
-},
-"fra": {
-"content_id": "a37",
-"language": "fra",
-"title": "Jardin de Gethsémané"
-},
-"por": {
-"content_id": "a37",
-"language": "por",
-"title": "Jardim do Getsêmani"
-},
-"spa": {
-"content_id": "a37",
-"language": "spa",
-"title": "Jardín de Getsemaní"
-},
-"zhs": {
-"content_id": "a37",
-"language": "zhs",
-"title": "客西马尼园"
-}
-}
-},
-"a41": {
-"content_id": "a41",
-"reference_id": 0,
-"index_reference": "संगमरमर का पात्र",
-"localizations": {
-"eng": {
-"content_id": "a41",
-"language": "eng",
-"title": "Alabaster Jar"
-},
-"fra": {
-"content_id": "a41",
-"language": "fra",
-"title": "Pot en albâtre"
-},
-"por": {
-"content_id": "a41",
-"language": "por",
-"title": "Frasco de alabastro"
-},
-"spa": {
-"content_id": "a41",
-"language": "spa",
-"title": "Jarra de alabastro"
-},
-"zhs": {
-"content_id": "a41",
-"language": "zhs",
-"title": "香膏罐"
-}
-}
-},
-"a25": {
-"content_id": "a25",
-"reference_id": 0,
-"index_reference": "लाठी",
-"localizations": {
-"eng": {
-"content_id": "a25",
-"language": "eng",
-"title": "Club"
-},
-"fra": {
-"content_id": "a25",
-"language": "fra",
-"title": "Club"
-},
-"por": {
-"content_id": "a25",
-"language": "por",
-"title": "Vara"
-},
-"spa": {
-"content_id": "a25",
-"language": "spa",
-"title": "Garrote"
-},
-"zhs": {
-"content_id": "a25",
-"language": "zhs",
-"title": "棍棒"
-}
-}
-},
-"a1381": {
-"content_id": "a1381",
-"reference_id": 0,
-"index_reference": "एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता",
-"localizations": {
-"eng": {
-"content_id": "a1381",
-"language": "eng",
-"title": "Sponge with Wine on a Stick"
-},
-"fra": {
-"content_id": "a1381",
-"language": "fra",
-"title": "Éponge avec du vin sur un bâton"
-},
-"por": {
-"content_id": "a1381",
-"language": "por",
-"title": "Esponja com vinho em uma vara"
-},
-"spa": {
-"content_id": "a1381",
-"language": "spa",
-"title": "Esponja con vino en un palo"
-},
-"zhs": {
-"content_id": "a1381",
-"language": "zhs",
-"title": "绑在棍子上的蘸了醋的海绵"
-}
-}
-},
-"a16": {
-"content_id": "a16",
-"reference_id": 0,
-"index_reference": "खट्टे दाखरस का घड़ा",
-"localizations": {
-"eng": {
-"content_id": "a16",
-"language": "eng",
-"title": "Jar of Sour Wine"
-},
-"fra": {
-"content_id": "a16",
-"language": "fra",
-"title": "Vin"
-},
-"por": {
-"content_id": "a16",
-"language": "por",
-"title": "Vinho"
-},
-"spa": {
-"content_id": "a16",
-"language": "spa",
-"title": "Vino"
-},
-"zhs": {
-"content_id": "a16",
-"language": "zhs",
-"title": "葡萄酒"
-}
-}
-},
-"a29": {
-"content_id": "a29",
-"reference_id": 0,
-"index_reference": "तांबे के सिक्के",
-"localizations": {
-"eng": {
-"content_id": "a29",
-"language": "eng",
-"title": "Copper Coins"
-},
-"fra": {
-"content_id": "a29",
-"language": "fra",
-"title": "Pièces de cuivre"
-},
-"por": {
-"content_id": "a29",
-"language": "por",
-"title": "Moedas de cobre"
-},
-"spa": {
-"content_id": "a29",
-"language": "spa",
-"title": "Monedas de cobre"
-},
-"zhs": {
-"content_id": "a29",
-"language": "zhs",
-"title": "铜币"
-}
-}
-},
-"a35": {
-"content_id": "a35",
-"reference_id": 0,
-"index_reference": "बगीचे की कब्र",
-"localizations": {
-"eng": {
-"content_id": "a35",
-"language": "eng",
-"title": "Garden Tomb"
-},
-"fra": {
-"content_id": "a35",
-"language": "fra",
-"title": "Tombeau de jardin"
-},
-"por": {
-"content_id": "a35",
-"language": "por",
-"title": "Túmulo do jardim"
-},
-"spa": {
-"content_id": "a35",
-"language": "spa",
-"title": "Tumba del jardín"
-},
-"zhs": {
-"content_id": "a35",
-"language": "zhs",
-"title": "花园墓穴"
-}
-}
-},
-"a169": {
-"content_id": "a169",
-"reference_id": 0,
-"index_reference": "बलिदान के पशु",
-"localizations": {
-"eng": {
-"content_id": "a169",
-"language": "eng",
-"title": "Sacrificial Animals"
-},
-"fra": {
-"content_id": "a169",
-"language": "fra",
-"title": "Animaux sacrificiels"
-},
-"por": {
-"content_id": "a169",
-"language": "por",
-"title": "Animais sacrificiais"
-},
-"spa": {
-"content_id": "a169",
-"language": "spa",
-"title": "Paloma"
-},
-"zhs": {
-"content_id": "a169",
-"language": "zhs",
-"title": "鸽子"
-}
-}
-},
-"a39": {
-"content_id": "a39",
-"reference_id": 0,
-"index_reference": "कड़वे सागपात",
-"localizations": {
-"eng": {
-"content_id": "a39",
-"language": "eng",
-"title": "Bitter Herbs"
-},
-"fra": {
-"content_id": "a39",
-"language": "fra",
-"title": "Herbes amères"
-},
-"por": {
-"content_id": "a39",
-"language": "por",
-"title": "Ervas amargas"
-},
-"spa": {
-"content_id": "a39",
-"language": "spa",
-"title": "Hierbas amargas"
-},
-"zhs": {
-"content_id": "a39",
-"language": "zhs",
-"title": "苦菜"
-}
-}
-},
-"a143": {
-"content_id": "a143",
-"reference_id": 0,
-"index_reference": "प्रेसिपिस पर्वत",
-"localizations": {
-"eng": {
-"content_id": "a143",
-"language": "eng",
-"title": "Mount Precipice"
-},
-"por": {
-"content_id": "a143",
-"language": "por",
-"title": "Topo da colina"
-}
-}
-},
-"a125": {
-"content_id": "a125",
-"reference_id": 0,
-"index_reference": "नगर फाटक",
-"localizations": {
-"eng": {
-"content_id": "a125",
-"language": "eng",
-"title": "Town Gate"
-},
-"por": {
-"content_id": "a125",
-"language": "por",
-"title": "Portão da cidade"
-}
-}
-},
-"a182": {
-"content_id": "a182",
-"reference_id": 0,
-"index_reference": "कुल्हाड़ी",
-"localizations": {
-"eng": {
-"content_id": "a182",
-"language": "eng",
-"title": "Axe"
-},
-"fra": {
-"content_id": "a182",
-"language": "fra",
-"title": "Hache"
-},
-"por": {
-"content_id": "a182",
-"language": "por",
-"title": "Machado"
-}
-}
-},
-"a187": {
-"content_id": "a187",
-"reference_id": 0,
-"index_reference": "सरकंडे का पौधा",
-"localizations": {
-"eng": {
-"content_id": "a187",
-"language": "eng",
-"title": "Reed Plant"
-},
-"por": {
-"content_id": "a187",
-"language": "por",
-"title": "Planta de junco"
-}
-}
-},
-"a135": {
-"content_id": "a135",
-"reference_id": 0,
-"index_reference": "कमरबन्द",
-"localizations": {
-"eng": {
-"content_id": "a135",
-"language": "eng",
-"title": "Belt"
-},
-"por": {
-"content_id": "a135",
-"language": "por",
-"title": "Cinto"
-}
-}
-},
-"a129": {
-"content_id": "a129",
-"reference_id": 0,
-"index_reference": "मछली की पंखुड़ी",
-"localizations": {
-"eng": {
-"content_id": "a129",
-"language": "eng",
-"title": "Fish Scales"
-},
-"por": {
-"content_id": "a129",
-"language": "por",
-"title": "Escamas de peixe"
-}
-}
-},
-"a113": {
-"content_id": "a113",
-"reference_id": 0,
-"index_reference": "शोरबा",
-"localizations": {
-"eng": {
-"content_id": "a113",
-"language": "eng",
-"title": "Stew"
-}
-}
-},
-"a139": {
-"content_id": "a139",
-"reference_id": 0,
-"index_reference": "टाट",
-"localizations": {
-"eng": {
-"content_id": "a139",
-"language": "eng",
-"title": "Sackcloth"
-},
-"por": {
-"content_id": "a139",
-"language": "por",
-"title": "Pano de saco"
-}
-}
-},
-"a1355": {
-"content_id": "a1355",
-"reference_id": 0,
-"index_reference": "कमर बाँधे हुआ मनुष्य",
-"localizations": {
-"eng": {
-"content_id": "a1355",
-"language": "eng",
-"title": "Man Who Is Girded Up"
-},
-"por": {
-"content_id": "a1355",
-"language": "por",
-"title": "Homem cingido"
-}
-}
-},
-"a175": {
-"content_id": "a175",
-"reference_id": 0,
-"index_reference": "मोती",
-"localizations": {
-"eng": {
-"content_id": "a175",
-"language": "eng",
-"title": "Pearls"
-},
-"fra": {
-"content_id": "a175",
-"language": "fra",
-"title": "Perles"
-},
-"por": {
-"content_id": "a175",
-"language": "por",
-"title": "Pérolas"
-}
-}
-},
-"a183": {
-"content_id": "a183",
-"reference_id": 0,
-"index_reference": "वयस्क बकरी और मेम्ना",
-"localizations": {
-"eng": {
-"content_id": "a183",
-"language": "eng",
-"title": "Adult and Kid Goat"
-},
-"fra": {
-"content_id": "a183",
-"language": "fra",
-"title": "Animaux sacrificiels"
-},
-"por": {
-"content_id": "a183",
-"language": "por",
-"title": "Animais sacrificiais"
-}
-}
-},
-"a17": {
-"content_id": "a17",
-"reference_id": 0,
-"index_reference": "झांझ",
-"localizations": {
-"eng": {
-"content_id": "a17",
-"language": "eng",
-"title": "Tambourine"
-}
-}
-},
-"a1351": {
-"content_id": "a1351",
-"reference_id": 0,
-"index_reference": "बटुआ",
-"localizations": {
-"eng": {
-"content_id": "a1351",
-"language": "eng",
-"title": "Purse"
-},
-"por": {
-"content_id": "a1351",
-"language": "por",
-"title": "Bolsa"
-}
-}
-},
-"a1352": {
-"content_id": "a1352",
-"reference_id": 0,
-"index_reference": "बकरी की खाल",
-"localizations": {
-"eng": {
-"content_id": "a1352",
-"language": "eng",
-"title": "Goat Skin"
-}
-}
-},
-"a1269": {
-"content_id": "a1269",
-"reference_id": 0,
-"index_reference": "वयस्क गधा",
-"localizations": {
-"eng": {
-"content_id": "a1269",
-"language": "eng",
-"title": "Adult Donkey"
-},
-"por": {
-"content_id": "a1269",
-"language": "por",
-"title": "Jumento adulto"
-}
-}
-},
-"a177": {
-"content_id": "a177",
-"reference_id": 0,
-"index_reference": "राख",
-"localizations": {
-"eng": {
-"content_id": "a177",
-"language": "eng",
-"title": "Ashes"
-}
-}
-},
-"a148": {
-"content_id": "a148",
-"reference_id": 0,
-"index_reference": "यहूदी घर का प्रवेश द्वार",
-"localizations": {
-"eng": {
-"content_id": "a148",
-"language": "eng",
-"title": "Entrance to Jewish House"
-},
-"por": {
-"content_id": "a148",
-"language": "por",
-"title": "Entrada de uma casa judaica"
-}
-}
-},
-"a141": {
-"content_id": "a141",
-"reference_id": 0,
-"index_reference": "गुफा",
-"localizations": {
-"eng": {
-"content_id": "a141",
-"language": "eng",
-"title": "Cave"
-},
-"por": {
-"content_id": "a141",
-"language": "por",
-"title": "Caverna"
-}
-}
-},
-"a1354": {
-"content_id": "a1354",
-"reference_id": 0,
-"index_reference": "यूसुफ का अंगरखा",
-"localizations": {
-"eng": {
-"content_id": "a1354",
-"language": "eng",
-"title": "Joseph's Coat"
-}
-}
-},
-"a1350": {
-"content_id": "a1350",
-"reference_id": 0,
-"index_reference": "महीन मलमल का कपड़ा",
-"localizations": {
-"eng": {
-"content_id": "a1350",
-"language": "eng",
-"title": "Fine Linen Cloth"
-}
-}
-},
-"a1262": {
-"content_id": "a1262",
-"reference_id": 0,
-"index_reference": "बर्फ",
-"localizations": {
-"eng": {
-"content_id": "a1262",
-"language": "eng",
-"title": "Snow"
-},
-"fra": {
-"content_id": "a1262",
-"language": "fra",
-"title": "Neige"
-},
-"por": {
-"content_id": "a1262",
-"language": "por",
-"title": "Neve"
-}
-}
-},
-"a1444": {
-"content_id": "a1444",
-"reference_id": 0,
-"index_reference": "ओले पड़ना",
-"localizations": {
-"eng": {
-"content_id": "a1444",
-"language": "eng",
-"title": "Hail Falling"
-}
-}
-},
-"a1388": {
-"content_id": "a1388",
-"reference_id": 0,
-"index_reference": "मुर्गे की बाँग",
-"localizations": {
-"eng": {
-"content_id": "a1388",
-"language": "eng",
-"title": "Rooster Crowing"
-}
-}
-}
-}
+  "resource_metadata": {
+    "aquifer_type": "Videos",
+    "resource_type": "Images, Maps, Videos",
+    "title": "Familiarization, Internalization, Articulation (FIA) Videos",
+    "aquifer_name": "Videos (Video Bible Dictionary)",
+    "version": "1.1.2",
+    "collection_title": "Videos (Video Bible Dictionary)",
+    "short_name": "VBD",
+    "license_info": {
+      "title": "Video Bible Dictionary",
+      "copyright": {
+        "dates": "2025",
+        "holder": {
+          "name": "Word Collective",
+          "url": "https://wordcollective.com"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+    "resource_code": "VideoBibleDictionary",
+    "date_created": "2026-08-04",
+    "language": "hin",
+    "localizations": [
+      "eng",
+      "fra",
+      "por",
+      "spa",
+      "zhs"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2026-08-04T20:55:14.646559"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "VideoBibleDictionary": {
+            "timestamp": "2026-08-04T20:55:14.646559"
+          }
+        }
+      },
+      "name": {
+        "hi": "Video Bible Dictionary"
+      },
+      "abbreviation": {
+        "hi": "VBD"
+      }
+    },
+    "languages": [
+      {
+        "tag": "hi",
+        "name": {
+          "hi": "Hindi"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/001.content.json": {
+        "mimeType": "text/json",
+        "size": 2160,
+        "scope": {
+          "अ": [
+            "अंगूर के बाग की चौकी मीनार",
+            "अंगूर के बाग के चारों ओर बनी पत्थर की दीवार"
+          ]
+        }
+      },
+      "json/002.content.json": {
+        "mimeType": "text/json",
+        "size": 2989,
+        "scope": {
+          "आ": [
+            "आराधनालय"
+          ]
+        }
+      },
+      "json/003.content.json": {
+        "mimeType": "text/json",
+        "size": 2739,
+        "scope": {
+          "ऊ": [
+            "ऊँट"
+          ]
+        }
+      },
+      "json/004.content.json": {
+        "mimeType": "text/json",
+        "size": 964,
+        "scope": {
+          "ए": [
+            "एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता।"
+          ]
+        }
+      },
+      "json/005.content.json": {
+        "mimeType": "text/json",
+        "size": 789,
+        "scope": {
+          "ओ": [
+            "ओले पड़ना"
+          ]
+        }
+      },
+      "json/006.content.json": {
+        "mimeType": "text/json",
+        "size": 8949,
+        "scope": {
+          "क": [
+            "कड़वे सागपात",
+            "कब्रें",
+            "कमर बाँधे हुआ मनुष्य",
+            "कमरबन्द",
+            "कुर्ता",
+            "कुल्हाड़ी"
+          ]
+        }
+      },
+      "json/007.content.json": {
+        "mimeType": "text/json",
+        "size": 725,
+        "scope": {
+          "ख": [
+            "खट्टे दाखरस का घड़ा"
+          ]
+        }
+      },
+      "json/008.content.json": {
+        "mimeType": "text/json",
+        "size": 9451,
+        "scope": {
+          "ग": [
+            "गतसमनी का बगीचा",
+            "गलील की झील",
+            "गुफा",
+            "गेहूँ कटनी के लिए तैयार है",
+            "गेहूँ की बालियाँ"
+          ]
+        }
+      },
+      "json/009.content.json": {
+        "mimeType": "text/json",
+        "size": 3731,
+        "scope": {
+          "च": [
+            "चक्की का पाट",
+            "चट्टानें",
+            "चरनी",
+            "चार प्रकार की मिट्टियाँ"
+          ]
+        }
+      },
+      "json/010.content.json": {
+        "mimeType": "text/json",
+        "size": 11380,
+        "scope": {
+          "ज": [
+            "जंगल या रेगिस्तान",
+            "जूते",
+            "जैतून और खजूर के पेड़ की डालियाँ",
+            "जैतून का पहाड़",
+            "जैतून का पेड़"
+          ]
+        }
+      },
+      "json/011.content.json": {
+        "mimeType": "text/json",
+        "size": 1423,
+        "scope": {
+          "झ": [
+            "झांझ"
+          ]
+        }
+      },
+      "json/012.content.json": {
+        "mimeType": "text/json",
+        "size": 2384,
+        "scope": {
+          "ट": [
+            "टाट",
+            "टोकरी पैमाने के रूप में"
+          ]
+        }
+      },
+      "json/013.content.json": {
+        "mimeType": "text/json",
+        "size": 3604,
+        "scope": {
+          "त": [
+            "तांबे के सिक्के",
+            "तेल का दीपक"
+          ]
+        }
+      },
+      "json/014.content.json": {
+        "mimeType": "text/json",
+        "size": 643,
+        "scope": {
+          "थ": [
+            "थाल"
+          ]
+        }
+      },
+      "json/015.content.json": {
+        "mimeType": "text/json",
+        "size": 1624,
+        "scope": {
+          "द": [
+            "दीवट",
+            "दीवार के साथ कोने का पत्थर"
+          ]
+        }
+      },
+      "json/016.content.json": {
+        "mimeType": "text/json",
+        "size": 1132,
+        "scope": {
+          "प": [
+            "पकाई हुई मछली"
+          ]
+        }
+      },
+      "json/017.content.json": {
+        "mimeType": "text/json",
+        "size": 712,
+        "scope": {
+          "पर": [
+            "प्रेसिपिस पर्वत"
+          ]
+        }
+      },
+      "json/018.content.json": {
+        "mimeType": "text/json",
+        "size": 1013,
+        "scope": {
+          "फ": [
+            "फटकने का सूप"
+          ]
+        }
+      },
+      "json/019.content.json": {
+        "mimeType": "text/json",
+        "size": 4269,
+        "scope": {
+          "ब": [
+            "बकरी की खाल",
+            "बगीचे की कब्र",
+            "बटुआ",
+            "बर्फ",
+            "बलिदान के पशु"
+          ]
+        }
+      },
+      "json/020.content.json": {
+        "mimeType": "text/json",
+        "size": 8491,
+        "scope": {
+          "म": [
+            "मछली की पंखुड़ी",
+            "मछली पकड़ने का जाल",
+            "मशक",
+            "महीन मलमल का कपड़ा",
+            "मिस्र का वस्त्र",
+            "मुर्गे की बाँग",
+            "मोती"
+          ]
+        }
+      },
+      "json/021.content.json": {
+        "mimeType": "text/json",
+        "size": 5628,
+        "scope": {
+          "य": [
+            "यरदन नदी",
+            "यहूदी घर का प्रवेश द्वार",
+            "यात्री का झोला",
+            "यीशु के समय के घर",
+            "यूसुफ का अंगरखा"
+          ]
+        }
+      },
+      "json/022.content.json": {
+        "mimeType": "text/json",
+        "size": 751,
+        "scope": {
+          "र": [
+            "राख"
+          ]
+        }
+      },
+      "json/023.content.json": {
+        "mimeType": "text/json",
+        "size": 3539,
+        "scope": {
+          "ल": [
+            "लाठी",
+            "लाठी",
+            "लेखन पट्टिका"
+          ]
+        }
+      },
+      "json/024.content.json": {
+        "mimeType": "text/json",
+        "size": 5290,
+        "scope": {
+          "व": [
+            "वयस्क गधा",
+            "वयस्क बकरी और मेम्ना"
+          ]
+        }
+      },
+      "json/025.content.json": {
+        "mimeType": "text/json",
+        "size": 657,
+        "scope": {
+          "श": [
+            "शोरबा"
+          ]
+        }
+      },
+      "json/026.content.json": {
+        "mimeType": "text/json",
+        "size": 5373,
+        "scope": {
+          "स": [
+            "संगमरमर का पात्र",
+            "सरकंडे का पौधा",
+            "सामान रखने की टोकरी",
+            "सिक्के",
+            "सोने के लिए चटाई"
+          ]
+        }
+      },
+      "json/027.content.json": {
+        "mimeType": "text/json",
+        "size": 881,
+        "scope": {
+          "ह": [
+            "हँसिया"
+          ]
+        }
+      },
+      "md/008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3765
+      },
+      "md/009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2009
+      },
+      "md/003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1368
+      },
+      "md/004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 918
+      },
+      "md/011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 994
+      },
+      "md/016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 896
+      },
+      "md/020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3812
+      },
+      "md/027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 862
+      },
+      "md/017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 810
+      },
+      "md/010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4335
+      },
+      "md/005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 835
+      },
+      "md/002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1447
+      },
+      "md/026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2654
+      },
+      "md/021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2800
+      },
+      "md/012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1387
+      },
+      "md/015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1197
+      },
+      "md/007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 823
+      },
+      "md/023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1843
+      },
+      "md/024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2232
+      },
+      "md/006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3804
+      },
+      "md/001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1377
+      },
+      "md/014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 778
+      },
+      "md/013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1735
+      },
+      "md/025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 794
+      },
+      "md/022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 810
+      },
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2323
+      },
+      "md/018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 884
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Video Bible Dictionary © 2025 Word Collective.</p>",
+          "mimetype": "text/html",
+          "lang": "hi"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "a30": {
+      "content_id": "a30",
+      "reference_id": 0,
+      "index_reference": "टोकरी पैमाने के रूप में",
+      "localizations": {
+        "eng": {
+          "content_id": "a30",
+          "language": "eng",
+          "title": "Basket as a Bushel"
+        },
+        "fra": {
+          "content_id": "a30",
+          "language": "fra",
+          "title": "Panier en tant boisseau"
+        },
+        "por": {
+          "content_id": "a30",
+          "language": "por",
+          "title": "Cesta como alqueire"
+        },
+        "spa": {
+          "content_id": "a30",
+          "language": "spa",
+          "title": "Cesta como celemín"
+        },
+        "zhs": {
+          "content_id": "a30",
+          "language": "zhs",
+          "title": "当作量斗的篮子。"
+        }
+      }
+    },
+    "a1253": {
+      "content_id": "a1253",
+      "reference_id": 0,
+      "index_reference": "सामान रखने की टोकरी",
+      "localizations": {
+        "eng": {
+          "content_id": "a1253",
+          "language": "eng",
+          "title": "Basket for Provisions"
+        },
+        "fra": {
+          "content_id": "a1253",
+          "language": "fra",
+          "title": "Panier de provisions"
+        },
+        "por": {
+          "content_id": "a1253",
+          "language": "por",
+          "title": "Cesta de mantimentos"
+        },
+        "spa": {
+          "content_id": "a1253",
+          "language": "spa",
+          "title": "Cesta para provisiones"
+        },
+        "zhs": {
+          "content_id": "a1253",
+          "language": "zhs",
+          "title": "粮篮"
+        }
+      }
+    },
+    "a9": {
+      "content_id": "a9",
+      "reference_id": 0,
+      "index_reference": "ऊँट",
+      "localizations": {
+        "eng": {
+          "content_id": "a9",
+          "language": "eng",
+          "title": "Camel"
+        },
+        "fra": {
+          "content_id": "a9",
+          "language": "fra",
+          "title": "Chameau"
+        },
+        "por": {
+          "content_id": "a9",
+          "language": "por",
+          "title": "Camelo"
+        },
+        "spa": {
+          "content_id": "a9",
+          "language": "spa",
+          "title": "Camello"
+        },
+        "zhs": {
+          "content_id": "a9",
+          "language": "zhs",
+          "title": "骆驼"
+        }
+      }
+    },
+    "a12": {
+      "content_id": "a12",
+      "reference_id": 0,
+      "index_reference": "चट्टानें",
+      "localizations": {
+        "eng": {
+          "content_id": "a12",
+          "language": "eng",
+          "title": "Cliffs"
+        },
+        "fra": {
+          "content_id": "a12",
+          "language": "fra",
+          "title": "Falaises"
+        },
+        "por": {
+          "content_id": "a12",
+          "language": "por",
+          "title": "Penhascos"
+        },
+        "spa": {
+          "content_id": "a12",
+          "language": "spa",
+          "title": "Acantilados"
+        },
+        "zhs": {
+          "content_id": "a12",
+          "language": "zhs",
+          "title": "悬崖"
+        }
+      }
+    },
+    "a133": {
+      "content_id": "a133",
+      "reference_id": 0,
+      "index_reference": "मिस्र का वस्त्र",
+      "localizations": {
+        "eng": {
+          "content_id": "a133",
+          "language": "eng",
+          "title": "Egyptian Cloak"
+        },
+        "fra": {
+          "content_id": "a133",
+          "language": "fra",
+          "title": "Manteau"
+        },
+        "por": {
+          "content_id": "a133",
+          "language": "por",
+          "title": "Capa"
+        },
+        "spa": {
+          "content_id": "a133",
+          "language": "spa",
+          "title": "Manto"
+        },
+        "zhs": {
+          "content_id": "a133",
+          "language": "zhs",
+          "title": "外袍"
+        }
+      }
+    },
+    "a28": {
+      "content_id": "a28",
+      "reference_id": 0,
+      "index_reference": "सिक्के",
+      "localizations": {
+        "eng": {
+          "content_id": "a28",
+          "language": "eng",
+          "title": "Coins"
+        },
+        "fra": {
+          "content_id": "a28",
+          "language": "fra",
+          "title": "Pièces"
+        },
+        "por": {
+          "content_id": "a28",
+          "language": "por",
+          "title": "Moedas"
+        },
+        "spa": {
+          "content_id": "a28",
+          "language": "spa",
+          "title": "Monedas"
+        },
+        "zhs": {
+          "content_id": "a28",
+          "language": "zhs",
+          "title": "硬币"
+        }
+      }
+    },
+    "a181": {
+      "content_id": "a181",
+      "reference_id": 0,
+      "index_reference": "दीवार के साथ कोने का पत्थर",
+      "localizations": {
+        "eng": {
+          "content_id": "a181",
+          "language": "eng",
+          "title": "Cornerstone with a Wall"
+        },
+        "fra": {
+          "content_id": "a181",
+          "language": "fra",
+          "title": "Pierre d'angle"
+        },
+        "por": {
+          "content_id": "a181",
+          "language": "por",
+          "title": "Pedra angular"
+        },
+        "spa": {
+          "content_id": "a181",
+          "language": "spa",
+          "title": "Piedra angular"
+        },
+        "zhs": {
+          "content_id": "a181",
+          "language": "zhs",
+          "title": "基石"
+        }
+      }
+    },
+    "a43": {
+      "content_id": "a43",
+      "reference_id": 0,
+      "index_reference": "पकाई हुई मछली",
+      "localizations": {
+        "eng": {
+          "content_id": "a43",
+          "language": "eng",
+          "title": "Cooked Fish"
+        },
+        "fra": {
+          "content_id": "a43",
+          "language": "fra",
+          "title": "Poisson cuit"
+        },
+        "por": {
+          "content_id": "a43",
+          "language": "por",
+          "title": "Peixe cozido"
+        },
+        "spa": {
+          "content_id": "a43",
+          "language": "spa",
+          "title": "Pescado cocido"
+        },
+        "zhs": {
+          "content_id": "a43",
+          "language": "zhs",
+          "title": "熟鱼"
+        }
+      }
+    },
+    "a19": {
+      "content_id": "a19",
+      "reference_id": 0,
+      "index_reference": "मछली पकड़ने का जाल",
+      "localizations": {
+        "eng": {
+          "content_id": "a19",
+          "language": "eng",
+          "title": "Fishing Net"
+        },
+        "fra": {
+          "content_id": "a19",
+          "language": "fra",
+          "title": "Filet de pêche"
+        },
+        "por": {
+          "content_id": "a19",
+          "language": "por",
+          "title": "Rede de pesca"
+        },
+        "spa": {
+          "content_id": "a19",
+          "language": "spa",
+          "title": "Red de pesca"
+        },
+        "zhs": {
+          "content_id": "a19",
+          "language": "zhs",
+          "title": "渔网"
+        }
+      }
+    },
+    "a145": {
+      "content_id": "a145",
+      "reference_id": 0,
+      "index_reference": "यीशु के समय के घर",
+      "localizations": {
+        "eng": {
+          "content_id": "a145",
+          "language": "eng",
+          "title": "House in the Time of Jesus"
+        },
+        "fra": {
+          "content_id": "a145",
+          "language": "fra",
+          "title": "Maison à l'époque de Jésus"
+        },
+        "por": {
+          "content_id": "a145",
+          "language": "por",
+          "title": "Casa no tempo de Jesus"
+        },
+        "spa": {
+          "content_id": "a145",
+          "language": "spa",
+          "title": "Casa en el tiempo de Jesús"
+        },
+        "zhs": {
+          "content_id": "a145",
+          "language": "zhs",
+          "title": "耶稣时代的房屋"
+        }
+      }
+    },
+    "a13": {
+      "content_id": "a13",
+      "reference_id": 0,
+      "index_reference": "यरदन नदी",
+      "localizations": {
+        "eng": {
+          "content_id": "a13",
+          "language": "eng",
+          "title": "Jordan River"
+        },
+        "fra": {
+          "content_id": "a13",
+          "language": "fra",
+          "title": "fleuve Jourdain"
+        },
+        "por": {
+          "content_id": "a13",
+          "language": "por",
+          "title": "Rio Jordão"
+        },
+        "spa": {
+          "content_id": "a13",
+          "language": "spa",
+          "title": "Río Jordán"
+        },
+        "zhs": {
+          "content_id": "a13",
+          "language": "zhs",
+          "title": "约旦河"
+        }
+      }
+    },
+    "a21": {
+      "content_id": "a21",
+      "reference_id": 0,
+      "index_reference": "दीवट",
+      "localizations": {
+        "eng": {
+          "content_id": "a21",
+          "language": "eng",
+          "title": "Lampstand"
+        },
+        "fra": {
+          "content_id": "a21",
+          "language": "fra",
+          "title": "chandelier"
+        },
+        "por": {
+          "content_id": "a21",
+          "language": "por",
+          "title": "Suporte de candeeiro"
+        },
+        "spa": {
+          "content_id": "a21",
+          "language": "spa",
+          "title": "Candelero"
+        },
+        "zhs": {
+          "content_id": "a21",
+          "language": "zhs",
+          "title": "灯台"
+        }
+      }
+    },
+    "a33": {
+      "content_id": "a33",
+      "reference_id": 0,
+      "index_reference": "चरनी",
+      "localizations": {
+        "eng": {
+          "content_id": "a33",
+          "language": "eng",
+          "title": "Manger"
+        },
+        "por": {
+          "content_id": "a33",
+          "language": "por",
+          "title": "Manjedoura"
+        }
+      }
+    },
+    "a32": {
+      "content_id": "a32",
+      "reference_id": 0,
+      "index_reference": "चक्की का पाट",
+      "localizations": {
+        "eng": {
+          "content_id": "a32",
+          "language": "eng",
+          "title": "Millstone"
+        },
+        "fra": {
+          "content_id": "a32",
+          "language": "fra",
+          "title": "Pierre à moudre"
+        },
+        "por": {
+          "content_id": "a32",
+          "language": "por",
+          "title": "Mó de moinho"
+        },
+        "spa": {
+          "content_id": "a32",
+          "language": "spa",
+          "title": "Piedra de molino"
+        },
+        "zhs": {
+          "content_id": "a32",
+          "language": "zhs",
+          "title": "磨石"
+        }
+      }
+    },
+    "a40": {
+      "content_id": "a40",
+      "reference_id": 0,
+      "index_reference": "जैतून का पहाड़",
+      "localizations": {
+        "eng": {
+          "content_id": "a40",
+          "language": "eng",
+          "title": "Mount of Olives"
+        },
+        "fra": {
+          "content_id": "a40",
+          "language": "fra",
+          "title": "Mont des Oliviers"
+        },
+        "por": {
+          "content_id": "a40",
+          "language": "por",
+          "title": "Monte das Oliveiras"
+        },
+        "spa": {
+          "content_id": "a40",
+          "language": "spa",
+          "title": "Monte de los Olivos"
+        },
+        "zhs": {
+          "content_id": "a40",
+          "language": "zhs",
+          "title": "橄榄山"
+        }
+      }
+    },
+    "a22": {
+      "content_id": "a22",
+      "reference_id": 0,
+      "index_reference": "तेल का दीपक",
+      "localizations": {
+        "eng": {
+          "content_id": "a22",
+          "language": "eng",
+          "title": "Oil Lamp"
+        },
+        "fra": {
+          "content_id": "a22",
+          "language": "fra",
+          "title": "Lampe à huile"
+        },
+        "por": {
+          "content_id": "a22",
+          "language": "por",
+          "title": "Lamparina"
+        },
+        "spa": {
+          "content_id": "a22",
+          "language": "spa",
+          "title": "Lámpara de aceite"
+        },
+        "zhs": {
+          "content_id": "a22",
+          "language": "zhs",
+          "title": "油灯"
+        }
+      }
+    },
+    "a5": {
+      "content_id": "a5",
+      "reference_id": 0,
+      "index_reference": "जैतून और खजूर के पेड़ की डालियाँ",
+      "localizations": {
+        "eng": {
+          "content_id": "a5",
+          "language": "eng",
+          "title": "Olive and Palm Branches"
+        },
+        "fra": {
+          "content_id": "a5",
+          "language": "fra",
+          "title": "Branches d'olivier et de palmier"
+        },
+        "por": {
+          "content_id": "a5",
+          "language": "por",
+          "title": "Ramos de oliveira e palmeira"
+        },
+        "spa": {
+          "content_id": "a5",
+          "language": "spa",
+          "title": "Ramas de olivo y de palma"
+        },
+        "zhs": {
+          "content_id": "a5",
+          "language": "zhs",
+          "title": "橄榄树和棕榈树枝"
+        }
+      }
+    },
+    "a31": {
+      "content_id": "a31",
+      "reference_id": 0,
+      "index_reference": "सोने के लिए चटाई",
+      "localizations": {
+        "eng": {
+          "content_id": "a31",
+          "language": "eng",
+          "title": "Sleeping Mat"
+        },
+        "fra": {
+          "content_id": "a31",
+          "language": "fra",
+          "title": "Tapis de couchage"
+        },
+        "por": {
+          "content_id": "a31",
+          "language": "por",
+          "title": "Esteira de dormir"
+        },
+        "spa": {
+          "content_id": "a31",
+          "language": "spa",
+          "title": "Esterilla para dormir"
+        },
+        "zhs": {
+          "content_id": "a31",
+          "language": "zhs",
+          "title": "睡垫"
+        }
+      }
+    },
+    "a3": {
+      "content_id": "a3",
+      "reference_id": 0,
+      "index_reference": "चार प्रकार की मिट्टियाँ",
+      "localizations": {
+        "eng": {
+          "content_id": "a3",
+          "language": "eng",
+          "title": "Four Soils"
+        },
+        "fra": {
+          "content_id": "a3",
+          "language": "fra",
+          "title": "Quatre sol"
+        },
+        "por": {
+          "content_id": "a3",
+          "language": "por",
+          "title": "Quatro solos"
+        },
+        "spa": {
+          "content_id": "a3",
+          "language": "spa",
+          "title": "Cuatro suelos"
+        },
+        "zhs": {
+          "content_id": "a3",
+          "language": "zhs",
+          "title": "四种土地"
+        }
+      }
+    },
+    "a34": {
+      "content_id": "a34",
+      "reference_id": 0,
+      "index_reference": "अंगूर के बाग के चारों ओर बनी पत्थर की दीवार",
+      "localizations": {
+        "eng": {
+          "content_id": "a34",
+          "language": "eng",
+          "title": "Stone Wall Around a Vineyard"
+        },
+        "fra": {
+          "content_id": "a34",
+          "language": "fra",
+          "title": "Mur de pierre autour d'une vigne"
+        },
+        "por": {
+          "content_id": "a34",
+          "language": "por",
+          "title": "Muro de pedras ao redor de uma vinha"
+        },
+        "spa": {
+          "content_id": "a34",
+          "language": "spa",
+          "title": "Muro de piedra alrededor de un viñedo"
+        },
+        "zhs": {
+          "content_id": "a34",
+          "language": "zhs",
+          "title": "葡萄园周围的石墙"
+        }
+      }
+    },
+    "a186": {
+      "content_id": "a186",
+      "reference_id": 0,
+      "index_reference": "आराधनालय",
+      "localizations": {
+        "eng": {
+          "content_id": "a186",
+          "language": "eng",
+          "title": "Synagogue"
+        },
+        "fra": {
+          "content_id": "a186",
+          "language": "fra",
+          "title": "synagogue"
+        },
+        "por": {
+          "content_id": "a186",
+          "language": "por",
+          "title": "Sinagoga"
+        },
+        "spa": {
+          "content_id": "a186",
+          "language": "spa",
+          "title": "Sinagoga"
+        },
+        "zhs": {
+          "content_id": "a186",
+          "language": "zhs",
+          "title": "犹太会堂"
+        }
+      }
+    },
+    "a8": {
+      "content_id": "a8",
+      "reference_id": 0,
+      "index_reference": "कब्रें",
+      "localizations": {
+        "eng": {
+          "content_id": "a8",
+          "language": "eng",
+          "title": "Tombs"
+        },
+        "fra": {
+          "content_id": "a8",
+          "language": "fra",
+          "title": "Tombeaux"
+        },
+        "por": {
+          "content_id": "a8",
+          "language": "por",
+          "title": "Túmulos"
+        },
+        "spa": {
+          "content_id": "a8",
+          "language": "spa",
+          "title": "Tumbas"
+        },
+        "zhs": {
+          "content_id": "a8",
+          "language": "zhs",
+          "title": "坟墓"
+        }
+      }
+    },
+    "a23": {
+      "content_id": "a23",
+      "reference_id": 0,
+      "index_reference": "यात्री का झोला",
+      "localizations": {
+        "eng": {
+          "content_id": "a23",
+          "language": "eng",
+          "title": "Traveler's Bag"
+        },
+        "fra": {
+          "content_id": "a23",
+          "language": "fra",
+          "title": "Sac de voyageur"
+        },
+        "por": {
+          "content_id": "a23",
+          "language": "por",
+          "title": "Bolsa de viajante"
+        },
+        "spa": {
+          "content_id": "a23",
+          "language": "spa",
+          "title": "Bolsa de viajero"
+        },
+        "zhs": {
+          "content_id": "a23",
+          "language": "zhs",
+          "title": "行囊"
+        }
+      }
+    },
+    "a4": {
+      "content_id": "a4",
+      "reference_id": 0,
+      "index_reference": "कुर्ता",
+      "localizations": {
+        "eng": {
+          "content_id": "a4",
+          "language": "eng",
+          "title": "Tunic"
+        },
+        "fra": {
+          "content_id": "a4",
+          "language": "fra",
+          "title": "Tunique"
+        },
+        "por": {
+          "content_id": "a4",
+          "language": "por",
+          "title": "Túnica"
+        },
+        "spa": {
+          "content_id": "a4",
+          "language": "spa",
+          "title": "Túnica"
+        },
+        "zhs": {
+          "content_id": "a4",
+          "language": "zhs",
+          "title": "长袍/里衣"
+        }
+      }
+    },
+    "a36": {
+      "content_id": "a36",
+      "reference_id": 0,
+      "index_reference": "अंगूर के बाग की चौकी मीनार",
+      "localizations": {
+        "eng": {
+          "content_id": "a36",
+          "language": "eng",
+          "title": "Watchtower for a Vineyard"
+        },
+        "fra": {
+          "content_id": "a36",
+          "language": "fra",
+          "title": "Tour de guet d'une vigne"
+        },
+        "por": {
+          "content_id": "a36",
+          "language": "por",
+          "title": "Torre de vigia para uma vinha"
+        },
+        "spa": {
+          "content_id": "a36",
+          "language": "spa",
+          "title": "Torre de vigilancia para un viñedo"
+        },
+        "zhs": {
+          "content_id": "a36",
+          "language": "zhs",
+          "title": "葡萄园的守望台"
+        }
+      }
+    },
+    "a1": {
+      "content_id": "a1",
+      "reference_id": 0,
+      "index_reference": "गेहूँ कटनी के लिए तैयार है",
+      "localizations": {
+        "eng": {
+          "content_id": "a1",
+          "language": "eng",
+          "title": "Wheat Ready For Harvest"
+        },
+        "fra": {
+          "content_id": "a1",
+          "language": "fra",
+          "title": "Blé Prêt Pour La Récolte"
+        },
+        "por": {
+          "content_id": "a1",
+          "language": "por",
+          "title": "Trigo pronto para a colheita"
+        },
+        "spa": {
+          "content_id": "a1",
+          "language": "spa",
+          "title": "Trigo listo para la cosecha"
+        },
+        "zhs": {
+          "content_id": "a1",
+          "language": "zhs",
+          "title": "熟透待收的麦子"
+        }
+      }
+    },
+    "a2": {
+      "content_id": "a2",
+      "reference_id": 0,
+      "index_reference": "गेहूँ की बालियाँ",
+      "localizations": {
+        "eng": {
+          "content_id": "a2",
+          "language": "eng",
+          "title": "Wheat with Heads of Grain"
+        },
+        "fra": {
+          "content_id": "a2",
+          "language": "fra",
+          "title": "Blé avec des têtes de grain"
+        },
+        "por": {
+          "content_id": "a2",
+          "language": "por",
+          "title": "Trigo com espigas"
+        },
+        "spa": {
+          "content_id": "a2",
+          "language": "spa",
+          "title": "Trigo con espigas"
+        },
+        "zhs": {
+          "content_id": "a2",
+          "language": "zhs",
+          "title": "结穗的麦子"
+        }
+      }
+    },
+    "a10": {
+      "content_id": "a10",
+      "reference_id": 0,
+      "index_reference": "जंगल या रेगिस्तान",
+      "localizations": {
+        "eng": {
+          "content_id": "a10",
+          "language": "eng",
+          "title": "Wilderness or Desert"
+        },
+        "fra": {
+          "content_id": "a10",
+          "language": "fra",
+          "title": "Désert ou désert"
+        },
+        "por": {
+          "content_id": "a10",
+          "language": "por",
+          "title": "Ermo ou deserto"
+        },
+        "spa": {
+          "content_id": "a10",
+          "language": "spa",
+          "title": "Desierto"
+        },
+        "zhs": {
+          "content_id": "a10",
+          "language": "zhs",
+          "title": "旷野或沙漠"
+        }
+      }
+    },
+    "a6": {
+      "content_id": "a6",
+      "reference_id": 0,
+      "index_reference": "मशक",
+      "localizations": {
+        "eng": {
+          "content_id": "a6",
+          "language": "eng",
+          "title": "Wineskins"
+        },
+        "fra": {
+          "content_id": "a6",
+          "language": "fra",
+          "title": "outre"
+        },
+        "por": {
+          "content_id": "a6",
+          "language": "por",
+          "title": "Odres"
+        },
+        "spa": {
+          "content_id": "a6",
+          "language": "spa",
+          "title": "Odre"
+        },
+        "zhs": {
+          "content_id": "a6",
+          "language": "zhs",
+          "title": "皮酒袋"
+        }
+      }
+    },
+    "a118": {
+      "content_id": "a118",
+      "reference_id": 0,
+      "index_reference": "लेखन पट्टिका",
+      "localizations": {
+        "eng": {
+          "content_id": "a118",
+          "language": "eng",
+          "title": "Writing Tablet"
+        },
+        "por": {
+          "content_id": "a118",
+          "language": "por",
+          "title": "Tabuinha"
+        }
+      }
+    },
+    "a11": {
+      "content_id": "a11",
+      "reference_id": 0,
+      "index_reference": "गलील की झील",
+      "localizations": {
+        "eng": {
+          "content_id": "a11",
+          "language": "eng",
+          "title": "Sea of Galilee"
+        },
+        "fra": {
+          "content_id": "a11",
+          "language": "fra",
+          "title": "Mer de Galilée"
+        },
+        "por": {
+          "content_id": "a11",
+          "language": "por",
+          "title": "Mar da Galileia"
+        },
+        "spa": {
+          "content_id": "a11",
+          "language": "spa",
+          "title": "Mar de Galilea"
+        },
+        "zhs": {
+          "content_id": "a11",
+          "language": "zhs",
+          "title": "加利利海"
+        }
+      }
+    },
+    "a184": {
+      "content_id": "a184",
+      "reference_id": 0,
+      "index_reference": "जूते",
+      "localizations": {
+        "eng": {
+          "content_id": "a184",
+          "language": "eng",
+          "title": "Sandals"
+        },
+        "fra": {
+          "content_id": "a184",
+          "language": "fra",
+          "title": "Sandales"
+        },
+        "por": {
+          "content_id": "a184",
+          "language": "por",
+          "title": "Sandálias"
+        },
+        "spa": {
+          "content_id": "a184",
+          "language": "spa",
+          "title": "Sandalias"
+        },
+        "zhs": {
+          "content_id": "a184",
+          "language": "zhs",
+          "title": "凉鞋"
+        }
+      }
+    },
+    "a44": {
+      "content_id": "a44",
+      "reference_id": 0,
+      "index_reference": "जैतून का पेड़",
+      "localizations": {
+        "eng": {
+          "content_id": "a44",
+          "language": "eng",
+          "title": "Olive Tree"
+        },
+        "fra": {
+          "content_id": "a44",
+          "language": "fra",
+          "title": "Olivier"
+        },
+        "por": {
+          "content_id": "a44",
+          "language": "por",
+          "title": "Oliveira"
+        },
+        "spa": {
+          "content_id": "a44",
+          "language": "spa",
+          "title": "Árbol de olivo"
+        },
+        "zhs": {
+          "content_id": "a44",
+          "language": "zhs",
+          "title": "橄榄树"
+        }
+      }
+    },
+    "a185": {
+      "content_id": "a185",
+      "reference_id": 0,
+      "index_reference": "हँसिया",
+      "localizations": {
+        "eng": {
+          "content_id": "a185",
+          "language": "eng",
+          "title": "Sickle"
+        },
+        "fra": {
+          "content_id": "a185",
+          "language": "fra",
+          "title": "Faucille"
+        },
+        "por": {
+          "content_id": "a185",
+          "language": "por",
+          "title": "Foice"
+        },
+        "spa": {
+          "content_id": "a185",
+          "language": "spa",
+          "title": "Hoz"
+        },
+        "zhs": {
+          "content_id": "a185",
+          "language": "zhs",
+          "title": "镰刀"
+        }
+      }
+    },
+    "a180": {
+      "content_id": "a180",
+      "reference_id": 0,
+      "index_reference": "थाल",
+      "localizations": {
+        "eng": {
+          "content_id": "a180",
+          "language": "eng",
+          "title": "Platter"
+        },
+        "fra": {
+          "content_id": "a180",
+          "language": "fra",
+          "title": "Plat"
+        },
+        "por": {
+          "content_id": "a180",
+          "language": "por",
+          "title": "Bandeja"
+        },
+        "spa": {
+          "content_id": "a180",
+          "language": "spa",
+          "title": "Bandeja"
+        },
+        "zhs": {
+          "content_id": "a180",
+          "language": "zhs",
+          "title": "大托盘"
+        }
+      }
+    },
+    "a166": {
+      "content_id": "a166",
+      "reference_id": 0,
+      "index_reference": "लाठी",
+      "localizations": {
+        "eng": {
+          "content_id": "a166",
+          "language": "eng",
+          "title": "Staff"
+        },
+        "fra": {
+          "content_id": "a166",
+          "language": "fra",
+          "title": "bâton"
+        },
+        "por": {
+          "content_id": "a166",
+          "language": "por",
+          "title": "Cajado"
+        },
+        "spa": {
+          "content_id": "a166",
+          "language": "spa",
+          "title": "Bastón"
+        },
+        "zhs": {
+          "content_id": "a166",
+          "language": "zhs",
+          "title": "杖"
+        }
+      }
+    },
+    "a24": {
+      "content_id": "a24",
+      "reference_id": 0,
+      "index_reference": "फटकने का सूप",
+      "localizations": {
+        "eng": {
+          "content_id": "a24",
+          "language": "eng",
+          "title": "Winnowing Fork"
+        },
+        "por": {
+          "content_id": "a24",
+          "language": "por",
+          "title": "Pá de joeirar"
+        }
+      }
+    },
+    "a37": {
+      "content_id": "a37",
+      "reference_id": 0,
+      "index_reference": "गतसमनी का बगीचा",
+      "localizations": {
+        "eng": {
+          "content_id": "a37",
+          "language": "eng",
+          "title": "Garden of Gethsemane"
+        },
+        "fra": {
+          "content_id": "a37",
+          "language": "fra",
+          "title": "Jardin de Gethsémané"
+        },
+        "por": {
+          "content_id": "a37",
+          "language": "por",
+          "title": "Jardim do Getsêmani"
+        },
+        "spa": {
+          "content_id": "a37",
+          "language": "spa",
+          "title": "Jardín de Getsemaní"
+        },
+        "zhs": {
+          "content_id": "a37",
+          "language": "zhs",
+          "title": "客西马尼园"
+        }
+      }
+    },
+    "a41": {
+      "content_id": "a41",
+      "reference_id": 0,
+      "index_reference": "संगमरमर का पात्र",
+      "localizations": {
+        "eng": {
+          "content_id": "a41",
+          "language": "eng",
+          "title": "Alabaster Jar"
+        },
+        "fra": {
+          "content_id": "a41",
+          "language": "fra",
+          "title": "Pot en albâtre"
+        },
+        "por": {
+          "content_id": "a41",
+          "language": "por",
+          "title": "Frasco de alabastro"
+        },
+        "spa": {
+          "content_id": "a41",
+          "language": "spa",
+          "title": "Jarra de alabastro"
+        },
+        "zhs": {
+          "content_id": "a41",
+          "language": "zhs",
+          "title": "香膏罐"
+        }
+      }
+    },
+    "a25": {
+      "content_id": "a25",
+      "reference_id": 0,
+      "index_reference": "लाठी",
+      "localizations": {
+        "eng": {
+          "content_id": "a25",
+          "language": "eng",
+          "title": "Club"
+        },
+        "fra": {
+          "content_id": "a25",
+          "language": "fra",
+          "title": "Club"
+        },
+        "por": {
+          "content_id": "a25",
+          "language": "por",
+          "title": "Vara"
+        },
+        "spa": {
+          "content_id": "a25",
+          "language": "spa",
+          "title": "Garrote"
+        },
+        "zhs": {
+          "content_id": "a25",
+          "language": "zhs",
+          "title": "棍棒"
+        }
+      }
+    },
+    "a1381": {
+      "content_id": "a1381",
+      "reference_id": 0,
+      "index_reference": "एक डंडी पर दाखरस में भिगोया हुआ पनसोख्‍ता",
+      "localizations": {
+        "eng": {
+          "content_id": "a1381",
+          "language": "eng",
+          "title": "Sponge with Wine on a Stick"
+        },
+        "fra": {
+          "content_id": "a1381",
+          "language": "fra",
+          "title": "Éponge avec du vin sur un bâton"
+        },
+        "por": {
+          "content_id": "a1381",
+          "language": "por",
+          "title": "Esponja com vinho em uma vara"
+        },
+        "spa": {
+          "content_id": "a1381",
+          "language": "spa",
+          "title": "Esponja con vino en un palo"
+        },
+        "zhs": {
+          "content_id": "a1381",
+          "language": "zhs",
+          "title": "绑在棍子上的蘸了醋的海绵"
+        }
+      }
+    },
+    "a16": {
+      "content_id": "a16",
+      "reference_id": 0,
+      "index_reference": "खट्टे दाखरस का घड़ा",
+      "localizations": {
+        "eng": {
+          "content_id": "a16",
+          "language": "eng",
+          "title": "Jar of Sour Wine"
+        },
+        "fra": {
+          "content_id": "a16",
+          "language": "fra",
+          "title": "Vin"
+        },
+        "por": {
+          "content_id": "a16",
+          "language": "por",
+          "title": "Vinho"
+        },
+        "spa": {
+          "content_id": "a16",
+          "language": "spa",
+          "title": "Vino"
+        },
+        "zhs": {
+          "content_id": "a16",
+          "language": "zhs",
+          "title": "葡萄酒"
+        }
+      }
+    },
+    "a29": {
+      "content_id": "a29",
+      "reference_id": 0,
+      "index_reference": "तांबे के सिक्के",
+      "localizations": {
+        "eng": {
+          "content_id": "a29",
+          "language": "eng",
+          "title": "Copper Coins"
+        },
+        "fra": {
+          "content_id": "a29",
+          "language": "fra",
+          "title": "Pièces de cuivre"
+        },
+        "por": {
+          "content_id": "a29",
+          "language": "por",
+          "title": "Moedas de cobre"
+        },
+        "spa": {
+          "content_id": "a29",
+          "language": "spa",
+          "title": "Monedas de cobre"
+        },
+        "zhs": {
+          "content_id": "a29",
+          "language": "zhs",
+          "title": "铜币"
+        }
+      }
+    },
+    "a35": {
+      "content_id": "a35",
+      "reference_id": 0,
+      "index_reference": "बगीचे की कब्र",
+      "localizations": {
+        "eng": {
+          "content_id": "a35",
+          "language": "eng",
+          "title": "Garden Tomb"
+        },
+        "fra": {
+          "content_id": "a35",
+          "language": "fra",
+          "title": "Tombeau de jardin"
+        },
+        "por": {
+          "content_id": "a35",
+          "language": "por",
+          "title": "Túmulo do jardim"
+        },
+        "spa": {
+          "content_id": "a35",
+          "language": "spa",
+          "title": "Tumba del jardín"
+        },
+        "zhs": {
+          "content_id": "a35",
+          "language": "zhs",
+          "title": "花园墓穴"
+        }
+      }
+    },
+    "a169": {
+      "content_id": "a169",
+      "reference_id": 0,
+      "index_reference": "बलिदान के पशु",
+      "localizations": {
+        "eng": {
+          "content_id": "a169",
+          "language": "eng",
+          "title": "Sacrificial Animals"
+        },
+        "fra": {
+          "content_id": "a169",
+          "language": "fra",
+          "title": "Animaux sacrificiels"
+        },
+        "por": {
+          "content_id": "a169",
+          "language": "por",
+          "title": "Animais sacrificiais"
+        },
+        "spa": {
+          "content_id": "a169",
+          "language": "spa",
+          "title": "Paloma"
+        },
+        "zhs": {
+          "content_id": "a169",
+          "language": "zhs",
+          "title": "鸽子"
+        }
+      }
+    },
+    "a39": {
+      "content_id": "a39",
+      "reference_id": 0,
+      "index_reference": "कड़वे सागपात",
+      "localizations": {
+        "eng": {
+          "content_id": "a39",
+          "language": "eng",
+          "title": "Bitter Herbs"
+        },
+        "fra": {
+          "content_id": "a39",
+          "language": "fra",
+          "title": "Herbes amères"
+        },
+        "por": {
+          "content_id": "a39",
+          "language": "por",
+          "title": "Ervas amargas"
+        },
+        "spa": {
+          "content_id": "a39",
+          "language": "spa",
+          "title": "Hierbas amargas"
+        },
+        "zhs": {
+          "content_id": "a39",
+          "language": "zhs",
+          "title": "苦菜"
+        }
+      }
+    },
+    "a143": {
+      "content_id": "a143",
+      "reference_id": 0,
+      "index_reference": "प्रेसिपिस पर्वत",
+      "localizations": {
+        "eng": {
+          "content_id": "a143",
+          "language": "eng",
+          "title": "Mount Precipice"
+        },
+        "por": {
+          "content_id": "a143",
+          "language": "por",
+          "title": "Topo da colina"
+        }
+      }
+    },
+    "a182": {
+      "content_id": "a182",
+      "reference_id": 0,
+      "index_reference": "कुल्हाड़ी",
+      "localizations": {
+        "eng": {
+          "content_id": "a182",
+          "language": "eng",
+          "title": "Axe"
+        },
+        "fra": {
+          "content_id": "a182",
+          "language": "fra",
+          "title": "Hache"
+        },
+        "por": {
+          "content_id": "a182",
+          "language": "por",
+          "title": "Machado"
+        }
+      }
+    },
+    "a187": {
+      "content_id": "a187",
+      "reference_id": 0,
+      "index_reference": "सरकंडे का पौधा",
+      "localizations": {
+        "eng": {
+          "content_id": "a187",
+          "language": "eng",
+          "title": "Reed Plant"
+        },
+        "por": {
+          "content_id": "a187",
+          "language": "por",
+          "title": "Planta de junco"
+        }
+      }
+    },
+    "a135": {
+      "content_id": "a135",
+      "reference_id": 0,
+      "index_reference": "कमरबन्द",
+      "localizations": {
+        "eng": {
+          "content_id": "a135",
+          "language": "eng",
+          "title": "Belt"
+        },
+        "por": {
+          "content_id": "a135",
+          "language": "por",
+          "title": "Cinto"
+        }
+      }
+    },
+    "a129": {
+      "content_id": "a129",
+      "reference_id": 0,
+      "index_reference": "मछली की पंखुड़ी",
+      "localizations": {
+        "eng": {
+          "content_id": "a129",
+          "language": "eng",
+          "title": "Fish Scales"
+        },
+        "por": {
+          "content_id": "a129",
+          "language": "por",
+          "title": "Escamas de peixe"
+        }
+      }
+    },
+    "a113": {
+      "content_id": "a113",
+      "reference_id": 0,
+      "index_reference": "शोरबा",
+      "localizations": {
+        "eng": {
+          "content_id": "a113",
+          "language": "eng",
+          "title": "Stew"
+        }
+      }
+    },
+    "a139": {
+      "content_id": "a139",
+      "reference_id": 0,
+      "index_reference": "टाट",
+      "localizations": {
+        "eng": {
+          "content_id": "a139",
+          "language": "eng",
+          "title": "Sackcloth"
+        },
+        "por": {
+          "content_id": "a139",
+          "language": "por",
+          "title": "Pano de saco"
+        }
+      }
+    },
+    "a1355": {
+      "content_id": "a1355",
+      "reference_id": 0,
+      "index_reference": "कमर बाँधे हुआ मनुष्य",
+      "localizations": {
+        "eng": {
+          "content_id": "a1355",
+          "language": "eng",
+          "title": "Man Who Is Girded Up"
+        },
+        "por": {
+          "content_id": "a1355",
+          "language": "por",
+          "title": "Homem cingido"
+        }
+      }
+    },
+    "a175": {
+      "content_id": "a175",
+      "reference_id": 0,
+      "index_reference": "मोती",
+      "localizations": {
+        "eng": {
+          "content_id": "a175",
+          "language": "eng",
+          "title": "Pearls"
+        },
+        "fra": {
+          "content_id": "a175",
+          "language": "fra",
+          "title": "Perles"
+        },
+        "por": {
+          "content_id": "a175",
+          "language": "por",
+          "title": "Pérolas"
+        }
+      }
+    },
+    "a183": {
+      "content_id": "a183",
+      "reference_id": 0,
+      "index_reference": "वयस्क बकरी और मेम्ना",
+      "localizations": {
+        "eng": {
+          "content_id": "a183",
+          "language": "eng",
+          "title": "Adult and Kid Goat"
+        },
+        "fra": {
+          "content_id": "a183",
+          "language": "fra",
+          "title": "Animaux sacrificiels"
+        },
+        "por": {
+          "content_id": "a183",
+          "language": "por",
+          "title": "Animais sacrificiais"
+        }
+      }
+    },
+    "a17": {
+      "content_id": "a17",
+      "reference_id": 0,
+      "index_reference": "झांझ",
+      "localizations": {
+        "eng": {
+          "content_id": "a17",
+          "language": "eng",
+          "title": "Tambourine"
+        }
+      }
+    },
+    "a1351": {
+      "content_id": "a1351",
+      "reference_id": 0,
+      "index_reference": "बटुआ",
+      "localizations": {
+        "eng": {
+          "content_id": "a1351",
+          "language": "eng",
+          "title": "Purse"
+        },
+        "por": {
+          "content_id": "a1351",
+          "language": "por",
+          "title": "Bolsa"
+        }
+      }
+    },
+    "a1352": {
+      "content_id": "a1352",
+      "reference_id": 0,
+      "index_reference": "बकरी की खाल",
+      "localizations": {
+        "eng": {
+          "content_id": "a1352",
+          "language": "eng",
+          "title": "Goat Skin"
+        }
+      }
+    },
+    "a1269": {
+      "content_id": "a1269",
+      "reference_id": 0,
+      "index_reference": "वयस्क गधा",
+      "localizations": {
+        "eng": {
+          "content_id": "a1269",
+          "language": "eng",
+          "title": "Adult Donkey"
+        },
+        "por": {
+          "content_id": "a1269",
+          "language": "por",
+          "title": "Jumento adulto"
+        }
+      }
+    },
+    "a177": {
+      "content_id": "a177",
+      "reference_id": 0,
+      "index_reference": "राख",
+      "localizations": {
+        "eng": {
+          "content_id": "a177",
+          "language": "eng",
+          "title": "Ashes"
+        }
+      }
+    },
+    "a148": {
+      "content_id": "a148",
+      "reference_id": 0,
+      "index_reference": "यहूदी घर का प्रवेश द्वार",
+      "localizations": {
+        "eng": {
+          "content_id": "a148",
+          "language": "eng",
+          "title": "Entrance to Jewish House"
+        },
+        "por": {
+          "content_id": "a148",
+          "language": "por",
+          "title": "Entrada de uma casa judaica"
+        }
+      }
+    },
+    "a141": {
+      "content_id": "a141",
+      "reference_id": 0,
+      "index_reference": "गुफा",
+      "localizations": {
+        "eng": {
+          "content_id": "a141",
+          "language": "eng",
+          "title": "Cave"
+        },
+        "por": {
+          "content_id": "a141",
+          "language": "por",
+          "title": "Caverna"
+        }
+      }
+    },
+    "a1354": {
+      "content_id": "a1354",
+      "reference_id": 0,
+      "index_reference": "यूसुफ का अंगरखा",
+      "localizations": {
+        "eng": {
+          "content_id": "a1354",
+          "language": "eng",
+          "title": "Joseph's Coat"
+        }
+      }
+    },
+    "a1350": {
+      "content_id": "a1350",
+      "reference_id": 0,
+      "index_reference": "महीन मलमल का कपड़ा",
+      "localizations": {
+        "eng": {
+          "content_id": "a1350",
+          "language": "eng",
+          "title": "Fine Linen Cloth"
+        }
+      }
+    },
+    "a1262": {
+      "content_id": "a1262",
+      "reference_id": 0,
+      "index_reference": "बर्फ",
+      "localizations": {
+        "eng": {
+          "content_id": "a1262",
+          "language": "eng",
+          "title": "Snow"
+        },
+        "fra": {
+          "content_id": "a1262",
+          "language": "fra",
+          "title": "Neige"
+        },
+        "por": {
+          "content_id": "a1262",
+          "language": "por",
+          "title": "Neve"
+        }
+      }
+    },
+    "a1444": {
+      "content_id": "a1444",
+      "reference_id": 0,
+      "index_reference": "ओले पड़ना",
+      "localizations": {
+        "eng": {
+          "content_id": "a1444",
+          "language": "eng",
+          "title": "Hail Falling"
+        }
+      }
+    },
+    "a1388": {
+      "content_id": "a1388",
+      "reference_id": 0,
+      "index_reference": "मुर्गे की बाँग",
+      "localizations": {
+        "eng": {
+          "content_id": "a1388",
+          "language": "eng",
+          "title": "Rooster Crowing"
+        }
+      }
+    }
+  }
 }

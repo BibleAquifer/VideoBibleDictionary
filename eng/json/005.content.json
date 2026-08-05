@@ -60,6 +60,12 @@
 "end_ref_usfm": "EXO 39:7"
 },
 {
+"start_ref": "03006008",
+"start_ref_usfm": "LEV 6:8",
+"end_ref": "03006018",
+"end_ref_usfm": "LEV 6:18"
+},
+{
 "start_ref": "03019019",
 "start_ref_usfm": "LEV 19:19",
 "end_ref": "03019025",
@@ -70,6 +76,12 @@
 "start_ref_usfm": "1CH 4:21",
 "end_ref": "13004023",
 "end_ref_usfm": "1CH 4:23"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 }
 ],
 "resource": []

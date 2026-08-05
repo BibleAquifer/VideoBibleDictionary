@@ -4,9 +4,13 @@ This repository (`VideoBibleDictionary`) contains Aquifer resource data with res
 
 ## License
 
-_Video Bible Dictionary_ © 2023 [SRV Partners](https://srvpartners.org/home/)
+_Video Bible Dictionary_ © 2025 [Word Collective](https://wordcollective.com)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
+
+**Video Bible Dictionary** © 2025 Word Collective. Released under CC BY\-SA 4\.0 license. *Video Bible Dictionary* has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from *Video Bible Dictionary* © 2025 Word Collective. Released under CC BY\-SA 4\.0 license by Mission Mutual
+
+
 
 ## Structure
 

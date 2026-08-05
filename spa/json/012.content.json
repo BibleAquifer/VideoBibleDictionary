@@ -70,6 +70,12 @@
 "end_ref_usfm": "LEV 15:18"
 },
 {
+"start_ref": "03015025",
+"start_ref_usfm": "LEV 15:25",
+"end_ref": "03015033",
+"end_ref_usfm": "LEV 15:33"
+},
+{
 "start_ref": "41011012",
 "start_ref_usfm": "MRK 11:12",
 "end_ref": "41011026",
@@ -126,6 +132,18 @@
 "start_ref_usfm": "EXO 29:19",
 "end_ref": "02029028",
 "end_ref_usfm": "EXO 29:28"
+},
+{
+"start_ref": "03008022",
+"start_ref_usfm": "LEV 8:22",
+"end_ref": "03008029",
+"end_ref_usfm": "LEV 8:29"
+},
+{
+"start_ref": "03023001",
+"start_ref_usfm": "LEV 23:1",
+"end_ref": "03023008",
+"end_ref_usfm": "LEV 23:8"
 },
 {
 "start_ref": "04009001",
