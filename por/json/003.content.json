@@ -54,6 +54,12 @@
 "end_ref_usfm": "EXO 21:27"
 },
 {
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
+},
+{
 "start_ref": "04017001",
 "start_ref_usfm": "NUM 17:1",
 "end_ref": "04017013",
@@ -389,6 +395,12 @@
 "content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'><img src='thumbnails/a145_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
 {
 "start_ref": "09009015",
 "start_ref_usfm": "1SA 9:15",
