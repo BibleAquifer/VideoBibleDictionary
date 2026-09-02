@@ -18,12 +18,6 @@
 "end_ref_usfm": "GEN 24:14"
 },
 {
-"start_ref": "01024015",
-"start_ref_usfm": "GEN 24:15",
-"end_ref": "01024028",
-"end_ref_usfm": "GEN 24:28"
-},
-{
 "start_ref": "01024029",
 "start_ref_usfm": "GEN 24:29",
 "end_ref": "01024049",
@@ -100,6 +94,12 @@
 "start_ref_usfm": "EZR 2:64",
 "end_ref": "15002070",
 "end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "16007066",
+"start_ref_usfm": "NEH 7:66",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
 },
 {
 "start_ref": "40003001",
@@ -182,6 +182,12 @@
 "start_ref_usfm": "1SA 24:1",
 "end_ref": "09024007",
 "end_ref_usfm": "1SA 24:7"
+},
+{
+"start_ref": "10017001",
+"start_ref_usfm": "2SA 17:1",
+"end_ref": "10017014",
+"end_ref_usfm": "2SA 17:14"
 },
 {
 "start_ref": "10017015",
@@ -421,6 +427,12 @@
 "content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'><img src='thumbnails/a181_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a181/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
+{
+"start_ref": "42020009",
+"start_ref_usfm": "LUK 20:9",
+"end_ref": "42020019",
+"end_ref_usfm": "LUK 20:19"
+},
 {
 "start_ref": "49002019",
 "start_ref_usfm": "EPH 2:19",

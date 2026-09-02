@@ -3,9 +3,9 @@
     "aquifer_type": "Videos",
     "resource_type": "Images, Maps, Videos",
     "title": "Familiarization, Internalization, Articulation (FIA) Videos",
-    "aquifer_name": "Videos (Video Bible Dictionary)",
+    "aquifer_name": "Familiarization, Internalization, Articulation (FIA) Videos",
     "version": "1.1.2",
-    "collection_title": "Videos (Video Bible Dictionary)",
+    "collection_title": "Familiarization, Internalization, Articulation (FIA) Videos",
     "short_name": "VBD",
     "license_info": {
       "title": "Video Bible Dictionary",
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2026-08-04",
+    "date_created": "2026-09-02",
     "language": "fra",
     "localizations": [
       "eng",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-08-04T20:55:14.601794"
+      "dateCreated": "2026-09-02T15:57:29.173516"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2026-08-04T20:55:14.601794"
+            "timestamp": "2026-09-02T15:57:29.173516"
           }
         }
       },
@@ -103,7 +103,7 @@
       },
       "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 7302,
+        "size": 7523,
         "scope": {
           "b": [
             "bâton",
@@ -115,7 +115,7 @@
       },
       "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 4447,
+        "size": 4445,
         "scope": {
           "c": [
             "Chameau",
@@ -206,7 +206,7 @@
       },
       "json/012.content.json": {
         "mimeType": "text/json",
-        "size": 3580,
+        "size": 3692,
         "scope": {
           "o": [
             "Olivier",
@@ -216,7 +216,7 @@
       },
       "json/013.content.json": {
         "mimeType": "text/json",
-        "size": 9030,
+        "size": 14220,
         "scope": {
           "p": [
             "Panier de provisions",
@@ -228,7 +228,11 @@
             "Pierre d'angle",
             "Plat",
             "Poisson cuit",
-            "Pot en albâtre"
+            "Pot en albâtre",
+            "Pressoir à vin",
+            "Pressoir à vin",
+            "Pressoir à vin",
+            "Pressoir à vin"
           ]
         }
       },
@@ -243,7 +247,7 @@
       },
       "json/015.content.json": {
         "mimeType": "text/json",
-        "size": 5898,
+        "size": 5679,
         "scope": {
           "s": [
             "Sac de voyageur",
@@ -254,7 +258,7 @@
       },
       "json/016.content.json": {
         "mimeType": "text/json",
-        "size": 8550,
+        "size": 8440,
         "scope": {
           "t": [
             "Tapis de couchage",
@@ -276,71 +280,71 @@
       },
       "md/008.content.md": {
         "mimeType": "text/markdown",
-        "size": 797
+        "size": 825
       },
       "md/009.content.md": {
         "mimeType": "text/markdown",
-        "size": 1065
+        "size": 1093
       },
       "md/003.content.md": {
         "mimeType": "text/markdown",
-        "size": 1740
+        "size": 1769
       },
       "md/004.content.md": {
         "mimeType": "text/markdown",
-        "size": 1206
+        "size": 1234
       },
       "md/011.content.md": {
         "mimeType": "text/markdown",
-        "size": 830
+        "size": 858
       },
       "md/016.content.md": {
         "mimeType": "text/markdown",
-        "size": 2705
+        "size": 2718
       },
       "md/017.content.md": {
         "mimeType": "text/markdown",
-        "size": 977
+        "size": 1005
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 3004
+        "size": 3032
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
-        "size": 811
+        "size": 839
       },
       "md/002.content.md": {
         "mimeType": "text/markdown",
-        "size": 2404
+        "size": 2480
       },
       "md/012.content.md": {
         "mimeType": "text/markdown",
-        "size": 1381
+        "size": 1428
       },
       "md/015.content.md": {
         "mimeType": "text/markdown",
-        "size": 1901
+        "size": 1904
       },
       "md/007.content.md": {
         "mimeType": "text/markdown",
-        "size": 1168
+        "size": 1196
       },
       "md/006.content.md": {
         "mimeType": "text/markdown",
-        "size": 1883
+        "size": 1911
       },
       "md/001.content.md": {
         "mimeType": "text/markdown",
-        "size": 1127
+        "size": 1155
       },
       "md/014.content.md": {
         "mimeType": "text/markdown",
-        "size": 807
+        "size": 835
       },
       "md/013.content.md": {
         "mimeType": "text/markdown",
-        "size": 3825
+        "size": 5511
       }
     },
     "copyright": {
@@ -1220,6 +1224,134 @@
           "content_id": "a10",
           "language": "zhs",
           "title": "旷野或沙漠"
+        }
+      }
+    },
+    "a2376": {
+      "content_id": "a2376",
+      "reference_id": 0,
+      "index_reference": "pressoir à vin",
+      "localizations": {
+        "eng": {
+          "content_id": "a2376",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "hin": {
+          "content_id": "a2376",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2376",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2376",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2376",
+          "language": "zhs",
+          "title": "酒榨"
+        }
+      }
+    },
+    "a2377": {
+      "content_id": "a2377",
+      "reference_id": 0,
+      "index_reference": "pressoir à vin",
+      "localizations": {
+        "eng": {
+          "content_id": "a2377",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "hin": {
+          "content_id": "a2377",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2377",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2377",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2377",
+          "language": "zhs",
+          "title": "酒榨"
+        }
+      }
+    },
+    "a2378": {
+      "content_id": "a2378",
+      "reference_id": 0,
+      "index_reference": "pressoir à vin",
+      "localizations": {
+        "eng": {
+          "content_id": "a2378",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "hin": {
+          "content_id": "a2378",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2378",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2378",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2378",
+          "language": "zhs",
+          "title": "酒榨"
+        }
+      }
+    },
+    "a2379": {
+      "content_id": "a2379",
+      "reference_id": 0,
+      "index_reference": "pressoir à vin",
+      "localizations": {
+        "eng": {
+          "content_id": "a2379",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "hin": {
+          "content_id": "a2379",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2379",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2379",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2379",
+          "language": "zhs",
+          "title": "酒榨"
         }
       }
     },

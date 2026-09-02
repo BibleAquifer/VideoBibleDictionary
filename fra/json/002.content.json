@@ -66,12 +66,6 @@
 "end_ref_usfm": "NUM 17:13"
 },
 {
-"start_ref": "04022022",
-"start_ref_usfm": "NUM 22:22",
-"end_ref": "04022040",
-"end_ref_usfm": "NUM 22:40"
-},
-{
 "start_ref": "09017031",
 "start_ref_usfm": "1SA 17:31",
 "end_ref": "09017040",
@@ -204,6 +198,24 @@
 "start_ref_usfm": "NUM 20:1",
 "end_ref": "04020013",
 "end_ref_usfm": "NUM 20:13"
+},
+{
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028007",
+"start_ref_usfm": "DEU 28:7",
+"end_ref": "05028014",
+"end_ref_usfm": "DEU 28:14"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
 },
 {
 "start_ref": "07006011",

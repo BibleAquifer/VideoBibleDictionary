@@ -3,9 +3,9 @@
     "aquifer_type": "Videos",
     "resource_type": "Images, Maps, Videos",
     "title": "Familiarization, Internalization, Articulation (FIA) Videos",
-    "aquifer_name": "Videos (Video Bible Dictionary)",
+    "aquifer_name": "Familiarization, Internalization, Articulation (FIA) Videos",
     "version": "1.1.2",
-    "collection_title": "Videos (Video Bible Dictionary)",
+    "collection_title": "Familiarization, Internalization, Articulation (FIA) Videos",
     "short_name": "VBD",
     "license_info": {
       "title": "Video Bible Dictionary",
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2026-08-04",
+    "date_created": "2026-09-02",
     "language": "zhs",
     "localizations": [
       "eng",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-08-04T20:55:14.802028"
+      "dateCreated": "2026-09-02T15:57:29.485021"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2026-08-04T20:55:14.802028"
+            "timestamp": "2026-09-02T15:57:29.485021"
           }
         }
       },
@@ -111,7 +111,7 @@
       },
       "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 776,
+        "size": 998,
         "scope": {
           "dang": [
             "当作量斗的篮子。"
@@ -138,7 +138,7 @@
       },
       "json/006.content.json": {
         "mimeType": "text/json",
-        "size": 5159,
+        "size": 5271,
         "scope": {
           "gan": [
             "橄榄山",
@@ -149,7 +149,7 @@
       },
       "json/007.content.json": {
         "mimeType": "text/json",
-        "size": 1301,
+        "size": 1410,
         "scope": {
           "ge": [
             "鸽子"
@@ -167,7 +167,7 @@
       },
       "json/009.content.json": {
         "mimeType": "text/json",
-        "size": 867,
+        "size": 757,
         "scope": {
           "hua": [
             "花园墓穴"
@@ -176,7 +176,7 @@
       },
       "json/010.content.json": {
         "mimeType": "text/json",
-        "size": 969,
+        "size": 1080,
         "scope": {
           "ji": [
             "基石"
@@ -203,6 +203,18 @@
       },
       "json/013.content.json": {
         "mimeType": "text/json",
+        "size": 4787,
+        "scope": {
+          "jiu": [
+            "酒榨",
+            "酒榨",
+            "酒榨",
+            "酒榨"
+          ]
+        }
+      },
+      "json/014.content.json": {
+        "mimeType": "text/json",
         "size": 766,
         "scope": {
           "ke": [
@@ -210,7 +222,7 @@
           ]
         }
       },
-      "json/014.content.json": {
+      "json/015.content.json": {
         "mimeType": "text/json",
         "size": 1078,
         "scope": {
@@ -219,7 +231,7 @@
           ]
         }
       },
-      "json/015.content.json": {
+      "json/016.content.json": {
         "mimeType": "text/json",
         "size": 3630,
         "scope": {
@@ -228,7 +240,7 @@
           ]
         }
       },
-      "json/016.content.json": {
+      "json/017.content.json": {
         "mimeType": "text/json",
         "size": 857,
         "scope": {
@@ -237,7 +249,7 @@
           ]
         }
       },
-      "json/017.content.json": {
+      "json/018.content.json": {
         "mimeType": "text/json",
         "size": 3371,
         "scope": {
@@ -247,16 +259,16 @@
           ]
         }
       },
-      "json/018.content.json": {
+      "json/019.content.json": {
         "mimeType": "text/json",
-        "size": 2733,
+        "size": 2731,
         "scope": {
           "luo": [
             "骆驼"
           ]
         }
       },
-      "json/019.content.json": {
+      "json/020.content.json": {
         "mimeType": "text/json",
         "size": 1190,
         "scope": {
@@ -265,7 +277,7 @@
           ]
         }
       },
-      "json/020.content.json": {
+      "json/021.content.json": {
         "mimeType": "text/json",
         "size": 1518,
         "scope": {
@@ -274,7 +286,7 @@
           ]
         }
       },
-      "json/021.content.json": {
+      "json/022.content.json": {
         "mimeType": "text/json",
         "size": 3854,
         "scope": {
@@ -285,9 +297,9 @@
           ]
         }
       },
-      "json/022.content.json": {
+      "json/023.content.json": {
         "mimeType": "text/json",
-        "size": 4160,
+        "size": 4493,
         "scope": {
           "shu": [
             "熟透待收的麦子",
@@ -295,7 +307,7 @@
           ]
         }
       },
-      "json/023.content.json": {
+      "json/024.content.json": {
         "mimeType": "text/json",
         "size": 1401,
         "scope": {
@@ -304,7 +316,7 @@
           ]
         }
       },
-      "json/024.content.json": {
+      "json/025.content.json": {
         "mimeType": "text/json",
         "size": 971,
         "scope": {
@@ -313,7 +325,7 @@
           ]
         }
       },
-      "json/025.content.json": {
+      "json/026.content.json": {
         "mimeType": "text/json",
         "size": 858,
         "scope": {
@@ -322,7 +334,7 @@
           ]
         }
       },
-      "json/026.content.json": {
+      "json/027.content.json": {
         "mimeType": "text/json",
         "size": 3076,
         "scope": {
@@ -331,7 +343,7 @@
           ]
         }
       },
-      "json/027.content.json": {
+      "json/028.content.json": {
         "mimeType": "text/json",
         "size": 860,
         "scope": {
@@ -340,7 +352,7 @@
           ]
         }
       },
-      "json/028.content.json": {
+      "json/029.content.json": {
         "mimeType": "text/json",
         "size": 632,
         "scope": {
@@ -349,7 +361,7 @@
           ]
         }
       },
-      "json/029.content.json": {
+      "json/030.content.json": {
         "mimeType": "text/json",
         "size": 742,
         "scope": {
@@ -358,7 +370,7 @@
           ]
         }
       },
-      "json/030.content.json": {
+      "json/031.content.json": {
         "mimeType": "text/json",
         "size": 1888,
         "scope": {
@@ -367,7 +379,7 @@
           ]
         }
       },
-      "json/031.content.json": {
+      "json/032.content.json": {
         "mimeType": "text/json",
         "size": 744,
         "scope": {
@@ -376,9 +388,9 @@
           ]
         }
       },
-      "json/032.content.json": {
+      "json/033.content.json": {
         "mimeType": "text/json",
-        "size": 5595,
+        "size": 5376,
         "scope": {
           "you": [
             "犹太会堂",
@@ -386,7 +398,7 @@
           ]
         }
       },
-      "json/033.content.json": {
+      "json/034.content.json": {
         "mimeType": "text/json",
         "size": 1186,
         "scope": {
@@ -395,7 +407,7 @@
           ]
         }
       },
-      "json/034.content.json": {
+      "json/035.content.json": {
         "mimeType": "text/json",
         "size": 1292,
         "scope": {
@@ -404,7 +416,7 @@
           ]
         }
       },
-      "json/035.content.json": {
+      "json/036.content.json": {
         "mimeType": "text/json",
         "size": 1853,
         "scope": {
@@ -413,9 +425,9 @@
           ]
         }
       },
-      "json/036.content.json": {
+      "json/037.content.json": {
         "mimeType": "text/json",
-        "size": 1961,
+        "size": 1849,
         "scope": {
           "zhang": [
             "杖"
@@ -424,147 +436,151 @@
       },
       "md/008.content.md": {
         "mimeType": "text/markdown",
-        "size": 815
+        "size": 843
       },
       "md/009.content.md": {
         "mimeType": "text/markdown",
-        "size": 815
+        "size": 824
       },
       "md/003.content.md": {
         "mimeType": "text/markdown",
-        "size": 808
+        "size": 874
       },
       "md/004.content.md": {
         "mimeType": "text/markdown",
-        "size": 812
+        "size": 840
       },
       "md/011.content.md": {
         "mimeType": "text/markdown",
-        "size": 1106
+        "size": 1134
       },
       "md/016.content.md": {
         "mimeType": "text/markdown",
-        "size": 815
+        "size": 1398
       },
       "md/020.content.md": {
         "mimeType": "text/markdown",
-        "size": 955
+        "size": 906
       },
       "md/027.content.md": {
         "mimeType": "text/markdown",
-        "size": 816
+        "size": 1286
       },
       "md/032.content.md": {
         "mimeType": "text/markdown",
-        "size": 1934
+        "size": 818
       },
       "md/035.content.md": {
         "mimeType": "text/markdown",
-        "size": 1010
+        "size": 916
       },
       "md/017.content.md": {
         "mimeType": "text/markdown",
-        "size": 1484
+        "size": 843
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 838
+        "size": 888
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
-        "size": 1295
+        "size": 1323
       },
       "md/002.content.md": {
         "mimeType": "text/markdown",
-        "size": 775
+        "size": 803
       },
       "md/034.content.md": {
         "mimeType": "text/markdown",
-        "size": 888
+        "size": 903
       },
       "md/033.content.md": {
         "mimeType": "text/markdown",
-        "size": 875
+        "size": 1919
       },
       "md/026.content.md": {
         "mimeType": "text/markdown",
-        "size": 1258
+        "size": 845
       },
       "md/021.content.md": {
         "mimeType": "text/markdown",
-        "size": 1761
+        "size": 983
       },
       "md/012.content.md": {
         "mimeType": "text/markdown",
-        "size": 922
+        "size": 950
       },
       "md/015.content.md": {
         "mimeType": "text/markdown",
-        "size": 1370
+        "size": 882
       },
       "md/007.content.md": {
         "mimeType": "text/markdown",
-        "size": 889
+        "size": 935
       },
       "md/031.content.md": {
         "mimeType": "text/markdown",
-        "size": 790
+        "size": 1060
       },
       "md/036.content.md": {
         "mimeType": "text/markdown",
-        "size": 1032
+        "size": 1038
       },
       "md/023.content.md": {
         "mimeType": "text/markdown",
-        "size": 916
+        "size": 1717
       },
       "md/024.content.md": {
         "mimeType": "text/markdown",
-        "size": 834
+        "size": 944
       },
       "md/006.content.md": {
         "mimeType": "text/markdown",
-        "size": 2009
+        "size": 2060
       },
       "md/001.content.md": {
         "mimeType": "text/markdown",
-        "size": 830
+        "size": 858
       },
       "md/014.content.md": {
         "mimeType": "text/markdown",
-        "size": 854
+        "size": 830
       },
       "md/013.content.md": {
         "mimeType": "text/markdown",
-        "size": 802
+        "size": 2126
       },
       "md/025.content.md": {
         "mimeType": "text/markdown",
-        "size": 817
+        "size": 862
       },
       "md/022.content.md": {
         "mimeType": "text/markdown",
-        "size": 1632
+        "size": 1789
+      },
+      "md/037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1040
       },
       "md/030.content.md": {
         "mimeType": "text/markdown",
-        "size": 1032
+        "size": 817
       },
       "md/028.content.md": {
         "mimeType": "text/markdown",
-        "size": 767
+        "size": 844
       },
       "md/019.content.md": {
         "mimeType": "text/markdown",
-        "size": 878
+        "size": 1200
       },
       "md/029.content.md": {
         "mimeType": "text/markdown",
-        "size": 789
+        "size": 795
       },
       "md/018.content.md": {
         "mimeType": "text/markdown",
-        "size": 1170
+        "size": 1512
       }
     },
     "copyright": {
@@ -1444,6 +1460,134 @@
           "content_id": "a10",
           "language": "spa",
           "title": "Desierto"
+        }
+      }
+    },
+    "a2376": {
+      "content_id": "a2376",
+      "reference_id": 0,
+      "index_reference": "酒榨",
+      "localizations": {
+        "eng": {
+          "content_id": "a2376",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2376",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "hin": {
+          "content_id": "a2376",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2376",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2376",
+          "language": "spa",
+          "title": "Prensa de vino"
+        }
+      }
+    },
+    "a2377": {
+      "content_id": "a2377",
+      "reference_id": 0,
+      "index_reference": "酒榨",
+      "localizations": {
+        "eng": {
+          "content_id": "a2377",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2377",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "hin": {
+          "content_id": "a2377",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2377",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2377",
+          "language": "spa",
+          "title": "Prensa de vino"
+        }
+      }
+    },
+    "a2378": {
+      "content_id": "a2378",
+      "reference_id": 0,
+      "index_reference": "酒榨",
+      "localizations": {
+        "eng": {
+          "content_id": "a2378",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2378",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "hin": {
+          "content_id": "a2378",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2378",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2378",
+          "language": "spa",
+          "title": "Prensa de vino"
+        }
+      }
+    },
+    "a2379": {
+      "content_id": "a2379",
+      "reference_id": 0,
+      "index_reference": "酒榨",
+      "localizations": {
+        "eng": {
+          "content_id": "a2379",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2379",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "hin": {
+          "content_id": "a2379",
+          "language": "hin",
+          "title": "दाखरस के कुण्ड"
+        },
+        "por": {
+          "content_id": "a2379",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2379",
+          "language": "spa",
+          "title": "Prensa de vino"
         }
       }
     },
