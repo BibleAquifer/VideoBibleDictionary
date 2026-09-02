@@ -66,12 +66,6 @@
 "end_ref_usfm": "NUM 17:13"
 },
 {
-"start_ref": "04022022",
-"start_ref_usfm": "NUM 22:22",
-"end_ref": "04022040",
-"end_ref_usfm": "NUM 22:40"
-},
-{
 "start_ref": "09017031",
 "start_ref_usfm": "1SA 17:31",
 "end_ref": "09017040",
@@ -110,12 +104,6 @@
 "start_ref_usfm": "GEN 24:1",
 "end_ref": "01024014",
 "end_ref_usfm": "GEN 24:14"
-},
-{
-"start_ref": "01024015",
-"start_ref_usfm": "GEN 24:15",
-"end_ref": "01024028",
-"end_ref_usfm": "GEN 24:28"
 },
 {
 "start_ref": "01024029",
@@ -194,6 +182,12 @@
 "start_ref_usfm": "EZR 2:64",
 "end_ref": "15002070",
 "end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "16007066",
+"start_ref_usfm": "NEH 7:66",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
 },
 {
 "start_ref": "40003001",
@@ -520,6 +514,12 @@
 "end_ref_usfm": "1SA 24:7"
 },
 {
+"start_ref": "10017001",
+"start_ref_usfm": "2SA 17:1",
+"end_ref": "10017014",
+"end_ref_usfm": "2SA 17:14"
+},
+{
 "start_ref": "10017015",
 "start_ref_usfm": "2SA 17:15",
 "end_ref": "10017029",
@@ -559,6 +559,18 @@
 "content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'><img src='thumbnails/a30_720p_thumbnail.jpg' /></a> (77 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a30/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
+{
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
 {
 "start_ref": "40005013",
 "start_ref_usfm": "MAT 5:13",
@@ -633,6 +645,18 @@
 "content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a27/720p.mp4'><img src='thumbnails/a27_720p_thumbnail.jpg' /></a> (83 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a27/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
+{
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
 {
 "start_ref": "40015029",
 "start_ref_usfm": "MAT 15:29",

@@ -164,6 +164,12 @@
 "end_ref_usfm": "LEV 23:8"
 },
 {
+"start_ref": "04006013",
+"start_ref_usfm": "NUM 6:13",
+"end_ref": "04006021",
+"end_ref_usfm": "NUM 6:21"
+},
+{
 "start_ref": "04009001",
 "start_ref_usfm": "NUM 9:1",
 "end_ref": "04009014",
@@ -242,12 +248,6 @@
 "end_ref_usfm": "ACT 20:12"
 },
 {
-"start_ref": "44022022",
-"start_ref_usfm": "ACT 22:22",
-"end_ref": "44022029",
-"end_ref_usfm": "ACT 22:29"
-},
-{
 "start_ref": "46010014",
 "start_ref_usfm": "1CO 10:14",
 "end_ref": "46010022",
@@ -286,6 +286,12 @@
 "start_ref_usfm": "MRK 12:1",
 "end_ref": "41012012",
 "end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "42020009",
+"start_ref_usfm": "LUK 20:9",
+"end_ref": "42020019",
+"end_ref_usfm": "LUK 20:19"
 },
 {
 "start_ref": "44004001",

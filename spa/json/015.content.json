@@ -158,6 +158,24 @@
 "end_ref_usfm": "NUM 20:13"
 },
 {
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028007",
+"start_ref_usfm": "DEU 28:7",
+"end_ref": "05028014",
+"end_ref_usfm": "DEU 28:14"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
+{
 "start_ref": "07006011",
 "start_ref_usfm": "JDG 6:11",
 "end_ref": "07006027",
@@ -275,12 +293,6 @@
 "content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'><img src='thumbnails/a35_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
-{
-"start_ref": "07008022",
-"start_ref_usfm": "JDG 8:22",
-"end_ref": "07008035",
-"end_ref_usfm": "JDG 8:35"
-},
 {
 "start_ref": "41015040",
 "start_ref_usfm": "MRK 15:40",

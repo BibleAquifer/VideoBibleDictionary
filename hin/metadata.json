@@ -3,9 +3,9 @@
     "aquifer_type": "Videos",
     "resource_type": "Images, Maps, Videos",
     "title": "Familiarization, Internalization, Articulation (FIA) Videos",
-    "aquifer_name": "Videos (Video Bible Dictionary)",
+    "aquifer_name": "Familiarization, Internalization, Articulation (FIA) Videos",
     "version": "1.1.2",
-    "collection_title": "Videos (Video Bible Dictionary)",
+    "collection_title": "Familiarization, Internalization, Articulation (FIA) Videos",
     "short_name": "VBD",
     "license_info": {
       "title": "Video Bible Dictionary",
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2026-08-04",
+    "date_created": "2026-09-02",
     "language": "hin",
     "localizations": [
       "eng",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-08-04T20:55:14.646559"
+      "dateCreated": "2026-09-02T15:57:29.243598"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2026-08-04T20:55:14.646559"
+            "timestamp": "2026-09-02T15:57:29.243598"
           }
         }
       },
@@ -103,7 +103,7 @@
       },
       "json/002.content.json": {
         "mimeType": "text/json",
-        "size": 2989,
+        "size": 2770,
         "scope": {
           "आ": [
             "आराधनालय"
@@ -112,7 +112,7 @@
       },
       "json/003.content.json": {
         "mimeType": "text/json",
-        "size": 2739,
+        "size": 2737,
         "scope": {
           "ऊ": [
             "ऊँट"
@@ -162,7 +162,7 @@
       },
       "json/008.content.json": {
         "mimeType": "text/json",
-        "size": 9451,
+        "size": 9895,
         "scope": {
           "ग": [
             "गतसमनी का बगीचा",
@@ -187,7 +187,7 @@
       },
       "json/010.content.json": {
         "mimeType": "text/json",
-        "size": 11380,
+        "size": 11492,
         "scope": {
           "ज": [
             "जंगल या रेगिस्तान",
@@ -200,7 +200,7 @@
       },
       "json/011.content.json": {
         "mimeType": "text/json",
-        "size": 1423,
+        "size": 1313,
         "scope": {
           "झ": [
             "झांझ"
@@ -209,7 +209,7 @@
       },
       "json/012.content.json": {
         "mimeType": "text/json",
-        "size": 2384,
+        "size": 2606,
         "scope": {
           "ट": [
             "टाट",
@@ -238,9 +238,13 @@
       },
       "json/015.content.json": {
         "mimeType": "text/json",
-        "size": 1624,
+        "size": 6776,
         "scope": {
           "द": [
+            "दाखरस के कुण्ड",
+            "दाखरस के कुण्ड",
+            "दाखरस के कुण्ड",
+            "दाखरस के कुण्ड",
             "दीवट",
             "दीवार के साथ कोने का पत्थर"
           ]
@@ -257,7 +261,7 @@
       },
       "json/017.content.json": {
         "mimeType": "text/json",
-        "size": 712,
+        "size": 602,
         "scope": {
           "पर": [
             "प्रेसिपिस पर्वत"
@@ -275,7 +279,7 @@
       },
       "json/019.content.json": {
         "mimeType": "text/json",
-        "size": 4269,
+        "size": 4159,
         "scope": {
           "ब": [
             "बकरी की खाल",
@@ -288,7 +292,7 @@
       },
       "json/020.content.json": {
         "mimeType": "text/json",
-        "size": 8491,
+        "size": 8379,
         "scope": {
           "म": [
             "मछली की पंखुड़ी",
@@ -325,7 +329,7 @@
       },
       "json/023.content.json": {
         "mimeType": "text/json",
-        "size": 3539,
+        "size": 3427,
         "scope": {
           "ल": [
             "लाठी",
@@ -336,7 +340,7 @@
       },
       "json/024.content.json": {
         "mimeType": "text/json",
-        "size": 5290,
+        "size": 5624,
         "scope": {
           "व": [
             "वयस्क गधा",
@@ -377,111 +381,111 @@
       },
       "md/008.content.md": {
         "mimeType": "text/markdown",
-        "size": 3765
+        "size": 3967
       },
       "md/009.content.md": {
         "mimeType": "text/markdown",
-        "size": 2009
+        "size": 2037
       },
       "md/003.content.md": {
         "mimeType": "text/markdown",
-        "size": 1368
+        "size": 1395
       },
       "md/004.content.md": {
         "mimeType": "text/markdown",
-        "size": 918
+        "size": 946
       },
       "md/011.content.md": {
         "mimeType": "text/markdown",
-        "size": 994
+        "size": 995
       },
       "md/016.content.md": {
         "mimeType": "text/markdown",
-        "size": 896
+        "size": 924
       },
       "md/020.content.md": {
         "mimeType": "text/markdown",
-        "size": 3812
+        "size": 3814
       },
       "md/027.content.md": {
         "mimeType": "text/markdown",
-        "size": 862
+        "size": 890
       },
       "md/017.content.md": {
         "mimeType": "text/markdown",
-        "size": 810
+        "size": 790
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 4335
+        "size": 4389
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
-        "size": 835
+        "size": 863
       },
       "md/002.content.md": {
         "mimeType": "text/markdown",
-        "size": 1447
+        "size": 1432
       },
       "md/026.content.md": {
         "mimeType": "text/markdown",
-        "size": 2654
+        "size": 2682
       },
       "md/021.content.md": {
         "mimeType": "text/markdown",
-        "size": 2800
+        "size": 2828
       },
       "md/012.content.md": {
         "mimeType": "text/markdown",
-        "size": 1387
+        "size": 1513
       },
       "md/015.content.md": {
         "mimeType": "text/markdown",
-        "size": 1197
+        "size": 3272
       },
       "md/007.content.md": {
         "mimeType": "text/markdown",
-        "size": 823
+        "size": 851
       },
       "md/023.content.md": {
         "mimeType": "text/markdown",
-        "size": 1843
+        "size": 1845
       },
       "md/024.content.md": {
         "mimeType": "text/markdown",
-        "size": 2232
+        "size": 2394
       },
       "md/006.content.md": {
         "mimeType": "text/markdown",
-        "size": 3804
+        "size": 3832
       },
       "md/001.content.md": {
         "mimeType": "text/markdown",
-        "size": 1377
+        "size": 1405
       },
       "md/014.content.md": {
         "mimeType": "text/markdown",
-        "size": 778
+        "size": 806
       },
       "md/013.content.md": {
         "mimeType": "text/markdown",
-        "size": 1735
+        "size": 1763
       },
       "md/025.content.md": {
         "mimeType": "text/markdown",
-        "size": 794
+        "size": 822
       },
       "md/022.content.md": {
         "mimeType": "text/markdown",
-        "size": 810
+        "size": 838
       },
       "md/019.content.md": {
         "mimeType": "text/markdown",
-        "size": 2323
+        "size": 2314
       },
       "md/018.content.md": {
         "mimeType": "text/markdown",
-        "size": 884
+        "size": 912
       }
     },
     "copyright": {
@@ -1378,6 +1382,134 @@
           "content_id": "a10",
           "language": "zhs",
           "title": "旷野或沙漠"
+        }
+      }
+    },
+    "a2376": {
+      "content_id": "a2376",
+      "reference_id": 0,
+      "index_reference": "दाखरस के कुण्ड",
+      "localizations": {
+        "eng": {
+          "content_id": "a2376",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2376",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "por": {
+          "content_id": "a2376",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2376",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2376",
+          "language": "zhs",
+          "title": "酒榨"
+        }
+      }
+    },
+    "a2377": {
+      "content_id": "a2377",
+      "reference_id": 0,
+      "index_reference": "दाखरस के कुण्ड",
+      "localizations": {
+        "eng": {
+          "content_id": "a2377",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2377",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "por": {
+          "content_id": "a2377",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2377",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2377",
+          "language": "zhs",
+          "title": "酒榨"
+        }
+      }
+    },
+    "a2378": {
+      "content_id": "a2378",
+      "reference_id": 0,
+      "index_reference": "दाखरस के कुण्ड",
+      "localizations": {
+        "eng": {
+          "content_id": "a2378",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2378",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "por": {
+          "content_id": "a2378",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2378",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2378",
+          "language": "zhs",
+          "title": "酒榨"
+        }
+      }
+    },
+    "a2379": {
+      "content_id": "a2379",
+      "reference_id": 0,
+      "index_reference": "दाखरस के कुण्ड",
+      "localizations": {
+        "eng": {
+          "content_id": "a2379",
+          "language": "eng",
+          "title": "Winepress"
+        },
+        "fra": {
+          "content_id": "a2379",
+          "language": "fra",
+          "title": "Pressoir à vin"
+        },
+        "por": {
+          "content_id": "a2379",
+          "language": "por",
+          "title": "Lagar"
+        },
+        "spa": {
+          "content_id": "a2379",
+          "language": "spa",
+          "title": "Prensa de vino"
+        },
+        "zhs": {
+          "content_id": "a2379",
+          "language": "zhs",
+          "title": "酒榨"
         }
       }
     },

@@ -42,6 +42,12 @@
 "end_ref_usfm": "LEV 15:33"
 },
 {
+"start_ref": "04006001",
+"start_ref_usfm": "NUM 6:1",
+"end_ref": "04006012",
+"end_ref_usfm": "NUM 6:12"
+},
+{
 "start_ref": "41011012",
 "start_ref_usfm": "MRK 11:12",
 "end_ref": "41011026",

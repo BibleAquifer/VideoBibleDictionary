@@ -12,6 +12,18 @@
 "associations": {
 "passage": [
 {
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
+{
 "start_ref": "40005013",
 "start_ref_usfm": "MAT 5:13",
 "end_ref": "40005016",

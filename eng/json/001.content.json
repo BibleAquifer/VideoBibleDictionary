@@ -24,6 +24,12 @@
 "end_ref_usfm": "LEV 22:33"
 },
 {
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
+{
 "start_ref": "09016014",
 "start_ref_usfm": "1SA 16:14",
 "end_ref": "09016023",
@@ -116,6 +122,12 @@
 "start_ref_usfm": "NUM 31:25",
 "end_ref": "04031054",
 "end_ref_usfm": "NUM 31:54"
+},
+{
+"start_ref": "05028025",
+"start_ref_usfm": "DEU 28:25",
+"end_ref": "05028037",
+"end_ref_usfm": "DEU 28:37"
 },
 {
 "start_ref": "06009001",
@@ -224,6 +236,12 @@
 "start_ref_usfm": "EZR 2:64",
 "end_ref": "15002070",
 "end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "16007066",
+"start_ref_usfm": "NEH 7:66",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
 },
 {
 "start_ref": "18001013",

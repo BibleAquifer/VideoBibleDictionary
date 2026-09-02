@@ -188,6 +188,12 @@
 "end_ref_usfm": "1SA 24:7"
 },
 {
+"start_ref": "10017001",
+"start_ref_usfm": "2SA 17:1",
+"end_ref": "10017014",
+"end_ref_usfm": "2SA 17:14"
+},
+{
 "start_ref": "10017015",
 "start_ref_usfm": "2SA 17:15",
 "end_ref": "10017029",
@@ -262,6 +268,24 @@
 "start_ref_usfm": "NUM 20:1",
 "end_ref": "04020013",
 "end_ref_usfm": "NUM 20:13"
+},
+{
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028007",
+"start_ref_usfm": "DEU 28:7",
+"end_ref": "05028014",
+"end_ref_usfm": "DEU 28:14"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
 },
 {
 "start_ref": "07006011",

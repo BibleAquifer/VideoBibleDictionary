@@ -94,6 +94,24 @@
 "end_ref_usfm": "NUM 20:13"
 },
 {
+"start_ref": "05028001",
+"start_ref_usfm": "DEU 28:1",
+"end_ref": "05028006",
+"end_ref_usfm": "DEU 28:6"
+},
+{
+"start_ref": "05028007",
+"start_ref_usfm": "DEU 28:7",
+"end_ref": "05028014",
+"end_ref_usfm": "DEU 28:14"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
+{
 "start_ref": "07006011",
 "start_ref_usfm": "JDG 6:11",
 "end_ref": "07006027",
@@ -464,6 +482,214 @@
 "start_ref_usfm": "1CO 10:1",
 "end_ref": "46010013",
 "end_ref_usfm": "1CO 10:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2376",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Winepress",
+"media_type": "Video",
+"index_reference": "winepress",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2376/720p.mp4'><img src='thumbnails/a2376_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2376/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04018025",
+"start_ref_usfm": "NUM 18:25",
+"end_ref": "04018032",
+"end_ref_usfm": "NUM 18:32"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "07007016",
+"start_ref_usfm": "JDG 7:16",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2377",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Winepress",
+"media_type": "Video",
+"index_reference": "winepress",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2377/720p.mp4'><img src='thumbnails/a2377_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2377/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04018025",
+"start_ref_usfm": "NUM 18:25",
+"end_ref": "04018032",
+"end_ref_usfm": "NUM 18:32"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "07007016",
+"start_ref_usfm": "JDG 7:16",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2378",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Winepress",
+"media_type": "Video",
+"index_reference": "winepress",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2378/720p.mp4'><img src='thumbnails/a2378_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2378/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04018025",
+"start_ref_usfm": "NUM 18:25",
+"end_ref": "04018032",
+"end_ref_usfm": "NUM 18:32"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "07007016",
+"start_ref_usfm": "JDG 7:16",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "a2379",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Winepress",
+"media_type": "Video",
+"index_reference": "winepress",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2379/720p.mp4'><img src='thumbnails/a2379_720p_thumbnail.jpg' /></a> (96 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2379/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04018025",
+"start_ref_usfm": "NUM 18:25",
+"end_ref": "04018032",
+"end_ref_usfm": "NUM 18:32"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "07007016",
+"start_ref_usfm": "JDG 7:16",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
 }
 ],
 "resource": []

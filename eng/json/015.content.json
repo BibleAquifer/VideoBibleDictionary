@@ -554,12 +554,6 @@
 "end_ref_usfm": "NUM 17:13"
 },
 {
-"start_ref": "04022022",
-"start_ref_usfm": "NUM 22:22",
-"end_ref": "04022040",
-"end_ref_usfm": "NUM 22:40"
-},
-{
 "start_ref": "09017031",
 "start_ref_usfm": "1SA 17:31",
 "end_ref": "09017040",
@@ -738,22 +732,10 @@
 "end_ref_usfm": "LUK 4:30"
 },
 {
-"start_ref": "42004031",
-"start_ref_usfm": "LUK 4:31",
-"end_ref": "42004044",
-"end_ref_usfm": "LUK 4:44"
-},
-{
 "start_ref": "42006001",
 "start_ref_usfm": "LUK 6:1",
 "end_ref": "42006011",
 "end_ref_usfm": "LUK 6:11"
-},
-{
-"start_ref": "42007001",
-"start_ref_usfm": "LUK 7:1",
-"end_ref": "42007010",
-"end_ref_usfm": "LUK 7:10"
 },
 {
 "start_ref": "42012001",
