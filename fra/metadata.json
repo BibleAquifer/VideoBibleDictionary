@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2026-09-02",
+    "date_created": "2026-09-14",
     "language": "fra",
     "localizations": [
       "eng",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-09-02T15:57:29.173516"
+      "dateCreated": "2026-09-14T17:58:04.795547"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2026-09-02T15:57:29.173516"
+            "timestamp": "2026-09-14T17:58:04.795547"
           }
         }
       },
@@ -166,10 +166,11 @@
       },
       "json/008.content.json": {
         "mimeType": "text/json",
-        "size": 780,
+        "size": 2298,
         "scope": {
           "j": [
-            "Jardin de Gethsémané"
+            "Jardin de Gethsémané",
+            "Joug"
           ]
         }
       },
@@ -280,7 +281,7 @@
       },
       "md/008.content.md": {
         "mimeType": "text/markdown",
-        "size": 825
+        "size": 1274
       },
       "md/009.content.md": {
         "mimeType": "text/markdown",
@@ -1886,6 +1887,23 @@
           "content_id": "a182",
           "language": "por",
           "title": "Machado"
+        }
+      }
+    },
+    "a2447": {
+      "content_id": "a2447",
+      "reference_id": 0,
+      "index_reference": "joug",
+      "localizations": {
+        "eng": {
+          "content_id": "a2447",
+          "language": "eng",
+          "title": "Yoke"
+        },
+        "hin": {
+          "content_id": "a2447",
+          "language": "hin",
+          "title": "जूआ"
         }
       }
     },
