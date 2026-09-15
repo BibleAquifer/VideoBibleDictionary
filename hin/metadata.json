@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2026-09-02",
+    "date_created": "2026-09-14",
     "language": "hin",
     "localizations": [
       "eng",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-09-02T15:57:29.243598"
+      "dateCreated": "2026-09-14T17:58:04.865417"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2026-09-02T15:57:29.243598"
+            "timestamp": "2026-09-14T17:58:04.865417"
           }
         }
       },
@@ -187,10 +187,11 @@
       },
       "json/010.content.json": {
         "mimeType": "text/json",
-        "size": 11492,
+        "size": 13020,
         "scope": {
           "ज": [
             "जंगल या रेगिस्तान",
+            "जूआ",
             "जूते",
             "जैतून और खजूर के पेड़ की डालियाँ",
             "जैतून का पहाड़",
@@ -417,7 +418,7 @@
       },
       "md/010.content.md": {
         "mimeType": "text/markdown",
-        "size": 4389
+        "size": 4970
       },
       "md/005.content.md": {
         "mimeType": "text/markdown",
@@ -2158,6 +2159,23 @@
           "content_id": "a113",
           "language": "eng",
           "title": "Stew"
+        }
+      }
+    },
+    "a2447": {
+      "content_id": "a2447",
+      "reference_id": 0,
+      "index_reference": "जूआ",
+      "localizations": {
+        "eng": {
+          "content_id": "a2447",
+          "language": "eng",
+          "title": "Yoke"
+        },
+        "fra": {
+          "content_id": "a2447",
+          "language": "fra",
+          "title": "Joug"
         }
       }
     },

@@ -184,6 +184,76 @@
 }
 },
 {
+"content_id": "a2447",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "जूआ",
+"media_type": "Video",
+"index_reference": "जूआ",
+"language": "hin",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2447/720p.mp4'><img src='thumbnails/a2447_720p_thumbnail.jpg' /></a> (10 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2447/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01027030",
+"start_ref_usfm": "GEN 27:30",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "10006001",
+"start_ref_usfm": "2SA 6:1",
+"end_ref": "10006015",
+"end_ref_usfm": "2SA 6:15"
+},
+{
+"start_ref": "11012001",
+"start_ref_usfm": "1KI 12:1",
+"end_ref": "11012015",
+"end_ref_usfm": "1KI 12:15"
+},
+{
+"start_ref": "13013001",
+"start_ref_usfm": "1CH 13:1",
+"end_ref": "13013014",
+"end_ref_usfm": "1CH 13:14"
+},
+{
+"start_ref": "14010001",
+"start_ref_usfm": "2CH 10:1",
+"end_ref": "14010007",
+"end_ref_usfm": "2CH 10:7"
+},
+{
+"start_ref": "40011025",
+"start_ref_usfm": "MAT 11:25",
+"end_ref": "40011030",
+"end_ref_usfm": "MAT 11:30"
+},
+{
+"start_ref": "48004028",
+"start_ref_usfm": "GAL 4:28",
+"end_ref": "48005001",
+"end_ref_usfm": "GAL 5:1"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006002",
+"end_ref_usfm": "1TI 6:2"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "a184",
 "reference_id": 0,
 "version": "1.0.4",

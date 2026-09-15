@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
     "resource_code": "VideoBibleDictionary",
-    "date_created": "2026-09-02",
+    "date_created": "2026-09-14",
     "language": "eng",
     "localizations": [
       "fra",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-09-02T15:57:29.084351"
+      "dateCreated": "2026-09-14T17:58:04.706627"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "VideoBibleDictionary": {
-            "timestamp": "2026-09-02T15:57:29.084351"
+            "timestamp": "2026-09-14T17:58:04.706627"
           }
         }
       },
@@ -327,6 +327,15 @@
           ]
         }
       },
+      "json/019.content.json": {
+        "mimeType": "text/json",
+        "size": 1520,
+        "scope": {
+          "y": [
+            "Yoke"
+          ]
+        }
+      },
       "md/008.content.md": {
         "mimeType": "text/markdown",
         "size": 1512
@@ -394,6 +403,10 @@
       "md/013.content.md": {
         "mimeType": "text/markdown",
         "size": 3252
+      },
+      "md/019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 949
       },
       "md/018.content.md": {
         "mimeType": "text/markdown",
@@ -2197,6 +2210,23 @@
       "reference_id": 0,
       "index_reference": "bow and arrows",
       "localizations": {}
+    },
+    "a2447": {
+      "content_id": "a2447",
+      "reference_id": 0,
+      "index_reference": "yoke",
+      "localizations": {
+        "fra": {
+          "content_id": "a2447",
+          "language": "fra",
+          "title": "Joug"
+        },
+        "hin": {
+          "content_id": "a2447",
+          "language": "hin",
+          "title": "जूआ"
+        }
+      }
     },
     "a139": {
       "content_id": "a139",
