@@ -156,6 +156,24 @@
 "end_ref_usfm": "1SA 13:14"
 },
 {
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
+},
+{
+"start_ref": "12010001",
+"start_ref_usfm": "2KI 10:1",
+"end_ref": "12010017",
+"end_ref_usfm": "2KI 10:17"
+},
+{
 "start_ref": "41001001",
 "start_ref_usfm": "MRK 1:1",
 "end_ref": "41001013",

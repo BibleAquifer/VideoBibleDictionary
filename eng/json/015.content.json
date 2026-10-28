@@ -42,6 +42,12 @@
 "end_ref_usfm": "1KI 21:29"
 },
 {
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12007002",
+"end_ref_usfm": "2KI 7:2"
+},
+{
 "start_ref": "13021007",
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
@@ -52,6 +58,12 @@
 "start_ref_usfm": "EST 4:1",
 "end_ref": "17004011",
 "end_ref_usfm": "EST 4:11"
+},
+{
+"start_ref": "32003001",
+"start_ref_usfm": "JON 3:1",
+"end_ref": "32003010",
+"end_ref_usfm": "JON 3:10"
 },
 {
 "start_ref": "40011020",
@@ -144,6 +156,12 @@
 "start_ref_usfm": "2CH 28:9",
 "end_ref": "14028015",
 "end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
 },
 {
 "start_ref": "40003001",
@@ -444,6 +462,12 @@
 "end_ref_usfm": "2SA 23:23"
 },
 {
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
 "start_ref": "13011020",
 "start_ref_usfm": "1CH 11:20",
 "end_ref": "13011025",
@@ -564,6 +588,12 @@
 "start_ref_usfm": "1SA 17:41",
 "end_ref": "09017054",
 "end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "12004018",
+"start_ref_usfm": "2KI 4:18",
+"end_ref": "12004037",
+"end_ref_usfm": "2KI 4:37"
 },
 {
 "start_ref": "41006006",

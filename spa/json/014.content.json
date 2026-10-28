@@ -48,6 +48,12 @@
 "end_ref_usfm": "2CH 28:15"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40003001",
 "start_ref_usfm": "MAT 3:1",
 "end_ref": "40003017",
@@ -288,6 +294,12 @@
 "start_ref_usfm": "EST 3:7",
 "end_ref": "17003015",
 "end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "17009020",
+"start_ref_usfm": "EST 9:20",
+"end_ref": "17009032",
+"end_ref_usfm": "EST 9:32"
 },
 {
 "start_ref": "32001001",

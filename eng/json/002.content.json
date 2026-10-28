@@ -256,6 +256,18 @@
 "end_ref_usfm": "2SA 22:46"
 },
 {
+"start_ref": "12006008",
+"start_ref_usfm": "2KI 6:8",
+"end_ref": "12006023",
+"end_ref_usfm": "2KI 6:23"
+},
+{
+"start_ref": "12009014",
+"start_ref_usfm": "2KI 9:14",
+"end_ref": "12009029",
+"end_ref_usfm": "2KI 9:29"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -284,6 +296,12 @@
 "start_ref_usfm": "2CH 18:28",
 "end_ref": "14018034",
 "end_ref_usfm": "2CH 18:34"
+},
+{
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
 },
 {
 "start_ref": "49006010",

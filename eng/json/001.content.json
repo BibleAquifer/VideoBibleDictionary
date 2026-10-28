@@ -214,6 +214,18 @@
 "end_ref_usfm": "1KI 13:34"
 },
 {
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12007002",
+"end_ref_usfm": "2KI 7:2"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007020",
+"end_ref_usfm": "2KI 7:20"
+},
+{
 "start_ref": "13012023",
 "start_ref_usfm": "1CH 12:23",
 "end_ref": "13012040",
@@ -356,6 +368,12 @@
 "start_ref_usfm": "1SA 13:15",
 "end_ref": "09013023",
 "end_ref_usfm": "1SA 13:23"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
 },
 {
 "start_ref": "40003001",
