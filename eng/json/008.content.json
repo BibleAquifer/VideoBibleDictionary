@@ -1,27 +1,5 @@
 [
 {
-"content_id": "a16",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Jar of Sour Wine",
-"media_type": "Video",
-"index_reference": "jar of sour wine",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a16/720p.mp4'><img src='thumbnails/a16_720p_thumbnail.jpg' /></a> (58 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a16/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "43019017",
-"start_ref_usfm": "JHN 19:17",
-"end_ref": "43019030",
-"end_ref_usfm": "JHN 19:30"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "a13",
 "reference_id": 0,
 "version": "1.0.4",
@@ -62,6 +40,24 @@
 "start_ref_usfm": "1SA 13:1",
 "end_ref": "09013014",
 "end_ref_usfm": "1SA 13:14"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
+},
+{
+"start_ref": "12010001",
+"start_ref_usfm": "2KI 10:1",
+"end_ref": "12010017",
+"end_ref_usfm": "2KI 10:17"
 },
 {
 "start_ref": "41001001",
