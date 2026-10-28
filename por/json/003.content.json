@@ -78,6 +78,12 @@
 "end_ref_usfm": "1SA 17:54"
 },
 {
+"start_ref": "12004018",
+"start_ref_usfm": "2KI 4:18",
+"end_ref": "12004037",
+"end_ref_usfm": "2KI 4:37"
+},
+{
 "start_ref": "41006006",
 "start_ref_usfm": "MRK 6:6",
 "end_ref": "41006013",
@@ -158,6 +164,12 @@
 "start_ref_usfm": "1KI 9:26",
 "end_ref": "11010013",
 "end_ref_usfm": "1KI 10:13"
+},
+{
+"start_ref": "12008007",
+"start_ref_usfm": "2KI 8:7",
+"end_ref": "12008015",
+"end_ref_usfm": "2KI 8:15"
 },
 {
 "start_ref": "13012023",
@@ -282,6 +294,18 @@
 "start_ref_usfm": "1KI 18:41",
 "end_ref": "11018046",
 "end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "12004038",
+"start_ref_usfm": "2KI 4:38",
+"end_ref": "12004044",
+"end_ref_usfm": "2KI 4:44"
+},
+{
+"start_ref": "12009001",
+"start_ref_usfm": "2KI 9:1",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
 },
 {
 "start_ref": "15009001",

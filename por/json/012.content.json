@@ -82,6 +82,12 @@
 "end_ref_usfm": "1KI 21:29"
 },
 {
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12007002",
+"end_ref_usfm": "2KI 7:2"
+},
+{
 "start_ref": "13021007",
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
@@ -92,6 +98,12 @@
 "start_ref_usfm": "EST 4:1",
 "end_ref": "17004011",
 "end_ref_usfm": "EST 4:11"
+},
+{
+"start_ref": "32003001",
+"start_ref_usfm": "JON 3:1",
+"end_ref": "32003010",
+"end_ref_usfm": "JON 3:10"
 },
 {
 "start_ref": "40011020",
