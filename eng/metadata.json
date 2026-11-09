@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-10-28",
+"date_created": "2026-11-09",
 "language": "eng",
 "localizations": [
 "fra",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-28T14:58:08.186498"
+"dateCreated": "2026-11-09T15:14:49.497450"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-10-28T14:58:08.186498"
+"timestamp": "2026-11-09T15:14:49.497450"
 }
 }
 },
@@ -136,6 +136,15 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
+"size": 646,
+"scope": {
+"d": [
+"Dry Bread"
+]
+}
+},
+"json/005.content.json": {
+"mimeType": "text/json",
 "size": 1436,
 "scope": {
 "e": [
@@ -144,7 +153,7 @@
 ]
 }
 },
-"json/005.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
 "size": 5865,
 "scope": {
@@ -157,7 +166,7 @@
 ]
 }
 },
-"json/006.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
 "size": 2288,
 "scope": {
@@ -168,7 +177,7 @@
 ]
 }
 },
-"json/007.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
 "size": 4987,
 "scope": {
@@ -181,29 +190,32 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 2391,
+"size": 3712,
 "scope": {
 "j": [
+"Jar of Sour Wine",
+"Jar of Sour Wine",
 "Jordan River",
 "Joseph's Coat"
 ]
 }
 },
-"json/009.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 4344,
+"size": 5358,
 "scope": {
 "l": [
 "Lampstand",
 "Large Basket",
 "Lifespan of a Flower",
+"Long Sheet of Linen Cloth",
 "Lots"
 ]
 }
 },
-"json/010.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 5581,
 "scope": {
@@ -216,7 +228,7 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
 "size": 782,
 "scope": {
@@ -225,9 +237,9 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 5925,
+"size": 6035,
 "scope": {
 "o": [
 "Oil Lamp",
@@ -236,7 +248,7 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
 "size": 6239,
 "scope": {
@@ -253,7 +265,7 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
 "size": 2310,
 "scope": {
@@ -263,9 +275,9 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 18345,
+"size": 18453,
 "scope": {
 "s": [
 "Sackcloth",
@@ -284,7 +296,7 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
 "size": 7081,
 "scope": {
@@ -296,7 +308,7 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
 "size": 3097,
 "scope": {
@@ -305,7 +317,7 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
 "size": 19340,
 "scope": {
@@ -326,7 +338,7 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
 "size": 1520,
 "scope": {
@@ -337,11 +349,11 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 1262
+"size": 2284
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 1947
+"size": 1873
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
@@ -349,27 +361,31 @@
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 1130
+"size": 800
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 831
+"size": 2298
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2314
+"size": 5822
+},
+"md/020.content.md": {
+"mimeType": "text/markdown",
+"size": 949
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 1184
+"size": 2314
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 2298
+"size": 2309
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 2375
+"size": 1130
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -377,19 +393,19 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 1960
+"size": 831
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 5806
+"size": 1246
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 2284
+"size": 1452
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 1452
+"size": 2375
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
@@ -397,19 +413,19 @@
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 1246
+"size": 3252
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 3252
+"size": 1978
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 949
+"size": 6118
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 6118
+"size": 1184
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
@@ -425,65 +441,69 @@
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 32419
+"size": 29597
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 36840
+"size": 32419
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 33514
+"size": 36840
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 36937
+"size": 33514
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 32176
+"size": 36937
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 35251
+"size": 35763
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 37533
+"size": 37245
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 30494
+"size": 37533
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 33870
+"size": 30494
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43628
+"size": 33870
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 31783
+"size": 43628
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51165
+"size": 31783
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 35051
+"size": 51165
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 29790
+"size": 35051
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51017
+"size": 29790
 },
 "pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 51017
+},
+"pdf/020.content.pdf": {
 "mimeType": "application/pdf",
 "size": 29552
 }
@@ -1899,6 +1919,38 @@
 }
 }
 },
+"a2473": {
+"content_id": "a2473",
+"reference_id": 0,
+"index_reference": "long sheet of linen cloth",
+"localizations": {
+"fra": {
+"content_id": "a2473",
+"language": "fra",
+"title": "Long drap de tissu de lin"
+},
+"hin": {
+"content_id": "a2473",
+"language": "hin",
+"title": "मलमल की एक चादर"
+},
+"por": {
+"content_id": "a2473",
+"language": "por",
+"title": "Lençol comprido de linho"
+},
+"spa": {
+"content_id": "a2473",
+"language": "spa",
+"title": "Pedazo grande de tela de lino"
+},
+"zhs": {
+"content_id": "a2473",
+"language": "zhs",
+"title": "长条细麻布"
+}
+}
+},
 "a29": {
 "content_id": "a29",
 "reference_id": 0,
@@ -2552,6 +2604,30 @@
 }
 }
 },
+"a2546": {
+"content_id": "a2546",
+"reference_id": 0,
+"index_reference": "jar of sour wine",
+"localizations": {
+"hin": {
+"content_id": "a2546",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+}
+}
+},
+"a2547": {
+"content_id": "a2547",
+"reference_id": 0,
+"index_reference": "jar of sour wine",
+"localizations": {
+"hin": {
+"content_id": "a2547",
+"language": "hin",
+"title": "खट्टे दाखरस का घड़ा"
+}
+}
+},
 "a1444": {
 "content_id": "a1444",
 "reference_id": 0,
@@ -2563,6 +2639,12 @@
 "title": "ओले पड़ना"
 }
 }
+},
+"a2577": {
+"content_id": "a2577",
+"reference_id": 0,
+"index_reference": "dry bread",
+"localizations": {}
 },
 "a1388": {
 "content_id": "a1388",

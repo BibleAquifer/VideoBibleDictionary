@@ -1,199 +1,83 @@
 [
 {
-"content_id": "a1444",
+"content_id": "a37",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Hail Falling",
+"title": "Garden of Gethsemane",
 "media_type": "Video",
-"index_reference": "hail falling",
+"index_reference": "garden of gethsemane",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1444/720p.mp4'><img src='thumbnails/a1444_720p_thumbnail.jpg' /></a> (12 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1444/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'><img src='thumbnails/a37_720p_thumbnail.jpg' /></a> (108 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a37/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "02009013",
-"start_ref_usfm": "EXO 9:13",
-"end_ref": "02009021",
-"end_ref_usfm": "EXO 9:21"
+"start_ref": "40026036",
+"start_ref_usfm": "MAT 26:36",
+"end_ref": "40026046",
+"end_ref_usfm": "MAT 26:46"
 },
 {
-"start_ref": "02009022",
-"start_ref_usfm": "EXO 9:22",
-"end_ref": "02009035",
-"end_ref_usfm": "EXO 9:35"
+"start_ref": "41014032",
+"start_ref_usfm": "MRK 14:32",
+"end_ref": "41014042",
+"end_ref_usfm": "MRK 14:42"
 }
 ],
 "resource": []
 }
 },
 {
-"content_id": "a2218",
+"content_id": "a35",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Hammer and Tent Pegs",
+"title": "Garden Tomb",
 "media_type": "Video",
-"index_reference": "hammer and tent pegs",
+"index_reference": "garden tomb",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2218/720p.mp4'><img src='thumbnails/a2218_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2218/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'><img src='thumbnails/a35_720p_thumbnail.jpg' /></a> (84 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a35/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "07004011",
-"start_ref_usfm": "JDG 4:11",
-"end_ref": "07004024",
-"end_ref_usfm": "JDG 4:24"
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
 },
 {
-"start_ref": "07005024",
-"start_ref_usfm": "JDG 5:24",
-"end_ref": "07005031",
-"end_ref_usfm": "JDG 5:31"
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
 }
 ],
 "resource": []
 }
 },
 {
-"content_id": "a2219",
+"content_id": "a1352",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Hammer and Tent Pegs",
+"title": "Goat Skin",
 "media_type": "Video",
-"index_reference": "hammer and tent pegs",
+"index_reference": "goat skin",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2219/720p.mp4'><img src='thumbnails/a2219_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2219/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1352/720p.mp4'><img src='thumbnails/a1352_720p_thumbnail.jpg' /></a> (81 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a1352/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "07004011",
-"start_ref_usfm": "JDG 4:11",
-"end_ref": "07004024",
-"end_ref_usfm": "JDG 4:24"
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01027017",
+"end_ref_usfm": "GEN 27:17"
 },
 {
-"start_ref": "07005024",
-"start_ref_usfm": "JDG 5:24",
-"end_ref": "07005031",
-"end_ref_usfm": "JDG 5:31"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "a2220",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Hammer and Tent Pegs",
-"media_type": "Video",
-"index_reference": "hammer and tent pegs",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2220/720p.mp4'><img src='thumbnails/a2220_720p_thumbnail.jpg' /></a> (0 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2220/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "07004011",
-"start_ref_usfm": "JDG 4:11",
-"end_ref": "07004024",
-"end_ref_usfm": "JDG 4:24"
-},
-{
-"start_ref": "07005024",
-"start_ref_usfm": "JDG 5:24",
-"end_ref": "07005031",
-"end_ref_usfm": "JDG 5:31"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "a145",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "House in the Time of Jesus",
-"media_type": "Video",
-"index_reference": "house in the time of jesus",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'><img src='thumbnails/a145_720p_thumbnail.jpg' /></a> (87 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a145/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "03027009",
-"start_ref_usfm": "LEV 27:9",
-"end_ref": "03027015",
-"end_ref_usfm": "LEV 27:15"
-},
-{
-"start_ref": "09009015",
-"start_ref_usfm": "1SA 9:15",
-"end_ref": "09009027",
-"end_ref_usfm": "1SA 9:27"
-},
-{
-"start_ref": "40010026",
-"start_ref_usfm": "MAT 10:26",
-"end_ref": "40010033",
-"end_ref_usfm": "MAT 10:33"
-},
-{
-"start_ref": "40024015",
-"start_ref_usfm": "MAT 24:15",
-"end_ref": "40024028",
-"end_ref_usfm": "MAT 24:28"
-},
-{
-"start_ref": "40024037",
-"start_ref_usfm": "MAT 24:37",
-"end_ref": "40024044",
-"end_ref_usfm": "MAT 24:44"
-},
-{
-"start_ref": "41002001",
-"start_ref_usfm": "MRK 2:1",
-"end_ref": "41002012",
-"end_ref_usfm": "MRK 2:12"
-},
-{
-"start_ref": "41013009",
-"start_ref_usfm": "MRK 13:9",
-"end_ref": "41013023",
-"end_ref_usfm": "MRK 13:23"
-},
-{
-"start_ref": "42005017",
-"start_ref_usfm": "LUK 5:17",
-"end_ref": "42005026",
-"end_ref_usfm": "LUK 5:26"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42022047",
-"start_ref_usfm": "LUK 22:47",
-"end_ref": "42022062",
-"end_ref_usfm": "LUK 22:62"
-},
-{
-"start_ref": "44009036",
-"start_ref_usfm": "ACT 9:36",
-"end_ref": "44009043",
-"end_ref_usfm": "ACT 9:43"
-},
-{
-"start_ref": "44010009",
-"start_ref_usfm": "ACT 10:9",
-"end_ref": "44010023",
-"end_ref_usfm": "ACT 10:23"
+"start_ref": "09019011",
+"start_ref_usfm": "1SA 19:11",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
 }
 ],
 "resource": []

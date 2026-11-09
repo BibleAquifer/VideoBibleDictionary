@@ -1,49 +1,21 @@
 [
 {
-"content_id": "a133",
+"content_id": "a2577",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "Egyptian Cloak",
+"title": "Dry Bread",
 "media_type": "Video",
-"index_reference": "egyptian cloak",
+"index_reference": "dry bread",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a133/720p.mp4'><img src='thumbnails/a133_720p_thumbnail.jpg' /></a> (72 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a133/720p.mp4'>link</a></p>",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2577/720p.mp4'><img src='thumbnails/a2577_720p_thumbnail.jpg' /></a> (18 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2577/720p.mp4'>link</a></p>",
 "associations": {
 "passage": [
 {
-"start_ref": "02004001",
-"start_ref_usfm": "EXO 4:1",
-"end_ref": "02004017",
-"end_ref_usfm": "EXO 4:17"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "a148",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Entrance to Jewish House",
-"media_type": "Video",
-"index_reference": "entrance to jewish house",
-"language": "eng",
-"review_level": "None",
-"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a148/720p.mp4'><img src='thumbnails/a148_720p_thumbnail.jpg' /></a> (88 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a148/720p.mp4'>link</a></p>",
-"associations": {
-"passage": [
-{
-"start_ref": "03027009",
-"start_ref_usfm": "LEV 27:9",
-"end_ref": "03027015",
-"end_ref_usfm": "LEV 27:15"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
 }
 ],
 "resource": []
