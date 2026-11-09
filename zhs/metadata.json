@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-10-28",
+"date_created": "2026-11-09",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-28T14:58:08.624165"
+"dateCreated": "2026-11-09T15:14:49.905278"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-10-28T14:58:08.624165"
+"timestamp": "2026-11-09T15:14:49.905278"
 }
 }
 },
@@ -138,7 +138,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 5379,
+"size": 5489,
 "scope": {
 "gan": [
 "橄榄山",
@@ -417,10 +417,11 @@
 },
 "json/036.content.json": {
 "mimeType": "text/json",
-"size": 1853,
+"size": 2847,
 "scope": {
 "chang": [
-"长袍/里衣"
+"长袍/里衣",
+"长条细麻布"
 ]
 }
 },
@@ -523,7 +524,7 @@
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
-"size": 1038
+"size": 1419
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
@@ -535,7 +536,7 @@
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 2080
+"size": 2102
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
@@ -723,7 +724,7 @@
 },
 "pdf/036.content.pdf": {
 "mimeType": "application/pdf",
-"size": 30872
+"size": 33498
 },
 "pdf/037.content.pdf": {
 "mimeType": "application/pdf",
@@ -2087,6 +2088,38 @@
 "content_id": "a1381",
 "language": "spa",
 "title": "Esponja con vino en un palo"
+}
+}
+},
+"a2473": {
+"content_id": "a2473",
+"reference_id": 0,
+"index_reference": "长条细麻布",
+"localizations": {
+"eng": {
+"content_id": "a2473",
+"language": "eng",
+"title": "Long Sheet of Linen Cloth"
+},
+"fra": {
+"content_id": "a2473",
+"language": "fra",
+"title": "Long drap de tissu de lin"
+},
+"hin": {
+"content_id": "a2473",
+"language": "hin",
+"title": "मलमल की एक चादर"
+},
+"por": {
+"content_id": "a2473",
+"language": "por",
+"title": "Lençol comprido de linho"
+},
+"spa": {
+"content_id": "a2473",
+"language": "spa",
+"title": "Pedazo grande de tela de lino"
 }
 }
 },
