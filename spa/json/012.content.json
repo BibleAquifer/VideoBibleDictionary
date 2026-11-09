@@ -252,6 +252,46 @@
 }
 },
 {
+"content_id": "a2473",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pedazo grande de tela de lino",
+"media_type": "Video",
+"index_reference": "pedazo grande de tela de lino",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Video Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2473/720p.mp4'><img src='thumbnails/a2473_720p_thumbnail.jpg' /></a> (89 seconds)</p><p align='center'><a href='https://s3.amazonaws.com/cbbt-er.public/media/videos/a2473/720p.mp4'>link</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027057",
+"start_ref_usfm": "MAT 27:57",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020018",
+"end_ref_usfm": "JHN 20:18"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "a43",
 "reference_id": 0,
 "version": "1.0.4",
