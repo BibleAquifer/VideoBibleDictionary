@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-10-28",
+"date_created": "2026-11-09",
 "language": "hin",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-28T14:58:08.372821"
+"dateCreated": "2026-11-09T15:14:49.668709"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-10-28T14:58:08.372821"
+"timestamp": "2026-11-09T15:14:49.668709"
 }
 }
 },
@@ -153,6 +153,16 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
+"size": 1463,
+"scope": {
+"ख": [
+"खट्टे दाखरस का घड़ा",
+"खट्टे दाखरस का घड़ा"
+]
+}
+},
+"json/008.content.json": {
+"mimeType": "text/json",
 "size": 9895,
 "scope": {
 "ग": [
@@ -164,7 +174,7 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
 "size": 3731,
 "scope": {
@@ -176,9 +186,9 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 13238,
+"size": 13348,
 "scope": {
 "ज": [
 "जंगल या रेगिस्तान",
@@ -190,7 +200,7 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
 "size": 1313,
 "scope": {
@@ -199,9 +209,9 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 2824,
+"size": 2932,
 "scope": {
 "ट": [
 "टाट",
@@ -209,7 +219,7 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
 "size": 3823,
 "scope": {
@@ -219,7 +229,7 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
 "size": 643,
 "scope": {
@@ -228,7 +238,7 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
 "size": 7212,
 "scope": {
@@ -242,20 +252,12 @@
 ]
 }
 },
-"json/015.content.json": {
-"mimeType": "text/json",
-"size": 1132,
-"scope": {
-"प": [
-"पकाई हुई मछली"
-]
-}
-},
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 602,
+"size": 1732,
 "scope": {
-"पर": [
+"प": [
+"पकाई हुई मछली",
 "प्रेसिपिस पर्वत"
 ]
 }
@@ -284,11 +286,12 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 8379,
+"size": 9421,
 "scope": {
 "म": [
 "मछली की पंखुड़ी",
 "मछली पकड़ने का जाल",
+"मलमल की एक चादर",
 "मशक",
 "महीन मलमल का कपड़ा",
 "मिस्र का वस्त्र",
@@ -373,11 +376,11 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 2037
+"size": 3967
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 5026
+"size": 2037
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
@@ -389,11 +392,11 @@
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 1565
+"size": 995
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 790
+"size": 1213
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -405,7 +408,7 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 995
+"size": 5060
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
@@ -425,15 +428,15 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 1822
+"size": 1597
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 924
+"size": 3396
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 3967
+"size": 1216
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
@@ -453,11 +456,11 @@
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 3396
+"size": 806
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 806
+"size": 1822
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
@@ -469,7 +472,7 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3814
+"size": 4243
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
@@ -501,43 +504,43 @@
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 41189
+"size": 34086
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 38042
+"size": 41189
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42686
+"size": 38042
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 30282
+"size": 42686
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 33444
+"size": 30282
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 34132
+"size": 33444
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 30215
+"size": 34132
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 41839
+"size": 30215
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 32025
+"size": 41839
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 31342
+"size": 35156
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
@@ -549,7 +552,7 @@
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44306
+"size": 46462
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
@@ -1991,6 +1994,38 @@
 }
 }
 },
+"a2473": {
+"content_id": "a2473",
+"reference_id": 0,
+"index_reference": "मलमल की एक चादर",
+"localizations": {
+"eng": {
+"content_id": "a2473",
+"language": "eng",
+"title": "Long Sheet of Linen Cloth"
+},
+"fra": {
+"content_id": "a2473",
+"language": "fra",
+"title": "Long drap de tissu de lin"
+},
+"por": {
+"content_id": "a2473",
+"language": "por",
+"title": "Lençol comprido de linho"
+},
+"spa": {
+"content_id": "a2473",
+"language": "spa",
+"title": "Pedazo grande de tela de lino"
+},
+"zhs": {
+"content_id": "a2473",
+"language": "zhs",
+"title": "长条细麻布"
+}
+}
+},
 "a29": {
 "content_id": "a29",
 "reference_id": 0,
@@ -2463,6 +2498,30 @@
 "content_id": "a1262",
 "language": "por",
 "title": "Neve"
+}
+}
+},
+"a2546": {
+"content_id": "a2546",
+"reference_id": 0,
+"index_reference": "खट्टे दाखरस का घड़ा",
+"localizations": {
+"eng": {
+"content_id": "a2546",
+"language": "eng",
+"title": "Jar of Sour Wine"
+}
+}
+},
+"a2547": {
+"content_id": "a2547",
+"reference_id": 0,
+"index_reference": "खट्टे दाखरस का घड़ा",
+"localizations": {
+"eng": {
+"content_id": "a2547",
+"language": "eng",
+"title": "Jar of Sour Wine"
 }
 }
 },
