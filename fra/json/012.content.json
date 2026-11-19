@@ -54,6 +54,12 @@
 "end_ref_usfm": "2KI 4:7"
 },
 {
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
+{
 "start_ref": "16008013",
 "start_ref_usfm": "NEH 8:13",
 "end_ref": "16008018",
@@ -164,6 +170,12 @@
 "start_ref_usfm": "EZR 7:11",
 "end_ref": "15007028",
 "end_ref_usfm": "EZR 7:28"
+},
+{
+"start_ref": "16013010",
+"start_ref_usfm": "NEH 13:10",
+"end_ref": "16013014",
+"end_ref_usfm": "NEH 13:14"
 },
 {
 "start_ref": "40009014",
