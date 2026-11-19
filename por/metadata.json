@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-11-18",
+"date_created": "2026-11-19",
 "language": "por",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-18T18:02:38.704157"
+"dateCreated": "2026-11-19T14:38:27.390651"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-11-18T18:02:38.704157"
+"timestamp": "2026-11-19T14:38:27.390651"
 }
 }
 },
