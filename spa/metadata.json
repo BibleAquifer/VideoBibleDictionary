@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-11-09",
+"date_created": "2026-11-18",
 "language": "spa",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-09T15:14:49.821483"
+"dateCreated": "2026-11-18T18:02:38.781918"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-11-09T15:14:49.821483"
+"timestamp": "2026-11-18T18:02:38.781918"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 3168,
+"size": 3280,
 "scope": {
 "a": [
 "Acantilados",
@@ -103,7 +103,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 3254,
+"size": 3366,
 "scope": {
 "b": [
 "Bandeja",
@@ -201,7 +201,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 1508,
+"size": 1620,
 "scope": {
 "o": [
 "Odre"
@@ -210,7 +210,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 16130,
+"size": 17010,
 "scope": {
 "p": [
 "Palo",
@@ -252,7 +252,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 13426,
+"size": 13759,
 "scope": {
 "t": [
 "Torre de vigilancia para un viñedo",
@@ -284,7 +284,7 @@
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 918
+"size": 938
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
@@ -296,15 +296,15 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 1590
+"size": 1608
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 5429
+"size": 5569
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 4152
+"size": 4203
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -316,7 +316,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1374
+"size": 1392
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
