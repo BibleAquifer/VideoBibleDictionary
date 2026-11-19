@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-11-09",
+"date_created": "2026-11-18",
 "language": "fra",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-09T15:14:49.593045"
+"dateCreated": "2026-11-18T18:02:38.543938"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-11-09T15:14:49.593045"
+"timestamp": "2026-11-18T18:02:38.543938"
 }
 }
 },
@@ -103,7 +103,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 7633,
+"size": 7969,
 "scope": {
 "b": [
 "bâton",
@@ -208,7 +208,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 3910,
+"size": 4134,
 "scope": {
 "o": [
 "Olivier",
@@ -218,7 +218,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 14656,
+"size": 15536,
 "scope": {
 "p": [
 "Panier de provisions",
@@ -305,11 +305,11 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 2496
+"size": 2547
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 1461
+"size": 1498
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
@@ -333,7 +333,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 5579
+"size": 5715
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",

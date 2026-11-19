@@ -22,6 +22,12 @@
 "start_ref_usfm": "EXO 9:22",
 "end_ref": "02009035",
 "end_ref_usfm": "EXO 9:35"
+},
+{
+"start_ref": "23028001",
+"start_ref_usfm": "ISA 28:1",
+"end_ref": "23028006",
+"end_ref_usfm": "ISA 28:6"
 }
 ],
 "resource": []

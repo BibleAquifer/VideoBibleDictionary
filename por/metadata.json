@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-11-09",
+"date_created": "2026-11-18",
 "language": "por",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-09T15:14:49.748159"
+"dateCreated": "2026-11-18T18:02:38.704157"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-11-09T15:14:49.748159"
+"timestamp": "2026-11-18T18:02:38.704157"
 }
 }
 },
@@ -114,7 +114,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 16514,
+"size": 16626,
 "scope": {
 "c": [
 "Cajado",
@@ -175,7 +175,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 9084,
+"size": 9964,
 "scope": {
 "l": [
 "Lagar",
@@ -189,7 +189,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 11377,
+"size": 11486,
 "scope": {
 "m": [
 "Machado",
@@ -216,7 +216,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 3912,
+"size": 4136,
 "scope": {
 "o": [
 "Odres",
@@ -226,7 +226,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 11672,
+"size": 11891,
 "scope": {
 "p": [
 "Pá de joeirar",
@@ -275,7 +275,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 13066,
+"size": 13290,
 "scope": {
 "t": [
 "Tabuinha",
@@ -301,15 +301,15 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 3125
+"size": 3257
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 4204
+"size": 4219
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 5009
+"size": 5026
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -317,11 +317,11 @@
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 1471
+"size": 1506
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 4080
+"size": 4114
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
@@ -341,7 +341,7 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 4072
+"size": 4102
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",

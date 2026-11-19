@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-11-09",
+"date_created": "2026-11-18",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-09T15:14:49.905278"
+"dateCreated": "2026-11-18T18:02:38.863661"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-11-09T15:14:49.905278"
+"timestamp": "2026-11-18T18:02:38.863661"
 }
 }
 },
@@ -138,7 +138,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 5489,
+"size": 5601,
 "scope": {
 "gan": [
 "橄榄山",
@@ -194,7 +194,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 1420,
+"size": 1532,
 "scope": {
 "jie": [
 "结穗的麦子"
@@ -203,7 +203,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 5223,
+"size": 6103,
 "scope": {
 "jiu": [
 "酒榨",
@@ -279,7 +279,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 1518,
+"size": 1630,
 "scope": {
 "pi": [
 "皮酒袋"
@@ -298,7 +298,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 4493,
+"size": 4605,
 "scope": {
 "shu": [
 "熟透待收的麦子",
@@ -427,7 +427,7 @@
 },
 "json/037.content.json": {
 "mimeType": "text/json",
-"size": 1959,
+"size": 2071,
 "scope": {
 "zhang": [
 "杖"
@@ -504,11 +504,11 @@
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 983
+"size": 1006
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 950
+"size": 973
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
@@ -528,7 +528,7 @@
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1717
+"size": 1740
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
@@ -536,7 +536,7 @@
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 2102
+"size": 2125
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
@@ -548,7 +548,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 2218
+"size": 2390
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
@@ -560,7 +560,7 @@
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 1062
+"size": 1085
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",

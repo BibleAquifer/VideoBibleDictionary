@@ -48,6 +48,12 @@
 "end_ref_usfm": "2KI 7:2"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "13021007",
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
@@ -64,6 +70,12 @@
 "start_ref_usfm": "EST 4:1",
 "end_ref": "17004011",
 "end_ref_usfm": "EST 4:11"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 },
 {
 "start_ref": "32003001",

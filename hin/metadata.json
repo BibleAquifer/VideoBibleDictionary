@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Video Bible Dictionary</b> © 2025 Word Collective. Released under CC BY-SA 4.0 license. <cite>Video Bible Dictionary</cite> has been adapted in the following languages: Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Video Bible Dictionary</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "VideoBibleDictionary",
-"date_created": "2026-11-09",
+"date_created": "2026-11-18",
 "language": "hin",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-09T15:14:49.668709"
+"dateCreated": "2026-11-18T18:02:38.620711"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "VideoBibleDictionary": {
-"timestamp": "2026-11-09T15:14:49.668709"
+"timestamp": "2026-11-18T18:02:38.620711"
 }
 }
 },
@@ -130,7 +130,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 789,
+"size": 899,
 "scope": {
 "ओ": [
 "ओले पड़ना"
@@ -163,7 +163,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 9895,
+"size": 10119,
 "scope": {
 "ग": [
 "गतसमनी का बगीचा",
@@ -188,7 +188,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 13348,
+"size": 13460,
 "scope": {
 "ज": [
 "जंगल या रेगिस्तान",
@@ -211,7 +211,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 2932,
+"size": 3151,
 "scope": {
 "ट": [
 "टाट",
@@ -240,7 +240,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 7212,
+"size": 8092,
 "scope": {
 "द": [
 "दाखरस के कुण्ड",
@@ -286,7 +286,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 9421,
+"size": 9533,
 "scope": {
 "म": [
 "मछली की पंखुड़ी",
@@ -324,7 +324,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 3537,
+"size": 3649,
 "scope": {
 "ल": [
 "लाठी",
@@ -376,7 +376,7 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 3967
+"size": 4029
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
@@ -408,11 +408,11 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 5060
+"size": 5091
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 863
+"size": 890
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -428,11 +428,11 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 1597
+"size": 1653
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 3396
+"size": 3640
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -468,11 +468,11 @@
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1875
+"size": 1906
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 4243
+"size": 4278
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
